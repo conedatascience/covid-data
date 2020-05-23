@@ -37,11 +37,13 @@ dat_agg <- dat_raw_cleaned %>%
   dplyr::mutate(state = "North Carolina") %>%
   dplyr::select(state, county, date, cases, deaths) %>%
   dplyr::rename(cases_daily = cases,
-         deaths_daily = deaths)
+         deaths_daily = deaths) %>%
+  dplyr::filter(date != as.Date("2020-05-11")) %>%
+  dplyr::filter(date != as.Date("2020-04-29"))
 
 early_cases <- data.table::fread(here::here("data", "early_cases.csv"))
 
-early_cases[, date := as.Date(date)]
+early_cases[, date := as.Date(date, format = "%m/%d/%Y")]
 
 early_cases <- early_cases[,c("date", "state", "county", "cases_daily", "deaths_daily")]
 
