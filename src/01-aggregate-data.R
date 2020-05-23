@@ -56,7 +56,8 @@ cat("Earliest Date:", format(min(dat_agg$date), "%B-%d"))
 # combine with global tracking --------------------------------------------
 
 dat_complete <- dat_agg %>%
-  dplyr::group_by(county, date) %>%
+  dplyr::group_by(county) %>%
+  dplyr::arrange(date) %>%
   dplyr::mutate(cases_confirmed_cum = cumsum(cases_daily),
          deaths_confirmed_cum = cumsum(deaths_daily))
 # write output ------------------------------------------------------------
