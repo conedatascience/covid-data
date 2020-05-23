@@ -90,3 +90,24 @@ Confrontation: 1, Failures: 0, Time 202005230936
 Confrontation: 2, Failures: 0, Time 202005230936
 Confrontation: 3, Failures: 0, Time 202005230936
 Confrontation: 4, Failures: 0, Time 202005230936
+Confrontation: 1, Failures: 0, Time 202005230959
+Confrontation: 2, Failures: 0, Time 202005230959
+Confrontation: 3, Failures: 0, Time 202005230959
+Confrontation: 4, Failures: 0, Time 202005230959
+Confrontation: 1, Failures: 0, Time 202005231000
+
+Confrontation: 2, Failures: 0, Time 202005231000
+
+Confrontation: 3, Failures: 0, Time 202005231000
+
+Confrontation: 4, Failures: 0, Time 202005231000
+
+Confrontation: 5, Failures: 0, Time 202005231000
+
+Confrontation: 6, Failures: 0, Time 202005231000
+Confrontation: 1, Failures: 0, Time 202005231002
+Confrontation: 2, Failures: 0, Time 202005231002
+Confrontation: 3, Failures: 0, Time 202005231002
+Confrontation: 4, Failures: 0, Time 202005231002
+Confrontation: 5, Failures: 0, Time 202005231002
+Confrontation: 6, Failures: 0, Time 202005231002

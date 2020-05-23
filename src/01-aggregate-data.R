@@ -30,16 +30,14 @@ dat_agg <- dat_raw_cleaned %>%
   dplyr::summarise(cases = max(Total),
             deaths = max(Deaths)) %>%
   dplyr::rename(county = County) %>%
-  dplyr::mutate(true_date = date - 1) %>%
+  dplyr::mutate(true_date = date) %>%
   dplyr::filter(date != as.Date("2020-03-19")) %>%
   dplyr::select(-date) %>%
   dplyr::rename(date = true_date) %>%
   dplyr::mutate(state = "North Carolina") %>%
   dplyr::select(state, county, date, cases, deaths) %>%
   dplyr::rename(cases_daily = cases,
-         deaths_daily = deaths) %>%
-  dplyr::filter(date != as.Date("2020-05-11")) %>%
-  dplyr::filter(date != as.Date("2020-04-29"))
+         deaths_daily = deaths)
 
 early_cases <- data.table::fread(here::here("data", "early_cases.csv"))
 
@@ -47,7 +45,10 @@ early_cases[, date := as.Date(date, format = "%m/%d/%Y")]
 
 early_cases <- early_cases[,c("date", "state", "county", "cases_daily", "deaths_daily")]
 
+earl_case_dates <- early_cases[,unique(date)]
+
 dat_agg <- dat_agg %>%
+  dplyr::filter(date %in% earl_case_dates) %>%
   dplyr::bind_rows(early_cases)
 
 cat("Latest Date:", format(max(dat_agg$date), "%B-%d"))
