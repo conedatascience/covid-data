@@ -48,7 +48,7 @@ early_cases <- early_cases[,c("date", "state", "county", "cases_daily", "deaths_
 earl_case_dates <- early_cases[,unique(date)]
 
 dat_agg <- dat_agg %>%
-  dplyr::filter(date %in% earl_case_dates) %>%
+  dplyr::filter(!date %in% earl_case_dates) %>%
   dplyr::bind_rows(early_cases)
 
 cat("Latest Date:", format(max(dat_agg$date), "%B-%d"))
@@ -60,7 +60,28 @@ dat_complete <- dat_agg %>%
   dplyr::group_by(county) %>%
   dplyr::arrange(date) %>%
   dplyr::mutate(cases_confirmed_cum = cumsum(cases_daily),
-         deaths_confirmed_cum = cumsum(deaths_daily))
+         deaths_confirmed_cum = cumsum(deaths_daily)) %>%
+  dplyr::filter(!is.na(county))
+
+# check to see if today's data are available
+new_daily_cases <- dat_complete %>%
+  dplyr::ungroup() %>%
+  dplyr::filter(date == Sys.Date()) %>%
+  summarise(new_cases = sum(cases_daily)) %>%
+  dplyr::pull(new_cases)
+
+# If no county has any new cases (unlikely at this point)
+# Then remove today's values.
+
+if(new_daily_cases==0){
+  dat_complete <- dat_complete %>%
+    dplyr::filter(date < Sys.Date())
+  cat("Today's data are not yet available.")
+}
+
+cat("Latest Date:", format(max(dat_complete$date), "%B-%d"))
+cat("Earliest Date:", format(min(dat_complete$date), "%B-%d"))
+
 # write output ------------------------------------------------------------
 
 data.table::fwrite(dat_complete, here::here("data", "timeseries","nc-cases-by-county.csv"))
