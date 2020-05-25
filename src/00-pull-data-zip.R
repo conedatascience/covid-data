@@ -20,4 +20,4 @@ attribute_out <-
   attribute_out %>%
   mutate(DataGatherTS = current_time)
 
-readr::write_csv(attribute_out, here::here("data","daily",  paste0(current_time,"_ncdhss_byZIP.csv")))
+readr::write_csv(attribute_out, here::here("data","dailyzip",  paste0(current_time,"_ncdhss_byZIP.csv")))
