@@ -2,7 +2,7 @@ library(dplyr)
 library(data.table)
 # raw data location -------------------------------------------------------
 
-data_dir <- fs::dir_ls(here::here("data", "daily"), glob = "*csv")
+data_dir <- fs::dir_ls(here::here("data", "dailyzip"), glob = "*csv")
 
 # import data -------------------------------------------------------------
 
@@ -18,56 +18,39 @@ dat_raw[, update_date := as.POSIXct(update_date, format = "%Y%m%d%H%M")]
 
 dat_raw[ ,date:= lubridate::date(update_date)]
 
-dat_state <- copy(dat_raw[ , c("date", "Hosp")])
-
-dat_raw <- dat_raw[ , c("date", "County", "Total", "Deaths")]
-
-dat_raw <- dat_raw[dat_raw[,.I[which.max(Total)], by = c("date", "County")]$V1]
-
 dat_raw_cleaned <- dat_raw %>%
-  dplyr::group_by(County) %>%
-  dplyr::mutate(cases = Total - dplyr::lag(Total,n = 1, default = 0),
-         deaths = Deaths - dplyr::lag(Deaths,n = 1, default = 0)) %>%
-  dplyr::mutate_at(vars(cases, deaths), function(x){ifelse(x<0,0,x)}) %>%
+  dplyr::select(ZIPCode, Place, date, Cases, Deaths, TotalPop) %>%
+  dplyr::distinct() %>%
+  dplyr::group_by(ZIPCode, date) %>%
+  dplyr::filter(Cases == max(Cases)) %>%
+  dplyr::ungroup() %>%
+  dplyr::group_by(ZIPCode) %>%
+  dplyr::mutate(cases_daily = Cases - dplyr::lag(Cases,n = 1, default = 0),
+         deaths_daily = Deaths - dplyr::lag(Deaths,n = 1, default = 0)) %>%
+  dplyr::mutate(cases_daily = ifelse(cases_daily<0, 0, cases_daily),
+                deaths_daily = ifelse(deaths_daily<0, 0, deaths_daily))
+
+dat_agg <- dat_raw_cleaned %>%
   dplyr::mutate(state = "North Carolina") %>%
-  dplyr::select(state, County, date, cases, deaths) %>%
-  dplyr::rename(cases_daily = cases,
-                deaths_daily = deaths,
-                county = County)
-
-dat_agg <- dat_raw_cleaned
-
-early_cases <- data.table::fread(here::here("data", "early_cases.csv"))
-
-early_cases[, date := as.Date(date, format = "%m/%d/%Y")]
-
-early_cases <- early_cases[,c("date", "state", "county", "cases_daily", "deaths_daily")]
-
-earl_case_dates <- early_cases[,unique(date)]
-
-dat_agg <- dat_agg %>%
-  dplyr::filter(!date %in% earl_case_dates) %>%
-  dplyr::bind_rows(early_cases)
+  dplyr::rename(
+    deaths_confirmed_cum = Deaths,
+    cases_confirmed_cum = Cases
+  ) %>%
+  dplyr::mutate(cases_per_100k = cases_confirmed_cum/(TotalPop/100000))
 
 cat("Latest Date:", format(max(dat_agg$date), "%B-%d"))
 cat("Earliest Date:", format(min(dat_agg$date), "%B-%d"))
 
 # combine with global tracking --------------------------------------------
 
-dat_complete <- dat_agg %>%
-  dplyr::group_by(county) %>%
-  dplyr::arrange(date) %>%
-  dplyr::mutate(cases_confirmed_cum = cumsum(cases_daily),
-         deaths_confirmed_cum = cumsum(deaths_daily)) %>%
-  dplyr::filter(!is.na(county))
-
 # check to see if today's data are available
-new_daily_cases <- dat_complete %>%
+new_daily_cases <- dat_agg %>%
   dplyr::ungroup() %>%
   dplyr::filter(date == Sys.Date()) %>%
   summarise(new_cases = sum(cases_daily)) %>%
   dplyr::pull(new_cases)
 
+dat_complete <- dat_agg
 # If no county has any new cases (unlikely at this point)
 # Then remove today's values.
 
@@ -82,5 +65,4 @@ cat("Earliest Date:", format(min(dat_complete$date), "%B-%d"))
 
 # write output ------------------------------------------------------------
 
-data.table::fwrite(dat_complete, here::here("data", "timeseries","nc-cases-by-county.csv"))
-
+data.table::fwrite(dat_complete, here::here("data", "timeseries","nc-cases-by-zip.csv"))
