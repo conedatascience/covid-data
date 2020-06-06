@@ -22,6 +22,18 @@ dat_state <- copy(dat_raw[ , c("date", "Hosp")])
 
 dat_raw <- dat_raw[ , c("date", "County", "Total", "Deaths")]
 
+# Bring in Earlier Cases
+
+early_cases <- data.table::fread(here::here("data", "early_cases.csv"))
+
+early_cases[, date := as.Date(date, format = "%m/%d/%Y")]
+
+early_cases <- early_cases[,c("date", "county", "cases_confirmed_cum", "deaths_confirmed_cum")]
+
+names(early_cases) <- c("date", "County", "Total", "Deaths")
+
+dat_raw <- rbind(dat_raw, early_cases)
+
 dat_raw <- dat_raw[dat_raw[,.I[which.max(Total)], by = c("date", "County")]$V1]
 
 dat_raw_cleaned <- dat_raw %>%
@@ -37,20 +49,8 @@ dat_raw_cleaned <- dat_raw %>%
 
 dat_agg <- dat_raw_cleaned
 
-early_cases <- data.table::fread(here::here("data", "early_cases.csv"))
-
-early_cases[, date := as.Date(date, format = "%m/%d/%Y")]
-
-early_cases <- early_cases[,c("date", "state", "county", "cases_daily", "deaths_daily")]
-
-earl_case_dates <- early_cases[,unique(date)]
-
-dat_agg <- dat_agg %>%
-  dplyr::filter(!date %in% earl_case_dates) %>%
-  dplyr::bind_rows(early_cases)
-
-cat("Latest Date:", format(max(dat_agg$date), "%B-%d"))
-cat("Earliest Date:", format(min(dat_agg$date), "%B-%d"))
+cat("Latest Date:", format(max(dat_agg$date), "%B-%d"),"\n")
+cat("Earliest Date:", format(min(dat_agg$date), "%B-%d"), "\n")
 
 # combine with global tracking --------------------------------------------
 
