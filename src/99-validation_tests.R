@@ -21,3 +21,11 @@ validation <- sprintf("Confrontation: %s, Failures: %s, Time %s",
                       1:6, validation_summary$fails, format(Sys.time(),"%Y%m%d%H%M"))
 
 cat(validation, file = here::here("log", "validation.txt"), append = T, sep = "\n")
+
+cmd_cd <- glue::glue("git add .")
+
+system(cmd_cd)
+
+cmd_cd <- glue::glue(shQuote("git commit -'auto-update'; git push;"))
+
+system(cmd_cd)
