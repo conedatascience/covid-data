@@ -22,6 +22,10 @@ dat_state <- copy(dat_raw[ , c("date", "Hosp")])
 
 dat_raw <- dat_raw[ , c("date", "County", "Total", "Deaths")]
 
+dat_raw <- dat_raw[,County:= stringr::str_remove(string = County, "County")]
+
+dat_raw <- dat_raw[,County := stringr::str_trim(County)]
+
 # Bring in Earlier Cases
 
 early_cases <- data.table::fread(here::here("data", "early_cases.csv"))
