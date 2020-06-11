@@ -2493,3 +2493,9 @@ Confrontation: 3, Failures: 0, Time 202006110137
 Confrontation: 4, Failures: 0, Time 202006110137
 Confrontation: 5, Failures: 0, Time 202006110137
 Confrontation: 6, Failures: 0, Time 202006110137
+Confrontation: 1, Failures: 0, Time 202006110236
+Confrontation: 2, Failures: 0, Time 202006110236
+Confrontation: 3, Failures: 0, Time 202006110236
+Confrontation: 4, Failures: 0, Time 202006110236
+Confrontation: 5, Failures: 0, Time 202006110236
+Confrontation: 6, Failures: 0, Time 202006110236
