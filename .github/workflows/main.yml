@@ -19,6 +19,7 @@ jobs:
           Rscript -e "install.packages('purrr')"
           Rscript -e "install.packages('jsonlite')"
           Rscript -e "install.packages('fs')"
+          Rscript -e "install.packages('here')"
           Rscript -e "install.packages('validate')"
       - name: Run script
         env:
