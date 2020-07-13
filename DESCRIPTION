@@ -9,4 +9,5 @@ Imports:
     here,
     validate,
     lubridate,
-    bit64
+    bit64,
+    rvest
