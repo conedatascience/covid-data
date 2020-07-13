@@ -16,11 +16,11 @@ try(download.file(url = url, destfile = here::here("data", "daily-age",
 
 # # race --------------------------------------------------------------------
 #
-# url <- "https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/Demographics.csv?Table=TABLE_ETHNICITY%3Aembed=y&%3AshowVizHome=no&%3Ahost_url=https%3A%2F%2Fpublic.tableau.com%2F&%3Aembed_code_version=3&%3Aembed_code_version=3&%3Atabs=yes&%3Atabs=yes&%3Atoolbar=no&%3Atoolbar=no&%3Aanimate_transition=yes&%3Aanimate_transition=yes&%3Adisplay_static_image=no&%3Adisplay_static_image=no&%3Adisplay_spinner=no&%3Adisplay_spinner=no&%3Adisplay_overlay=yes&%3Adisplay_overlay=yes&%3Adisplay_count=no&%3Adisplay_count=no&publish=yes&publish=yes&%3AloadOrderID=0u.com%2F&%3AloadOrderID=0&viz=%7B%22worksheet%22%3A%22TABLE_ETHNICITY"
-#
-# try(download.file(url = url, destfile = here::here("data", "daily-race",
-#                                                    paste0(current_time,"_ncdhss_race.csv"))))
-#
+url <- "https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/Demographics.pdf?%3Aembed=y&%3AshowVizHome=no&%3Ahost_url=https%3A%2F%2Fpublic.tableau.com%2F&%3Aembed_code_version=3&%3Aembed_code_version=3&%3Atabs=yes&%3Atabs=yes&%3Atoolbar=no&%3Atoolbar=no&%3Aanimate_transition=yes&%3Aanimate_transition=yes&%3Adisplay_static_image=no&%3Adisplay_static_image=no&%3Adisplay_spinner=no&%3Adisplay_spinner=no&%3Adisplay_overlay=yes&%3Adisplay_overlay=yes&%3Adisplay_count=no&%3Adisplay_count=no&publish=yes&publish=yes&%3AloadOrderID=0u.com%2F&%3AloadOrderID=0"
+
+a <- rvest::html_session(url)
+writeBin(a$response$content,here::here("data", "daily-race",
+                                       paste0(current_time,"_ncdhss_race.pdf")))
 # # ethnicity ---------------------------------------------------------------
 #
 # url <- "https://public.tableau.com/vizql/w/NCDHHS_COVID-19_DataDownload/v/Demographics/vudcsv/sessions/7D331135251941A49478767178E2F38C-0:0/views/5649504231100340473_5745676187720193715?showall=true&underlying_table_id=Migrated%20Data&underlying_table_caption=Full%20Data"
