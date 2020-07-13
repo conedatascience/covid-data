@@ -1,0 +1,34 @@
+name: Update with Latest Data
+
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    - cron:  '40 * * * *'
+
+jobs:
+  build:
+    runs-on: macOS-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: r-lib/actions/setup-r@v1
+      - name: Install Package Dependencies
+        run: |-
+          Rscript -e "install.packages('data.table')"
+          Rscript -e "install.packages('dplyr')"
+          Rscript -e "install.packages('purrr')"
+          Rscript -e "install.packages('jsonlite')"
+          Rscript -e "install.packages('fs')"
+          Rscript -e "install.packages('validate')"
+      - name: Run script
+        env:
+          ACCESS_SECRET: ${{ secrets.ACCESS_SECRET }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
+          CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
+        run: |-
+          Rscript -e "source('build.R')"
+      - name: Commit results
+        run: |
+          git commit -m "Update the latest tweet" -a || echo "No changes to commit"
+          git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:${{ github.ref }} || echo "No changes to commit"

@@ -3,7 +3,6 @@
 # * Cases are suppressed in ZIP codes where the population is less than five hundred and there are less than five cases.
 # All data are preliminary and may change as cases are investigated.
 
-if(!require("readr", character.only = T)) install.packages("readr")
 if(!require("dplyr", character.only = T)) install.packages("dplyr")
 # Scrape and Save North Carolina Covid Cases
 # target_url <- "https://www.ncdhhs.gov/covid-19-case-count-nc"
@@ -20,4 +19,4 @@ attribute_out <-
   attribute_out %>%
   mutate(DataGatherTS = current_time)
 
-readr::write_csv(attribute_out, here::here("data","dailyzip",  paste0(current_time,"_ncdhss_byZIP.csv")))
+data.table::fwrite(attribute_out, here::here("data","dailyzip",  paste0(current_time,"_ncdhss_byZIP.csv")))
