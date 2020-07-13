@@ -22,12 +22,12 @@ validation <- sprintf("Confrontation: %s, Failures: %s, Time %s",
 
 cat(validation, file = here::here("log", "validation.txt"), append = T, sep = "\n")
 
-cmd_cd <- glue::glue("git add .")
-
-system(cmd_cd)
-
-cmd_cd <- glue::glue("git commit -m 'auto-update'")
-
-system(cmd_cd)
-
-system("git push origin master")
+# cmd_cd <- glue::glue("git add .")
+#
+# system(cmd_cd)
+#
+# cmd_cd <- glue::glue("git commit -m 'auto-update'")
+#
+# system(cmd_cd)
+#
+# system("git push origin master")
