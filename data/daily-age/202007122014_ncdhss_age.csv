@@ -1,0 +1,29 @@
+﻿Age Group,Name,calc.ValueComma,Demographic,Gender,Hispanic,Race,Value
+Missing,Cases,71,Age Group,Missing,,,71
+0-17,Cases,"9,222",Age Group,Missing,,,9222
+75+,Cases,"4,880",Age Group,Missing,,,4880
+50-64,Cases,"16,342",Age Group,Missing,,,16342
+25-49,Cases,"38,361",Age Group,Missing,,,38361
+18-24,Cases,"11,471",Age Group,Missing,,,11471
+65-74,Cases,"5,354",Age Group,Missing,,,5354
+Missing,Deaths,0,Age Group,Missing,,,0
+0-17,Deaths,1,Age Group,Missing,,,1
+75+,Deaths,882,Age Group,Missing,,,882
+50-64,Deaths,237,Age Group,Missing,,,237
+25-49,Deaths,80,Age Group,Missing,,,80
+18-24,Deaths,2,Age Group,Missing,,,2
+65-74,Deaths,301,Age Group,Missing,,,301
+Missing,Percent of Cases,,Age Group,Missing,,,
+0-17,Percent of Cases,11%,Age Group,Missing,,,11%
+75+,Percent of Cases,6%,Age Group,Missing,,,6%
+50-64,Percent of Cases,19%,Age Group,Missing,,,19%
+25-49,Percent of Cases,45%,Age Group,Missing,,,45%
+18-24,Percent of Cases,13%,Age Group,Missing,,,13%
+65-74,Percent of Cases,6%,Age Group,Missing,,,6%
+Missing,Percent of Deaths,,Age Group,Missing,,,
+0-17,Percent of Deaths,0%,Age Group,Missing,,,0%
+75+,Percent of Deaths,59%,Age Group,Missing,,,59%
+50-64,Percent of Deaths,16%,Age Group,Missing,,,16%
+25-49,Percent of Deaths,5%,Age Group,Missing,,,5%
+18-24,Percent of Deaths,0%,Age Group,Missing,,,0%
+65-74,Percent of Deaths,20%,Age Group,Missing,,,20%

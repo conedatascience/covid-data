@@ -1,0 +1,13 @@
+﻿Gender,Name,calc.ValueComma,Demographic,Age Group,Hispanic,Race,Value
+Missing,Cases,845,Gender,Missing,,,845
+Female,Cases,"43,386",Gender,Missing,,,43386
+Male,Cases,"41,470",Gender,Missing,,,41470
+Missing,Deaths,11,Gender,Missing,,,11
+Female,Deaths,699,Gender,Missing,,,699
+Male,Deaths,793,Gender,Missing,,,793
+Missing,Percent of Cases,,Gender,Missing,,,
+Female,Percent of Cases,51%,Gender,Missing,,,51%
+Male,Percent of Cases,49%,Gender,Missing,,,49%
+Missing,Percent of Deaths,,Gender,Missing,,,
+Female,Percent of Deaths,47%,Gender,Missing,,,47%
+Male,Percent of Deaths,53%,Gender,Missing,,,53%

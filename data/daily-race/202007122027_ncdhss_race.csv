@@ -1,0 +1,29 @@
+﻿Race,Name,calc.ValueComma,Demographic,Age Group,Gender,Hispanic,Value
+Black or African American,Cases,"13,921",Race,Missing,Missing,,13921
+American Indian Alaskan Native,Cases,652,Race,Missing,Missing,,652
+Asian,Cases,"1,131",Race,Missing,Missing,,1131
+Native Hawaiian or Pacific Islander,Cases,186,Race,Missing,Missing,,186
+Other,Cases,"9,860",Race,Missing,Missing,,9860
+Missing,Cases,"27,534",Race,Missing,Missing,,27534
+White,Cases,"32,417",Race,Missing,Missing,,32417
+Black or African American,Deaths,473,Race,Missing,Missing,,473
+American Indian Alaskan Native,Deaths,21,Race,Missing,Missing,,21
+Asian,Deaths,22,Race,Missing,Missing,,22
+Native Hawaiian or Pacific Islander,Deaths,3,Race,Missing,Missing,,3
+Other,Deaths,92,Race,Missing,Missing,,92
+Missing,Deaths,56,Race,Missing,Missing,,56
+White,Deaths,836,Race,Missing,Missing,,836
+Black or African American,Percent of Cases,24%,Race,Missing,Missing,,24%
+American Indian Alaskan Native,Percent of Cases,1%,Race,Missing,Missing,,1%
+Asian,Percent of Cases,2%,Race,Missing,Missing,,2%
+Native Hawaiian or Pacific Islander,Percent of Cases,0%,Race,Missing,Missing,,0%
+Other,Percent of Cases,17%,Race,Missing,Missing,,17%
+Missing,Percent of Cases,,Race,Missing,Missing,,
+White,Percent of Cases,56%,Race,Missing,Missing,,56%
+Black or African American,Percent of Deaths,33%,Race,Missing,Missing,,33%
+American Indian Alaskan Native,Percent of Deaths,1%,Race,Missing,Missing,,1%
+Asian,Percent of Deaths,2%,Race,Missing,Missing,,2%
+Native Hawaiian or Pacific Islander,Percent of Deaths,0%,Race,Missing,Missing,,0%
+Other,Percent of Deaths,6%,Race,Missing,Missing,,6%
+Missing,Percent of Deaths,,Race,Missing,Missing,,
+White,Percent of Deaths,58%,Race,Missing,Missing,,58%

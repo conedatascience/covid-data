@@ -1,0 +1,13 @@
+﻿Hispanic,Name,calc.ValueComma,Demographic,Age Group,Gender,Race,Value
+Missing,Percent of Cases,,Ethnicity,Missing,Missing,,
+Hispanic,Percent of Cases,44%,Ethnicity,Missing,Missing,,44%
+Non-Hispanic,Percent of Cases,56%,Ethnicity,Missing,Missing,,56%
+Missing,Percent of Deaths,,Ethnicity,Missing,Missing,,
+Hispanic,Percent of Deaths,10%,Ethnicity,Missing,Missing,,10%
+Non-Hispanic,Percent of Deaths,90%,Ethnicity,Missing,Missing,,90%
+Missing,Cases,"29,458",Ethnicity,Missing,Missing,,29458
+Hispanic,Cases,"24,999",Ethnicity,Missing,Missing,,24999
+Non-Hispanic,Cases,"31,244",Ethnicity,Missing,Missing,,31244
+Missing,Deaths,104,Ethnicity,Missing,Missing,,104
+Hispanic,Deaths,140,Ethnicity,Missing,Missing,,140
+Non-Hispanic,Deaths,"1,259",Ethnicity,Missing,Missing,,1259
