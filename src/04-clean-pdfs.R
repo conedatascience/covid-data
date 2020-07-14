@@ -1,7 +1,7 @@
 library(data.table)
 library(dplyr)
 
-
+cat("Starting Pdf Scrapes\n")
 # bring in files and select oldest by date --------------------------------
 in_files <- fs::dir_info(file.path("data", "daily-race"), glob = "*.pdf")
 
@@ -25,14 +25,16 @@ process_pdfs <- function(x){
   path <- file.path("src", "04-clean-pdfs.sh")
   call <- sprintf("bash %s", path)
 
+  cat("processing...\n")
   system(call)
 
-  df <- data.table::fread("demos_final.txt",file = TRUE,
+  df <- data.table::fread("demos_final.txt",fill = TRUE,
                           header = FALSE,
                           col.names = c("metric", "cases",
                                         "perc_of_cases",
                                         "deaths", "perc_of_deaths"))
 
+  cat(head(df))
   # Clean Up
 
   df[, `:=` (cases = readr::parse_number(cases),
