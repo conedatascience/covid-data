@@ -29,12 +29,16 @@ process_pdfs <- function(x){
   cat("processing...\n")
   system(call)
 
+  unlink("test.txt")
+
+
   df <- data.table::fread(here::here("demos_final.txt"),fill = TRUE,
                           header = FALSE,
                           col.names = c("metric", "cases",
                                         "perc_of_cases",
                                         "deaths", "perc_of_deaths"))
 
+  unlink("demos_final.txt")
   #cat(head(df))
   # Clean Up
 
@@ -52,6 +56,7 @@ process_pdfs <- function(x){
 combined_data <- list()
 
 for(i in 1:length(in_pdf)){
+  cat("processing: ", i," out of ",length(in_pdf) , "\n")
   combined_data[[i]] <- process_pdfs(in_pdf[[i]])
 }
 
