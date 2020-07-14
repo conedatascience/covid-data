@@ -51,7 +51,7 @@ combined_data <- try(purrr::map_dfr(in_pdf, process_pdfs, .id = "date"))
 
 # write outputs -----------------------------------------------------------
 
-if(class(combined_data)!="try-error"){
+if(!"try-error"%in%class(combined_data)){
   data.table::fwrite(combined_data, here::here("data", "timeseries", "nc-demographics.csv"))
 
 }
