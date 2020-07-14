@@ -1,6 +1,10 @@
+American Indian
 	678	1%	21	1%
 Asian	1,158	2%	22	1%
+Black or African
 	14,431	24%	490	33%
+American
+Native Hawaiian or
 	191	0%	3	0%
 White	33,647	56%	864	58%
 Other	10,203	17%	95	6%
@@ -14,3 +18,4 @@ Non-Hispanic	32,471	56%	1,296	90%
 75+	5,047	6%	908	59%
 Female	45,443	51%	719	47%
 Male	43,192	49%	822	53%
+
