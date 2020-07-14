@@ -1,0 +1,94 @@
+
+R version 3.6.1 (2019-07-05) -- "Action of the Toes"
+Copyright (C) 2019 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> library(data.table)
+> library(dplyr)
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:data.table':
+
+    between, first, last
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'dplyr' was built under R version 3.6.3 
+> 
+> 
+> # bring in files and select oldest by date --------------------------------
+> in_files <- fs::dir_info(file.path("data", "daily-race"), glob = "*.pdf")
+> 
+> in_files <- in_files %>%
++   mutate(date = lubridate::date(birth_time)) %>%
++   group_by(date) %>%
++   filter(birth_time==max(birth_time))
+> 
+> in_pdf <- lapply(in_files%>%
++                    pull(path), pdftools::pdf_text)
+> 
+> names(in_pdf) <- in_files %>% pull(date)
+> 
+> 
+> # run processing ----------------------------------------------------------
+> 
+> # Read in files, run shell script, then clean up
+> process_pdfs <- function(x){
++   writeLines(x, "test.txt")
++ 
++   call <- shQuote("bash src/04-clean-pdfs.sh")
++ 
++   system(call)
++ 
++   df <- data.table::fread("demos_final.txt",
++                           header = FALSE,
++                           col.names = c("metric", "cases",
++                                         "perc_of_cases",
++                                         "deaths", "perc_of_deaths"))
++ 
++   # Clean Up
++ 
++   df[, `:=` (cases = readr::parse_number(cases),
++              perc_of_cases= readr::parse_number(cases),
++              deaths= readr::parse_number(deaths),
++              perc_of_deaths= readr::parse_number(perc_of_deaths))] %>%
++     .[,category := ifelse(grepl("[[:digit:]]", metric), "age",
++                           ifelse(grepl("Hispanic", metric), "ethnicity",
++                                  ifelse(grepl("ale", metric),"sex","race")))]
++ }
+> 
+> combined_data <- purrr::map_dfr(in_pdf, process_pdfs, .id = "date")
+Warning messages:
+1: In system(call) : '"bash src/04-clean-pdfs.sh"' not found
+2: In system(call) : '"bash src/04-clean-pdfs.sh"' not found
+> 
+> 
+> # write outputs -----------------------------------------------------------
+> 
+> data.table::fwrite(combined_data, here::here("data", "timeseries", "nc-demographics.csv"))
+> 
+> proc.time()
+   user  system elapsed 
+   0.73    0.50    1.18 
