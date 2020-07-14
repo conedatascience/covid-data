@@ -51,7 +51,7 @@ process_pdfs <- function(x){
   # Clean Up
 
   df[, `:=` (cases = readr::parse_number(cases),
-             perc_of_cases= readr::parse_number(cases),
+             perc_of_cases= readr::parse_number(perc_of_cases),
              deaths= readr::parse_number(deaths),
              perc_of_deaths= readr::parse_number(perc_of_deaths))] %>%
     .[,category := ifelse(grepl("[[:digit:]]", metric), "age",
