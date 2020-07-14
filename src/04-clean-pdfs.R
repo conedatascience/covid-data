@@ -22,7 +22,9 @@ names(in_pdf) <- in_files %>% pull(date)
 process_pdfs <- function(x){
   writeLines(x, "test.txt")
 
-  system2("bash src/04-clean-pdfs.sh")
+  call <- shQuote("bash src/04-clean-pdfs.sh")
+
+  system(call)
 
   df <- data.table::fread("demos_final.txt",
                           header = FALSE,
