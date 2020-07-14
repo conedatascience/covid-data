@@ -10,7 +10,7 @@ cmd_cd <- glue::glue("git add .")
 
 system(cmd_cd)
 
-cmd_cd <- glue::glue("git commit -m 'auto-update'")
+cmd_cd <- glue::glue('git commit -m "auto-update"')
 
 system(cmd_cd)
 
