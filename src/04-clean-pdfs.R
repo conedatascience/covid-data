@@ -48,9 +48,17 @@ process_pdfs <- function(x){
 
 }
 
-combined_data <- try(purrr::map_dfr(in_pdf, process_pdfs, .id = "date"))
+combined_data <- list()
 
+for(i in 1:length(in_pdf)){
+  combined_data[[i]] <- process_pdfs(in_pdf[[i]])
+}
 
+#combined_data <- try(purrr::map_dfr(in_pdf, process_pdfs, .id = "date"))
+
+names(combined_data) <- in_files %>% pull(date)
+
+combined_data <- rbindlist(combined_data, idcol = TRUE)
 # write outputs -----------------------------------------------------------
 
 if(!"try-error"%in%class(combined_data)){
