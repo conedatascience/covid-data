@@ -43,7 +43,9 @@ process_pdfs <- function(x){
              perc_of_deaths= readr::parse_number(perc_of_deaths))] %>%
     .[,category := ifelse(grepl("[[:digit:]]", metric), "age",
                           ifelse(grepl("Hispanic", metric), "ethnicity",
-                                 ifelse(grepl("ale", metric),"sex","race")))]
+                                 ifelse(grepl("ale", metric),"sex","race")))] %>%
+  .[,metric:= gsub(pattern = "\\r+", "", metric)]
+
 }
 
 combined_data <- try(purrr::map_dfr(in_pdf, process_pdfs, .id = "date"))

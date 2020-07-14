@@ -1,8 +1,8 @@
 date,metric,cases,perc_of_cases,deaths,perc_of_deaths,category
-2020-07-13,"American Indian",656,656,21,1,race
+2020-07-13,American Indian,656,656,21,1,race
 2020-07-13,Asian,1144,1144,22,2,race
-2020-07-13,"Black or African",14151,14151,477,33,race
-2020-07-13,"Native Hawaiian or",186,186,3,0,race
+2020-07-13,Black or African,14151,14151,477,33,race
+2020-07-13,Native Hawaiian or,186,186,3,0,race
 2020-07-13,White,32883,32883,838,58,race
 2020-07-13,Other,10002,10002,93,6,race
 2020-07-13,Hispanic,25309,25309,141,10,ethnicity
@@ -15,10 +15,10 @@ date,metric,cases,perc_of_cases,deaths,perc_of_deaths,category
 2020-07-13,75+,4956,4956,885,59,age
 2020-07-13,Female,44385,44385,702,47,sex
 2020-07-13,Male,42307,42307,797,53,sex
-2020-07-14,"American Indian",678,678,21,1,race
+2020-07-14,American Indian,678,678,21,1,race
 2020-07-14,Asian,1158,1158,22,1,race
-2020-07-14,"Black or African",14431,14431,490,33,race
-2020-07-14,"Native Hawaiian or",191,191,3,0,race
+2020-07-14,Black or African,14431,14431,490,33,race
+2020-07-14,Native Hawaiian or,191,191,3,0,race
 2020-07-14,White,33647,33647,864,58,race
 2020-07-14,Other,10203,10203,95,6,race
 2020-07-14,Hispanic,25735,25735,148,10,ethnicity
