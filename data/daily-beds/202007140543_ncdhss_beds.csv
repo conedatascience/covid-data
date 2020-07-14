@@ -1,0 +1,9 @@
+Bed Types,Date,Measure Names,INDEX,Measure Values
+Inpatient Hospital Beds,7/13/2020,In Use Beds,1,"12,959"
+Inpatient Hospital Beds,7/13/2020,Empty Staffed Beds,1,"4,339"
+Inpatient Hospital Beds,7/13/2020,Licensed Beds,1,"21,222"
+Inpatient Hospital Beds,7/13/2020,"Unreported, or Reported and Unstaffed Beds",1,"3,924"
+Intensive Care Unit (ICU) Beds,7/13/2020,In Use Beds,2,"1,726"
+Intensive Care Unit (ICU) Beds,7/13/2020,Empty Staffed Beds,2,513
+Intensive Care Unit (ICU) Beds,7/13/2020,Licensed Beds,2,"3,223"
+Intensive Care Unit (ICU) Beds,7/13/2020,"Unreported, or Reported and Unstaffed Beds",2,984
