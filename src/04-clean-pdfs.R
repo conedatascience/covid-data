@@ -17,7 +17,7 @@ names(in_pdf) <- in_files %>% pull(date)
 
 
 # run processing ----------------------------------------------------------
-
+cat(getwd())
 # Read in files, run shell script, then clean up
 process_pdfs <- function(x){
   writeLines(x, "test.txt")
