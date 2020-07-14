@@ -1,0 +1,36 @@
+                            Demographics
+Race
+                     Cases   Percent of Cases Deaths Percent of Deaths
+American Indian
+                       656          1%          21          1%
+Alaskan Native
+Asian                 1,144         2%          22          2%
+Black or African
+                     14,151        24%          477        33%
+American
+Native Hawaiian or
+                       186          0%           3          0%
+Pacific Islander
+White                32,883        56%          838        58%
+Other                10,002        17%          93          6%
+Missing              28,506                     56
+Ethnicity
+                     Cases   Percent of Cases Deaths Percent of Deaths
+Hispanic            25,309         44%          141         10%
+Non-Hispanic        31,755         56%         1,265        90%
+Missing             30,464                      104
+Age
+                   Cases    Percent of Cases  Deaths  Percent of Deaths
+0-17               9,427          11%            1           0%
+18-24              11,746         13%            2           0%
+25-49              39,240         45%           81           5%
+50-64              16,654         19%          238          16%
+65-74              5,466          6%           303          20%
+75+                4,956          6%           885          59%
+Missing              39                          0
+Gender
+                   Cases    Percent of Cases  Deaths  Percent of Deaths
+Female             44,385         51%          702          47%
+Male               42,307         49%          797          53%
+Missing             836                         11
+

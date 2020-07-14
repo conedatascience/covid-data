@@ -10,4 +10,5 @@ Imports:
     validate,
     lubridate,
     bit64,
-    rvest
+    rvest,
+    pdftools
