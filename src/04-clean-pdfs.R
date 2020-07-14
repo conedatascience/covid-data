@@ -6,15 +6,16 @@ cat("Starting Pdf Scrapes\n\n")
 in_files <- fs::dir_info(file.path("data", "daily-race"), glob = "*.pdf")
 
 in_files <- in_files %>%
-  mutate(date = lubridate::date(birth_time)) %>%
-  group_by(date) %>%
-  filter(birth_time==max(birth_time))
+  dplyr::mutate(date = lubridate::date(birth_time)) %>%
+  dplyr::group_by(date) %>%
+  dplyr::filter(birth_time==max(birth_time))
 
 in_pdf <- lapply(in_files%>%
-                   pull(path), pdftools::pdf_text)
+                   dplyr::pull(path), pdftools::pdf_text)
 
 names(in_pdf) <- in_files %>% pull(date)
 
+cat(names(in_pdf))
 
 # run processing ----------------------------------------------------------
 cat(getwd())
@@ -59,6 +60,8 @@ for(i in 1:length(in_pdf)){
 names(combined_data) <- in_files %>% pull(date)
 
 combined_data <- rbindlist(combined_data, idcol = TRUE)
+
+cat(nrow(combined_data))
 # write outputs -----------------------------------------------------------
 
 if(!"try-error"%in%class(combined_data)){
