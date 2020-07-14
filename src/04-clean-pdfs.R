@@ -27,7 +27,7 @@ process_pdfs <- function(x){
 
   system(call)
 
-  df <- data.table::fread("demos_final.txt",
+  df <- data.table::fread("demos_final.txt",file = TRUE,
                           header = FALSE,
                           col.names = c("metric", "cases",
                                         "perc_of_cases",
