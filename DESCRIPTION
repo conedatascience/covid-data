@@ -11,4 +11,5 @@ Imports:
     lubridate,
     bit64,
     rvest,
-    pdftools
+    pdftools,
+    readr
