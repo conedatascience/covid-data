@@ -22,7 +22,8 @@ names(in_pdf) <- in_files %>% pull(date)
 process_pdfs <- function(x){
   writeLines(x, "test.txt")
 
-  call <- shQuote("bash src/04-clean-pdfs.sh")
+  path <- file.path("src", "04-clean-pdfs.sh")
+  call <- sprintf("bash %s", path)
 
   system(call)
 
