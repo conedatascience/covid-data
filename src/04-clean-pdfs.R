@@ -1,7 +1,7 @@
 library(data.table)
 library(dplyr)
 
-cat("Starting Pdf Scrapes\n")
+cat("Starting Pdf Scrapes\n\n")
 # bring in files and select oldest by date --------------------------------
 in_files <- fs::dir_info(file.path("data", "daily-race"), glob = "*.pdf")
 
@@ -20,7 +20,7 @@ names(in_pdf) <- in_files %>% pull(date)
 cat(getwd())
 # Read in files, run shell script, then clean up
 process_pdfs <- function(x){
-  writeLines(x, "test.txt")
+  xfun::write_utf8(x, "test.txt")
 
   path <- file.path("src", "04-clean-pdfs.sh")
   call <- sprintf("bash %s", path)
@@ -28,13 +28,13 @@ process_pdfs <- function(x){
   cat("processing...\n")
   system(call)
 
-  df <- data.table::fread("demos_final.txt",fill = TRUE,
+  df <- data.table::fread(here::here("demos_final.txt"),fill = TRUE,
                           header = FALSE,
                           col.names = c("metric", "cases",
                                         "perc_of_cases",
                                         "deaths", "perc_of_deaths"))
 
-  cat(head(df))
+  #cat(head(df))
   # Clean Up
 
   df[, `:=` (cases = readr::parse_number(cases),
@@ -46,9 +46,13 @@ process_pdfs <- function(x){
                                  ifelse(grepl("ale", metric),"sex","race")))]
 }
 
-combined_data <- purrr::map_dfr(in_pdf, process_pdfs, .id = "date")
+combined_data <- try(purrr::map_dfr(in_pdf, process_pdfs, .id = "date"))
 
 
 # write outputs -----------------------------------------------------------
 
-data.table::fwrite(combined_data, here::here("data", "timeseries", "nc-demographics.csv"))
+if(class(combined_data)!="try-error"){
+  data.table::fwrite(combined_data, here::here("data", "timeseries", "nc-demographics.csv"))
+
+}
+
