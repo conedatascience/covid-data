@@ -21,7 +21,7 @@ in_files <- in_files %>%
 in_pdf <- lapply(in_files%>%
                    dplyr::pull(path), pdftools::pdf_text)
 
-names(in_pdf) <- in_files %>% pull(date)
+names(in_pdf) <- in_files %>% pull(update_date_only)
 
 cat(names(in_pdf))
 
@@ -70,7 +70,7 @@ for(i in 1:length(in_pdf)){
 
 #combined_data <- try(purrr::map_dfr(in_pdf, process_pdfs, .id = "date"))
 
-names(combined_data) <- in_files %>% pull(date)
+names(combined_data) <- in_files %>% pull(update_date_only)
 
 combined_data <- rbindlist(combined_data, idcol = TRUE)
 
