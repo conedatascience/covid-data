@@ -52,13 +52,13 @@ url <- "https://public.tableau.com/views/NCDHHS_COVID-19_Dashboard_OutbreaksandC
 a <- rvest::html_session(url)
 writeBin(a$response$content,here::here("data", "daily-outbreaks",
                                        paste0(current_time,"_ncdhss_outbreaks.pdf")))
-
+## Weekly Outbreaks
 url <- "https://files.nc.gov/ncdhhs/documents/files/covid-19/Weekly-COVID19-Ongoing-Outbreaks.pdf"
-
-try(download.file(url = url, destfile = here::here("data", "daily-outbreaks", "report",
-                                                   paste0(current_time,"_ncdhss_outbreak_report.pdf"))))
-
+a <- rvest::html_session(url)
+writeBin(a$response$content,here::here("data", "daily-outbreaks", "report",
+                                       paste0(current_time,"_ncdhss_outbreak_report.pdf")))
+## Weekly Childcare
 url <- "https://files.nc.gov/covid/documents/dashboard/Weekly-Ongoing-Clusters-in-Child-Care-and-School-Settings.pdf"
-
-try(download.file(url = url, destfile = here::here("data", "daily-outbreaks", "schools",
-                                                   paste0(current_time,"_ncdhss_school_report.pdf"))))
+a <- rvest::html_session(url)
+writeBin(a$response$content,here::here("data", "daily-outbreaks", "schools",
+                                       paste0(current_time,"_ncdhss_school_report.pdf")))
