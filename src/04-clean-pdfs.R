@@ -74,6 +74,10 @@ names(combined_data) <- in_files %>% pull(update_date_only)
 
 combined_data <- rbindlist(combined_data, idcol = TRUE)
 
+combined_data <- combined_data[ , cases_daily:=cases - data.table::shift(cases, type = "lag"), by = metric]
+combined_data <- combined_data[ , deaths_daily:=deaths - data.table::shift(deaths, type = "lag"), by = metric]
+
+
 cat(nrow(combined_data))
 # write outputs -----------------------------------------------------------
 
