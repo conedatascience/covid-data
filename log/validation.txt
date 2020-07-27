@@ -9105,3 +9105,9 @@ Confrontation: 3, Failures: 0, Time 202007270343
 Confrontation: 4, Failures: 0, Time 202007270343
 Confrontation: 5, Failures: 0, Time 202007270343
 Confrontation: 6, Failures: 0, Time 202007270343
+Confrontation: 1, Failures: 0, Time 202007270447
+Confrontation: 2, Failures: 0, Time 202007270447
+Confrontation: 3, Failures: 0, Time 202007270447
+Confrontation: 4, Failures: 0, Time 202007270447
+Confrontation: 5, Failures: 0, Time 202007270447
+Confrontation: 6, Failures: 0, Time 202007270447
