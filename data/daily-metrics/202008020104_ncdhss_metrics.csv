@@ -1,0 +1,766 @@
+Date,Measure Names,Measure Values
+3/2/2020,New Cases by Report Date,1
+3/2/2020,New Cases by Specimen Date,1
+3/2/2020,Positive Test Percentage,
+3/2/2020,Hospitalizations,
+3/2/2020,NC Daily Tests,
+3/3/2020,New Cases by Report Date,0
+3/3/2020,New Cases by Specimen Date,
+3/3/2020,Positive Test Percentage,
+3/3/2020,Hospitalizations,
+3/3/2020,NC Daily Tests,
+3/4/2020,New Cases by Report Date,0
+3/4/2020,New Cases by Specimen Date,1
+3/4/2020,Positive Test Percentage,
+3/4/2020,Hospitalizations,
+3/4/2020,NC Daily Tests,
+3/5/2020,New Cases by Report Date,0
+3/5/2020,New Cases by Specimen Date,
+3/5/2020,Positive Test Percentage,
+3/5/2020,Hospitalizations,
+3/5/2020,NC Daily Tests,
+3/6/2020,New Cases by Report Date,1
+3/6/2020,New Cases by Specimen Date,
+3/6/2020,Positive Test Percentage,
+3/6/2020,Hospitalizations,
+3/6/2020,NC Daily Tests,
+3/7/2020,New Cases by Report Date,0
+3/7/2020,New Cases by Specimen Date,1
+3/7/2020,Positive Test Percentage,
+3/7/2020,Hospitalizations,
+3/7/2020,NC Daily Tests,
+3/8/2020,New Cases by Report Date,0
+3/8/2020,New Cases by Specimen Date,4
+3/8/2020,Positive Test Percentage,
+3/8/2020,Hospitalizations,
+3/8/2020,NC Daily Tests,
+3/9/2020,New Cases by Report Date,0
+3/9/2020,New Cases by Specimen Date,
+3/9/2020,Positive Test Percentage,
+3/9/2020,Hospitalizations,
+3/9/2020,NC Daily Tests,
+3/10/2020,New Cases by Report Date,5
+3/10/2020,New Cases by Specimen Date,5
+3/10/2020,Positive Test Percentage,
+3/10/2020,Hospitalizations,
+3/10/2020,NC Daily Tests,
+3/11/2020,New Cases by Report Date,0
+3/11/2020,New Cases by Specimen Date,11
+3/11/2020,Positive Test Percentage,
+3/11/2020,Hospitalizations,
+3/11/2020,NC Daily Tests,
+3/12/2020,New Cases by Report Date,4
+3/12/2020,New Cases by Specimen Date,15
+3/12/2020,Positive Test Percentage,
+3/12/2020,Hospitalizations,
+3/12/2020,NC Daily Tests,
+3/13/2020,New Cases by Report Date,4
+3/13/2020,New Cases by Specimen Date,56
+3/13/2020,Positive Test Percentage,
+3/13/2020,Hospitalizations,
+3/13/2020,NC Daily Tests,
+3/14/2020,New Cases by Report Date,8
+3/14/2020,New Cases by Specimen Date,9
+3/14/2020,Positive Test Percentage,
+3/14/2020,Hospitalizations,
+3/14/2020,NC Daily Tests,
+3/15/2020,New Cases by Report Date,9
+3/15/2020,New Cases by Specimen Date,15
+3/15/2020,Positive Test Percentage,
+3/15/2020,Hospitalizations,
+3/15/2020,NC Daily Tests,
+3/16/2020,New Cases by Report Date,1
+3/16/2020,New Cases by Specimen Date,103
+3/16/2020,Positive Test Percentage,
+3/16/2020,Hospitalizations,
+3/16/2020,NC Daily Tests,936
+3/17/2020,New Cases by Report Date,7
+3/17/2020,New Cases by Specimen Date,109
+3/17/2020,Positive Test Percentage,
+3/17/2020,Hospitalizations,
+3/17/2020,NC Daily Tests,295
+3/18/2020,New Cases by Report Date,22
+3/18/2020,New Cases by Specimen Date,150
+3/18/2020,Positive Test Percentage,
+3/18/2020,Hospitalizations,
+3/18/2020,NC Daily Tests,205
+3/19/2020,New Cases by Report Date,35
+3/19/2020,New Cases by Specimen Date,161
+3/19/2020,Positive Test Percentage,
+3/19/2020,Hospitalizations,
+3/19/2020,NC Daily Tests,"1,696"
+3/20/2020,New Cases by Report Date,40
+3/20/2020,New Cases by Specimen Date,163
+3/20/2020,Positive Test Percentage,
+3/20/2020,Hospitalizations,
+3/20/2020,NC Daily Tests,943
+3/21/2020,New Cases by Report Date,47
+3/21/2020,New Cases by Specimen Date,76
+3/21/2020,Positive Test Percentage,
+3/21/2020,Hospitalizations,
+3/21/2020,NC Daily Tests,"2,192"
+3/22/2020,New Cases by Report Date,71
+3/22/2020,New Cases by Specimen Date,72
+3/22/2020,Positive Test Percentage,
+3/22/2020,Hospitalizations,
+3/22/2020,NC Daily Tests,"1,389"
+3/23/2020,New Cases by Report Date,42
+3/23/2020,New Cases by Specimen Date,233
+3/23/2020,Positive Test Percentage,
+3/23/2020,Hospitalizations,
+3/23/2020,NC Daily Tests,"2,163"
+3/24/2020,New Cases by Report Date,101
+3/24/2020,New Cases by Specimen Date,174
+3/24/2020,Positive Test Percentage,
+3/24/2020,Hospitalizations,
+3/24/2020,NC Daily Tests,529
+3/25/2020,New Cases by Report Date,106
+3/25/2020,New Cases by Specimen Date,199
+3/25/2020,Positive Test Percentage,
+3/25/2020,Hospitalizations,
+3/25/2020,NC Daily Tests,"2,446"
+3/26/2020,New Cases by Report Date,132
+3/26/2020,New Cases by Specimen Date,197
+3/26/2020,Positive Test Percentage,
+3/26/2020,Hospitalizations,
+3/26/2020,NC Daily Tests,"2,793"
+3/27/2020,New Cases by Report Date,128
+3/27/2020,New Cases by Specimen Date,169
+3/27/2020,Positive Test Percentage,
+3/27/2020,Hospitalizations,77
+3/27/2020,NC Daily Tests,"2,667"
+3/28/2020,New Cases by Report Date,171
+3/28/2020,New Cases by Specimen Date,99
+3/28/2020,Positive Test Percentage,
+3/28/2020,Hospitalizations,87
+3/28/2020,NC Daily Tests,"2,910"
+3/29/2020,New Cases by Report Date,232
+3/29/2020,New Cases by Specimen Date,76
+3/29/2020,Positive Test Percentage,
+3/29/2020,Hospitalizations,91
+3/29/2020,NC Daily Tests,"1,638"
+3/30/2020,New Cases by Report Date,140
+3/30/2020,New Cases by Specimen Date,211
+3/30/2020,Positive Test Percentage,
+3/30/2020,Hospitalizations,137
+3/30/2020,NC Daily Tests,"2,082"
+3/31/2020,New Cases by Report Date,191
+3/31/2020,New Cases by Specimen Date,212
+3/31/2020,Positive Test Percentage,
+3/31/2020,Hospitalizations,157
+3/31/2020,NC Daily Tests,"2,787"
+4/1/2020,New Cases by Report Date,86
+4/1/2020,New Cases by Specimen Date,239
+4/1/2020,Positive Test Percentage,0.07518797
+4/1/2020,Hospitalizations,204
+4/1/2020,NC Daily Tests,"3,435"
+4/2/2020,New Cases by Report Date,273
+4/2/2020,New Cases by Specimen Date,222
+4/2/2020,Positive Test Percentage,0.067232598
+4/2/2020,Hospitalizations,184
+4/2/2020,NC Daily Tests,"2,883"
+4/3/2020,New Cases by Report Date,236
+4/3/2020,New Cases by Specimen Date,204
+4/3/2020,Positive Test Percentage,0.079809004
+4/3/2020,Hospitalizations,259
+4/3/2020,NC Daily Tests,"3,404"
+4/4/2020,New Cases by Report Date,309
+4/4/2020,New Cases by Specimen Date,115
+4/4/2020,Positive Test Percentage,0.084288355
+4/4/2020,Hospitalizations,271
+4/4/2020,NC Daily Tests,"7,629"
+4/5/2020,New Cases by Report Date,183
+4/5/2020,New Cases by Specimen Date,86
+4/5/2020,Positive Test Percentage,0.08166612
+4/5/2020,Hospitalizations,261
+4/5/2020,NC Daily Tests,"1,343"
+4/6/2020,New Cases by Report Date,285
+4/6/2020,New Cases by Specimen Date,398
+4/6/2020,Positive Test Percentage,0.078206962
+4/6/2020,Hospitalizations,270
+4/6/2020,NC Daily Tests,852
+4/7/2020,New Cases by Report Date,351
+4/7/2020,New Cases by Specimen Date,263
+4/7/2020,Positive Test Percentage,0.119270577
+4/7/2020,Hospitalizations,354
+4/7/2020,NC Daily Tests,913
+4/8/2020,New Cases by Report Date,205
+4/8/2020,New Cases by Specimen Date,282
+4/8/2020,Positive Test Percentage,0.089507708
+4/8/2020,Hospitalizations,386
+4/8/2020,NC Daily Tests,"2,431"
+4/9/2020,New Cases by Report Date,225
+4/9/2020,New Cases by Specimen Date,327
+4/9/2020,Positive Test Percentage,0.091884929
+4/9/2020,Hospitalizations,398
+4/9/2020,NC Daily Tests,"5,262"
+4/10/2020,New Cases by Report Date,257
+4/10/2020,New Cases by Specimen Date,317
+4/10/2020,Positive Test Percentage,0.083469722
+4/10/2020,Hospitalizations,423
+4/10/2020,NC Daily Tests,"10,211"
+4/11/2020,New Cases by Report Date,404
+4/11/2020,New Cases by Specimen Date,171
+4/11/2020,Positive Test Percentage,0.113434164
+4/11/2020,Hospitalizations,362
+4/11/2020,NC Daily Tests,"2,875"
+4/12/2020,New Cases by Report Date,208
+4/12/2020,New Cases by Specimen Date,114
+4/12/2020,Positive Test Percentage,0.163729392
+4/12/2020,Hospitalizations,331
+4/12/2020,NC Daily Tests,"7,999"
+4/13/2020,New Cases by Report Date,296
+4/13/2020,New Cases by Specimen Date,282
+4/13/2020,Positive Test Percentage,0.113636364
+4/13/2020,Hospitalizations,313
+4/13/2020,NC Daily Tests,"1,298"
+4/14/2020,New Cases by Report Date,208
+4/14/2020,New Cases by Specimen Date,284
+4/14/2020,Positive Test Percentage,0.110507246
+4/14/2020,Hospitalizations,418
+4/14/2020,NC Daily Tests,"1,968"
+4/15/2020,New Cases by Report Date,99
+4/15/2020,New Cases by Specimen Date,375
+4/15/2020,Positive Test Percentage,0.127625202
+4/15/2020,Hospitalizations,431
+4/15/2020,NC Daily Tests,"3,215"
+4/16/2020,New Cases by Report Date,342
+4/16/2020,New Cases by Specimen Date,541
+4/16/2020,Positive Test Percentage,0.158154122
+4/16/2020,Hospitalizations,452
+4/16/2020,NC Daily Tests,"3,576"
+4/17/2020,New Cases by Report Date,394
+4/17/2020,New Cases by Specimen Date,259
+4/17/2020,Positive Test Percentage,0.118521857
+4/17/2020,Hospitalizations,429
+4/17/2020,NC Daily Tests,"2,472"
+4/18/2020,New Cases by Report Date,281
+4/18/2020,New Cases by Specimen Date,137
+4/18/2020,Positive Test Percentage,0.141459437
+4/18/2020,Hospitalizations,388
+4/18/2020,NC Daily Tests,"3,600"
+4/19/2020,New Cases by Report Date,353
+4/19/2020,New Cases by Specimen Date,120
+4/19/2020,Positive Test Percentage,0.128481581
+4/19/2020,Hospitalizations,465
+4/19/2020,NC Daily Tests,"2,592"
+4/20/2020,New Cases by Report Date,271
+4/20/2020,New Cases by Specimen Date,440
+4/20/2020,Positive Test Percentage,0.090097403
+4/20/2020,Hospitalizations,373
+4/20/2020,NC Daily Tests,773
+4/21/2020,New Cases by Report Date,187
+4/21/2020,New Cases by Specimen Date,464
+4/21/2020,Positive Test Percentage,0.107545045
+4/21/2020,Hospitalizations,427
+4/21/2020,NC Daily Tests,"4,520"
+4/22/2020,New Cases by Report Date,269
+4/22/2020,New Cases by Specimen Date,439
+4/22/2020,Positive Test Percentage,0.10432486
+4/22/2020,Hospitalizations,434
+4/22/2020,NC Daily Tests,"7,796"
+4/23/2020,New Cases by Report Date,388
+4/23/2020,New Cases by Specimen Date,508
+4/23/2020,Positive Test Percentage,0.115010424
+4/23/2020,Hospitalizations,486
+4/23/2020,NC Daily Tests,"6,406"
+4/24/2020,New Cases by Report Date,444
+4/24/2020,New Cases by Specimen Date,573
+4/24/2020,Positive Test Percentage,0.106466362
+4/24/2020,Hospitalizations,477
+4/24/2020,NC Daily Tests,"4,946"
+4/25/2020,New Cases by Report Date,490
+4/25/2020,New Cases by Specimen Date,253
+4/25/2020,Positive Test Percentage,0.087856174
+4/25/2020,Hospitalizations,456
+4/25/2020,NC Daily Tests,"5,227"
+4/26/2020,New Cases by Report Date,288
+4/26/2020,New Cases by Specimen Date,120
+4/26/2020,Positive Test Percentage,0.128426587
+4/26/2020,Hospitalizations,451
+4/26/2020,NC Daily Tests,"2,694"
+4/27/2020,New Cases by Report Date,312
+4/27/2020,New Cases by Specimen Date,559
+4/27/2020,Positive Test Percentage,0.109693878
+4/27/2020,Hospitalizations,467
+4/27/2020,NC Daily Tests,"2,141"
+4/28/2020,New Cases by Report Date,426
+4/28/2020,New Cases by Specimen Date,436
+4/28/2020,Positive Test Percentage,0.080733036
+4/28/2020,Hospitalizations,469
+4/28/2020,NC Daily Tests,"3,734"
+4/29/2020,New Cases by Report Date,380
+4/29/2020,New Cases by Specimen Date,439
+4/29/2020,Positive Test Percentage,0.096965021
+4/29/2020,Hospitalizations,551
+4/29/2020,NC Daily Tests,"6,208"
+4/30/2020,New Cases by Report Date,561
+4/30/2020,New Cases by Specimen Date,458
+4/30/2020,Positive Test Percentage,0.074189881
+4/30/2020,Hospitalizations,546
+4/30/2020,NC Daily Tests,"6,604"
+5/1/2020,New Cases by Report Date,414
+5/1/2020,New Cases by Specimen Date,450
+5/1/2020,Positive Test Percentage,0.070080863
+5/1/2020,Hospitalizations,547
+5/1/2020,NC Daily Tests,"5,799"
+5/2/2020,New Cases by Report Date,586
+5/2/2020,New Cases by Specimen Date,181
+5/2/2020,Positive Test Percentage,0.077604167
+5/2/2020,Hospitalizations,502
+5/2/2020,NC Daily Tests,"6,061"
+5/3/2020,New Cases by Report Date,155
+5/3/2020,New Cases by Specimen Date,172
+5/3/2020,Positive Test Percentage,0.0623557
+5/3/2020,Hospitalizations,475
+5/3/2020,NC Daily Tests,"4,582"
+5/4/2020,New Cases by Report Date,184
+5/4/2020,New Cases by Specimen Date,688
+5/4/2020,Positive Test Percentage,0.064465409
+5/4/2020,Hospitalizations,498
+5/4/2020,NC Daily Tests,"2,862"
+5/5/2020,New Cases by Report Date,408
+5/5/2020,New Cases by Specimen Date,554
+5/5/2020,Positive Test Percentage,0.070389954
+5/5/2020,Hospitalizations,534
+5/5/2020,NC Daily Tests,"5,928"
+5/6/2020,New Cases by Report Date,502
+5/6/2020,New Cases by Specimen Date,674
+5/6/2020,Positive Test Percentage,0.079901875
+5/6/2020,Hospitalizations,516
+5/6/2020,NC Daily Tests,"9,371"
+5/7/2020,New Cases by Report Date,639
+5/7/2020,New Cases by Specimen Date,605
+5/7/2020,Positive Test Percentage,0.082032109
+5/7/2020,Hospitalizations,525
+5/7/2020,NC Daily Tests,"7,232"
+5/8/2020,New Cases by Report Date,471
+5/8/2020,New Cases by Specimen Date,538
+5/8/2020,Positive Test Percentage,0.072226182
+5/8/2020,Hospitalizations,515
+5/8/2020,NC Daily Tests,"7,901"
+5/9/2020,New Cases by Report Date,492
+5/9/2020,New Cases by Specimen Date,212
+5/9/2020,Positive Test Percentage,0.082350165
+5/9/2020,Hospitalizations,513
+5/9/2020,NC Daily Tests,"7,607"
+5/10/2020,New Cases by Report Date,404
+5/10/2020,New Cases by Specimen Date,117
+5/10/2020,Positive Test Percentage,0.064229011
+5/10/2020,Hospitalizations,442
+5/10/2020,NC Daily Tests,"5,275"
+5/11/2020,New Cases by Report Date,281
+5/11/2020,New Cases by Specimen Date,772
+5/11/2020,Positive Test Percentage,0.0413742
+5/11/2020,Hospitalizations,464
+5/11/2020,NC Daily Tests,"2,927"
+5/12/2020,New Cases by Report Date,301
+5/12/2020,New Cases by Specimen Date,681
+5/12/2020,Positive Test Percentage,0.0533968
+5/12/2020,Hospitalizations,475
+5/12/2020,NC Daily Tests,"6,371"
+5/13/2020,New Cases by Report Date,470
+5/13/2020,New Cases by Specimen Date,712
+5/13/2020,Positive Test Percentage,0.071812408
+5/13/2020,Hospitalizations,521
+5/13/2020,NC Daily Tests,"8,740"
+5/14/2020,New Cases by Report Date,691
+5/14/2020,New Cases by Specimen Date,753
+5/14/2020,Positive Test Percentage,0.066885365
+5/14/2020,Hospitalizations,507
+5/14/2020,NC Daily Tests,"9,271"
+5/15/2020,New Cases by Report Date,622
+5/15/2020,New Cases by Specimen Date,700
+5/15/2020,Positive Test Percentage,0.067754959
+5/15/2020,Hospitalizations,492
+5/15/2020,NC Daily Tests,"13,450"
+5/16/2020,New Cases by Report Date,853
+5/16/2020,New Cases by Specimen Date,282
+5/16/2020,Positive Test Percentage,0.070886969
+5/16/2020,Hospitalizations,481
+5/16/2020,NC Daily Tests,"11,282"
+5/17/2020,New Cases by Report Date,530
+5/17/2020,New Cases by Specimen Date,192
+5/17/2020,Positive Test Percentage,0.0615863
+5/17/2020,Hospitalizations,493
+5/17/2020,NC Daily Tests,"9,282"
+5/18/2020,New Cases by Report Date,511
+5/18/2020,New Cases by Specimen Date,"1,054"
+5/18/2020,Positive Test Percentage,0.0560093
+5/18/2020,Hospitalizations,511
+5/18/2020,NC Daily Tests,"9,300"
+5/19/2020,New Cases by Report Date,677
+5/19/2020,New Cases by Specimen Date,962
+5/19/2020,Positive Test Percentage,0.063204583
+5/19/2020,Hospitalizations,585
+5/19/2020,NC Daily Tests,"8,529"
+5/20/2020,New Cases by Report Date,422
+5/20/2020,New Cases by Specimen Date,835
+5/20/2020,Positive Test Percentage,0.073299632
+5/20/2020,Hospitalizations,554
+5/20/2020,NC Daily Tests,"13,849"
+5/21/2020,New Cases by Report Date,738
+5/21/2020,New Cases by Specimen Date,867
+5/21/2020,Positive Test Percentage,0.081956878
+5/21/2020,Hospitalizations,578
+5/21/2020,NC Daily Tests,"10,148"
+5/22/2020,New Cases by Report Date,758
+5/22/2020,New Cases by Specimen Date,747
+5/22/2020,Positive Test Percentage,0.097254423
+5/22/2020,Hospitalizations,568
+5/22/2020,NC Daily Tests,"12,992"
+5/23/2020,New Cases by Report Date,"1,107"
+5/23/2020,New Cases by Specimen Date,339
+5/23/2020,Positive Test Percentage,0.088448222
+5/23/2020,Hospitalizations,589
+5/23/2020,NC Daily Tests,"8,775"
+5/24/2020,New Cases by Report Date,497
+5/24/2020,New Cases by Specimen Date,259
+5/24/2020,Positive Test Percentage,0.083446507
+5/24/2020,Hospitalizations,587
+5/24/2020,NC Daily Tests,"6,814"
+5/25/2020,New Cases by Report Date,742
+5/25/2020,New Cases by Specimen Date,369
+5/25/2020,Positive Test Percentage,0.076761905
+5/25/2020,Hospitalizations,627
+5/25/2020,NC Daily Tests,"7,857"
+5/26/2020,New Cases by Report Date,176
+5/26/2020,New Cases by Specimen Date,"1,367"
+5/26/2020,Positive Test Percentage,0.071650073
+5/26/2020,Hospitalizations,621
+5/26/2020,NC Daily Tests,"3,538"
+5/27/2020,New Cases by Report Date,488
+5/27/2020,New Cases by Specimen Date,"1,005"
+5/27/2020,Positive Test Percentage,0.07815139
+5/27/2020,Hospitalizations,702
+5/27/2020,NC Daily Tests,"12,001"
+5/28/2020,New Cases by Report Date,784
+5/28/2020,New Cases by Specimen Date,"1,027"
+5/28/2020,Positive Test Percentage,0.09001368
+5/28/2020,Hospitalizations,708
+5/28/2020,NC Daily Tests,"11,199"
+5/29/2020,New Cases by Report Date,"1,076"
+5/29/2020,New Cases by Specimen Date,"1,117"
+5/29/2020,Positive Test Percentage,0.099788395
+5/29/2020,Hospitalizations,680
+5/29/2020,NC Daily Tests,"17,279"
+5/30/2020,New Cases by Report Date,"1,185"
+5/30/2020,New Cases by Specimen Date,451
+5/30/2020,Positive Test Percentage,0.082720047
+5/30/2020,Hospitalizations,638
+5/30/2020,NC Daily Tests,"12,564"
+5/31/2020,New Cases by Report Date,916
+5/31/2020,New Cases by Specimen Date,332
+5/31/2020,Positive Test Percentage,0.082058414
+5/31/2020,Hospitalizations,649
+5/31/2020,NC Daily Tests,"12,377"
+6/1/2020,New Cases by Report Date,674
+6/1/2020,New Cases by Specimen Date,"1,516"
+6/1/2020,Positive Test Percentage,0.078887924
+6/1/2020,Hospitalizations,650
+6/1/2020,NC Daily Tests,"4,810"
+6/2/2020,New Cases by Report Date,626
+6/2/2020,New Cases by Specimen Date,"1,275"
+6/2/2020,Positive Test Percentage,0.077511752
+6/2/2020,Hospitalizations,716
+6/2/2020,NC Daily Tests,"12,455"
+6/3/2020,New Cases by Report Date,888
+6/3/2020,New Cases by Specimen Date,"1,440"
+6/3/2020,Positive Test Percentage,0.090729952
+6/3/2020,Hospitalizations,684
+6/3/2020,NC Daily Tests,"14,191"
+6/4/2020,New Cases by Report Date,"1,189"
+6/4/2020,New Cases by Specimen Date,"1,347"
+6/4/2020,Positive Test Percentage,0.087291718
+6/4/2020,Hospitalizations,659
+6/4/2020,NC Daily Tests,"19,318"
+6/5/2020,New Cases by Report Date,"1,289"
+6/5/2020,New Cases by Specimen Date,"1,318"
+6/5/2020,Positive Test Percentage,0.098232558
+6/5/2020,Hospitalizations,718
+6/5/2020,NC Daily Tests,"13,569"
+6/6/2020,New Cases by Report Date,"1,370"
+6/6/2020,New Cases by Specimen Date,485
+6/6/2020,Positive Test Percentage,0.095389333
+6/6/2020,Hospitalizations,708
+6/6/2020,NC Daily Tests,"15,486"
+6/7/2020,New Cases by Report Date,921
+6/7/2020,New Cases by Specimen Date,436
+6/7/2020,Positive Test Percentage,0.092004753
+6/7/2020,Hospitalizations,713
+6/7/2020,NC Daily Tests,"13,590"
+6/8/2020,New Cases by Report Date,938
+6/8/2020,New Cases by Specimen Date,"1,663"
+6/8/2020,Positive Test Percentage,0.087249349
+6/8/2020,Hospitalizations,719
+6/8/2020,NC Daily Tests,"8,933"
+6/9/2020,New Cases by Report Date,676
+6/9/2020,New Cases by Specimen Date,"1,552"
+6/9/2020,Positive Test Percentage,0.076938817
+6/9/2020,Hospitalizations,734
+6/9/2020,NC Daily Tests,"15,928"
+6/10/2020,New Cases by Report Date,"1,011"
+6/10/2020,New Cases by Specimen Date,"1,462"
+6/10/2020,Positive Test Percentage,0.086019897
+6/10/2020,Hospitalizations,801
+6/10/2020,NC Daily Tests,"17,675"
+6/11/2020,New Cases by Report Date,"1,310"
+6/11/2020,New Cases by Specimen Date,"1,441"
+6/11/2020,Positive Test Percentage,0.099830795
+6/11/2020,Hospitalizations,817
+6/11/2020,NC Daily Tests,"20,745"
+6/12/2020,New Cases by Report Date,"1,768"
+6/12/2020,New Cases by Specimen Date,"1,451"
+6/12/2020,Positive Test Percentage,0.093469101
+6/12/2020,Hospitalizations,760
+6/12/2020,NC Daily Tests,"21,556"
+6/13/2020,New Cases by Report Date,"1,427"
+6/13/2020,New Cases by Specimen Date,689
+6/13/2020,Positive Test Percentage,0.092171258
+6/13/2020,Hospitalizations,823
+6/13/2020,NC Daily Tests,"17,352"
+6/14/2020,New Cases by Report Date,"1,443"
+6/14/2020,New Cases by Specimen Date,552
+6/14/2020,Positive Test Percentage,0.082617072
+6/14/2020,Hospitalizations,798
+6/14/2020,NC Daily Tests,"13,681"
+6/15/2020,New Cases by Report Date,983
+6/15/2020,New Cases by Specimen Date,"1,699"
+6/15/2020,Positive Test Percentage,0.090882904
+6/15/2020,Hospitalizations,797
+6/15/2020,NC Daily Tests,"11,349"
+6/16/2020,New Cases by Report Date,751
+6/16/2020,New Cases by Specimen Date,"1,610"
+6/16/2020,Positive Test Percentage,0.081183612
+6/16/2020,Hospitalizations,829
+6/16/2020,NC Daily Tests,"13,166"
+6/17/2020,New Cases by Report Date,"1,002"
+6/17/2020,New Cases by Specimen Date,"1,722"
+6/17/2020,Positive Test Percentage,0.083074429
+6/17/2020,Hospitalizations,846
+6/17/2020,NC Daily Tests,"20,345"
+6/18/2020,New Cases by Report Date,"1,333"
+6/18/2020,New Cases by Specimen Date,"1,793"
+6/18/2020,Positive Test Percentage,0.085828941
+6/18/2020,Hospitalizations,857
+6/18/2020,NC Daily Tests,"22,768"
+6/19/2020,New Cases by Report Date,"1,652"
+6/19/2020,New Cases by Specimen Date,"1,635"
+6/19/2020,Positive Test Percentage,0.096340229
+6/19/2020,Hospitalizations,871
+6/19/2020,NC Daily Tests,"23,954"
+6/20/2020,New Cases by Report Date,"1,549"
+6/20/2020,New Cases by Specimen Date,773
+6/20/2020,Positive Test Percentage,0.094853758
+6/20/2020,Hospitalizations,867
+6/20/2020,NC Daily Tests,"18,407"
+6/21/2020,New Cases by Report Date,"1,412"
+6/21/2020,New Cases by Specimen Date,699
+6/21/2020,Positive Test Percentage,0.084723908
+6/21/2020,Hospitalizations,845
+6/21/2020,NC Daily Tests,"16,073"
+6/22/2020,New Cases by Report Date,804
+6/22/2020,New Cases by Specimen Date,"2,051"
+6/22/2020,Positive Test Percentage,0.090234562
+6/22/2020,Hospitalizations,870
+6/22/2020,NC Daily Tests,"12,019"
+6/23/2020,New Cases by Report Date,848
+6/23/2020,New Cases by Specimen Date,"2,088"
+6/23/2020,Positive Test Percentage,0.082709553
+6/23/2020,Hospitalizations,915
+6/23/2020,NC Daily Tests,"16,078"
+6/24/2020,New Cases by Report Date,"1,721"
+6/24/2020,New Cases by Specimen Date,"1,922"
+6/24/2020,Positive Test Percentage,0.078218538
+6/24/2020,Hospitalizations,906
+6/24/2020,NC Daily Tests,"18,732"
+6/25/2020,New Cases by Report Date,"1,009"
+6/25/2020,New Cases by Specimen Date,"1,975"
+6/25/2020,Positive Test Percentage,0.096554461
+6/25/2020,Hospitalizations,889
+6/25/2020,NC Daily Tests,"25,117"
+6/26/2020,New Cases by Report Date,"1,635"
+6/26/2020,New Cases by Specimen Date,"1,948"
+6/26/2020,Positive Test Percentage,0.09898167
+6/26/2020,Hospitalizations,892
+6/26/2020,NC Daily Tests,"21,698"
+6/27/2020,New Cases by Report Date,"1,719"
+6/27/2020,New Cases by Specimen Date,941
+6/27/2020,Positive Test Percentage,0.095452683
+6/27/2020,Hospitalizations,886
+6/27/2020,NC Daily Tests,"21,005"
+6/28/2020,New Cases by Report Date,"1,605"
+6/28/2020,New Cases by Specimen Date,"1,043"
+6/28/2020,Positive Test Percentage,0.081829261
+6/28/2020,Hospitalizations,892
+6/28/2020,NC Daily Tests,"19,800"
+6/29/2020,New Cases by Report Date,"1,342"
+6/29/2020,New Cases by Specimen Date,"2,527"
+6/29/2020,Positive Test Percentage,0.087504406
+6/29/2020,Hospitalizations,845
+6/29/2020,NC Daily Tests,"18,814"
+6/30/2020,New Cases by Report Date,"1,186"
+6/30/2020,New Cases by Specimen Date,"2,331"
+6/30/2020,Positive Test Percentage,0.095850224
+6/30/2020,Hospitalizations,905
+6/30/2020,NC Daily Tests,"19,534"
+7/1/2020,New Cases by Report Date,"1,843"
+7/1/2020,New Cases by Specimen Date,"2,069"
+7/1/2020,Positive Test Percentage,0.08392012
+7/1/2020,Hospitalizations,888
+7/1/2020,NC Daily Tests,"22,514"
+7/2/2020,New Cases by Report Date,"1,629"
+7/2/2020,New Cases by Specimen Date,"2,038"
+7/2/2020,Positive Test Percentage,0.104042519
+7/2/2020,Hospitalizations,908
+7/2/2020,NC Daily Tests,"27,230"
+7/3/2020,New Cases by Report Date,"2,099"
+7/3/2020,New Cases by Specimen Date,"1,365"
+7/3/2020,Positive Test Percentage,0.091036148
+7/3/2020,Hospitalizations,953
+7/3/2020,NC Daily Tests,"25,962"
+7/4/2020,New Cases by Report Date,"1,413"
+7/4/2020,New Cases by Specimen Date,584
+7/4/2020,Positive Test Percentage,0.089659725
+7/4/2020,Hospitalizations,943
+7/4/2020,NC Daily Tests,"20,639"
+7/5/2020,New Cases by Report Date,"1,329"
+7/5/2020,New Cases by Specimen Date,772
+7/5/2020,Positive Test Percentage,0.084050039
+7/5/2020,Hospitalizations,948
+7/5/2020,NC Daily Tests,"21,942"
+7/6/2020,New Cases by Report Date,"1,546"
+7/6/2020,New Cases by Specimen Date,"2,535"
+7/6/2020,Positive Test Percentage,0.092217302
+7/6/2020,Hospitalizations,982
+7/6/2020,NC Daily Tests,"15,906"
+7/7/2020,New Cases by Report Date,"1,346"
+7/7/2020,New Cases by Specimen Date,"2,802"
+7/7/2020,Positive Test Percentage,0.088119738
+7/7/2020,Hospitalizations,985
+7/7/2020,NC Daily Tests,"15,322"
+7/8/2020,New Cases by Report Date,"1,435"
+7/8/2020,New Cases by Specimen Date,"2,555"
+7/8/2020,Positive Test Percentage,0.084600283
+7/8/2020,Hospitalizations,994
+7/8/2020,NC Daily Tests,"22,596"
+7/9/2020,New Cases by Report Date,"2,039"
+7/9/2020,New Cases by Specimen Date,"2,140"
+7/9/2020,Positive Test Percentage,0.094423906
+7/9/2020,Hospitalizations,"1,036"
+7/9/2020,NC Daily Tests,"27,545"
+7/10/2020,New Cases by Report Date,"1,982"
+7/10/2020,New Cases by Specimen Date,"2,119"
+7/10/2020,Positive Test Percentage,0.095141979
+7/10/2020,Hospitalizations,"1,046"
+7/10/2020,NC Daily Tests,"26,109"
+7/11/2020,New Cases by Report Date,"2,462"
+7/11/2020,New Cases by Specimen Date,987
+7/11/2020,Positive Test Percentage,0.091161458
+7/11/2020,Hospitalizations,"1,089"
+7/11/2020,NC Daily Tests,"25,077"
+7/12/2020,New Cases by Report Date,"1,908"
+7/12/2020,New Cases by Specimen Date,838
+7/12/2020,Positive Test Percentage,0.092075839
+7/12/2020,Hospitalizations,"1,070"
+7/12/2020,NC Daily Tests,"27,614"
+7/13/2020,New Cases by Report Date,"1,827"
+7/13/2020,New Cases by Specimen Date,"2,423"
+7/13/2020,Positive Test Percentage,0.096604092
+7/13/2020,Hospitalizations,"1,039"
+7/13/2020,NC Daily Tests,"25,428"
+7/14/2020,New Cases by Report Date,"1,956"
+7/14/2020,New Cases by Specimen Date,"2,371"
+7/14/2020,Positive Test Percentage,0.07809871
+7/14/2020,Hospitalizations,"1,109"
+7/14/2020,NC Daily Tests,"26,781"
+7/15/2020,New Cases by Report Date,"1,782"
+7/15/2020,New Cases by Specimen Date,"2,120"
+7/15/2020,Positive Test Percentage,0.086805058
+7/15/2020,Hospitalizations,"1,143"
+7/15/2020,NC Daily Tests,"30,648"
+7/16/2020,New Cases by Report Date,"2,160"
+7/16/2020,New Cases by Specimen Date,"2,014"
+7/16/2020,Positive Test Percentage,0.073383672
+7/16/2020,Hospitalizations,"1,134"
+7/16/2020,NC Daily Tests,"32,747"
+7/17/2020,New Cases by Report Date,"2,051"
+7/17/2020,New Cases by Specimen Date,"1,890"
+7/17/2020,Positive Test Percentage,0.084313196
+7/17/2020,Hospitalizations,"1,179"
+7/17/2020,NC Daily Tests,"27,248"
+7/18/2020,New Cases by Report Date,"2,481"
+7/18/2020,New Cases by Specimen Date,932
+7/18/2020,Positive Test Percentage,0.080812137
+7/18/2020,Hospitalizations,"1,157"
+7/18/2020,NC Daily Tests,"27,526"
+7/19/2020,New Cases by Report Date,"1,820"
+7/19/2020,New Cases by Specimen Date,799
+7/19/2020,Positive Test Percentage,0.069378113
+7/19/2020,Hospitalizations,"1,112"
+7/19/2020,NC Daily Tests,"30,065"
+7/20/2020,New Cases by Report Date,"1,268"
+7/20/2020,New Cases by Specimen Date,"2,216"
+7/20/2020,Positive Test Percentage,0.080578812
+7/20/2020,Hospitalizations,"1,086"
+7/20/2020,NC Daily Tests,"30,232"
+7/21/2020,New Cases by Report Date,"1,815"
+7/21/2020,New Cases by Specimen Date,"2,165"
+7/21/2020,Positive Test Percentage,0.076725536
+7/21/2020,Hospitalizations,"1,179"
+7/21/2020,NC Daily Tests,"25,762"
+7/22/2020,New Cases by Report Date,"2,140"
+7/22/2020,New Cases by Specimen Date,"1,909"
+7/22/2020,Positive Test Percentage,0.078233202
+7/22/2020,Hospitalizations,"1,188"
+7/22/2020,NC Daily Tests,"32,592"
+7/23/2020,New Cases by Report Date,"1,892"
+7/23/2020,New Cases by Specimen Date,"1,726"
+7/23/2020,Positive Test Percentage,0.084804743
+7/23/2020,Hospitalizations,"1,191"
+7/23/2020,NC Daily Tests,"34,482"
+7/24/2020,New Cases by Report Date,"2,102"
+7/24/2020,New Cases by Specimen Date,"1,805"
+7/24/2020,Positive Test Percentage,0.074518821
+7/24/2020,Hospitalizations,"1,155"
+7/24/2020,NC Daily Tests,"26,990"
+7/25/2020,New Cases by Report Date,"2,097"
+7/25/2020,New Cases by Specimen Date,788
+7/25/2020,Positive Test Percentage,0.079135347
+7/25/2020,Hospitalizations,"1,149"
+7/25/2020,NC Daily Tests,"31,192"
+7/26/2020,New Cases by Report Date,"1,621"
+7/26/2020,New Cases by Specimen Date,661
+7/26/2020,Positive Test Percentage,0.076897198
+7/26/2020,Hospitalizations,"1,140"
+7/26/2020,NC Daily Tests,"32,983"
+7/27/2020,New Cases by Report Date,"1,625"
+7/27/2020,New Cases by Specimen Date,"1,817"
+7/27/2020,Positive Test Percentage,0.07240676
+7/27/2020,Hospitalizations,"1,139"
+7/27/2020,NC Daily Tests,"26,374"
+7/28/2020,New Cases by Report Date,"1,749"
+7/28/2020,New Cases by Specimen Date,"1,575"
+7/28/2020,Positive Test Percentage,0.069854514
+7/28/2020,Hospitalizations,"1,197"
+7/28/2020,NC Daily Tests,"20,725"
+7/29/2020,New Cases by Report Date,"1,763"
+7/29/2020,New Cases by Specimen Date,"1,095"
+7/29/2020,Positive Test Percentage,0.07530185
+7/29/2020,Hospitalizations,"1,236"
+7/29/2020,NC Daily Tests,"30,850"
+7/30/2020,New Cases by Report Date,"2,344"
+7/30/2020,New Cases by Specimen Date,324
+7/30/2020,Positive Test Percentage,0.071091257
+7/30/2020,Hospitalizations,"1,202"
+7/30/2020,NC Daily Tests,"32,960"
+7/31/2020,New Cases by Report Date,"1,954"
+7/31/2020,New Cases by Specimen Date,36
+7/31/2020,Positive Test Percentage,0.067770482
+7/31/2020,Hospitalizations,"1,180"
+7/31/2020,NC Daily Tests,"29,872"
+8/1/2020,New Cases by Report Date,"1,730"
+8/1/2020,New Cases by Specimen Date,
+8/1/2020,Positive Test Percentage,
+8/1/2020,Hospitalizations,"1,151"
+8/1/2020,NC Daily Tests,"26,510"
