@@ -37,7 +37,10 @@ out_data_latest <- out_data[update_date==max(update_date)]
 
 out_data_long <- dcast(out_data, date~measure, value.var = "value", fill = NA, fun.aggregate = function(x) x)
 
-names(out_data_long) <- c("date", "hospitalizations", "daily_tests", "daily_test_prior","daily_cases", "daily_specimen", "positive_tests")
+names(out_data_long) <- c("date", "hospitalizations",
+                          "daily_tests", "daily_cases",
+                          "daily_specimen", "positive_tests",
+                          "sum_hospitalizations")
 
 
 # write output ------------------------------------------------------------
