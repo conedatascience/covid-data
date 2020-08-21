@@ -12741,3 +12741,9 @@ Confrontation: 3, Failures: 0, Time 202008211252
 Confrontation: 4, Failures: 0, Time 202008211252
 Confrontation: 5, Failures: 0, Time 202008211252
 Confrontation: 6, Failures: 11, Time 202008211252
+Confrontation: 1, Failures: 0, Time 202008211353
+Confrontation: 2, Failures: 0, Time 202008211353
+Confrontation: 3, Failures: 0, Time 202008211353
+Confrontation: 4, Failures: 0, Time 202008211353
+Confrontation: 5, Failures: 0, Time 202008211353
+Confrontation: 6, Failures: 11, Time 202008211353
