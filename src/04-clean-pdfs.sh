@@ -1,6 +1,6 @@
 #! bin/bash
 echo "sed worked"
-sed 's/    */;/g' test.txt> test2.txt
+awk '!/Created/' test.txt | sed 's/    */;/g' > test2.txt
 
 echo "remove dead lines"
 head test2.txt
