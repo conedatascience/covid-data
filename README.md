@@ -1,6 +1,6 @@
 # Covid Data
 
-This repository stores data pulled from the North Carolina Department of Health and Human Services
+This repository stores data pulled from the North Carolina Department of Health and Human Services.
 
 # Terms of Use
 
