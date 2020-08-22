@@ -62,3 +62,10 @@ url <- "https://files.nc.gov/covid/documents/dashboard/Weekly-Ongoing-Clusters-i
 a <- rvest::html_session(url)
 writeBin(a$response$content,here::here("data", "daily-outbreaks", "schools",
                                        paste0(current_time,"_ncdhss_school_report.pdf")))
+# detailed patient data ---------------------------------------------------
+
+
+## Pull
+url <- "https://public.tableau.com/vizql/w/NCDHHS_COVID-19_DataDownload/v/HospitalPatientData/vudcsv/sessions/48357CE83FD24F04AC0BD68C3874BECE-0:0/views/4022802588106640556_9307479125736770152?showall=true&underlying_table_id=medsurge_public_facing.csv_9E85D41A33ED4AAE941D68C3B611FF90&underlying_table_caption=Full%20Data"
+try(download.file(url = url, destfile = here::here("data", "daily-patient",
+                                                   paste0(current_time,"_ncdhss_age.csv"))))
