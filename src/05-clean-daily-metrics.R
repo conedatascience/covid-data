@@ -36,6 +36,7 @@ out_data <- in_data[,update_date:=as.Date(update_date)] %>%
 out_data_latest <- out_data[update_date==max(update_date)]
 
 out_data_long <- dcast(out_data, date~measure, value.var = "value", fill = NA, fun.aggregate = function(x) x)
+print(names(out_data_long))
 
 names(out_data_long) <- c("date", "hospitalizations",
                           "daily_tests", "daily_cases",
