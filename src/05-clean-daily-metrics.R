@@ -38,10 +38,25 @@ out_data_latest <- out_data[update_date==max(update_date)]
 out_data_long <- dcast(out_data, date~measure, value.var = "value", fill = NA, fun.aggregate = function(x) x)
 print(names(out_data_long))
 
-names(out_data_long) <- c("date", "hospitalizations",
-                          "daily_tests", "daily_cases",
-                          "daily_specimen", "positive_tests",
-                          "sum_hospitalizations")
+column_lookup <- data.frame(old= c("date",
+                                  "Hospitalizations",
+                                  "NC Daily Tests",
+                                  "New Cases by Report Date",
+                                  "New Cases by Specimen Date",
+                                  "NC Deaths",
+                                  "Positive Test Percentage",
+                                  "Sum of Hospitalizations"),
+                           new = c("date",
+                                   "hospitalizations",
+                                   "daily_tests",
+                                   "daily_cases",
+                                   "daily_specimen",
+                                   "daily_deaths",
+                                   "positive_tests",
+                                   "sum_hospitalizations"
+), stringsAsFactors = FALSE)
+
+names(out_data_long)[names(out_data_long) %in% column_lookup$old] = column_lookup$new[match(names(out_data_long)[names(out_data_long) %in% column_lookup$old], column_lookup$old)]
 
 
 # write output ------------------------------------------------------------
