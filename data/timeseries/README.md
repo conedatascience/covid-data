@@ -15,6 +15,10 @@ Contains the cases and deaths by zip code by day. Additionally, there are geospa
 
 Contains the aggregate statistics for demographics by day. Eventually, I will add a column for the daily changes, but currently everything is cumulative.
 
+## nc-congregate-outbreaks
+
+Contains longitudinal information regarding the outbreaks in congregate housing.
+
 ## To Do
 
 Currently, several pieces of data are being collected, but I still need to write some cleaning scripts:

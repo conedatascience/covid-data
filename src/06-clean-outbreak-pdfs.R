@@ -1,7 +1,7 @@
 # library(data.table)
 # library(dplyr)
 # library(pdftools)
-# cat("Starting Pdf Scrapes\n\n")
+# cat("Starting Outbreak Pdf Scrapes\n\n")
 # # bring in files and select oldest by date --------------------------------
 # in_files <- fs::dir_info(file.path("data", "daily-outbreaks"), glob = "*.pdf")
 #
@@ -23,6 +23,8 @@
 #                    dplyr::pull(path), pdftools::pdf_text)
 #
 # names(in_pdf) <- in_files %>% pull(update_date_only)
+#
+# xfun::write_utf8(in_pdf[[1]], "test.txt")
 #
 # out <- stringr::str_extract_all(in_pdf[1], "\\d.+")
 # out <- stringr::str_replace(out[[1]], pattern = "\\s+", replacement = ";")
