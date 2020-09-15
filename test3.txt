@@ -1,64 +1,66 @@
 Nursing Home;Buncombe;Western NC Baptist Home;4;0;1;0;5;0
-Nursing Home;Burke;Autumn Care of Drexel;6;0;18;1;24;1
-Nursing Home;Burke;Carolina Rehab of Burke;21;0;50;9;71;9
-Nursing Home;Burke;College Pines Health and Rehabilitation;9;0;19;0;28;0
-Nursing Home;Burke;Grace Heights Health and Rehabilitation;33;0;58;13;91;13
+Nursing Home;Burke;Autumn Care of Drexel;8;0;28;1;36;1
+Nursing Home;Burke;Carolina Rehab of Burke;21;0;50;11;71;11
+Nursing Home;Burke;College Pines Health and Rehabilitation;9;2;20;2;29;4
+Nursing Home;Burke;Grace Heights Health and Rehabilitation;30;0;60;13;90;13
 Nursing Home;Cabarrus;Brian Center Health & Retirement/Cabarrus;30;0;47;4;77;4
+Nursing Home;Cabarrus;Five Oaks Manor;2;0;0;0;2;0
 Nursing Home;Cabarrus;PruittHealth-Town Center;8;0;19;3;27;3
 Nursing Home;Cabarrus;Transitional Housing Services of Kannapolis;9;0;6;0;15;0
-Nursing Home;Caldwell;Lenoir Healthcare Center;1;0;1;0;2;0
 Nursing Home;Catawba;Brian Center Health & Rehabilitation/Hickory East;7;0;24;7;31;7
 Nursing Home;Catawba;Conover Nursing and Rehab;1;0;2;0;3;0
 Nursing Home;Catawba;Trinity Ridge;18;0;19;6;37;6
 Nursing Home;Catawba;Trinity Village;10;0;2;0;12;0
-Nursing Home;Chatham;Carolina Meadows Health Center;21;0;4;0;25;0
+Nursing Home;Chatham;Carolina Meadows Health Center;21;0;4;1;25;1
 Nursing Home;Cherokee;Murphy Rehab and Nursing;2;0;2;0;4;0
 Nursing Home;Cherokee;Valley View Care and Rehabilitation Center;1;0;1;0;2;0
-Nursing Home;Cleveland;Cleveland Pines;12;0;26;0;38;0
+Nursing Home;Cleveland;Cleveland Pines;15;0;30;0;45;0
 Nursing Home;Cleveland;Peak Resources Shelby;5;0;0;0;5;0
 Nursing Home;Cleveland;White Oak Manor - Shelby;25;0;16;4;41;4
-Nursing Home;Cleveland;White Oak Manor-Kings Mountain;61;0;110;20;171;20
-Nursing Home;Columbus;Liberty Commons;2;0;0;0;2;0
+Nursing Home;Cleveland;White Oak Manor-Kings Mountain;62;0;110;22;172;22
+Nursing Home;Columbus;Liberty Commons;6;0;1;0;7;0
+Nursing Home;Columbus;Shoreland Health and Rehab;1;0;1;0;2;0
 Nursing Home;Craven;PruittHealth-Trent;16;0;57;8;73;8
 Nursing Home;Craven;Riverpoint Crest Nursing and Rehabilitation Center;2;0;2;1;4;1
 Nursing Home;Cumberland;Carolina Rehab Center;2;0;0;0;2;0
 Nursing Home;Cumberland;Haymount Rehabilitation & Nursing Center Inc;10;0;3;0;13;0
-Nursing Home;Cumberland;Highland House Rehabilitation and Healthcare;26;0;47;4;73;4
+Nursing Home;Cumberland;Highland House Rehabilitation and Healthcare;27;0;47;4;74;4
 Nursing Home;Cumberland;Village Green Health and Rehabilitation;14;0;21;3;35;3
 Nursing Home;Cumberland;Whispering Pines;2;0;1;0;3;0
 Nursing Home;Cumberland;Woodlands Nursing and Rehab;11;0;48;1;59;1
+Nursing Home;Davidson;Abbotts Creek Center;2;0;4;0;6;0
+Nursing Home;Davidson;Mount Vista Health Park;3;0;0;0;3;0
 Nursing Home;Davidson;Pelican Health;2;0;0;0;2;0
 Nursing Home;Davidson;Piedmont Crossing;2;0;0;0;2;0
-Nursing Home;Davidson;Pine Ridge Health and Rehabilitation Center;12;0;40;6;52;6
-Nursing Home;Durham;Accordius Health at Rose Manor;4;0;2;0;6;0
-Nursing Home;Durham;Carver Living Center (Rehabilitation);36;0;84;10;120;10
-Nursing Home;Durham;Croasdaile Village Pavilion Health Center;13;0;14;0;27;0
-Nursing Home;Durham;Durham Nursing & Rehabilitation Center;4;0;1;0;5;0
-Nursing Home;Durham;Durham VA Community;8;0;1;0;9;0
-Nursing Home;Durham;Pettigrew Rehabilitation Center;3;0;0;0;3;0
-Nursing Home;Durham;Pruitt Health Durham;9;0;26;0;35;0
-Nursing Home;Durham;The Forest at Duke;10;0;0;0;10;0
-Nursing Home;Edgecombe;Edgecombe Health and Rehabilitation;11;0;39;4;50;4
-Nursing Home;Edgecombe;The Fountains at the Albermarle;1;0;5;0;6;0
-Nursing Home;Forsyth;Accordius Health of Clemmons;5;0;26;4;31;4
+Nursing Home;Davidson;Pine Ridge Health and Rehabilitation Center;13;0;40;6;53;6
+Nursing Home;Durham;Accordius Health at Rose Manor;5;0;2;0;7;0
+Nursing Home;Durham;Carver Living Center (Rehabilitation);37;0;84;10;121;10
+Nursing Home;Durham;Croasdaile Village Pavilion Health Center;14;0;15;3;29;3
+Nursing Home;Durham;Durham Nursing & Rehabilitation Center;4;0;0;0;4;0
+Nursing Home;Durham;Durham VA Community;10;0;1;0;11;0
+Nursing Home;Durham;Pettigrew Rehabilitation Center;3;0;1;0;4;0
+Nursing Home;Durham;Pruitt Health Durham;9;0;43;1;52;1
+Nursing Home;Durham;The Forest at Duke;11;0;0;0;11;0
+Nursing Home;Edgecombe;Edgecombe Health and Rehabilitation;19;0;69;14;88;14
+Nursing Home;Edgecombe;The Fountains at the Albermarle;14;0;16;1;30;1
+Nursing Home;Forsyth;Accordius Health of Clemmons;6;0;33;4;39;4
 Nursing Home;Forsyth;Brookridge Retirement Community;2;0;1;0;3;0
-Nursing Home;Forsyth;Oak Forest Health and Rehabilitation;29;0;47;1;76;1
+Nursing Home;Forsyth;Oak Forest Health and Rehabilitation;30;0;47;1;77;1
 Nursing Home;Forsyth;Piney Grove Nursing and Rehabilitation Center;4;0;1;0;5;0
 Nursing Home;Forsyth;Silas Creek Rehabilitation Center;7;0;2;0;9;0
-Nursing Home;Forsyth;Trinity Glen;20;0;26;5;46;5
+Nursing Home;Forsyth;Trinity Glen;23;0;29;5;52;5
 Nursing Home;Gaston;Accordius Health - Gastonia;2;0;0;0;2;0
-Nursing Home;Gaston;Belaire Healthcare Center;5;0;8;0;13;0
-Nursing Home;Gaston;Carolina Care-Cherryville;7;0;2;0;9;0
+Nursing Home;Gaston;Belaire Healthcare Center;20;0;13;0;33;0
 Nursing Home;Gaston;Peak Resources - Gastonia;3;0;0;0;3;0
 Nursing Home;Graham;Graham Healthcare and Rehabilitation Center;14;0;37;0;51;0
 Nursing Home;Granville;Brantwood Nursing and Retirement Center;6;0;1;0;7;0
 Nursing Home;Granville;Universal Health Care/Oxford;44;0;96;20;140;20
 Nursing Home;Greene;Greendale Forest Nursing and Rehabilitation;1;0;2;0;3;0
-Nursing Home;Guilford;Adams Farm Living & Rehabilitation;7;0;51;3;58;3
 Nursing Home;Guilford;Clapps Nursing Center;2;0;1;0;3;0
-Nursing Home;Guilford;Friends Home at Guilford;3;0;1;0;4;0
 Nursing Home;Guilford;Maple Grove Health and Rehabilitation Center;29;0;97;22;126;22
+Nursing Home;Guilford;Maryfield Nursing Home;3;0;0;0;3;0
 Nursing Home;Guilford;River Landing Assisted Living;2;0;0;0;2;0
+Nursing Home;Guilford;Westchester Manor;4;0;0;0;4;0
 Nursing Home;Halifax;Accordius Health at Scotland Manor;1;0;2;0;3;0
 Nursing Home;Halifax;Bryan Health and Rehab;2;0;1;0;3;0
 Nursing Home;Halifax;Signature Healthcare of Roanoke Rapids;13;0;31;8;44;8
@@ -68,8 +70,8 @@ Nursing Home;Harnett;Harnett Woods Nursing and Rehabilitation Center;7;0;11;1;18
 Nursing Home;Harnett;Universal HealthCare;1;0;8;0;9;0
 Nursing Home;Haywood;Maggie Valley Nursing and Rehab;0;0;2;0;2;0
 Nursing Home;Haywood;Silver Bluff Village;55;0;97;27;152;27
-Nursing Home;Henderson;Blue Ridge Health and Rehabilitation Center;4;0;17;3;21;3
-Nursing Home;Henderson;Hendersonville Health and Rehabilitation;50;0;68;4;118;4
+Nursing Home;Henderson;Blue Ridge Health and Rehabilitation Center;7;0;18;3;25;3
+Nursing Home;Henderson;Hendersonville Health and Rehabilitation;50;0;70;4;120;4
 Nursing Home;Henderson;Universal Healthcare of Fletcher;2;0;0;0;2;0
 Nursing Home;Hertford;Accordius at Creekside;16;0;55;9;71;9
 Nursing Home;Hoke;Autumn Care of Raeford;6;0;1;0;7;0
@@ -77,55 +79,52 @@ Nursing Home;Hyde;Cross Creek Healthcare;11;0;21;3;32;3
 Nursing Home;Iredell;Accordius Health at Mooresville;1;0;1;0;2;0
 Nursing Home;Iredell;Accordius Health at Statesville;3;0;1;0;4;0
 Nursing Home;Iredell;Autumn Care of Statesville;2;0;0;0;2;0
-Nursing Home;Iredell;Maple Leaf Health Care;32;0;82;8;114;8
-Nursing Home;Johnston;Liberty Commons;4;0;0;0;4;0
-Nursing Home;Johnston;Smithfield Manor Nursing and Rehab;8;0;2;0;10;0
+Nursing Home;Iredell;Maple Leaf Health Care;32;0;83;8;115;8
+Nursing Home;Johnston;Smithfield Manor Nursing and Rehab;8;0;3;0;11;0
 Nursing Home;Johnston;Springbrook Rehabilitation and Nursing Center;11;0;7;0;18;0
 Nursing Home;Jones;Brook Stone Living Center;15;0;56;11;71;11
-Nursing Home;Lenoir;Harmony Hall Nursing and Rehabilitation Center;3;0;0;0;3;0
+Nursing Home;Lenoir;Harmony Hall Nursing and Rehabilitation Center;1;0;2;0;3;0
 Nursing Home;Lenoir;Signature Healthcare Kinston;1;0;2;0;3;0
 Nursing Home;Lincoln;Lincolnton Rehabilitation Center;7;0;3;0;10;0
-Nursing Home;Martin;Roanoke River Nursing and Rehabilitation Center;13;0;21;0;34;0
+Nursing Home;Martin;Roanoke River Nursing and Rehabilitation Center;20;0;24;0;44;0
 Nursing Home;McDowell;Deer Park Health and Rehab;18;0;26;13;44;13
-Nursing Home;Mecklenburg;Accordius Health at Charlotte;9;0;25;4;34;4
 Nursing Home;Mecklenburg;Accordius Health at Midwood;13;0;14;0;27;0
 Nursing Home;Mecklenburg;Brookdale Carriage Club Providence;2;0;0;0;2;0
-Nursing Home;Mecklenburg;Citadel at Myers Park;3;0;8;0;11;0
+Nursing Home;Mecklenburg;Citadel at Myers Park;6;0;11;0;17;0
 Nursing Home;Mecklenburg;Clear Creek Nursing & Rehabilitation Center;8;0;1;0;9;0
-Nursing Home;Mecklenburg;Huntersville Oaks;12;0;7;0;19;0
+Nursing Home;Mecklenburg;Huntersville Oaks;13;0;7;0;20;0
 Nursing Home;Mecklenburg;Mecklenburg Health & Rehabilitation Center;29;0;86;14;115;14
 Nursing Home;Mecklenburg;Olde Knox Commons at The Villages of;1;0;1;0;2;0
 Nursing Home;Mecklenburg;Pavilion Health Care at Brightmore;4;0;0;0;4;0
-Nursing Home;Mecklenburg;Pelican Health Randolph;20;0;56;12;76;12
+Nursing Home;Mecklenburg;Pelican Health Randolph;21;0;56;13;77;13
 Nursing Home;Mecklenburg;Pelican Health at Charlotte;12;0;40;3;52;3
 Nursing Home;Mecklenburg;Pineville Rehab and Living Center;1;0;1;0;2;0
-Nursing Home;Mecklenburg;Royal Park of Mathews Rehab;3;0;0;0;3;0
-Nursing Home;New Hanover;The Davis Community;31;0;22;2;53;2
-Nursing Home;Orange;Carol Woods;3;0;1;0;4;0
+Nursing Home;Mecklenburg;Sharon Towers;12;1;17;4;29;5
+Nursing Home;Mecklenburg;Southminster;25;0;13;7;38;7
 Nursing Home;Orange;Parkview Health and Rehabilitation Center;1;0;1;0;2;0
 Nursing Home;Orange;Peak Resources - Brookshire;2;0;0;0;2;0
 Nursing Home;Pasquotank;Elizabeth City Health and Rehabilitation;1;0;1;0;2;0
 Nursing Home;Pender;Woodbury Wellness Center;4;0;4;0;8;0
 Nursing Home;Person;Person Memorial Hospital Extended Care Unit;5;0;9;3;14;3
-Nursing Home;Person;Roxboro Healthcare and Rehab;1;0;1;0;2;0
 Nursing Home;Pitt;Ayden Court Nursing and Rehabilitation Center;2;0;0;0;2;0
 Nursing Home;Pitt;PruittHealth Farmville;5;0;16;0;21;0
-Nursing Home;Pitt;Universal Health Care/Greenville;10;0;6;0;16;0
+Nursing Home;Pitt;Universal Health Care/Greenville;11;0;6;0;17;0
 Nursing Home;Polk;Autumn Care of Saluda;5;0;12;0;17;0
-Nursing Home;Randolph;Alpine Health and Rehabilitation of Asheboro;11;0;14;0;25;0
-Nursing Home;Randolph;Clapp's Convalescent Nursing Home Inc;6;0;2;0;8;0
+Nursing Home;Randolph;Alpine Health and Rehabilitation of Asheboro;11;0;17;1;28;1
 Nursing Home;Randolph;Universal Healthcare Ramseur;2;0;0;0;2;0
 Nursing Home;Richmond;PruittHealth-Rockingham;3;0;0;0;3;0
-Nursing Home;Rockingham;Brian Center Health and Rehabilitation/Eden;3;0;18;0;21;0
+Nursing Home;Robeson;Pembroke Center;5;0;1;0;6;0
+Nursing Home;Rockingham;Brian Center Health and Rehabilitation/Eden;3;0;19;1;22;1
 Nursing Home;Rockingham;Jacob's Creek Nursing and Rehab Center;39;0;75;1;114;1
-Nursing Home;Rowan;Accordius Health of Salisbury;5;0;36;5;41;5
+Nursing Home;Rowan;Accordius Health of Salisbury;6;0;37;7;43;7
 Nursing Home;Rowan;Autumn Care of Salisbury;16;0;37;5;53;5
-Nursing Home;Rowan;Liberty Commons Nursing and Rehab;6;0;10;1;16;1
+Nursing Home;Rowan;Liberty Commons Nursing and Rehab;6;0;11;4;17;4
 Nursing Home;Rowan;The Citadel Salisbury;5;0;2;0;7;0
-Nursing Home;Rowan;Trinity Oaks Health and Rehab;41;0;47;6;88;6
+Nursing Home;Rowan;Trinity Oaks Health and Rehab;43;0;46;8;89;8
+Nursing Home;Rutherford;Oak Grove Healthcare Center;2;0;0;0;2;0
 Nursing Home;Rutherford;Willow Ridge Rehab and Living Center;8;0;7;1;15;1
 Nursing Home;Scotland;Scotia Village;3;0;2;0;5;0
-Nursing Home;Scotland;Scottish Pines;12;0;27;3;39;3
+Nursing Home;Scotland;Scottish Pines;13;0;27;3;40;3
 Nursing Home;Stanly;Bethany Woods Nursing and Rehabilitation Center;17;0;23;0;40;0
 Nursing Home;Stanly;Forrest Oakes Healthcare Center;13;0;24;7;37;7
 Nursing Home;Stanly;Stanly Manor;21;0;54;6;75;6
@@ -135,11 +134,20 @@ Nursing Home;Surry;Pruitt Health-Elkin;20;0;52;10;72;10
 Nursing Home;Surry;Surry Community Health and Rehab;3;0;11;2;14;2
 Nursing Home;Swain;Mountainview Manor Nursing;2;0;1;0;3;0
 Nursing Home;Transylvania;Accordius Health at Brevard;23;0;51;5;74;5
-Nursing Home;Union;Accordius Health Monroe;3;0;0;0;3;0
 Nursing Home;Union;Autumn Care of Marshville;4;0;1;0;5;0
 Nursing Home;Union;Jesse Helms Nursing Center;1;0;1;0;2;0
-Nursing Home;Union;Lake Park Nursing and Rehab;5;0;0;0;5;0
+Nursing Home;Union;Lake Park Nursing and Rehab;6;0;0;0;6;0
 Nursing Home;Union;Monroe Rehabilitation Center;7;0;3;0;10;0
 Nursing Home;Union;Pruitt Union Point;3;0;1;0;4;0
-Nursing Home;Union;White Oak Manor Waxhaw;7;0;0;0;7;0
-Nursing Home;Yadkin;Yadkin Nursing Center;1;0;3;0;4;0
+Nursing Home;Union;White Oak Manor Waxhaw;8;0;0;0;8;0
+Nursing Home;Vance;Kerr Lake Nursing and Rehabilitation Center;32;0;49;12;81;12
+Nursing Home;Wake;Bellarose Nursing and Rehab;3;0;0;0;3;0
+Nursing Home;Wake;Capital Nursing and Rehabilitation Center;31;0;63;8;94;8
+Nursing Home;Johnston;Liberty Commons;4;0;0;0;4;0
+Nursing Home;Mecklenburg;Accordius Health at Charlotte;9;0;25;4;34;4
+Nursing Home;Moore;Peak Resources-Pinelake;5;0;1;0;6;0
+Nursing Home;Person;Roxboro Healthcare and Rehab;1;0;1;0;2;0
+Nursing Home;Randolph;Clapp's Convalescent Nursing Home Inc;6;0;2;0;8;0
+Nursing Home;Union;Accordius Health Monroe;3;0;0;0;3;0
+Nursing Home;Wake;Cary Health and Rehabilitation Center;4;0;1;0;5;0
+Nursing Home;Wake;The Rosewood Health Center;2;0;0;0;2;0
