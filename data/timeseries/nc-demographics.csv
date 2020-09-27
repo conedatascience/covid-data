@@ -1,8 +1,8 @@
 .id,metric,cases,perc_of_cases,deaths,perc_of_deaths,category,cases_daily,deaths_daily
 2020-07-13,American Indian,656,1,21,1,race,,
 2020-07-13,Asian,1144,2,22,2,race,,
-2020-07-13,Black or African,14151,24,477,33,race,,
-2020-07-13,Native Hawaiian or,186,0,3,0,race,,
+2020-07-13,Black or African American,14151,24,477,33,race,,
+2020-07-13,Native Hawaiian or Pacific Islander,186,0,3,0,race,,
 2020-07-13,White,32883,56,838,58,race,,
 2020-07-13,Other,10002,17,93,6,race,,
 2020-07-13,Hispanic,25309,44,141,10,ethnicity,,
@@ -17,8 +17,8 @@
 2020-07-13,Male,42307,49,797,53,sex,,
 2020-07-14,American Indian,678,1,21,1,race,22,0
 2020-07-14,Asian,1158,2,22,1,race,14,0
-2020-07-14,Black or African,14431,24,490,33,race,280,13
-2020-07-14,Native Hawaiian or,191,0,3,0,race,5,0
+2020-07-14,Black or African American,14431,24,490,33,race,280,13
+2020-07-14,Native Hawaiian or Pacific Islander,191,0,3,0,race,5,0
 2020-07-14,White,33647,56,864,58,race,764,26
 2020-07-14,Other,10203,17,95,6,race,201,2
 2020-07-14,Hispanic,25735,44,148,10,ethnicity,426,7
@@ -33,8 +33,8 @@
 2020-07-14,Male,43192,49,822,53,sex,885,25
 2020-07-15,American Indian,698,1,23,2,race,20,2
 2020-07-15,Asian,1168,2,22,1,race,10,0
-2020-07-15,Black or African,14760,24,496,33,race,329,6
-2020-07-15,Native Hawaiian or,193,0,3,0,race,2,0
+2020-07-15,Black or African American,14760,24,496,33,race,329,6
+2020-07-15,Native Hawaiian or Pacific Islander,193,0,3,0,race,2,0
 2020-07-15,White,34499,56,873,58,race,852,9
 2020-07-15,Other,10358,17,96,6,race,155,1
 2020-07-15,Hispanic,26155,44,151,10,ethnicity,420,3
@@ -49,8 +49,8 @@
 2020-07-15,Male,44032,49,831,53,sex,840,9
 2020-07-16,American Indian,723,1,24,2,race,25,1
 2020-07-16,Asian,1192,2,24,2,race,24,2
-2020-07-16,Black or African,15222,24,505,33,race,462,9
-2020-07-16,Native Hawaiian or,195,0,3,0,race,2,0
+2020-07-16,Black or African American,15222,24,505,33,race,462,9
+2020-07-16,Native Hawaiian or Pacific Islander,195,0,3,0,race,2,0
 2020-07-16,White,35471,56,879,57,race,972,6
 2020-07-16,Other,10634,17,97,6,race,276,1
 2020-07-16,Hispanic,26674,44,152,10,ethnicity,519,1
@@ -65,8 +65,8 @@
 2020-07-16,Male,45060,49,841,53,sex,1028,10
 2020-07-17,American Indian,744,1,24,2,race,21,0
 2020-07-17,Asian,1212,2,24,2,race,20,0
-2020-07-17,Black or African,15601,24,509,33,race,379,4
-2020-07-17,Native Hawaiian or,195,0,3,0,race,0,0
+2020-07-17,Black or African American,15601,24,509,33,race,379,4
+2020-07-17,Native Hawaiian or Pacific Islander,195,0,3,0,race,0,0
 2020-07-17,White,36529,56,891,57,race,1058,12
 2020-07-17,Other,10866,17,99,6,race,232,2
 2020-07-17,Hispanic,27150,43,154,10,ethnicity,476,2
@@ -81,8 +81,8 @@
 2020-07-17,Male,45999,49,854,54,sex,939,13
 2020-07-18,American Indian,788,1,24,2,race,44,0
 2020-07-18,Asian,1225,2,25,2,race,13,1
-2020-07-18,Black or African,15936,24,516,33,race,335,7
-2020-07-18,Native Hawaiian or,201,0,3,0,race,6,0
+2020-07-18,Black or African American,15936,24,516,33,race,335,7
+2020-07-18,Native Hawaiian or Pacific Islander,201,0,3,0,race,6,0
 2020-07-18,White,37443,56,906,58,race,914,15
 2020-07-18,Other,11102,17,99,6,race,236,0
 2020-07-18,Hispanic,27598,43,155,10,ethnicity,448,1
@@ -97,8 +97,8 @@
 2020-07-18,Male,47143,49,863,53,sex,1144,9
 2020-07-19,American Indian,804,1,24,2,race,16,0
 2020-07-19,Asian,1237,2,25,2,race,12,0
-2020-07-19,Black or African,16174,24,517,33,race,238,1
-2020-07-19,Native Hawaiian or,205,0,3,0,race,4,0
+2020-07-19,Black or African American,16174,24,517,33,race,238,1
+2020-07-19,Native Hawaiian or Pacific Islander,205,0,3,0,race,4,0
 2020-07-19,White,37950,56,910,58,race,507,4
 2020-07-19,Other,11259,17,99,6,race,157,0
 2020-07-19,Hispanic,27836,43,157,10,ethnicity,238,2
@@ -113,8 +113,8 @@
 2020-07-19,Male,47909,48,867,53,sex,766,4
 2020-07-20,American Indian,825,1,24,2,race,21,0
 2020-07-20,Asian,1253,2,25,2,race,16,0
-2020-07-20,Black or African,16378,24,520,33,race,204,3
-2020-07-20,Native Hawaiian or,205,0,3,0,race,0,0
+2020-07-20,Black or African American,16378,24,520,33,race,204,3
+2020-07-20,Native Hawaiian or Pacific Islander,205,0,3,0,race,0,0
 2020-07-20,White,38365,56,913,58,race,415,3
 2020-07-20,Other,11428,17,101,6,race,169,2
 2020-07-20,Hispanic,28049,43,158,10,ethnicity,213,1
@@ -129,8 +129,8 @@
 2020-07-20,Male,48505,48,872,53,sex,596,5
 2020-07-21,American Indian,859,1,24,1,race,34,0
 2020-07-21,Asian,1279,2,25,2,race,26,0
-2020-07-21,Black or African,16812,24,530,33,race,434,10
-2020-07-21,Native Hawaiian or,207,0,3,0,race,2,0
+2020-07-21,Black or African American,16812,24,530,33,race,434,10
+2020-07-21,Native Hawaiian or Pacific Islander,207,0,3,0,race,2,0
 2020-07-21,White,39248,56,926,57,race,883,13
 2020-07-21,Other,11695,17,103,6,race,267,2
 2020-07-21,Hispanic,28518,43,161,10,ethnicity,469,3
@@ -145,8 +145,8 @@
 2020-07-21,Male,49352,48,884,53,sex,847,12
 2020-07-22,American Indian,911,1,25,2,race,52,1
 2020-07-22,Asian,1301,2,25,2,race,22,0
-2020-07-22,Black or African,17314,24,536,33,race,502,6
-2020-07-22,Native Hawaiian or,210,0,4,0,race,3,1
+2020-07-22,Black or African American,17314,24,536,33,race,502,6
+2020-07-22,Native Hawaiian or Pacific Islander,210,0,4,0,race,3,1
 2020-07-22,White,40399,56,945,58,race,1151,19
 2020-07-22,Other,12039,17,106,6,race,344,3
 2020-07-22,Hispanic,29052,43,166,11,ethnicity,534,5
@@ -161,8 +161,8 @@
 2020-07-22,Male,50339,48,902,53,sex,987,18
 2020-07-23,American Indian,960,1,26,2,race,49,1
 2020-07-23,Asian,1341,2,25,2,race,40,0
-2020-07-23,Black or African,17818,24,542,33,race,504,6
-2020-07-23,Native Hawaiian or,211,0,4,0,race,1,0
+2020-07-23,Black or African American,17818,24,542,33,race,504,6
+2020-07-23,Native Hawaiian or Pacific Islander,211,0,4,0,race,1,0
 2020-07-23,White,41551,56,960,58,race,1152,15
 2020-07-23,Other,12341,17,108,6,race,302,2
 2020-07-23,Hispanic,29584,43,168,11,ethnicity,532,2
@@ -177,8 +177,8 @@
 2020-07-23,Male,51204,48,911,53,sex,865,9
 2020-07-24,American Indian,996,1,26,2,race,36,0
 2020-07-24,Asian,1373,2,25,1,race,32,0
-2020-07-24,Black or African,18298,24,548,33,race,480,6
-2020-07-24,Native Hawaiian or,211,0,3,0,race,0,-1
+2020-07-24,Black or African American,18298,24,548,33,race,480,6
+2020-07-24,Native Hawaiian or Pacific Islander,211,0,3,0,race,0,-1
 2020-07-24,White,42797,56,968,58,race,1246,8
 2020-07-24,Other,12660,17,113,7,race,319,5
 2020-07-24,Hispanic,30050,42,172,11,ethnicity,466,4
@@ -193,8 +193,8 @@
 2020-07-24,Male,52235,48,923,53,sex,1031,12
 2020-07-25,American Indian,1043,1,26,2,race,47,0
 2020-07-25,Asian,1400,2,26,2,race,27,1
-2020-07-25,Black or African,18760,24,557,32,race,462,9
-2020-07-25,Native Hawaiian or,216,0,3,0,race,5,0
+2020-07-25,Black or African American,18760,24,557,32,race,462,9
+2020-07-25,Native Hawaiian or Pacific Islander,216,0,3,0,race,5,0
 2020-07-25,White,43866,56,986,58,race,1069,18
 2020-07-25,Other,12937,17,116,7,race,277,3
 2020-07-25,Hispanic,30510,42,177,11,ethnicity,460,5
@@ -209,8 +209,8 @@
 2020-07-25,Male,53267,48,940,53,sex,1032,17
 2020-07-26,American Indian,1103,1,26,2,race,60,0
 2020-07-26,Asian,1408,2,26,2,race,8,0
-2020-07-26,Black or African,19045,24,558,32,race,285,1
-2020-07-26,Native Hawaiian or,218,0,3,0,race,2,0
+2020-07-26,Black or African American,19045,24,558,32,race,285,1
+2020-07-26,Native Hawaiian or Pacific Islander,218,0,3,0,race,2,0
 2020-07-26,White,44435,56,994,58,race,569,8
 2020-07-26,Other,13178,17,116,7,race,241,0
 2020-07-26,Hispanic,30721,42,177,11,ethnicity,211,0
@@ -225,8 +225,8 @@
 2020-07-26,Male,54072,48,946,53,sex,805,6
 2020-07-27,American Indian,1135,1,26,2,race,32,0
 2020-07-27,Asian,1419,2,26,2,race,11,0
-2020-07-27,Black or African,19338,24,560,32,race,293,2
-2020-07-27,Native Hawaiian or,219,0,3,0,race,1,0
+2020-07-27,Black or African American,19338,24,560,32,race,293,2
+2020-07-27,Native Hawaiian or Pacific Islander,219,0,3,0,race,1,0
 2020-07-27,White,45006,56,996,58,race,571,2
 2020-07-27,Other,13416,17,116,7,race,238,0
 2020-07-27,Hispanic,30931,42,177,11,ethnicity,210,0
@@ -241,8 +241,8 @@
 2020-07-27,Male,54870,48,948,53,sex,798,2
 2020-07-28,American Indian,1154,1,26,1,race,19,0
 2020-07-28,Asian,1440,2,26,1,race,21,0
-2020-07-28,Black or African,19790,24,569,32,race,452,9
-2020-07-28,Native Hawaiian or,225,0,3,0,race,6,0
+2020-07-28,Black or African American,19790,24,569,32,race,452,9
+2020-07-28,Native Hawaiian or Pacific Islander,225,0,3,0,race,6,0
 2020-07-28,White,46037,56,1014,58,race,1031,18
 2020-07-28,Other,13683,17,119,7,race,267,3
 2020-07-28,Hispanic,31444,42,180,11,ethnicity,513,3
@@ -257,8 +257,8 @@
 2020-07-28,Male,55658,48,967,53,sex,788,19
 2020-07-29,American Indian,1192,1,27,1,race,38,1
 2020-07-29,Asian,1460,2,27,1,race,20,1
-2020-07-29,Black or African,20252,24,576,32,race,462,7
-2020-07-29,Native Hawaiian or,234,0,3,0,race,9,0
+2020-07-29,Black or African American,20252,24,576,32,race,462,7
+2020-07-29,Native Hawaiian or Pacific Islander,234,0,3,0,race,9,0
 2020-07-29,White,47213,56,1047,58,race,1176,33
 2020-07-29,Other,13907,17,122,7,race,224,3
 2020-07-29,Hispanic,31951,42,185,11,ethnicity,507,5
@@ -273,8 +273,8 @@
 2020-07-29,Male,56465,48,991,53,sex,807,24
 2020-07-30,American Indian,1258,1,27,1,race,66,0
 2020-07-30,Asian,1486,2,28,2,race,26,1
-2020-07-30,Black or African,20763,24,580,32,race,511,4
-2020-07-30,Native Hawaiian or,233,0,3,0,race,-1,0
+2020-07-30,Black or African American,20763,24,580,32,race,511,4
+2020-07-30,Native Hawaiian or Pacific Islander,233,0,3,0,race,-1,0
 2020-07-30,White,48388,56,1072,58,race,1175,25
 2020-07-30,Other,14231,16,125,7,race,324,3
 2020-07-30,Hispanic,32364,41,188,11,ethnicity,413,3
@@ -289,8 +289,8 @@
 2020-07-30,Male,57529,48,1015,54,sex,1064,24
 2020-07-31,American Indian,1288,1,28,2,race,30,1
 2020-07-31,Asian,1521,2,28,2,race,35,0
-2020-07-31,Black or African,21190,24,584,31,race,427,4
-2020-07-31,Native Hawaiian or,233,0,3,0,race,0,0
+2020-07-31,Black or African American,21190,24,584,31,race,427,4
+2020-07-31,Native Hawaiian or Pacific Islander,233,0,3,0,race,0,0
 2020-07-31,White,49440,56,1084,58,race,1052,12
 2020-07-31,Other,14497,16,127,7,race,266,2
 2020-07-31,Hispanic,32783,41,191,11,ethnicity,419,3
@@ -305,8 +305,8 @@
 2020-07-31,Male,58436,48,1027,54,sex,907,12
 2020-08-01,American Indian,1333,1,28,1,race,45,0
 2020-08-01,Asian,1535,2,29,2,race,14,1
-2020-08-01,Black or African,21584,24,591,31,race,394,7
-2020-08-01,Native Hawaiian or,234,0,3,0,race,1,0
+2020-08-01,Black or African American,21584,24,591,31,race,394,7
+2020-08-01,Native Hawaiian or Pacific Islander,234,0,3,0,race,1,0
 2020-08-01,White,50294,56,1105,59,race,854,21
 2020-08-01,Other,14733,16,132,7,race,236,5
 2020-08-01,Hispanic,33162,41,196,11,ethnicity,379,5
@@ -321,8 +321,8 @@
 2020-08-01,Male,59248,48,1050,54,sex,812,23
 2020-08-02,American Indian,1378,2,29,2,race,45,1
 2020-08-02,Asian,1547,2,29,2,race,12,0
-2020-08-02,Black or African,21805,24,592,31,race,221,1
-2020-08-02,Native Hawaiian or,236,0,3,0,race,2,0
+2020-08-02,Black or African American,21805,24,592,31,race,221,1
+2020-08-02,Native Hawaiian or Pacific Islander,236,0,3,0,race,2,0
 2020-08-02,White,50822,56,1106,58,race,528,1
 2020-08-02,Other,14896,16,133,7,race,163,1
 2020-08-02,Hispanic,33304,41,196,11,ethnicity,142,0
@@ -337,8 +337,8 @@
 2020-08-02,Male,59888,48,1054,54,sex,640,4
 2020-08-03,American Indian,1404,2,29,2,race,26,0
 2020-08-03,Asian,1557,2,29,2,race,10,0
-2020-08-03,Black or African,21989,24,596,31,race,184,4
-2020-08-03,Native Hawaiian or,237,0,4,0,race,1,1
+2020-08-03,Black or African American,21989,24,596,31,race,184,4
+2020-08-03,Native Hawaiian or Pacific Islander,237,0,4,0,race,1,1
 2020-08-03,White,51293,56,1114,58,race,471,8
 2020-08-03,Other,15062,16,133,7,race,166,0
 2020-08-03,Hispanic,33421,41,196,11,ethnicity,117,0
@@ -353,8 +353,8 @@
 2020-08-03,Male,60514,48,1061,54,sex,626,7
 2020-08-04,American Indian,1415,2,29,2,race,11,0
 2020-08-04,Asian,1573,2,29,2,race,16,0
-2020-08-04,Black or African,22386,24,606,31,race,397,10
-2020-08-04,Native Hawaiian or,241,0,4,0,race,4,0
+2020-08-04,Black or African American,22386,24,606,31,race,397,10
+2020-08-04,Native Hawaiian or Pacific Islander,241,0,4,0,race,4,0
 2020-08-04,White,52121,56,1126,58,race,828,12
 2020-08-04,Other,15242,16,138,7,race,180,5
 2020-08-04,Hispanic,33689,41,199,11,ethnicity,268,3
@@ -369,8 +369,8 @@
 2020-08-04,Male,61262,48,1077,54,sex,748,16
 2020-08-05,American Indian,1427,2,29,1,race,12,0
 2020-08-05,Asian,1593,2,29,1,race,20,0
-2020-08-05,Black or African,22680,24,612,31,race,294,6
-2020-08-05,Native Hawaiian or,240,0,4,0,race,-1,0
+2020-08-05,Black or African American,22680,24,612,31,race,294,6
+2020-08-05,Native Hawaiian or Pacific Islander,240,0,4,0,race,-1,0
 2020-08-05,White,52788,56,1154,59,race,667,28
 2020-08-05,Other,15406,16,139,7,race,164,1
 2020-08-05,Hispanic,33966,40,203,11,ethnicity,277,4
@@ -385,8 +385,8 @@
 2020-08-05,Male,61774,48,1096,54,sex,512,19
 2020-08-06,American Indian,1457,2,30,1,race,30,1
 2020-08-06,Asian,1621,2,29,1,race,28,0
-2020-08-06,Black or African,23005,24,623,31,race,325,11
-2020-08-06,Native Hawaiian or,240,0,4,0,race,0,0
+2020-08-06,Black or African American,23005,24,623,31,race,325,11
+2020-08-06,Native Hawaiian or Pacific Islander,240,0,4,0,race,0,0
 2020-08-06,White,53697,56,1174,59,race,909,20
 2020-08-06,Other,15647,16,141,7,race,241,2
 2020-08-06,Hispanic,34324,40,205,11,ethnicity,358,2
@@ -401,8 +401,8 @@
 2020-08-06,Male,62690,48,1112,53,sex,916,16
 2020-08-07,American Indian,1481,2,30,1,race,24,0
 2020-08-07,Asian,1647,2,29,1,race,26,0
-2020-08-07,Black or African,23339,24,638,31,race,334,15
-2020-08-07,Native Hawaiian or,243,0,4,0,race,3,0
+2020-08-07,Black or African American,23339,24,638,31,race,334,15
+2020-08-07,Native Hawaiian or Pacific Islander,243,0,4,0,race,3,0
 2020-08-07,White,54495,56,1191,58,race,798,17
 2020-08-07,Other,15840,16,145,7,race,193,4
 2020-08-07,Hispanic,34605,40,208,11,ethnicity,281,3
@@ -417,8 +417,8 @@
 2020-08-07,Male,63393,48,1129,53,sex,703,17
 2020-08-08,American Indian,1511,2,30,1,race,30,0
 2020-08-08,Asian,1676,2,29,1,race,29,0
-2020-08-08,Black or African,23713,24,650,32,race,374,12
-2020-08-08,Native Hawaiian or,245,0,4,0,race,2,0
+2020-08-08,Black or African American,23713,24,650,32,race,374,12
+2020-08-08,Native Hawaiian or Pacific Islander,245,0,4,0,race,2,0
 2020-08-08,White,55330,56,1201,58,race,835,10
 2020-08-08,Other,16021,16,147,7,race,181,2
 2020-08-08,Hispanic,34957,40,213,11,ethnicity,352,5
@@ -433,8 +433,8 @@
 2020-08-08,Male,64288,48,1139,53,sex,895,10
 2020-08-09,American Indian,1526,2,30,1,race,15,0
 2020-08-09,Asian,1694,2,29,1,race,18,0
-2020-08-09,Black or African,23982,24,651,31,race,269,1
-2020-08-09,Native Hawaiian or,249,0,4,0,race,4,0
+2020-08-09,Black or African American,23982,24,651,31,race,269,1
+2020-08-09,Native Hawaiian or Pacific Islander,249,0,4,0,race,4,0
 2020-08-09,White,55951,56,1207,58,race,621,6
 2020-08-09,Other,16177,16,148,7,race,156,1
 2020-08-09,Hispanic,35145,40,214,11,ethnicity,188,1
@@ -449,8 +449,8 @@
 2020-08-09,Male,64914,48,1143,53,sex,626,4
 2020-08-10,American Indian,1531,2,30,1,race,5,0
 2020-08-10,Asian,1704,2,29,1,race,10,0
-2020-08-10,Black or African,24125,24,653,32,race,143,2
-2020-08-10,Native Hawaiian or,250,0,4,0,race,1,0
+2020-08-10,Black or African American,24125,24,653,32,race,143,2
+2020-08-10,Native Hawaiian or Pacific Islander,250,0,4,0,race,1,0
 2020-08-10,White,56249,56,1208,58,race,298,1
 2020-08-10,Other,16279,16,149,7,race,102,1
 2020-08-10,Hispanic,35270,40,215,11,ethnicity,125,1
@@ -465,8 +465,8 @@
 2020-08-10,Male,65176,48,1145,53,sex,262,2
 2020-08-11,American Indian,1547,2,30,1,race,16,0
 2020-08-11,Asian,1738,2,30,1,race,34,1
-2020-08-11,Black or African,24420,24,663,32,race,295,10
-2020-08-11,Native Hawaiian or,254,0,4,0,race,4,0
+2020-08-11,Black or African American,24420,24,663,32,race,295,10
+2020-08-11,Native Hawaiian or Pacific Islander,254,0,4,0,race,4,0
 2020-08-11,White,56974,56,1222,58,race,725,14
 2020-08-11,Other,16439,16,150,7,race,160,1
 2020-08-11,Hispanic,35596,40,216,11,ethnicity,326,1
@@ -481,8 +481,8 @@
 2020-08-11,Male,65633,48,1159,53,sex,457,14
 2020-08-12,American Indian,1551,2,32,1,race,4,2
 2020-08-12,Asian,1758,2,30,1,race,20,0
-2020-08-12,Black or African,24702,24,677,32,race,282,14
-2020-08-12,Native Hawaiian or,253,0,4,0,race,-1,0
+2020-08-12,Black or African American,24702,24,677,32,race,282,14
+2020-08-12,Native Hawaiian or Pacific Islander,253,0,4,0,race,-1,0
 2020-08-12,White,57667,56,1242,58,race,693,20
 2020-08-12,Other,16553,16,151,7,race,114,1
 2020-08-12,Hispanic,35904,39,219,11,ethnicity,308,3
@@ -497,8 +497,8 @@
 2020-08-12,Male,66177,48,1181,53,sex,544,22
 2020-08-13,American Indian,1567,2,32,1,race,16,0
 2020-08-13,Asian,1787,2,30,1,race,29,0
-2020-08-13,Black or African,25123,24,683,32,race,421,6
-2020-08-13,Native Hawaiian or,255,0,4,0,race,2,0
+2020-08-13,Black or African American,25123,24,683,32,race,421,6
+2020-08-13,Native Hawaiian or Pacific Islander,255,0,4,0,race,2,0
 2020-08-13,White,58636,56,1266,58,race,969,24
 2020-08-13,Other,16771,16,153,7,race,218,2
 2020-08-13,Hispanic,36312,39,223,11,ethnicity,408,4
@@ -513,8 +513,8 @@
 2020-08-13,Male,66980,48,1207,53,sex,803,26
 2020-08-14,American Indian,1609,2,32,1,race,42,0
 2020-08-14,Asian,1811,2,31,1,race,24,1
-2020-08-14,Black or African,25455,24,689,31,race,332,6
-2020-08-14,Native Hawaiian or,254,0,4,0,race,-1,0
+2020-08-14,Black or African American,25455,24,689,31,race,332,6
+2020-08-14,Native Hawaiian or Pacific Islander,254,0,4,0,race,-1,0
 2020-08-14,White,59427,56,1283,58,race,791,17
 2020-08-14,Other,16937,16,155,7,race,166,2
 2020-08-14,Hispanic,36579,39,224,11,ethnicity,267,1
@@ -529,8 +529,8 @@
 2020-08-14,Male,67569,48,1219,53,sex,589,12
 2020-08-15,American Indian,1635,2,32,1,race,26,0
 2020-08-15,Asian,1826,2,31,1,race,15,0
-2020-08-15,Black or African,25772,24,697,31,race,317,8
-2020-08-15,Native Hawaiian or,256,0,4,0,race,2,0
+2020-08-15,Black or African American,25772,24,697,31,race,317,8
+2020-08-15,Native Hawaiian or Pacific Islander,256,0,4,0,race,2,0
 2020-08-15,White,60148,56,1298,59,race,721,15
 2020-08-15,Other,17108,16,155,7,race,171,0
 2020-08-15,Hispanic,36823,39,226,11,ethnicity,244,2
@@ -545,8 +545,8 @@
 2020-08-15,Male,68255,48,1227,53,sex,686,8
 2020-08-16,American Indian,1655,2,32,1,race,20,0
 2020-08-16,Asian,1845,2,31,1,race,19,0
-2020-08-16,Black or African,25967,24,698,31,race,195,1
-2020-08-16,Native Hawaiian or,258,0,4,0,race,2,0
+2020-08-16,Black or African American,25967,24,698,31,race,195,1
+2020-08-16,Native Hawaiian or Pacific Islander,258,0,4,0,race,2,0
 2020-08-16,White,60684,56,1301,59,race,536,3
 2020-08-16,Other,17270,16,155,7,race,162,0
 2020-08-16,Hispanic,36922,39,227,11,ethnicity,99,1
@@ -561,8 +561,8 @@
 2020-08-16,Male,68801,48,1226,53,sex,546,-1
 2020-08-17,American Indian,1667,2,32,1,race,12,0
 2020-08-17,Asian,1853,2,31,1,race,8,0
-2020-08-17,Black or African,26083,24,698,31,race,116,0
-2020-08-17,Native Hawaiian or,259,0,4,0,race,1,0
+2020-08-17,Black or African American,26083,24,698,31,race,116,0
+2020-08-17,Native Hawaiian or Pacific Islander,259,0,4,0,race,1,0
 2020-08-17,White,60986,56,1302,59,race,302,1
 2020-08-17,Other,17341,16,155,7,race,71,0
 2020-08-17,Hispanic,37032,39,227,11,ethnicity,110,0
@@ -577,8 +577,8 @@
 2020-08-17,Male,69034,48,1226,53,sex,233,0
 2020-08-18,American Indian,1686,2,32,1,race,19,0
 2020-08-18,Asian,1878,2,31,1,race,25,0
-2020-08-18,Black or African,26410,24,709,31,race,327,11
-2020-08-18,Native Hawaiian or,262,0,4,0,race,3,0
+2020-08-18,Black or African American,26410,24,709,31,race,327,11
+2020-08-18,Native Hawaiian or Pacific Islander,262,0,4,0,race,3,0
 2020-08-18,White,61831,56,1333,59,race,845,31
 2020-08-18,Other,17455,16,160,7,race,114,5
 2020-08-18,Hispanic,37337,39,233,11,ethnicity,305,6
@@ -593,8 +593,8 @@
 2020-08-18,Male,69653,48,1251,53,sex,619,25
 2020-08-19,American Indian,1702,2,32,1,race,16,0
 2020-08-19,Asian,1918,2,31,1,race,40,0
-2020-08-19,Black or African,26709,24,718,31,race,299,9
-2020-08-19,Native Hawaiian or,264,0,4,0,race,2,0
+2020-08-19,Black or African American,26709,24,718,31,race,299,9
+2020-08-19,Native Hawaiian or Pacific Islander,264,0,4,0,race,2,0
 2020-08-19,White,62514,56,1356,59,race,683,23
 2020-08-19,Other,17588,16,162,7,race,133,2
 2020-08-19,Hispanic,37615,38,237,11,ethnicity,278,4
@@ -609,8 +609,8 @@
 2020-08-19,Male,70161,48,1270,53,sex,508,19
 2020-08-20,American Indian,1727,2,32,1,race,25,0
 2020-08-20,Asian,1961,2,32,1,race,43,1
-2020-08-20,Black or African,27072,24,728,31,race,363,10
-2020-08-20,Native Hawaiian or,265,0,4,0,race,1,0
+2020-08-20,Black or African American,27072,24,728,31,race,363,10
+2020-08-20,Native Hawaiian or Pacific Islander,265,0,4,0,race,1,0
 2020-08-20,White,63580,57,1375,59,race,1066,19
 2020-08-20,Other,17801,16,164,7,race,213,2
 2020-08-20,Hispanic,37944,38,239,11,ethnicity,329,2
@@ -625,8 +625,8 @@
 2020-08-20,Male,71076,48,1294,53,sex,915,24
 2020-08-21,American Indian,1753,2,32,1,race,26,0
 2020-08-21,Asian,2016,2,32,1,race,55,0
-2020-08-21,Black or African,27467,24,736,31,race,395,8
-2020-08-21,Native Hawaiian or,267,0,4,0,race,2,0
+2020-08-21,Black or African American,27467,24,736,31,race,395,8
+2020-08-21,Native Hawaiian or Pacific Islander,267,0,4,0,race,2,0
 2020-08-21,White,64604,57,1393,59,race,1024,18
 2020-08-21,Other,18035,16,165,7,race,234,1
 2020-08-21,Hispanic,38319,38,240,11,ethnicity,375,1
@@ -641,8 +641,8 @@
 2020-08-21,Male,71994,48,1312,53,sex,918,18
 2020-08-22,American Indian,1757,2,32,1,race,4,0
 2020-08-22,Asian,2058,2,32,1,race,42,0
-2020-08-22,Black or African,27875,24,743,31,race,408,7
-2020-08-22,Native Hawaiian or Pa..,267,0,4,0,race,,
+2020-08-22,Black or African American,27875,24,743,31,race,408,7
+2020-08-22,Native Hawaiian or Pacific Islander,267,0,4,0,race,0,0
 2020-08-22,White,65498,57,1409,59,race,894,16
 2020-08-22,Other,18262,16,168,7,race,227,3
 2020-08-22,Hispanic,38619,38,241,11,ethnicity,300,1
@@ -657,8 +657,8 @@
 2020-08-22,Male,72788,48,1323,53,sex,794,11
 2020-08-23,American Indian,1776,2,32,1,race,19,0
 2020-08-23,Asian,2081,2,32,1,race,23,0
-2020-08-23,Black or African,28061,24,745,31,race,186,2
-2020-08-23,Native Hawaiian or Pa..,268,0,4,0,race,1,0
+2020-08-23,Black or African American,28061,24,745,31,race,186,2
+2020-08-23,Native Hawaiian or Pacific Islander,268,0,4,0,race,1,0
 2020-08-23,White,66296,57,1414,59,race,798,5
 2020-08-23,Other,18441,16,169,7,race,179,1
 2020-08-23,Hispanic,38826,38,243,11,ethnicity,207,2
@@ -673,8 +673,8 @@
 2020-08-23,Male,73395,48,1325,53,sex,607,2
 2020-08-24,American Indian,1792,2,32,1,race,16,0
 2020-08-24,Asian,2105,2,32,1,race,24,0
-2020-08-24,Black or African,28202,24,747,31,race,141,2
-2020-08-24,Native Hawaiian or Pa..,267,0,4,0,race,-1,0
+2020-08-24,Black or African American,28202,24,747,31,race,141,2
+2020-08-24,Native Hawaiian or Pacific Islander,267,0,4,0,race,-1,0
 2020-08-24,White,66827,57,1416,59,race,531,2
 2020-08-24,Other,18671,16,169,7,race,230,0
 2020-08-24,Hispanic,38934,38,244,11,ethnicity,108,1
@@ -689,8 +689,8 @@
 2020-08-24,Male,74008,48,1327,53,sex,613,2
 2020-08-25,American Indian,1803,2,34,1,race,11,2
 2020-08-25,Asian,2149,2,33,1,race,44,1
-2020-08-25,Black or African,28552,24,754,31,race,350,7
-2020-08-25,Native Hawaiian or Pa..,268,0,4,0,race,1,0
+2020-08-25,Black or African American,28552,24,754,31,race,350,7
+2020-08-25,Native Hawaiian or Pacific Islander,268,0,4,0,race,1,0
 2020-08-25,White,67639,57,1437,59,race,812,21
 2020-08-25,Other,18830,16,171,7,race,159,2
 2020-08-25,Hispanic,39241,38,247,11,ethnicity,307,3
@@ -705,8 +705,8 @@
 2020-08-25,Male,74623,48,1343,53,sex,615,16
 2020-08-26,American Indian,1824,2,34,1,race,21,0
 2020-08-26,Asian,2179,2,33,1,race,30,0
-2020-08-26,Black or African,28857,24,765,31,race,305,11
-2020-08-26,Native Hawaiian or Pa..,270,0,4,0,race,2,0
+2020-08-26,Black or African American,28857,24,765,31,race,305,11
+2020-08-26,Native Hawaiian or Pacific Islander,270,0,4,0,race,2,0
 2020-08-26,White,68434,57,1457,59,race,795,20
 2020-08-26,Other,19025,16,173,7,race,195,2
 2020-08-26,Hispanic,39534,37,248,11,ethnicity,293,1
@@ -721,8 +721,8 @@
 2020-08-26,Male,75199,48,1357,52,sex,576,14
 2020-08-27,American Indian,1871,2,34,1,race,47,0
 2020-08-27,Asian,2220,2,33,1,race,41,0
-2020-08-27,Black or African,29238,24,768,31,race,381,3
-2020-08-27,Native Hawaiian or Pa..,271,0,4,0,race,1,0
+2020-08-27,Black or African American,29238,24,768,31,race,381,3
+2020-08-27,Native Hawaiian or Pacific Islander,271,0,4,0,race,1,0
 2020-08-27,White,69464,57,1474,59,race,1030,17
 2020-08-27,Other,19348,16,176,7,race,323,3
 2020-08-27,Hispanic,39830,37,252,11,ethnicity,296,4
@@ -737,8 +737,8 @@
 2020-08-27,Male,76144,48,1368,52,sex,945,11
 2020-08-28,American Indian,1903,2,35,1,race,32,1
 2020-08-28,Asian,2244,2,33,1,race,24,0
-2020-08-28,Black or African,29533,24,772,31,race,295,4
-2020-08-28,Native Hawaiian or Pa..,272,0,4,0,race,1,0
+2020-08-28,Black or African American,29533,24,772,31,race,295,4
+2020-08-28,Native Hawaiian or Pacific Islander,272,0,4,0,race,1,0
 2020-08-28,White,70320,57,1486,59,race,856,12
 2020-08-28,Other,19581,16,178,7,race,233,2
 2020-08-28,Hispanic,40077,37,254,11,ethnicity,247,2
@@ -753,8 +753,8 @@
 2020-08-28,Male,76807,48,1379,52,sex,663,11
 2020-08-29,American Indian,1953,2,35,1,race,50,0
 2020-08-29,Asian,2287,2,33,1,race,43,0
-2020-08-29,Black or African,29903,24,782,31,race,370,10
-2020-08-29,Native Hawaiian or Pa..,269,0,4,0,race,-3,0
+2020-08-29,Black or African American,29903,24,782,31,race,370,10
+2020-08-29,Native Hawaiian or Pacific Islander,269,0,4,0,race,-3,0
 2020-08-29,White,71534,57,1505,59,race,1214,19
 2020-08-29,Other,19966,16,181,7,race,385,3
 2020-08-29,Hispanic,40369,37,256,11,ethnicity,292,2
@@ -769,8 +769,8 @@
 2020-08-29,Male,78063,48,1393,52,sex,1256,14
 2020-08-30,American Indian,1960,2,35,1,race,7,0
 2020-08-30,Asian,2309,2,33,1,race,22,0
-2020-08-30,Black or African,30056,24,785,31,race,153,3
-2020-08-30,Native Hawaiian or Pa..,271,0,4,0,race,2,0
+2020-08-30,Black or African American,30056,24,785,31,race,153,3
+2020-08-30,Native Hawaiian or Pacific Islander,271,0,4,0,race,2,0
 2020-08-30,White,71976,57,1510,59,race,442,5
 2020-08-30,Other,20125,16,182,7,race,159,1
 2020-08-30,Hispanic,40459,37,257,11,ethnicity,90,1
@@ -785,8 +785,8 @@
 2020-08-30,Male,78590,48,1398,52,sex,527,5
 2020-08-31,American Indian,1990,2,35,1,race,30,0
 2020-08-31,Asian,2328,2,33,1,race,19,0
-2020-08-31,Black or African,30275,24,790,31,race,219,5
-2020-08-31,Native Hawaiian or Pa..,271,0,4,0,race,0,0
+2020-08-31,Black or African American,30275,24,790,31,race,219,5
+2020-08-31,Native Hawaiian or Pacific Islander,271,0,4,0,race,0,0
 2020-08-31,White,72444,57,1515,59,race,468,5
 2020-08-31,Other,20262,16,182,7,race,137,0
 2020-08-31,Hispanic,40579,37,257,11,ethnicity,120,0
@@ -801,8 +801,8 @@
 2020-08-31,Male,79180,48,1405,52,sex,590,7
 2020-09-01,American Indian,2048,2,35,1,race,58,0
 2020-09-01,Asian,2401,2,34,1,race,73,1
-2020-09-01,Black or African,30696,24,800,31,race,421,10
-2020-09-01,Native Hawaiian or Pa..,271,0,4,0,race,0,0
+2020-09-01,Black or African American,30696,24,800,31,race,421,10
+2020-09-01,Native Hawaiian or Pacific Islander,271,0,4,0,race,0,0
 2020-09-01,White,73546,57,1542,59,race,1102,27
 2020-09-01,Other,20450,16,184,7,race,188,2
 2020-09-01,Hispanic,40871,37,259,11,ethnicity,292,2
@@ -817,8 +817,8 @@
 2020-09-01,Male,80203,48,1427,52,sex,1023,22
 2020-09-02,American Indian,2053,2,36,1,race,5,1
 2020-09-02,Asian,2442,2,34,1,race,41,0
-2020-09-02,Black or African,30995,24,812,31,race,299,12
-2020-09-02,Native Hawaiian or Pa..,273,0,4,0,race,2,0
+2020-09-02,Black or African American,30995,24,812,31,race,299,12
+2020-09-02,Native Hawaiian or Pacific Islander,273,0,4,0,race,2,0
 2020-09-02,White,74290,57,1566,59,race,744,24
 2020-09-02,Other,20619,16,191,7,race,169,7
 2020-09-02,Hispanic,41182,37,270,11,ethnicity,311,11
@@ -833,8 +833,8 @@
 2020-09-02,Male,80742,48,1447,52,sex,539,20
 2020-09-03,American Indian,2064,2,36,1,race,11,0
 2020-09-03,Asian,2485,2,35,1,race,43,1
-2020-09-03,Black or African,31349,24,822,31,race,354,10
-2020-09-03,Native Hawaiian or Pa..,276,0,4,0,race,3,0
+2020-09-03,Black or African American,31349,24,822,31,race,354,10
+2020-09-03,Native Hawaiian or Pacific Islander,276,0,4,0,race,3,0
 2020-09-03,White,75215,57,1579,59,race,925,13
 2020-09-03,Other,20888,16,191,7,race,269,0
 2020-09-03,Hispanic,41495,36,270,11,ethnicity,313,0
@@ -849,8 +849,8 @@
 2020-09-03,Male,81495,48,1461,52,sex,753,14
 2020-09-04,American Indian,2064,2,36,1,race,0,0
 2020-09-04,Asian,2485,2,35,1,race,0,0
-2020-09-04,Black or African,31349,24,822,31,race,0,0
-2020-09-04,Native Hawaiian or Pa..,276,0,4,0,race,0,0
+2020-09-04,Black or African American,31349,24,822,31,race,0,0
+2020-09-04,Native Hawaiian or Pacific Islander,276,0,4,0,race,0,0
 2020-09-04,White,75215,57,1579,59,race,0,0
 2020-09-04,Other,20888,16,191,7,race,0,0
 2020-09-04,Hispanic,41495,36,270,11,ethnicity,0,0
@@ -865,8 +865,8 @@
 2020-09-04,Male,81495,48,1461,52,sex,0,0
 2020-09-05,American Indian,2131,2,37,1,race,67,1
 2020-09-05,Asian,2575,2,35,1,race,90,0
-2020-09-05,Black or African,32011,24,845,31,race,662,23
-2020-09-05,Native Hawaiian or Pa..,276,0,4,0,race,0,0
+2020-09-05,Black or African American,32011,24,845,31,race,662,23
+2020-09-05,Native Hawaiian or Pacific Islander,276,0,4,0,race,0,0
 2020-09-05,White,77204,57,1633,59,race,1989,54
 2020-09-05,Other,21333,16,192,7,race,445,1
 2020-09-05,Hispanic,41977,36,270,10,ethnicity,482,0
@@ -881,8 +881,8 @@
 2020-09-05,Male,83251,48,1497,52,sex,1756,36
 2020-09-06,American Indian,2140,2,37,1,race,9,0
 2020-09-06,Asian,2589,2,35,1,race,14,0
-2020-09-06,Black or African,32140,24,845,31,race,129,0
-2020-09-06,Native Hawaiian or Pa..,275,0,4,0,race,-1,0
+2020-09-06,Black or African American,32140,24,845,31,race,129,0
+2020-09-06,Native Hawaiian or Pacific Islander,275,0,4,0,race,-1,0
 2020-09-06,White,77710,57,1634,59,race,506,1
 2020-09-06,Other,21460,16,192,7,race,127,0
 2020-09-06,Hispanic,42060,36,270,10,ethnicity,83,0
@@ -897,8 +897,8 @@
 2020-09-06,Male,83751,48,1498,52,sex,500,1
 2020-09-07,American Indian,2150,2,37,1,race,10,0
 2020-09-07,Asian,2606,2,35,1,race,17,0
-2020-09-07,Black or African,32303,24,850,31,race,163,5
-2020-09-07,Native Hawaiian or Pa..,274,0,4,0,race,-1,0
+2020-09-07,Black or African American,32303,24,850,31,race,163,5
+2020-09-07,Native Hawaiian or Pacific Islander,274,0,4,0,race,-1,0
 2020-09-07,White,78143,57,1636,59,race,433,2
 2020-09-07,Other,21573,16,192,7,race,113,0
 2020-09-07,Hispanic,42154,36,270,10,ethnicity,94,0
@@ -913,8 +913,8 @@
 2020-09-07,Male,84178,48,1500,52,sex,427,2
 2020-09-08,American Indian,2166,2,37,1,race,16,0
 2020-09-08,Asian,2617,2,35,1,race,11,0
-2020-09-08,Black or African,32423,24,854,31,race,120,4
-2020-09-08,Native Hawaiian or Pa..,274,0,4,0,race,0,0
+2020-09-08,Black or African American,32423,24,854,31,race,120,4
+2020-09-08,Native Hawaiian or Pacific Islander,274,0,4,0,race,0,0
 2020-09-08,White,78547,57,1643,59,race,404,7
 2020-09-08,Other,21670,16,193,7,race,97,1
 2020-09-08,Hispanic,42243,36,270,10,ethnicity,89,0
@@ -929,8 +929,8 @@
 2020-09-08,Male,84513,48,1507,52,sex,335,7
 2020-09-09,American Indian,2178,2,38,1,race,12,1
 2020-09-09,Asian,2649,2,35,1,race,32,0
-2020-09-09,Black or African,32669,24,869,31,race,246,15
-2020-09-09,Native Hawaiian or Pa..,273,0,4,0,race,-1,0
+2020-09-09,Black or African American,32669,24,869,31,race,246,15
+2020-09-09,Native Hawaiian or Pacific Islander,273,0,4,0,race,-1,0
 2020-09-09,White,79184,57,1674,59,race,637,31
 2020-09-09,Other,21765,16,194,7,race,95,1
 2020-09-09,Hispanic,42480,36,271,10,ethnicity,237,1
@@ -945,8 +945,8 @@
 2020-09-09,Male,84931,48,1534,52,sex,418,27
 2020-09-10,American Indian,2198,2,40,1,race,20,2
 2020-09-10,Asian,2679,2,36,1,race,30,1
-2020-09-10,Black or African,33010,24,876,31,race,341,7
-2020-09-10,Native Hawaiian or Pa..,273,0,4,0,race,0,0
+2020-09-10,Black or African American,33010,24,876,31,race,341,7
+2020-09-10,Native Hawaiian or Pacific Islander,273,0,4,0,race,0,0
 2020-09-10,White,80051,57,1690,59,race,867,16
 2020-09-10,Other,21948,16,196,7,race,183,2
 2020-09-10,Hispanic,42750,36,272,10,ethnicity,270,1
@@ -961,8 +961,8 @@
 2020-09-10,Male,85492,48,1557,52,sex,561,23
 2020-09-11,American Indian,2224,2,40,1,race,26,0
 2020-09-11,Asian,2728,2,37,1,race,49,1
-2020-09-11,Black or African,33364,24,886,31,race,354,10
-2020-09-11,Native Hawaiian or Pa..,275,0,4,0,race,2,0
+2020-09-11,Black or African American,33364,24,886,31,race,354,10
+2020-09-11,Native Hawaiian or Pacific Islander,275,0,4,0,race,2,0
 2020-09-11,White,80946,57,1710,60,race,895,20
 2020-09-11,Other,22145,16,196,7,race,197,0
 2020-09-11,Hispanic,43005,35,272,10,ethnicity,255,0
@@ -977,8 +977,8 @@
 2020-09-11,Male,86174,48,1573,52,sex,682,16
 2020-09-12,American Indian,2248,2,40,1,race,24,0
 2020-09-12,Asian,2756,2,39,1,race,28,2
-2020-09-12,Black or African,33654,24,892,31,race,290,6
-2020-09-12,Native Hawaiian or Pa..,279,0,4,0,race,4,0
+2020-09-12,Black or African American,33654,24,892,31,race,290,6
+2020-09-12,Native Hawaiian or Pacific Islander,279,0,4,0,race,4,0
 2020-09-12,White,81733,57,1724,60,race,787,14
 2020-09-12,Other,22322,16,197,7,race,177,1
 2020-09-12,Hispanic,43234,35,272,10,ethnicity,229,0
@@ -993,8 +993,8 @@
 2020-09-12,Male,86911,48,1587,52,sex,737,14
 2020-09-13,American Indian,2272,2,40,1,race,24,0
 2020-09-13,Asian,2772,2,39,1,race,16,0
-2020-09-13,Black or African,33838,24,894,31,race,184,2
-2020-09-13,Native Hawaiian or Pa..,281,0,4,0,race,2,0
+2020-09-13,Black or African American,33838,24,894,31,race,184,2
+2020-09-13,Native Hawaiian or Pacific Islander,281,0,4,0,race,2,0
 2020-09-13,White,82264,57,1726,60,race,531,2
 2020-09-13,Other,22484,16,197,7,race,162,0
 2020-09-13,Hispanic,43339,35,272,10,ethnicity,105,0
@@ -1009,8 +1009,8 @@
 2020-09-13,Male,87452,48,1590,52,sex,541,3
 2020-09-14,American Indian,2282,2,40,1,race,10,0
 2020-09-14,Asian,2779,2,39,1,race,7,0
-2020-09-14,Black or African,33983,24,896,31,race,145,2
-2020-09-14,Native Hawaiian or Pa..,281,0,4,0,race,0,0
+2020-09-14,Black or African American,33983,24,896,31,race,145,2
+2020-09-14,Native Hawaiian or Pacific Islander,281,0,4,0,race,0,0
 2020-09-14,White,82640,57,1730,59,race,376,4
 2020-09-14,Other,22591,16,199,7,race,107,2
 2020-09-14,Hispanic,43412,35,274,10,ethnicity,73,2
@@ -1025,8 +1025,8 @@
 2020-09-14,Male,87821,48,1594,52,sex,369,4
 2020-09-15,American Indian,2302,2,40,1,race,20,0
 2020-09-15,Asian,2810,2,40,1,race,31,1
-2020-09-15,Black or African,34264,24,905,31,race,281,9
-2020-09-15,Native Hawaiian or Pa..,284,0,4,0,race,3,0
+2020-09-15,Black or African American,34264,24,905,31,race,281,9
+2020-09-15,Native Hawaiian or Pacific Islander,284,0,4,0,race,3,0
 2020-09-15,White,83390,57,1767,60,race,750,37
 2020-09-15,Other,22722,16,201,7,race,131,2
 2020-09-15,Hispanic,43638,35,276,10,ethnicity,226,2
@@ -1041,8 +1041,8 @@
 2020-09-15,Male,88327,48,1618,52,sex,506,24
 2020-09-16,American Indian,2315,2,41,1,race,13,1
 2020-09-16,Asian,2827,2,40,1,race,17,0
-2020-09-16,Black or African,34538,23,912,30,race,274,7
-2020-09-16,Native Hawaiian or Pa..,291,0,4,0,race,7,0
+2020-09-16,Black or African American,34538,23,912,30,race,274,7
+2020-09-16,Native Hawaiian or Pacific Islander,291,0,4,0,race,7,0
 2020-09-16,White,84156,57,1795,60,race,766,28
 2020-09-16,Other,22873,16,203,7,race,151,2
 2020-09-16,Hispanic,43888,35,279,10,ethnicity,250,3
@@ -1057,8 +1057,8 @@
 2020-09-16,Male,88846,48,1641,52,sex,519,23
 2020-09-17,American Indian,2356,2,43,1,race,41,2
 2020-09-17,Asian,2852,2,41,1,race,25,1
-2020-09-17,Black or African,34827,23,925,31,race,289,13
-2020-09-17,Native Hawaiian or Pa..,293,0,4,0,race,2,0
+2020-09-17,Black or African American,34827,23,925,31,race,289,13
+2020-09-17,Native Hawaiian or Pacific Islander,293,0,4,0,race,2,0
 2020-09-17,White,84957,57,1809,60,race,801,14
 2020-09-17,Other,23041,16,204,7,race,168,1
 2020-09-17,Hispanic,44131,35,281,10,ethnicity,243,2
@@ -1073,8 +1073,8 @@
 2020-09-17,Male,89574,48,1656,52,sex,728,15
 2020-09-18,American Indian,2376,2,44,1,race,20,1
 2020-09-18,Asian,2883,2,41,1,race,31,0
-2020-09-18,Black or African,35178,23,933,31,race,351,8
-2020-09-18,Native Hawaiian or Pa..,293,0,4,0,race,0,0
+2020-09-18,Black or African American,35178,23,933,31,race,351,8
+2020-09-18,Native Hawaiian or Pacific Islander,293,0,4,0,race,0,0
 2020-09-18,White,85824,57,1826,60,race,867,17
 2020-09-18,Other,23203,15,205,7,race,162,1
 2020-09-18,Hispanic,44352,35,282,10,ethnicity,221,1
@@ -1089,8 +1089,8 @@
 2020-09-18,Male,90239,48,1667,52,sex,665,11
 2020-09-19,American Indian,2389,2,44,1,race,13,0
 2020-09-19,Asian,2906,2,41,1,race,23,0
-2020-09-19,Black or African,35482,24,941,31,race,304,8
-2020-09-19,Native Hawaiian or Pa..,295,0,4,0,race,2,0
+2020-09-19,Black or African American,35482,24,941,31,race,304,8
+2020-09-19,Native Hawaiian or Pacific Islander,295,0,4,0,race,2,0
 2020-09-19,White,86535,57,1843,60,race,711,17
 2020-09-19,Other,23317,15,207,7,race,114,2
 2020-09-19,Hispanic,44575,35,284,10,ethnicity,223,2
@@ -1105,8 +1105,8 @@
 2020-09-19,Male,90815,48,1682,52,sex,576,15
 2020-09-20,American Indian,2403,2,44,1,race,14,0
 2020-09-20,Asian,2931,2,41,1,race,25,0
-2020-09-20,Black or African,35668,23,940,30,race,186,-1
-2020-09-20,Native Hawaiian or Pa..,295,0,4,0,race,0,0
+2020-09-20,Black or African American,35668,23,940,30,race,186,-1
+2020-09-20,Native Hawaiian or Pacific Islander,295,0,4,0,race,0,0
 2020-09-20,White,87065,57,1850,60,race,530,7
 2020-09-20,Other,23457,15,209,7,race,140,2
 2020-09-20,Hispanic,44653,35,286,10,ethnicity,78,2
@@ -1121,8 +1121,8 @@
 2020-09-20,Male,91428,48,1685,52,sex,613,3
 2020-09-21,American Indian,2408,2,44,1,race,5,0
 2020-09-21,Asian,2949,2,41,1,race,18,0
-2020-09-21,Black or African,35769,23,941,30,race,101,1
-2020-09-21,Native Hawaiian or Pa..,295,0,4,0,race,0,0
+2020-09-21,Black or African American,35769,23,941,30,race,101,1
+2020-09-21,Native Hawaiian or Pacific Islander,295,0,4,0,race,0,0
 2020-09-21,White,87430,57,1852,60,race,365,2
 2020-09-21,Other,23551,15,210,7,race,94,1
 2020-09-21,Hispanic,44748,35,287,10,ethnicity,95,1
@@ -1137,8 +1137,8 @@
 2020-09-21,Male,91848,48,1686,52,sex,420,1
 2020-09-22,American Indian,2417,2,44,1,race,9,0
 2020-09-22,Asian,2975,2,41,1,race,26,0
-2020-09-22,Black or African,36123,24,954,31,race,354,13
-2020-09-22,Native Hawaiian or Pa..,298,0,4,0,race,3,0
+2020-09-22,Black or African American,36123,24,954,31,race,354,13
+2020-09-22,Native Hawaiian or Pacific Islander,298,0,4,0,race,3,0
 2020-09-22,White,88190,57,1872,60,race,760,20
 2020-09-22,Other,23694,15,211,7,race,143,1
 2020-09-22,Hispanic,44954,34,287,10,ethnicity,206,0
@@ -1153,8 +1153,8 @@
 2020-09-22,Male,92388,48,1700,52,sex,540,14
 2020-09-23,American Indian,2433,2,44,1,race,16,0
 2020-09-23,Asian,3010,2,42,1,race,35,1
-2020-09-23,Black or African,36406,24,962,31,race,283,8
-2020-09-23,Native Hawaiian or Pa..,301,0,4,0,race,3,0
+2020-09-23,Black or African American,36406,24,962,31,race,283,8
+2020-09-23,Native Hawaiian or Pacific Islander,301,0,4,0,race,3,0
 2020-09-23,White,88868,57,1890,60,race,678,18
 2020-09-23,Other,23796,15,211,7,race,102,0
 2020-09-23,Hispanic,45123,34,287,10,ethnicity,169,0
@@ -1169,8 +1169,8 @@
 2020-09-23,Male,92839,48,1715,52,sex,451,15
 2020-09-24,American Indian,2460,2,45,1,race,27,1
 2020-09-24,Asian,3028,2,42,1,race,18,0
-2020-09-24,Black or African,36726,24,971,30,race,320,9
-2020-09-24,Native Hawaiian or Pa..,304,0,4,0,race,3,0
+2020-09-24,Black or African American,36726,24,971,30,race,320,9
+2020-09-24,Native Hawaiian or Pacific Islander,304,0,4,0,race,3,0
 2020-09-24,White,89733,57,1912,60,race,865,22
 2020-09-24,Other,23971,15,213,7,race,175,2
 2020-09-24,Hispanic,45332,34,288,10,ethnicity,209,1
@@ -1183,11 +1183,11 @@
 2020-09-24,75+,12241,6,1936,58,age,124,28
 2020-09-24,Female,103120,52,1604,48,sex,846,18
 2020-09-24,Male,93677,48,1737,52,sex,838,22
-2020-09-25,American Indian Al..,2535,2,45,1,race,,
-2020-09-25,American Indian Al..,2535,2,45,1,race,0,0
+2020-09-25,American Indian,2535,2,45,1,race,75,0
+2020-09-25,American Indian,2535,2,45,1,race,0,0
 2020-09-25,Asian,3109,2,42,1,race,81,0
-2020-09-25,Black or African A..,37478,23,979,30,race,,
-2020-09-25,Native Hawaiian or ..,312,0,6,0,race,,
+2020-09-25,Black or African American,37478,23,979,30,race,752,8
+2020-09-25,Native Hawaiian or Pacific Islander,312,0,6,0,race,8,2
 2020-09-25,White,93071,58,1954,60,race,3338,42
 2020-09-25,Other,24385,15,214,7,race,414,1
 2020-09-25,Hispanic,46319,34,292,10,ethnicity,987,4
@@ -1200,10 +1200,10 @@
 2020-09-25,75+,12558,6,1967,58,age,317,31
 2020-09-25,Female,106369,52,1634,48,sex,3249,30
 2020-09-25,Male,96449,48,1759,52,sex,2772,22
-2020-09-26,American Indian,2551,2,45,1,race,91,0
+2020-09-26,American Indian,2551,2,45,1,race,16,0
 2020-09-26,Asian,3146,2,44,1,race,37,2
-2020-09-26,Black or African,37837,23,989,30,race,1111,18
-2020-09-26,Native Hawaiian or,312,0,6,0,race,45,2
+2020-09-26,Black or African American,37837,23,989,30,race,359,10
+2020-09-26,Native Hawaiian or Pacific Islander,312,0,6,0,race,0,0
 2020-09-26,White,93991,58,1971,60,race,920,17
 2020-09-26,Other,24562,15,217,7,race,177,3
 2020-09-26,Hispanic,46536,34,294,10,ethnicity,217,2
@@ -1218,8 +1218,8 @@
 2020-09-26,Male,97276,48,1773,52,sex,827,14
 2020-09-27,American Indian,2551,2,45,1,race,0,0
 2020-09-27,Asian,3146,2,44,1,race,0,0
-2020-09-27,Black or African,37837,23,989,30,race,0,0
-2020-09-27,Native Hawaiian or,312,0,6,0,race,0,0
+2020-09-27,Black or African American,37837,23,989,30,race,0,0
+2020-09-27,Native Hawaiian or Pacific Islander,312,0,6,0,race,0,0
 2020-09-27,White,93991,58,1971,60,race,0,0
 2020-09-27,Other,24562,15,217,7,race,0,0
 2020-09-27,Hispanic,46536,34,294,10,ethnicity,0,0
