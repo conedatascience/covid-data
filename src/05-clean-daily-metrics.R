@@ -41,6 +41,9 @@ print(names(out_data_long))
 column_lookup <- data.frame(old= c("date",
                                   "Hospitalizations",
                                   "NC Daily Tests",
+                                  "Cases by Report Date",
+                                  "Molecular (PCR) Positive Cases by Specimen Date",
+                                  "Antigen Positive Cases by Specimen Date",
                                   "New Cases by Report Date",
                                   "New Cases by Specimen Date",
                                   "NC Deaths",
@@ -50,6 +53,9 @@ column_lookup <- data.frame(old= c("date",
                                    "hospitalizations",
                                    "daily_tests",
                                    "daily_cases",
+                                   "daily_specimen_pcr",
+                                   "daily_specimen_antigen",
+                                   "daily_specimen_report",
                                    "daily_specimen",
                                    "daily_deaths",
                                    "positive_tests",
@@ -58,7 +64,7 @@ column_lookup <- data.frame(old= c("date",
 
 names(out_data_long)[names(out_data_long) %in% column_lookup$old] = column_lookup$new[match(names(out_data_long)[names(out_data_long) %in% column_lookup$old], column_lookup$old)]
 
-
+out_data_long[, daily_deaths:= daily_deaths - shift(daily_deaths,1, type = "lag", fill = 0)]
 # write output ------------------------------------------------------------
 
 data.table::fwrite(out_data_long, here::here("data", "timeseries", "nc-summary-stats.csv"))
