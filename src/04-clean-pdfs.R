@@ -57,6 +57,12 @@ process_pdfs <- function(x){
     .[,category := ifelse(grepl("[[:digit:]]", metric), "age",
                           ifelse(grepl("Hispanic", metric), "ethnicity",
                                  ifelse(grepl("ale", metric),"sex","race")))] %>%
+    .[,metric := ifelse(grepl("Indian", x = metric),
+                          "American Indian", metric)] %>%
+  .[,metric := ifelse(grepl("Hawaiian", x = metric),
+                        "Native Hawaiian or Pacific Islander", metric)] %>%
+    .[,metric := ifelse(grepl("Black", x = metric),
+                        "Black or African American", metric)] %>%
   .[,metric:= gsub(pattern = "\\r+", "", metric)]
 
 }
@@ -85,4 +91,4 @@ if(!"try-error"%in%class(combined_data)){
   data.table::fwrite(combined_data, here::here("data", "timeseries", "nc-demographics.csv"))
 
 }
-
+table(combined_data$metric)
