@@ -68,3 +68,11 @@ writeBin(a$response$content,here::here("data", "daily-outbreaks", "schools",
 url <- "https://public.tableau.com/vizql/w/NCDHHS_COVID-19_DataDownload/v/HospitalPatientData/vudcsv/sessions/48357CE83FD24F04AC0BD68C3874BECE-0:0/views/4022802588106640556_9307479125736770152?showall=true&underlying_table_id=medsurge_public_facing.csv_9E85D41A33ED4AAE941D68C3B611FF90&underlying_table_caption=Full%20Data"
 try(download.file(url = url, destfile = here::here("data", "daily-patient",
                                                    paste0(current_time,"_ncdhss_age.csv"))))
+
+# new county demographics -------------------------------------------------
+
+# url <- "https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/CountyDemographics.csv?%3Aembed=y&%3AshowVizHome=no&%3Ahost_url=https%3A%2F%2Fpublic.tableau.com%2F&%3Aembed_code_version=3&%3Aembed_code_version=3&%3Atabs=yes&%3Atabs=yes&%3Atoolbar=no&%3Atoolbar=no&%3Aanimate_transition=yes&%3Aanimate_transition=yes&%3Adisplay_static_image=no&%3Adisplay_static_image=no&%3Adisplay_spinner=no&%3Adisplay_spinner=no&%3Adisplay_overlay=yes&%3Adisplay_overlay=yes&%3Adisplay_count=no&%3Adisplay_count=no&publish=yes&publish=yes&%3AloadOrderID=0u.com%2F&%3AloadOrderID=0"
+#
+# try(download.file(url = url, destfile = here::here("data", "county-detail",
+#                                                    paste0(current_time,"_ncdhss_age.csv"))))
+#
