@@ -54,16 +54,19 @@ process_pdfs <- function(x){
              perc_of_cases= readr::parse_number(perc_of_cases),
              deaths= readr::parse_number(deaths),
              perc_of_deaths= readr::parse_number(perc_of_deaths))] %>%
-    .[,category := ifelse(grepl("[[:digit:]]", metric), "age",
-                          ifelse(grepl("Hispanic", metric), "ethnicity",
-                                 ifelse(grepl("ale", metric),"sex","race")))] %>%
-    .[,metric := ifelse(grepl("Indian", x = metric),
+    .[,category := fifelse(grepl("[[:digit:]]", metric), "age",
+                          fifelse(grepl("Hispanic", metric), "ethnicity",
+                                 fifelse(grepl("ale", metric),"sex","race")))] %>%
+    .[,metric := fifelse(grepl("Indian", x = metric),
                           "American Indian", metric)] %>%
-  .[,metric := ifelse(grepl("Hawaiian", x = metric),
+  .[,metric := fifelse(grepl("Hawaiian", x = metric),
                         "Native Hawaiian or Pacific Islander", metric)] %>%
-    .[,metric := ifelse(grepl("Black", x = metric),
+    .[,metric := fifelse(grepl("Black", x = metric),
                         "Black or African American", metric)] %>%
-  .[,metric:= gsub(pattern = "\\r+", "", metric)]
+  .[,metric:= gsub(pattern = "\\r+", "", metric)] %>%
+    .[,category:= fifelse(metric %chin% c("Yes", "No"), "ethnicity", category)] %>%
+    .[,metric :=fifelse(metric =="Yes", "Hispanic",
+                        fifelse(metric=="No", "Non-Hispanic", metric))]
 
 }
 
@@ -82,6 +85,11 @@ combined_data <- rbindlist(combined_data, idcol = TRUE)
 
 combined_data <- combined_data[ , cases_daily:=cases - data.table::shift(cases, type = "lag"), by = metric]
 combined_data <- combined_data[ , deaths_daily:=deaths - data.table::shift(deaths, type = "lag"), by = metric]
+
+if(all.equal(combined_data[.id==max(.id)][,sum(cases_daily)],0)){
+  combined_data <- combined_data[.id!=max(.id)]
+}
+
 
 
 cat(nrow(combined_data))
