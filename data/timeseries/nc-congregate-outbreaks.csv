@@ -24,6 +24,8 @@
 2020-07-19,Nursing Home,Wake,UNC Rex Rehabilitation and Nursing,10,0,10,1,20,1,-20,-3
 2020-07-19,Nursing Home,Wake,Universal Health Care/North Raleigh,2,0,2,0,4,0,,
 2020-07-19,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,,
+2020-07-19,Other,Bladen,"Moores Swamp Rd, Ivanhoe",3,0,51,0,54,0,,
+2020-07-19,Other,Bladen,"Sleepy Creek Dr., Harrells",54,0,0,0,54,0,,
 2020-07-20,Nursing Home,Scotland,Scotia Village,2,0,0,0,2,0,0,0
 2020-07-20,Nursing Home,Stanly,Bethany Woods Nursing and,3,0,4,0,7,0,0,0
 2020-07-20,Nursing Home,Stanly,Forrest Oakes Healthcare Center,2,0,0,0,2,0,0,0
@@ -49,6 +51,8 @@
 2020-07-20,Nursing Home,Wake,UNC Rex Rehabilitation and Nursing,10,0,10,1,20,1,-20,-3
 2020-07-20,Nursing Home,Wake,Universal Health Care/North Raleigh,2,0,2,0,4,0,0,0
 2020-07-20,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,0,0
+2020-07-20,Other,Bladen,"Moores Swamp Rd, Ivanhoe",3,0,51,0,54,0,0,0
+2020-07-20,Other,Bladen,"Sleepy Creek Dr., Harrells",54,0,0,0,54,0,0,0
 2020-07-21,Nursing Home,Brunswick,Brunswick Health and Rehab Center,0,0,3,0,3,0,,
 2020-07-21,Nursing Home,Brunswick,Liberty Commons Nursing and Rehab of,2,0,2,0,4,0,,
 2020-07-21,Nursing Home,Brunswick,Universal Health Care/Brunswick,16,1,25,5,41,6,,
@@ -72,6 +76,11 @@
 2020-07-21,Nursing Home,Clay,Clay County Care Center,0,0,2,0,2,0,,
 2020-07-21,Nursing Home,Cleveland,White Oak Manor - Shelby,10,0,4,1,14,1,,
 2020-07-21,Nursing Home,Wilson,Wilson Pines Nursing and Rehabilitation,1,0,3,0,4,0,,
+2020-07-21,Other,Bladen,"Moores Swamp Rd, Ivanhoe",3,0,51,0,54,0,0,0
+2020-07-21,Other,Bladen,"Sleepy Creek Dr., Harrells",54,0,0,0,54,0,0,0
+2020-07-21,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,,
+2020-07-21,Other,Guilford,"N Centennial St, High Point",0,0,5,0,5,0,,
+2020-07-21,Other,Hyde,"US Hwy 264, Swan Quarter",1,0,18,0,19,0,,
 2020-07-22,Nursing Home,Brunswick,Brunswick Health and Rehab Center,0,0,3,0,3,0,0,0
 2020-07-22,Nursing Home,Brunswick,Liberty Commons Nursing and Rehab of,2,0,2,0,4,0,0,0
 2020-07-22,Nursing Home,Brunswick,Universal Health Care/Brunswick,16,1,25,5,41,6,0,0
@@ -95,6 +104,11 @@
 2020-07-22,Nursing Home,Clay,Clay County Care Center,0,0,2,0,2,0,0,0
 2020-07-22,Nursing Home,Cleveland,White Oak Manor - Shelby,10,0,4,1,14,1,0,0
 2020-07-22,Nursing Home,Wilson,Wilson Pines Nursing and Rehabilitation,1,0,3,0,4,0,0,0
+2020-07-22,Other,Bladen,"Moores Swamp Rd, Ivanhoe",3,0,51,0,54,0,0,0
+2020-07-22,Other,Bladen,"Sleepy Creek Dr., Harrells",54,0,0,0,54,0,0,0
+2020-07-22,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-07-22,Other,Guilford,"N Centennial St, High Point",0,0,5,0,5,0,0,0
+2020-07-22,Other,Hyde,"US Hwy 264, Swan Quarter",1,0,18,0,19,0,0,0
 2020-07-23,Nursing Home,Brunswick,Brunswick Health and Rehab Center,0,0,3,0,3,0,0,0
 2020-07-23,Nursing Home,Brunswick,Liberty Commons Nursing and Rehab of,2,0,2,0,4,0,0,0
 2020-07-23,Nursing Home,Brunswick,Universal Health Care/Brunswick,16,1,25,5,41,6,0,0
@@ -118,6 +132,11 @@
 2020-07-23,Nursing Home,Clay,Clay County Care Center,0,0,2,0,2,0,0,0
 2020-07-23,Nursing Home,Cleveland,White Oak Manor - Shelby,10,0,4,1,14,1,0,0
 2020-07-23,Nursing Home,Wilson,Wilson Pines Nursing and Rehabilitation,1,0,3,0,4,0,0,0
+2020-07-23,Other,Bladen,"Moores Swamp Rd, Ivanhoe",3,0,51,0,54,0,0,0
+2020-07-23,Other,Bladen,"Sleepy Creek Dr., Harrells",54,0,0,0,54,0,0,0
+2020-07-23,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-07-23,Other,Guilford,"N Centennial St, High Point",0,0,5,0,5,0,0,0
+2020-07-23,Other,Hyde,"US Hwy 264, Swan Quarter",1,0,18,0,19,0,0,0
 2020-07-24,Nursing Home,Bladen,Bladen East Health and Rehab,2,0,0,0,2,0,,
 2020-07-24,Nursing Home,Brunswick,Autumn Care of Shallotte,4,0,0,0,4,0,,
 2020-07-24,Nursing Home,Brunswick,Brunswick Health and Rehab Center,0,0,3,0,3,0,0,0
@@ -167,6 +186,20 @@
 2020-07-24,Nursing Home,Wake,Universal Health Care/North Raleigh,2,0,2,0,4,0,0,0
 2020-07-24,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,0,0
 2020-07-24,Nursing Home,Wake,Windsor Point Continuing Care Retirement,6,0,37,5,43,5,,
+2020-07-24,Other,Bladen,"Moores Swamp Rd, Ivanhoe",3,0,51,0,54,0,0,0
+2020-07-24,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-07-24,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,0,4,0,,
+2020-07-24,Other,Franklin,"Stone Southerland Rd, Louisburg",5,0,0,0,5,0,,
+2020-07-24,Other,Guilford,"N Centennial St, High Point",0,0,5,0,5,0,0,0
+2020-07-24,Other,Hyde,"US Hwy 264, Swan Quarter",1,0,18,0,19,0,0,0
+2020-07-24,Other,Martin,"Bennett Rd, Oak City",2,0,9,0,11,0,,
+2020-07-24,Other,New Hanover,"N 2nd St., Wilmington",1,0,3,0,4,0,,
+2020-07-24,Other,Sampson,"Burch Road, Faison",51,0,0,0,51,0,,
+2020-07-24,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,9,0,9,0,,
+2020-07-24,Other,Sampson,"Timothy Rd, Dunn",6,0,0,0,6,0,,
+2020-07-24,Other,Tyrrell,"Road St., Columbia",27,0,5,0,32,0,,
+2020-07-24,Other,Wayne,"Cabin Creek Drive, Seven Springs",0,0,14,0,14,0,,
+2020-07-24,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,,
 2020-07-25,Nursing Home,Bladen,Bladen East Health and Rehab,2,0,0,0,2,0,0,0
 2020-07-25,Nursing Home,Brunswick,Autumn Care of Shallotte,4,0,0,0,4,0,0,0
 2020-07-25,Nursing Home,Brunswick,Brunswick Health and Rehab Center,0,0,3,0,3,0,0,0
@@ -216,6 +249,20 @@
 2020-07-25,Nursing Home,Wake,Universal Health Care/North Raleigh,2,0,2,0,4,0,0,0
 2020-07-25,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,0,0
 2020-07-25,Nursing Home,Wake,Windsor Point Continuing Care Retirement,6,0,37,5,43,5,0,0
+2020-07-25,Other,Bladen,"Moores Swamp Rd, Ivanhoe",3,0,51,0,54,0,0,0
+2020-07-25,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-07-25,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,0,4,0,0,0
+2020-07-25,Other,Franklin,"Stone Southerland Rd, Louisburg",5,0,0,0,5,0,0,0
+2020-07-25,Other,Guilford,"N Centennial St, High Point",0,0,5,0,5,0,0,0
+2020-07-25,Other,Hyde,"US Hwy 264, Swan Quarter",1,0,18,0,19,0,0,0
+2020-07-25,Other,Martin,"Bennett Rd, Oak City",2,0,9,0,11,0,0,0
+2020-07-25,Other,New Hanover,"N 2nd St., Wilmington",1,0,3,0,4,0,0,0
+2020-07-25,Other,Sampson,"Burch Road, Faison",51,0,0,0,51,0,0,0
+2020-07-25,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,9,0,9,0,0,0
+2020-07-25,Other,Sampson,"Timothy Rd, Dunn",6,0,0,0,6,0,0,0
+2020-07-25,Other,Tyrrell,"Road St., Columbia",27,0,5,0,32,0,0,0
+2020-07-25,Other,Wayne,"Cabin Creek Drive, Seven Springs",0,0,14,0,14,0,0,0
+2020-07-25,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-07-26,Nursing Home,Bladen,Bladen East Health and Rehab,2,0,0,0,2,0,0,0
 2020-07-26,Nursing Home,Brunswick,Autumn Care of Shallotte,4,0,0,0,4,0,0,0
 2020-07-26,Nursing Home,Brunswick,Brunswick Health and Rehab Center,0,0,3,0,3,0,0,0
@@ -265,6 +312,20 @@
 2020-07-26,Nursing Home,Wake,Universal Health Care/North Raleigh,2,0,2,0,4,0,0,0
 2020-07-26,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,0,0
 2020-07-26,Nursing Home,Wake,Windsor Point Continuing Care Retirement,6,0,37,5,43,5,0,0
+2020-07-26,Other,Bladen,"Moores Swamp Rd, Ivanhoe",3,0,51,0,54,0,0,0
+2020-07-26,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-07-26,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,0,4,0,0,0
+2020-07-26,Other,Franklin,"Stone Southerland Rd, Louisburg",5,0,0,0,5,0,0,0
+2020-07-26,Other,Guilford,"N Centennial St, High Point",0,0,5,0,5,0,0,0
+2020-07-26,Other,Hyde,"US Hwy 264, Swan Quarter",1,0,18,0,19,0,0,0
+2020-07-26,Other,Martin,"Bennett Rd, Oak City",2,0,9,0,11,0,0,0
+2020-07-26,Other,New Hanover,"N 2nd St., Wilmington",1,0,3,0,4,0,0,0
+2020-07-26,Other,Sampson,"Burch Road, Faison",51,0,0,0,51,0,0,0
+2020-07-26,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,9,0,9,0,0,0
+2020-07-26,Other,Sampson,"Timothy Rd, Dunn",6,0,0,0,6,0,0,0
+2020-07-26,Other,Tyrrell,"Road St., Columbia",27,0,5,0,32,0,0,0
+2020-07-26,Other,Wayne,"Cabin Creek Drive, Seven Springs",0,0,14,0,14,0,0,0
+2020-07-26,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-07-27,Nursing Home,Bladen,Bladen East Health and Rehab,2,0,0,0,2,0,0,0
 2020-07-27,Nursing Home,Brunswick,Autumn Care of Shallotte,4,0,0,0,4,0,0,0
 2020-07-27,Nursing Home,Brunswick,Brunswick Health and Rehab Center,0,0,3,0,3,0,0,0
@@ -314,6 +375,20 @@
 2020-07-27,Nursing Home,Wake,Universal Health Care/North Raleigh,2,0,2,0,4,0,0,0
 2020-07-27,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,0,0
 2020-07-27,Nursing Home,Wake,Windsor Point Continuing Care Retirement,6,0,37,5,43,5,0,0
+2020-07-27,Other,Bladen,"Moores Swamp Rd, Ivanhoe",3,0,51,0,54,0,0,0
+2020-07-27,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-07-27,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,0,4,0,0,0
+2020-07-27,Other,Franklin,"Stone Southerland Rd, Louisburg",5,0,0,0,5,0,0,0
+2020-07-27,Other,Guilford,"N Centennial St, High Point",0,0,5,0,5,0,0,0
+2020-07-27,Other,Hyde,"US Hwy 264, Swan Quarter",1,0,18,0,19,0,0,0
+2020-07-27,Other,Martin,"Bennett Rd, Oak City",2,0,9,0,11,0,0,0
+2020-07-27,Other,New Hanover,"N 2nd St., Wilmington",1,0,3,0,4,0,0,0
+2020-07-27,Other,Sampson,"Burch Road, Faison",51,0,0,0,51,0,0,0
+2020-07-27,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,9,0,9,0,0,0
+2020-07-27,Other,Sampson,"Timothy Rd, Dunn",6,0,0,0,6,0,0,0
+2020-07-27,Other,Tyrrell,"Road St., Columbia",27,0,5,0,32,0,0,0
+2020-07-27,Other,Wayne,"Cabin Creek Drive, Seven Springs",0,0,14,0,14,0,0,0
+2020-07-27,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-07-28,Nursing Home,Bladen,Bladen East Health and Rehab,2,0,0,0,2,0,0,0
 2020-07-28,Nursing Home,Brunswick,Autumn Care of Shallotte,10,0,5,0,15,0,11,0
 2020-07-28,Nursing Home,Brunswick,Brunswick Health and Rehab Center,2,0,3,0,5,0,2,0
@@ -363,6 +438,20 @@
 2020-07-28,Nursing Home,Wake,Universal Health Care/North Raleigh,2,0,2,0,4,0,0,0
 2020-07-28,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,0,0
 2020-07-28,Nursing Home,Wake,Retirement Community,6,0,37,5,43,5,,
+2020-07-28,Other,Bladen,"Moores Swamp Rd, Ivanhoe",3,0,51,0,54,0,0,0
+2020-07-28,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-07-28,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,1
+2020-07-28,Other,Franklin,"Stone Southerland Rd, Louisburg",5,0,0,0,5,0,0,0
+2020-07-28,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,,
+2020-07-28,Other,Guilford,"N Centennial St, High Point",0,0,5,0,5,0,0,0
+2020-07-28,Other,Hyde,"US Hwy 264, Swan Quarter",1,0,18,0,19,0,0,0
+2020-07-28,Other,Martin,"Bennett Rd, Oak City",2,0,9,0,11,0,0,0
+2020-07-28,Other,Sampson,"Burch Road, Faison",52,0,0,0,52,0,1,0
+2020-07-28,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,10,0,10,0,1,0
+2020-07-28,Other,Sampson,"Timothy Rd, Dunn",6,0,0,0,6,0,0,0
+2020-07-28,Other,Tyrrell,"Road St., Columbia",27,0,5,0,32,0,0,0
+2020-07-28,Other,Wayne,"Cabin Creek Drive, Seven Springs",0,0,14,0,14,0,0,0
+2020-07-28,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-07-29,Nursing Home,Bladen,Bladen East Health and Rehab,2,0,0,0,2,0,0,0
 2020-07-29,Nursing Home,Brunswick,Autumn Care of Shallotte,10,0,5,0,15,0,0,0
 2020-07-29,Nursing Home,Brunswick,Brunswick Health and Rehab Center,2,0,3,0,5,0,0,0
@@ -412,6 +501,20 @@
 2020-07-29,Nursing Home,Wake,Universal Health Care/North Raleigh,2,0,2,0,4,0,0,0
 2020-07-29,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,0,0
 2020-07-29,Nursing Home,Wake,Retirement Community,6,0,37,5,43,5,0,0
+2020-07-29,Other,Bladen,"Moores Swamp Rd, Ivanhoe",3,0,51,0,54,0,0,0
+2020-07-29,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-07-29,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-07-29,Other,Franklin,"Stone Southerland Rd, Louisburg",5,0,0,0,5,0,0,0
+2020-07-29,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-07-29,Other,Guilford,"N Centennial St, High Point",0,0,5,0,5,0,0,0
+2020-07-29,Other,Hyde,"US Hwy 264, Swan Quarter",1,0,18,0,19,0,0,0
+2020-07-29,Other,Martin,"Bennett Rd, Oak City",2,0,9,0,11,0,0,0
+2020-07-29,Other,Sampson,"Burch Road, Faison",52,0,0,0,52,0,0,0
+2020-07-29,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,10,0,10,0,0,0
+2020-07-29,Other,Sampson,"Timothy Rd, Dunn",6,0,0,0,6,0,0,0
+2020-07-29,Other,Tyrrell,"Road St., Columbia",27,0,5,0,32,0,0,0
+2020-07-29,Other,Wayne,"Cabin Creek Drive, Seven Springs",0,0,14,0,14,0,0,0
+2020-07-29,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-07-30,Nursing Home,Bladen,Bladen East Health and Rehab,2,0,0,0,2,0,0,0
 2020-07-30,Nursing Home,Brunswick,Autumn Care of Shallotte,10,0,5,0,15,0,0,0
 2020-07-30,Nursing Home,Brunswick,Brunswick Health and Rehab Center,2,0,3,0,5,0,0,0
@@ -461,6 +564,20 @@
 2020-07-30,Nursing Home,Wake,Universal Health Care/North Raleigh,2,0,2,0,4,0,0,0
 2020-07-30,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,0,0
 2020-07-30,Nursing Home,Wake,Retirement Community,6,0,37,5,43,5,0,0
+2020-07-30,Other,Bladen,"Moores Swamp Rd, Ivanhoe",3,0,51,0,54,0,0,0
+2020-07-30,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-07-30,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-07-30,Other,Franklin,"Stone Southerland Rd, Louisburg",5,0,0,0,5,0,0,0
+2020-07-30,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-07-30,Other,Guilford,"N Centennial St, High Point",0,0,5,0,5,0,0,0
+2020-07-30,Other,Hyde,"US Hwy 264, Swan Quarter",1,0,18,0,19,0,0,0
+2020-07-30,Other,Martin,"Bennett Rd, Oak City",2,0,9,0,11,0,0,0
+2020-07-30,Other,Sampson,"Burch Road, Faison",52,0,0,0,52,0,0,0
+2020-07-30,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,10,0,10,0,0,0
+2020-07-30,Other,Sampson,"Timothy Rd, Dunn",6,0,0,0,6,0,0,0
+2020-07-30,Other,Tyrrell,"Road St., Columbia",27,0,5,0,32,0,0,0
+2020-07-30,Other,Wayne,"Cabin Creek Drive, Seven Springs",0,0,14,0,14,0,0,0
+2020-07-30,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-07-31,Nursing Home,Bladen,Bladen East Health and Rehab,2,0,0,0,2,0,0,0
 2020-07-31,Nursing Home,Brunswick,Autumn Care of Shallotte,14,0,5,0,19,0,4,0
 2020-07-31,Nursing Home,Brunswick,Brunswick Health and Rehab Center,2,0,3,0,5,0,0,0
@@ -483,6 +600,9 @@
 2020-07-31,Nursing Home,Catawba,Abernethy Laurels,2,0,3,0,5,0,0,0
 2020-07-31,Nursing Home,Catawba,Brian Center Health and Rehab/Hickory,17,0,45,9,62,9,0,0
 2020-07-31,Nursing Home,Catawba,Trinity Ridge,12,0,19,5,31,5,2,4
+2020-07-31,Other,Guilford,"N Centennial St, High Point",0,0,5,0,5,0,0,0
+2020-07-31,Other,Sampson,"Burch Road, Faison",52,0,0,0,52,0,0,0
+2020-07-31,Other,Wayne,"Cabin Creek Drive, Seven Springs",0,0,14,0,14,0,0,0
 2020-08-01,Nursing Home,Bladen,Bladen East Health and Rehab,2,0,0,0,2,0,0,0
 2020-08-01,Nursing Home,Brunswick,Autumn Care of Shallotte,14,0,5,0,19,0,0,0
 2020-08-01,Nursing Home,Brunswick,Brunswick Health and Rehab Center,2,0,3,0,5,0,0,0
@@ -505,6 +625,9 @@
 2020-08-01,Nursing Home,Catawba,Abernethy Laurels,2,0,3,0,5,0,0,0
 2020-08-01,Nursing Home,Catawba,Brian Center Health and Rehab/Hickory,17,0,45,9,62,9,0,0
 2020-08-01,Nursing Home,Catawba,Trinity Ridge,12,0,19,5,31,5,0,0
+2020-08-01,Other,Guilford,"N Centennial St, High Point",0,0,5,0,5,0,0,0
+2020-08-01,Other,Sampson,"Burch Road, Faison",52,0,0,0,52,0,0,0
+2020-08-01,Other,Wayne,"Cabin Creek Drive, Seven Springs",0,0,14,0,14,0,0,0
 2020-08-02,Nursing Home,Bladen,Bladen East Health and Rehab,2,0,0,0,2,0,0,0
 2020-08-02,Nursing Home,Brunswick,Autumn Care of Shallotte,14,0,5,0,19,0,0,0
 2020-08-02,Nursing Home,Brunswick,Brunswick Health and Rehab Center,2,0,3,0,5,0,0,0
@@ -527,6 +650,9 @@
 2020-08-02,Nursing Home,Catawba,Abernethy Laurels,2,0,3,0,5,0,0,0
 2020-08-02,Nursing Home,Catawba,Brian Center Health and Rehab/Hickory,17,0,45,9,62,9,0,0
 2020-08-02,Nursing Home,Catawba,Trinity Ridge,12,0,19,5,31,5,0,0
+2020-08-02,Other,Guilford,"N Centennial St, High Point",0,0,5,0,5,0,0,0
+2020-08-02,Other,Sampson,"Burch Road, Faison",52,0,0,0,52,0,0,0
+2020-08-02,Other,Wayne,"Cabin Creek Drive, Seven Springs",0,0,14,0,14,0,0,0
 2020-08-03,Nursing Home,Bladen,Bladen East Health and Rehab,2,0,0,0,2,0,0,0
 2020-08-03,Nursing Home,Brunswick,Autumn Care of Shallotte,14,0,5,0,19,0,0,0
 2020-08-03,Nursing Home,Brunswick,Brunswick Health and Rehab Center,2,0,3,0,5,0,0,0
@@ -549,6 +675,9 @@
 2020-08-03,Nursing Home,Catawba,Abernethy Laurels,2,0,3,0,5,0,0,0
 2020-08-03,Nursing Home,Catawba,Brian Center Health and Rehab/Hickory,17,0,45,9,62,9,0,0
 2020-08-03,Nursing Home,Catawba,Trinity Ridge,12,0,19,5,31,5,0,0
+2020-08-03,Other,Guilford,"N Centennial St, High Point",0,0,5,0,5,0,0,0
+2020-08-03,Other,Sampson,"Burch Road, Faison",52,0,0,0,52,0,0,0
+2020-08-03,Other,Wayne,"Cabin Creek Drive, Seven Springs",0,0,14,0,14,0,0,0
 2020-08-04,Nursing Home,Bertie,Three Rivers Health & Rehabilitation,2,0,0,0,2,0,,
 2020-08-04,Nursing Home,Bladen,Bladen East Health and Rehab,2,0,0,0,2,0,0,0
 2020-08-04,Nursing Home,Brunswick,Autumn Care of Shallotte,17,0,5,0,22,0,3,0
@@ -601,6 +730,19 @@
 2020-08-04,Nursing Home,Washington,Roanoke Landing Nursing and Rehabilitation,4,0,1,0,5,0,,
 2020-08-04,Nursing Home,Wayne,Mount Olive Center,6,0,14,3,20,3,,
 2020-08-04,Nursing Home,Wayne,O'Berry Neuro-Medical Treatment Center,24,0,15,0,39,0,,
+2020-08-04,Other,Alleghany,"S Sparta Pkwy, Sparta",0,0,91,0,91,0,,
+2020-08-04,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-08-04,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-04,Other,Franklin,"Stone Southerland Rd, Louisburg",5,0,0,0,5,0,0,0
+2020-08-04,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-08-04,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,,
+2020-08-04,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,,
+2020-08-04,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,2,0
+2020-08-04,Other,Sampson,"Timothy Rd, Dunn",6,0,0,0,6,0,0,0
+2020-08-04,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,,
+2020-08-04,Other,Tyrrell,"Road St., Columbia",37,0,0,0,37,0,5,0
+2020-08-04,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,,
+2020-08-04,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-08-05,Nursing Home,Bertie,Three Rivers Health & Rehabilitation,2,0,0,0,2,0,0,0
 2020-08-05,Nursing Home,Bladen,Bladen East Health and Rehab,2,0,0,0,2,0,0,0
 2020-08-05,Nursing Home,Brunswick,Autumn Care of Shallotte,17,0,5,0,22,0,0,0
@@ -653,6 +795,19 @@
 2020-08-05,Nursing Home,Washington,Roanoke Landing Nursing and Rehabilitation,4,0,1,0,5,0,0,0
 2020-08-05,Nursing Home,Wayne,Mount Olive Center,6,0,14,3,20,3,0,0
 2020-08-05,Nursing Home,Wayne,O'Berry Neuro-Medical Treatment Center,24,0,15,0,39,0,0,0
+2020-08-05,Other,Alleghany,"S Sparta Pkwy, Sparta",0,0,91,0,91,0,0,0
+2020-08-05,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-08-05,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-05,Other,Franklin,"Stone Southerland Rd, Louisburg",5,0,0,0,5,0,0,0
+2020-08-05,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-08-05,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-05,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-05,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-05,Other,Sampson,"Timothy Rd, Dunn",6,0,0,0,6,0,0,0
+2020-08-05,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-05,Other,Tyrrell,"Road St., Columbia",37,0,0,0,37,0,0,0
+2020-08-05,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
+2020-08-05,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-08-06,Nursing Home,Bertie,Three Rivers Health & Rehabilitation,2,0,0,0,2,0,0,0
 2020-08-06,Nursing Home,Bladen,Bladen East Health and Rehab,2,0,0,0,2,0,0,0
 2020-08-06,Nursing Home,Brunswick,Autumn Care of Shallotte,17,0,5,0,22,0,0,0
@@ -705,6 +860,19 @@
 2020-08-06,Nursing Home,Washington,Roanoke Landing Nursing and Rehabilitation,4,0,1,0,5,0,0,0
 2020-08-06,Nursing Home,Wayne,Mount Olive Center,6,0,14,3,20,3,0,0
 2020-08-06,Nursing Home,Wayne,O'Berry Neuro-Medical Treatment Center,24,0,15,0,39,0,0,0
+2020-08-06,Other,Alleghany,"S Sparta Pkwy, Sparta",0,0,91,0,91,0,0,0
+2020-08-06,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-08-06,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-06,Other,Franklin,"Stone Southerland Rd, Louisburg",5,0,0,0,5,0,0,0
+2020-08-06,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-08-06,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-06,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-06,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-06,Other,Sampson,"Timothy Rd, Dunn",6,0,0,0,6,0,0,0
+2020-08-06,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-06,Other,Tyrrell,"Road St., Columbia",37,0,0,0,37,0,0,0
+2020-08-06,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
+2020-08-06,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-08-07,Nursing Home,Bertie,Three Rivers Health & Rehabilitation,2,0,0,0,2,0,0,0
 2020-08-07,Nursing Home,Bladen,Bladen East Health and Rehab,2,0,0,0,2,0,0,0
 2020-08-07,Nursing Home,Brunswick,Autumn Care of Shallotte,17,0,5,1,22,1,0,1
@@ -757,6 +925,19 @@
 2020-08-07,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,0,0
 2020-08-07,Nursing Home,Wake,Community,6,0,37,5,43,5,,
 2020-08-07,Nursing Home,Warren,Warren Hills Nursing Center,1,0,2,0,3,0,0,0
+2020-08-07,Other,Alleghany,"S Sparta Pkwy, Sparta",0,0,91,0,91,0,0,0
+2020-08-07,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-08-07,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-07,Other,Franklin,"Stone Southerland Rd, Louisburg",5,0,0,0,5,0,0,0
+2020-08-07,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-08-07,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-07,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-07,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-07,Other,Sampson,"Timothy Rd, Dunn",6,0,0,0,6,0,0,0
+2020-08-07,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-07,Other,Tyrrell,"Road St., Columbia",37,0,0,0,37,0,0,0
+2020-08-07,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
+2020-08-07,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-08-08,Nursing Home,Bertie,Three Rivers Health & Rehabilitation,2,0,0,0,2,0,0,0
 2020-08-08,Nursing Home,Bladen,Bladen East Health and Rehab,2,0,0,0,2,0,0,0
 2020-08-08,Nursing Home,Brunswick,Autumn Care of Shallotte,17,0,5,1,22,1,0,0
@@ -809,6 +990,19 @@
 2020-08-08,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,0,0
 2020-08-08,Nursing Home,Wake,Community,6,0,37,5,43,5,0,0
 2020-08-08,Nursing Home,Warren,Warren Hills Nursing Center,1,0,2,0,3,0,0,0
+2020-08-08,Other,Alleghany,"S Sparta Pkwy, Sparta",0,0,91,0,91,0,0,0
+2020-08-08,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-08-08,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-08,Other,Franklin,"Stone Southerland Rd, Louisburg",5,0,0,0,5,0,0,0
+2020-08-08,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-08-08,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-08,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-08,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-08,Other,Sampson,"Timothy Rd, Dunn",6,0,0,0,6,0,0,0
+2020-08-08,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-08,Other,Tyrrell,"Road St., Columbia",37,0,0,0,37,0,0,0
+2020-08-08,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
+2020-08-08,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-08-09,Nursing Home,Bertie,Three Rivers Health & Rehabilitation,2,0,0,0,2,0,0,0
 2020-08-09,Nursing Home,Bladen,Bladen East Health and Rehab,2,0,0,0,2,0,0,0
 2020-08-09,Nursing Home,Brunswick,Autumn Care of Shallotte,17,0,5,1,22,1,0,0
@@ -861,6 +1055,19 @@
 2020-08-09,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,0,0
 2020-08-09,Nursing Home,Wake,Community,6,0,37,5,43,5,0,0
 2020-08-09,Nursing Home,Warren,Warren Hills Nursing Center,1,0,2,0,3,0,0,0
+2020-08-09,Other,Alleghany,"S Sparta Pkwy, Sparta",0,0,91,0,91,0,0,0
+2020-08-09,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-08-09,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-09,Other,Franklin,"Stone Southerland Rd, Louisburg",5,0,0,0,5,0,0,0
+2020-08-09,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-08-09,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-09,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-09,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-09,Other,Sampson,"Timothy Rd, Dunn",6,0,0,0,6,0,0,0
+2020-08-09,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-09,Other,Tyrrell,"Road St., Columbia",37,0,0,0,37,0,0,0
+2020-08-09,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
+2020-08-09,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-08-10,Nursing Home,Bertie,Three Rivers Health & Rehabilitation,2,0,0,0,2,0,0,0
 2020-08-10,Nursing Home,Bladen,Bladen East Health and Rehab,2,0,0,0,2,0,0,0
 2020-08-10,Nursing Home,Brunswick,Autumn Care of Shallotte,17,0,5,1,22,1,0,0
@@ -913,6 +1120,19 @@
 2020-08-10,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,0,0
 2020-08-10,Nursing Home,Wake,Community,6,0,37,5,43,5,0,0
 2020-08-10,Nursing Home,Warren,Warren Hills Nursing Center,1,0,2,0,3,0,0,0
+2020-08-10,Other,Alleghany,"S Sparta Pkwy, Sparta",0,0,91,0,91,0,0,0
+2020-08-10,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-08-10,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-10,Other,Franklin,"Stone Southerland Rd, Louisburg",5,0,0,0,5,0,0,0
+2020-08-10,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-08-10,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-10,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-10,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-10,Other,Sampson,"Timothy Rd, Dunn",6,0,0,0,6,0,0,0
+2020-08-10,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-10,Other,Tyrrell,"Road St., Columbia",37,0,0,0,37,0,0,0
+2020-08-10,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
+2020-08-10,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-08-11,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,,
 2020-08-11,Nursing Home,Beaufort,River Trace Nursing and Rehab,3,0,0,0,3,0,,
 2020-08-11,Nursing Home,Bertie,Three Rivers Health & Rehabilitation,2,0,0,0,2,0,0,0
@@ -1006,6 +1226,18 @@
 2020-08-11,Nursing Home,Wake,Tower Nursing and Rehabilitation Center,17,0,51,7,68,7,0,0
 2020-08-11,Nursing Home,Wake,UNC Rex Rehabilitation and Nursing Care Center,12,0,21,3,33,3,13,2
 2020-08-11,Nursing Home,Wake,Universal Health Care/Fuquay-Varina,3,0,9,0,12,0,0,0
+2020-08-11,Other,Alleghany,"S Sparta Pkwy, Sparta",0,0,103,0,103,0,12,0
+2020-08-11,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-08-11,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-11,Other,Franklin,"Stone Southerland Rd, Louisburg",5,0,0,0,5,0,0,0
+2020-08-11,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-08-11,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-11,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-11,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-11,Other,Sampson,"Timothy Rd, Dunn",6,0,0,0,6,0,0,0
+2020-08-11,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-11,Other,Tyrrell,"Road St., Columbia",37,0,0,0,37,0,0,0
+2020-08-11,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
 2020-08-12,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
 2020-08-12,Nursing Home,Beaufort,River Trace Nursing and Rehab,3,0,0,0,3,0,0,0
 2020-08-12,Nursing Home,Bertie,Three Rivers Health & Rehabilitation,2,0,0,0,2,0,0,0
@@ -1099,6 +1331,18 @@
 2020-08-12,Nursing Home,Wake,Tower Nursing and Rehabilitation Center,17,0,51,7,68,7,0,0
 2020-08-12,Nursing Home,Wake,UNC Rex Rehabilitation and Nursing Care Center,12,0,21,3,33,3,0,0
 2020-08-12,Nursing Home,Wake,Universal Health Care/Fuquay-Varina,3,0,9,0,12,0,0,0
+2020-08-12,Other,Alleghany,"S Sparta Pkwy, Sparta",0,0,103,0,103,0,0,0
+2020-08-12,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-08-12,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-12,Other,Franklin,"Stone Southerland Rd, Louisburg",5,0,0,0,5,0,0,0
+2020-08-12,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-08-12,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-12,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-12,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-12,Other,Sampson,"Timothy Rd, Dunn",6,0,0,0,6,0,0,0
+2020-08-12,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-12,Other,Tyrrell,"Road St., Columbia",37,0,0,0,37,0,0,0
+2020-08-12,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
 2020-08-13,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
 2020-08-13,Nursing Home,Beaufort,River Trace Nursing and Rehab,3,0,0,0,3,0,0,0
 2020-08-13,Nursing Home,Bertie,Three Rivers Health & Rehabilitation,2,0,0,0,2,0,0,0
@@ -1192,6 +1436,18 @@
 2020-08-13,Nursing Home,Wake,Tower Nursing and Rehabilitation Center,17,0,51,7,68,7,0,0
 2020-08-13,Nursing Home,Wake,UNC Rex Rehabilitation and Nursing Care Center,12,0,21,3,33,3,0,0
 2020-08-13,Nursing Home,Wake,Universal Health Care/Fuquay-Varina,3,0,9,0,12,0,0,0
+2020-08-13,Other,Alleghany,"S Sparta Pkwy, Sparta",0,0,103,0,103,0,0,0
+2020-08-13,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-08-13,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-13,Other,Franklin,"Stone Southerland Rd, Louisburg",5,0,0,0,5,0,0,0
+2020-08-13,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-08-13,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-13,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-13,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-13,Other,Sampson,"Timothy Rd, Dunn",6,0,0,0,6,0,0,0
+2020-08-13,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-13,Other,Tyrrell,"Road St., Columbia",37,0,0,0,37,0,0,0
+2020-08-13,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
 2020-08-14,Nursing Home,Alamance,Alamance Health Care Center,1,0,2,0,3,0,,
 2020-08-14,Nursing Home,Anson,Anson Health & Rehab,0,0,2,0,2,0,,
 2020-08-14,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -1310,6 +1566,10 @@
 2020-08-14,Nursing Home,Wake,Hillside Nursing Center of Wake Forest,10,0,65,19,75,19,0,0
 2020-08-14,Nursing Home,Wake,Center,26,0,51,6,77,6,70,6
 2020-08-14,Nursing Home,Wake,Raleigh Rehabilitation Center,0,0,7,0,7,0,4,0
+2020-08-14,Other,Alleghany,"S Sparta Pkwy, Sparta",0,0,103,0,103,0,0,0
+2020-08-14,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-08-14,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-14,Other,Tyrrell,"Road St., Columbia",0,0,37,0,37,0,0,0
 2020-08-15,Nursing Home,Alamance,Alamance Health Care Center,1,0,2,0,3,0,0,0
 2020-08-15,Nursing Home,Anson,Anson Health & Rehab,0,0,2,0,2,0,0,0
 2020-08-15,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -1428,6 +1688,10 @@
 2020-08-15,Nursing Home,Wake,Hillside Nursing Center of Wake Forest,10,0,65,19,75,19,0,0
 2020-08-15,Nursing Home,Wake,Center,26,0,51,6,77,6,70,6
 2020-08-15,Nursing Home,Wake,Raleigh Rehabilitation Center,0,0,7,0,7,0,0,0
+2020-08-15,Other,Alleghany,"S Sparta Pkwy, Sparta",0,0,103,0,103,0,0,0
+2020-08-15,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-08-15,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-15,Other,Tyrrell,"Road St., Columbia",0,0,37,0,37,0,0,0
 2020-08-16,Nursing Home,Alamance,Alamance Health Care Center,1,0,2,0,3,0,0,0
 2020-08-16,Nursing Home,Anson,Anson Health & Rehab,0,0,2,0,2,0,0,0
 2020-08-16,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -1546,6 +1810,10 @@
 2020-08-16,Nursing Home,Wake,Hillside Nursing Center of Wake Forest,10,0,65,19,75,19,0,0
 2020-08-16,Nursing Home,Wake,Center,26,0,51,6,77,6,70,6
 2020-08-16,Nursing Home,Wake,Raleigh Rehabilitation Center,0,0,7,0,7,0,0,0
+2020-08-16,Other,Alleghany,"S Sparta Pkwy, Sparta",0,0,103,0,103,0,0,0
+2020-08-16,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-08-16,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-16,Other,Tyrrell,"Road St., Columbia",0,0,37,0,37,0,0,0
 2020-08-17,Nursing Home,Alamance,Alamance Health Care Center,1,0,2,0,3,0,0,0
 2020-08-17,Nursing Home,Anson,Anson Health & Rehab,0,0,2,0,2,0,0,0
 2020-08-17,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -1664,6 +1932,10 @@
 2020-08-17,Nursing Home,Wake,Hillside Nursing Center of Wake Forest,10,0,65,19,75,19,0,0
 2020-08-17,Nursing Home,Wake,Center,26,0,51,6,77,6,70,6
 2020-08-17,Nursing Home,Wake,Raleigh Rehabilitation Center,0,0,7,0,7,0,0,0
+2020-08-17,Other,Alleghany,"S Sparta Pkwy, Sparta",0,0,103,0,103,0,0,0
+2020-08-17,Other,Durham,"Liberty St, Durham",0,0,4,0,4,0,0,0
+2020-08-17,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-17,Other,Tyrrell,"Road St., Columbia",0,0,37,0,37,0,0,0
 2020-08-18,Nursing Home,Alamance,Alamance Health Care Center,1,0,2,0,3,0,0,0
 2020-08-18,Nursing Home,Anson,Anson Health & Rehab,0,0,2,0,2,0,0,0
 2020-08-18,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -1801,6 +2073,16 @@
 2020-08-18,Nursing Home,Watauga,Glenbridge Health and Rehab,1,0,2,0,3,0,,
 2020-08-18,Nursing Home,Wayne,Mount Olive Center,6,0,14,3,20,3,0,0
 2020-08-18,Nursing Home,Wayne,O'Berry Neuro-Medical Treatment Center,35,0,15,0,50,0,11,0
+2020-08-18,Other,Alleghany,"S Sparta Pkwy, Sparta",0,0,112,0,112,0,9,0
+2020-08-18,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-18,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-08-18,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-18,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-18,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-18,Other,Sampson,"Timothy Rd, Dunn",0,0,6,0,6,0,0,0
+2020-08-18,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-18,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
+2020-08-18,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-08-19,Nursing Home,Alamance,Alamance Health Care Center,1,0,2,0,3,0,0,0
 2020-08-19,Nursing Home,Anson,Anson Health & Rehab,0,0,2,0,2,0,0,0
 2020-08-19,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -1938,6 +2220,16 @@
 2020-08-19,Nursing Home,Watauga,Glenbridge Health and Rehab,1,0,2,0,3,0,0,0
 2020-08-19,Nursing Home,Wayne,Mount Olive Center,6,0,14,3,20,3,0,0
 2020-08-19,Nursing Home,Wayne,O'Berry Neuro-Medical Treatment Center,35,0,15,0,50,0,0,0
+2020-08-19,Other,Alleghany,"S Sparta Pkwy, Sparta",0,0,112,0,112,0,0,0
+2020-08-19,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-19,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-08-19,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-19,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-19,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-19,Other,Sampson,"Timothy Rd, Dunn",0,0,6,0,6,0,0,0
+2020-08-19,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-19,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
+2020-08-19,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-08-20,Nursing Home,Alamance,Alamance Health Care Center,1,0,2,0,3,0,0,0
 2020-08-20,Nursing Home,Anson,Anson Health & Rehab,0,0,2,0,2,0,0,0
 2020-08-20,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -2075,6 +2367,16 @@
 2020-08-20,Nursing Home,Watauga,Glenbridge Health and Rehab,1,0,2,0,3,0,0,0
 2020-08-20,Nursing Home,Wayne,Mount Olive Center,6,0,14,3,20,3,0,0
 2020-08-20,Nursing Home,Wayne,O'Berry Neuro-Medical Treatment Center,35,0,15,0,50,0,0,0
+2020-08-20,Other,Alleghany,"S Sparta Pkwy, Sparta",0,0,112,0,112,0,0,0
+2020-08-20,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-20,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-08-20,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-20,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-20,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-20,Other,Sampson,"Timothy Rd, Dunn",0,0,6,0,6,0,0,0
+2020-08-20,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-20,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
+2020-08-20,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-08-21,Nursing Home,Alamance,Alamance Health Care Center,2,0,5,0,7,0,4,0
 2020-08-21,Nursing Home,Anson,Anson Health & Rehab,0,0,2,0,2,0,0,0
 2020-08-21,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -2227,6 +2529,17 @@
 2020-08-21,Nursing Home,Wake,Windsor Point Continuing Care,6,0,37,5,43,5,,
 2020-08-21,Nursing Home,Warren,Warren Hills Nursing Center,1,0,2,0,3,0,0,0
 2020-08-21,Nursing Home,Washington,Roanoke Landing Nursing and,4,0,1,0,5,0,,
+2020-08-21,Other,Alleghany,"S Sparta Pkwy, Sparta",115,0,0,0,115,0,3,0
+2020-08-21,Other,Ashe,"Healing Springs Rd East, Crumpler",5,0,0,0,5,0,,
+2020-08-21,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-21,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-08-21,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-21,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-21,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-21,Other,Sampson,"Timothy Rd, Dunn",0,0,7,0,7,0,1,0
+2020-08-21,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-21,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
+2020-08-21,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-08-22,Nursing Home,Alamance,Alamance Health Care Center,2,0,5,0,7,0,0,0
 2020-08-22,Nursing Home,Anson,Anson Health & Rehab,0,0,2,0,2,0,0,0
 2020-08-22,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -2379,6 +2692,17 @@
 2020-08-22,Nursing Home,Wake,Windsor Point Continuing Care,6,0,37,5,43,5,0,0
 2020-08-22,Nursing Home,Warren,Warren Hills Nursing Center,1,0,2,0,3,0,0,0
 2020-08-22,Nursing Home,Washington,Roanoke Landing Nursing and,4,0,1,0,5,0,0,0
+2020-08-22,Other,Alleghany,"S Sparta Pkwy, Sparta",115,0,0,0,115,0,0,0
+2020-08-22,Other,Ashe,"Healing Springs Rd East, Crumpler",5,0,0,0,5,0,0,0
+2020-08-22,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-22,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-08-22,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-22,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-22,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-22,Other,Sampson,"Timothy Rd, Dunn",0,0,7,0,7,0,0,0
+2020-08-22,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-22,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
+2020-08-22,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-08-23,Nursing Home,Alamance,Alamance Health Care Center,2,0,5,0,7,0,0,0
 2020-08-23,Nursing Home,Anson,Anson Health & Rehab,0,0,2,0,2,0,0,0
 2020-08-23,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -2531,6 +2855,17 @@
 2020-08-23,Nursing Home,Wake,Windsor Point Continuing Care,6,0,37,5,43,5,0,0
 2020-08-23,Nursing Home,Warren,Warren Hills Nursing Center,1,0,2,0,3,0,0,0
 2020-08-23,Nursing Home,Washington,Roanoke Landing Nursing and,4,0,1,0,5,0,0,0
+2020-08-23,Other,Alleghany,"S Sparta Pkwy, Sparta",115,0,0,0,115,0,0,0
+2020-08-23,Other,Ashe,"Healing Springs Rd East, Crumpler",5,0,0,0,5,0,0,0
+2020-08-23,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-23,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-08-23,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-23,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-23,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-23,Other,Sampson,"Timothy Rd, Dunn",0,0,7,0,7,0,0,0
+2020-08-23,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-23,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
+2020-08-23,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-08-24,Nursing Home,Alamance,Alamance Health Care Center,2,0,5,0,7,0,0,0
 2020-08-24,Nursing Home,Anson,Anson Health & Rehab,0,0,2,0,2,0,0,0
 2020-08-24,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -2683,6 +3018,17 @@
 2020-08-24,Nursing Home,Wake,Windsor Point Continuing Care,6,0,37,5,43,5,0,0
 2020-08-24,Nursing Home,Warren,Warren Hills Nursing Center,1,0,2,0,3,0,0,0
 2020-08-24,Nursing Home,Washington,Roanoke Landing Nursing and,4,0,1,0,5,0,0,0
+2020-08-24,Other,Alleghany,"S Sparta Pkwy, Sparta",115,0,0,0,115,0,0,0
+2020-08-24,Other,Ashe,"Healing Springs Rd East, Crumpler",5,0,0,0,5,0,0,0
+2020-08-24,Other,Franklin,"NC 39 Hwy S, Louisburg",0,0,4,1,4,1,0,0
+2020-08-24,Other,Greene,"Ham Produce Rd, Snow Hill",0,0,31,0,31,0,0,0
+2020-08-24,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-24,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-24,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-24,Other,Sampson,"Timothy Rd, Dunn",0,0,7,0,7,0,0,0
+2020-08-24,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-24,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
+2020-08-24,Other,Wilson,"NC HWY 58, Wilson",0,0,27,0,27,0,0,0
 2020-08-25,Nursing Home,Alamance,Alamance Health Care Center,2,0,5,0,7,0,0,0
 2020-08-25,Nursing Home,Anson,Anson Health & Rehab,0,0,2,0,2,0,0,0
 2020-08-25,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -2838,6 +3184,13 @@
 2020-08-25,Nursing Home,Wayne,Mount Olive Center,6,0,14,3,20,3,0,0
 2020-08-25,Nursing Home,Wayne,O'Berry Neuro-Medical Treatment Center,35,0,15,0,50,0,0,0
 2020-08-25,Nursing Home,Wayne,Willow Creek Nursing and Rehabilitation,3,0,4,0,7,0,,
+2020-08-25,Other,Alleghany,"S Sparta Pkwy, Sparta",122,0,0,0,122,0,7,0
+2020-08-25,Other,Ashe,"Healing Springs Rd East, Crumpler",9,0,0,0,9,0,4,0
+2020-08-25,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-25,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-25,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-25,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-25,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
 2020-08-26,Nursing Home,Alamance,Alamance Health Care Center,2,0,5,0,7,0,0,0
 2020-08-26,Nursing Home,Anson,Anson Health & Rehab,0,0,2,0,2,0,0,0
 2020-08-26,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -2993,6 +3346,13 @@
 2020-08-26,Nursing Home,Wayne,Mount Olive Center,6,0,14,3,20,3,0,0
 2020-08-26,Nursing Home,Wayne,O'Berry Neuro-Medical Treatment Center,35,0,15,0,50,0,0,0
 2020-08-26,Nursing Home,Wayne,Willow Creek Nursing and Rehabilitation,3,0,4,0,7,0,0,0
+2020-08-26,Other,Alleghany,"S Sparta Pkwy, Sparta",122,0,0,0,122,0,0,0
+2020-08-26,Other,Ashe,"Healing Springs Rd East, Crumpler",9,0,0,0,9,0,0,0
+2020-08-26,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-26,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-26,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-26,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-26,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
 2020-08-27,Nursing Home,Alamance,Alamance Health Care Center,2,0,5,0,7,0,0,0
 2020-08-27,Nursing Home,Anson,Anson Health & Rehab,0,0,2,0,2,0,0,0
 2020-08-27,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -3148,6 +3508,13 @@
 2020-08-27,Nursing Home,Wayne,Mount Olive Center,6,0,14,3,20,3,0,0
 2020-08-27,Nursing Home,Wayne,O'Berry Neuro-Medical Treatment Center,35,0,15,0,50,0,0,0
 2020-08-27,Nursing Home,Wayne,Willow Creek Nursing and Rehabilitation,3,0,4,0,7,0,0,0
+2020-08-27,Other,Alleghany,"S Sparta Pkwy, Sparta",122,0,0,0,122,0,0,0
+2020-08-27,Other,Ashe,"Healing Springs Rd East, Crumpler",9,0,0,0,9,0,0,0
+2020-08-27,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-27,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-27,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-27,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-27,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
 2020-08-28,Nursing Home,Alamance,Alamance Health Care Center,3,0,5,0,8,0,1,0
 2020-08-28,Nursing Home,Anson,Anson Health & Rehab,1,0,2,0,3,0,1,0
 2020-08-28,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -3286,6 +3653,14 @@
 2020-08-28,Nursing Home,Wake,The Laurels of Forest Glenn,17,0,81,13,98,13,0,0
 2020-08-28,Nursing Home,Wake,The Rosewood Health Center,2,0,0,0,2,0,0,0
 2020-08-28,Nursing Home,Wake,Tower Nursing and Rehabilitation Center,20,0,58,12,78,12,0,0
+2020-08-28,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,5,0
+2020-08-28,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,,
+2020-08-28,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,,
+2020-08-28,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-28,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-28,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-28,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-28,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
 2020-08-29,Nursing Home,Alamance,Alamance Health Care Center,3,0,5,0,8,0,0,0
 2020-08-29,Nursing Home,Anson,Anson Health & Rehab,1,0,2,0,3,0,0,0
 2020-08-29,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -3424,6 +3799,14 @@
 2020-08-29,Nursing Home,Wake,The Laurels of Forest Glenn,17,0,81,13,98,13,0,0
 2020-08-29,Nursing Home,Wake,The Rosewood Health Center,2,0,0,0,2,0,0,0
 2020-08-29,Nursing Home,Wake,Tower Nursing and Rehabilitation Center,20,0,58,12,78,12,0,0
+2020-08-29,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-08-29,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-08-29,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-08-29,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-29,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-29,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-29,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-29,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
 2020-08-30,Nursing Home,Alamance,Alamance Health Care Center,3,0,5,0,8,0,0,0
 2020-08-30,Nursing Home,Anson,Anson Health & Rehab,1,0,2,0,3,0,0,0
 2020-08-30,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -3562,6 +3945,14 @@
 2020-08-30,Nursing Home,Wake,The Laurels of Forest Glenn,17,0,81,13,98,13,0,0
 2020-08-30,Nursing Home,Wake,The Rosewood Health Center,2,0,0,0,2,0,0,0
 2020-08-30,Nursing Home,Wake,Tower Nursing and Rehabilitation Center,20,0,58,12,78,12,0,0
+2020-08-30,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-08-30,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-08-30,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-08-30,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-30,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-30,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-30,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-30,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
 2020-08-31,Nursing Home,Alamance,Alamance Health Care Center,3,0,5,0,8,0,0,0
 2020-08-31,Nursing Home,Anson,Anson Health & Rehab,1,0,2,0,3,0,0,0
 2020-08-31,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -3700,6 +4091,14 @@
 2020-08-31,Nursing Home,Wake,The Laurels of Forest Glenn,17,0,81,13,98,13,0,0
 2020-08-31,Nursing Home,Wake,The Rosewood Health Center,2,0,0,0,2,0,0,0
 2020-08-31,Nursing Home,Wake,Tower Nursing and Rehabilitation Center,20,0,58,12,78,12,0,0
+2020-08-31,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-08-31,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-08-31,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-08-31,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-08-31,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-08-31,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-08-31,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-08-31,Other,Wake,"Louisburg Rd, Wake Forest",0,0,9,0,9,0,0,0
 2020-09-01,Nursing Home,Alamance,Alamance Health Care Center,3,0,5,0,8,0,0,0
 2020-09-01,Nursing Home,Anson,Anson Health & Rehab,1,0,2,0,3,0,0,0
 2020-09-01,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -3837,18 +4236,14 @@
 2020-09-01,Nursing Home,Wake,Universal Health Care/Fuquay-Varina,3,0,9,1,12,1,0,0
 2020-09-01,Nursing Home,Wake,Universal Health Care/North Raleigh,2,0,2,0,4,0,0,0
 2020-09-01,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,0,0
-2020-09-01,Nursing Home,Forsyth,Brookridge Retirement Community,4,0,0,0,4,0,0,0
-2020-09-01,Nursing Home,Gaston,Stanley Total Living Center Inc,5,0,1,0,6,0,0,0
-2020-09-01,Nursing Home,New Hanover,Accordius Health at Wilmington,2,0,0,0,2,0,0,0
-2020-09-01,Nursing Home,Orange,Carol Woods,3,0,1,0,4,0,0,0
-2020-09-01,Nursing Home,Richmond,Richmond Pines Healthcare and,5,0,0,0,5,0,0,0
-2020-09-01,Nursing Home,Transylvania,The Oaks-Brevard,2,0,0,0,2,0,0,0
-2020-09-01,Nursing Home,Warren,Warren Hills Nursing Center,1,0,2,0,3,0,0,0
-2020-09-01,Residential Care,Caldwell,Brockford Inn,21,0,44,3,65,3,,
-2020-09-01,Residential Care,Gaston,Elmcroft of Cramerton Assisted Living,1,0,2,0,3,0,,
-2020-09-01,Residential Care,Harnett,Absolute Care Assisted Living,2,0,1,0,3,0,,
-2020-09-01,Residential Care,Wilson,Wilson Assisted Living,13,0,35,8,48,8,,
-2020-09-01,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,,
+2020-09-01,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-01,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-01,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-01,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-01,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-09-01,Other,Sampson,"Maxwell Rd, Autreyville",1,0,8,0,9,0,,
+2020-09-01,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-09-01,Other,Wake,"Louisburg Rd, Wake Forest",0,0,12,1,12,1,3,1
 2020-09-02,Nursing Home,Alamance,Alamance Health Care Center,3,0,5,0,8,0,0,0
 2020-09-02,Nursing Home,Anson,Anson Health & Rehab,1,0,2,0,3,0,0,0
 2020-09-02,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -3986,18 +4381,14 @@
 2020-09-02,Nursing Home,Wake,Universal Health Care/Fuquay-Varina,3,0,9,1,12,1,0,0
 2020-09-02,Nursing Home,Wake,Universal Health Care/North Raleigh,2,0,2,0,4,0,0,0
 2020-09-02,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,0,0
-2020-09-02,Nursing Home,Forsyth,Brookridge Retirement Community,4,0,0,0,4,0,0,0
-2020-09-02,Nursing Home,Gaston,Stanley Total Living Center Inc,5,0,1,0,6,0,0,0
-2020-09-02,Nursing Home,New Hanover,Accordius Health at Wilmington,2,0,0,0,2,0,0,0
-2020-09-02,Nursing Home,Orange,Carol Woods,3,0,1,0,4,0,0,0
-2020-09-02,Nursing Home,Richmond,Richmond Pines Healthcare and,5,0,0,0,5,0,0,0
-2020-09-02,Nursing Home,Transylvania,The Oaks-Brevard,2,0,0,0,2,0,0,0
-2020-09-02,Nursing Home,Warren,Warren Hills Nursing Center,1,0,2,0,3,0,0,0
-2020-09-02,Residential Care,Caldwell,Brockford Inn,21,0,44,3,65,3,0,0
-2020-09-02,Residential Care,Gaston,Elmcroft of Cramerton Assisted Living,1,0,2,0,3,0,0,0
-2020-09-02,Residential Care,Harnett,Absolute Care Assisted Living,2,0,1,0,3,0,0,0
-2020-09-02,Residential Care,Wilson,Wilson Assisted Living,13,0,35,8,48,8,0,0
-2020-09-02,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-09-02,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-02,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-02,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-02,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-02,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-09-02,Other,Sampson,"Maxwell Rd, Autreyville",1,0,8,0,9,0,0,0
+2020-09-02,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-09-02,Other,Wake,"Louisburg Rd, Wake Forest",0,0,12,1,12,1,0,0
 2020-09-03,Nursing Home,Alamance,Alamance Health Care Center,3,0,5,0,8,0,0,0
 2020-09-03,Nursing Home,Anson,Anson Health & Rehab,1,0,2,0,3,0,0,0
 2020-09-03,Nursing Home,Ashe,Margate Health and Rehab,0,0,2,0,2,0,0,0
@@ -4135,18 +4526,14 @@
 2020-09-03,Nursing Home,Wake,Universal Health Care/Fuquay-Varina,3,0,9,1,12,1,0,0
 2020-09-03,Nursing Home,Wake,Universal Health Care/North Raleigh,2,0,2,0,4,0,0,0
 2020-09-03,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,0,0
-2020-09-03,Nursing Home,Forsyth,Brookridge Retirement Community,4,0,0,0,4,0,0,0
-2020-09-03,Nursing Home,Gaston,Stanley Total Living Center Inc,5,0,1,0,6,0,0,0
-2020-09-03,Nursing Home,New Hanover,Accordius Health at Wilmington,2,0,0,0,2,0,0,0
-2020-09-03,Nursing Home,Orange,Carol Woods,3,0,1,0,4,0,0,0
-2020-09-03,Nursing Home,Richmond,Richmond Pines Healthcare and,5,0,0,0,5,0,0,0
-2020-09-03,Nursing Home,Transylvania,The Oaks-Brevard,2,0,0,0,2,0,0,0
-2020-09-03,Nursing Home,Warren,Warren Hills Nursing Center,1,0,2,0,3,0,0,0
-2020-09-03,Residential Care,Caldwell,Brockford Inn,21,0,44,3,65,3,0,0
-2020-09-03,Residential Care,Gaston,Elmcroft of Cramerton Assisted Living,1,0,2,0,3,0,0,0
-2020-09-03,Residential Care,Harnett,Absolute Care Assisted Living,2,0,1,0,3,0,0,0
-2020-09-03,Residential Care,Wilson,Wilson Assisted Living,13,0,35,8,48,8,0,0
-2020-09-03,Other,Sampson,"Mount Moriah Church Rd., Clinton",0,0,12,0,12,0,0,0
+2020-09-03,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-03,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-03,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-03,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-03,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-09-03,Other,Sampson,"Maxwell Rd, Autreyville",1,0,8,0,9,0,0,0
+2020-09-03,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-09-03,Other,Wake,"Louisburg Rd, Wake Forest",0,0,12,1,12,1,0,0
 2020-09-04,Nursing Home,Alamance,Alamance Health Care Center,4,0,5,0,9,0,1,0
 2020-09-04,Nursing Home,Alamance,Coble Creek,2,0,0,0,2,0,,
 2020-09-04,Nursing Home,Anson,Anson Health & Rehab,1,0,2,0,3,0,0,0
@@ -4284,19 +4671,14 @@
 2020-09-04,Nursing Home,Wake,Hillside Nursing Center of Wake Forest,10,0,75,19,85,19,0,0
 2020-09-04,Nursing Home,Wake,Raleigh Rehabilitation Center,3,0,3,0,6,0,0,0
 2020-09-04,Nursing Home,Wake,The Laurels of Forest Glenn,17,0,81,13,98,13,0,0
-2020-09-04,Nursing Home,Guilford,Camden Health and Rehabilitation,20,0,65,15,85,15,0,0
-2020-09-04,Nursing Home,Guilford,Friends Homes West,5,0,1,0,6,0,0,0
-2020-09-04,Nursing Home,Henderson,Brian Center of Hendersonville,2,0,0,0,2,0,0,0
-2020-09-04,Nursing Home,Macon,Macon Valley Nursing and Rehabilitation,3,0,0,0,3,0,0,0
-2020-09-04,Nursing Home,Mecklenburg,Huntersville Health and Rehabilitation,12,0,14,2,26,2,,
-2020-09-04,Nursing Home,Mecklenburg,Sardis Oaks,4,0,0,0,4,0,,
-2020-09-04,Nursing Home,Randolph,Woodland Hill Center,17,0,40,6,57,6,0,0
-2020-09-04,Nursing Home,Sampson,Mary Gran Nursing Center,7,0,1,0,8,0,0,0
-2020-09-04,Nursing Home,Wake,Litchford Falls Healthcare and Rehabilitation,26,0,51,6,77,6,0,0
-2020-09-04,Nursing Home,Wake,Universal Health Care/North Raleigh,2,0,4,0,6,0,2,0
-2020-09-04,Nursing Home,Wake,Windsor Point Continuing Care Retirement,6,0,37,5,43,5,0,0
-2020-09-04,Residential Care,Cumberland,Harmony of Hope Mills,5,0,1,0,6,0,,
-2020-09-04,Residential Care,Forsyth,Homestead Hills Assisted Living,3,0,0,0,3,0,,
+2020-09-04,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-04,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-04,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-04,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-04,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-09-04,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,,
+2020-09-04,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-09-04,Other,Wake,"Louisburg Rd, Wake Forest",0,0,12,1,12,1,0,0
 2020-09-05,Nursing Home,Alamance,Alamance Health Care Center,4,0,5,0,9,0,0,0
 2020-09-05,Nursing Home,Alamance,Coble Creek,2,0,0,0,2,0,0,0
 2020-09-05,Nursing Home,Anson,Anson Health & Rehab,1,0,2,0,3,0,0,0
@@ -4434,19 +4816,14 @@
 2020-09-05,Nursing Home,Wake,Hillside Nursing Center of Wake Forest,10,0,75,19,85,19,0,0
 2020-09-05,Nursing Home,Wake,Raleigh Rehabilitation Center,3,0,3,0,6,0,0,0
 2020-09-05,Nursing Home,Wake,The Laurels of Forest Glenn,17,0,81,13,98,13,0,0
-2020-09-05,Nursing Home,Guilford,Camden Health and Rehabilitation,20,0,65,15,85,15,0,0
-2020-09-05,Nursing Home,Guilford,Friends Homes West,5,0,1,0,6,0,0,0
-2020-09-05,Nursing Home,Henderson,Brian Center of Hendersonville,2,0,0,0,2,0,0,0
-2020-09-05,Nursing Home,Macon,Macon Valley Nursing and Rehabilitation,3,0,0,0,3,0,0,0
-2020-09-05,Nursing Home,Mecklenburg,Huntersville Health and Rehabilitation,12,0,14,2,26,2,0,0
-2020-09-05,Nursing Home,Mecklenburg,Sardis Oaks,4,0,0,0,4,0,0,0
-2020-09-05,Nursing Home,Randolph,Woodland Hill Center,17,0,40,6,57,6,0,0
-2020-09-05,Nursing Home,Sampson,Mary Gran Nursing Center,7,0,1,0,8,0,0,0
-2020-09-05,Nursing Home,Wake,Litchford Falls Healthcare and Rehabilitation,26,0,51,6,77,6,0,0
-2020-09-05,Nursing Home,Wake,Universal Health Care/North Raleigh,2,0,4,0,6,0,0,0
-2020-09-05,Nursing Home,Wake,Windsor Point Continuing Care Retirement,6,0,37,5,43,5,0,0
-2020-09-05,Residential Care,Cumberland,Harmony of Hope Mills,5,0,1,0,6,0,0,0
-2020-09-05,Residential Care,Forsyth,Homestead Hills Assisted Living,3,0,0,0,3,0,0,0
+2020-09-05,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-05,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-05,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-05,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-05,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-09-05,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-05,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-09-05,Other,Wake,"Louisburg Rd, Wake Forest",0,0,12,1,12,1,0,0
 2020-09-06,Nursing Home,Alamance,Alamance Health Care Center,4,0,5,0,9,0,0,0
 2020-09-06,Nursing Home,Alamance,Coble Creek,2,0,0,0,2,0,0,0
 2020-09-06,Nursing Home,Anson,Anson Health & Rehab,1,0,2,0,3,0,0,0
@@ -4584,19 +4961,14 @@
 2020-09-06,Nursing Home,Wake,Hillside Nursing Center of Wake Forest,10,0,75,19,85,19,0,0
 2020-09-06,Nursing Home,Wake,Raleigh Rehabilitation Center,3,0,3,0,6,0,0,0
 2020-09-06,Nursing Home,Wake,The Laurels of Forest Glenn,17,0,81,13,98,13,0,0
-2020-09-06,Nursing Home,Guilford,Camden Health and Rehabilitation,20,0,65,15,85,15,0,0
-2020-09-06,Nursing Home,Guilford,Friends Homes West,5,0,1,0,6,0,0,0
-2020-09-06,Nursing Home,Henderson,Brian Center of Hendersonville,2,0,0,0,2,0,0,0
-2020-09-06,Nursing Home,Macon,Macon Valley Nursing and Rehabilitation,3,0,0,0,3,0,0,0
-2020-09-06,Nursing Home,Mecklenburg,Huntersville Health and Rehabilitation,12,0,14,2,26,2,0,0
-2020-09-06,Nursing Home,Mecklenburg,Sardis Oaks,4,0,0,0,4,0,0,0
-2020-09-06,Nursing Home,Randolph,Woodland Hill Center,17,0,40,6,57,6,0,0
-2020-09-06,Nursing Home,Sampson,Mary Gran Nursing Center,7,0,1,0,8,0,0,0
-2020-09-06,Nursing Home,Wake,Litchford Falls Healthcare and Rehabilitation,26,0,51,6,77,6,0,0
-2020-09-06,Nursing Home,Wake,Universal Health Care/North Raleigh,2,0,4,0,6,0,0,0
-2020-09-06,Nursing Home,Wake,Windsor Point Continuing Care Retirement,6,0,37,5,43,5,0,0
-2020-09-06,Residential Care,Cumberland,Harmony of Hope Mills,5,0,1,0,6,0,0,0
-2020-09-06,Residential Care,Forsyth,Homestead Hills Assisted Living,3,0,0,0,3,0,0,0
+2020-09-06,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-06,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-06,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-06,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-06,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-09-06,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-06,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-09-06,Other,Wake,"Louisburg Rd, Wake Forest",0,0,12,1,12,1,0,0
 2020-09-07,Nursing Home,Alamance,Alamance Health Care Center,4,0,5,0,9,0,0,0
 2020-09-07,Nursing Home,Alamance,Coble Creek,2,0,0,0,2,0,0,0
 2020-09-07,Nursing Home,Anson,Anson Health & Rehab,1,0,2,0,3,0,0,0
@@ -4734,19 +5106,14 @@
 2020-09-07,Nursing Home,Wake,Hillside Nursing Center of Wake Forest,10,0,75,19,85,19,0,0
 2020-09-07,Nursing Home,Wake,Raleigh Rehabilitation Center,3,0,3,0,6,0,0,0
 2020-09-07,Nursing Home,Wake,The Laurels of Forest Glenn,17,0,81,13,98,13,0,0
-2020-09-07,Nursing Home,Guilford,Camden Health and Rehabilitation,20,0,65,15,85,15,0,0
-2020-09-07,Nursing Home,Guilford,Friends Homes West,5,0,1,0,6,0,0,0
-2020-09-07,Nursing Home,Henderson,Brian Center of Hendersonville,2,0,0,0,2,0,0,0
-2020-09-07,Nursing Home,Macon,Macon Valley Nursing and Rehabilitation,3,0,0,0,3,0,0,0
-2020-09-07,Nursing Home,Mecklenburg,Huntersville Health and Rehabilitation,12,0,14,2,26,2,0,0
-2020-09-07,Nursing Home,Mecklenburg,Sardis Oaks,4,0,0,0,4,0,0,0
-2020-09-07,Nursing Home,Randolph,Woodland Hill Center,17,0,40,6,57,6,0,0
-2020-09-07,Nursing Home,Sampson,Mary Gran Nursing Center,7,0,1,0,8,0,0,0
-2020-09-07,Nursing Home,Wake,Litchford Falls Healthcare and Rehabilitation,26,0,51,6,77,6,0,0
-2020-09-07,Nursing Home,Wake,Universal Health Care/North Raleigh,2,0,4,0,6,0,0,0
-2020-09-07,Nursing Home,Wake,Windsor Point Continuing Care Retirement,6,0,37,5,43,5,0,0
-2020-09-07,Residential Care,Cumberland,Harmony of Hope Mills,5,0,1,0,6,0,0,0
-2020-09-07,Residential Care,Forsyth,Homestead Hills Assisted Living,3,0,0,0,3,0,0,0
+2020-09-07,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-07,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-07,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-07,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-07,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-09-07,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-07,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-09-07,Other,Wake,"Louisburg Rd, Wake Forest",0,0,12,1,12,1,0,0
 2020-09-08,Nursing Home,Burke,Carolina Rehab of Burke,21,0,50,9,71,9,0,0
 2020-09-08,Nursing Home,Burke,College Pines Health and Rehabilitation,9,0,19,0,28,0,16,0
 2020-09-08,Nursing Home,Burke,Grace Heights Health and Rehabilitation,33,0,57,13,90,13,0,0
@@ -4891,6 +5258,14 @@
 2020-09-08,Nursing Home,Wake,Universal Health Care/Fuquay-Varina,3,0,9,1,12,1,0,0
 2020-09-08,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,0,0
 2020-09-08,Nursing Home,Watauga,Glenbridge Health and Rehab,1,0,2,0,3,0,0,0
+2020-09-08,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-08,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-08,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-08,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-08,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-09-08,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-08,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-09-08,Other,Wake,"Louisburg Rd, Wake Forest",0,0,12,1,12,1,0,0
 2020-09-09,Nursing Home,Burke,Carolina Rehab of Burke,21,0,50,9,71,9,0,0
 2020-09-09,Nursing Home,Burke,College Pines Health and Rehabilitation,9,0,19,0,28,0,0,0
 2020-09-09,Nursing Home,Burke,Grace Heights Health and Rehabilitation,33,0,57,13,90,13,0,0
@@ -5035,6 +5410,14 @@
 2020-09-09,Nursing Home,Wake,Universal Health Care/Fuquay-Varina,3,0,9,1,12,1,0,0
 2020-09-09,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,0,0
 2020-09-09,Nursing Home,Watauga,Glenbridge Health and Rehab,1,0,2,0,3,0,0,0
+2020-09-09,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-09,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-09,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-09,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-09,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-09-09,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-09,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-09-09,Other,Wake,"Louisburg Rd, Wake Forest",0,0,12,1,12,1,0,0
 2020-09-10,Nursing Home,Burke,Carolina Rehab of Burke,21,0,50,9,71,9,0,0
 2020-09-10,Nursing Home,Burke,College Pines Health and Rehabilitation,9,0,19,0,28,0,0,0
 2020-09-10,Nursing Home,Burke,Grace Heights Health and Rehabilitation,33,0,57,13,90,13,0,0
@@ -5179,6 +5562,14 @@
 2020-09-10,Nursing Home,Wake,Universal Health Care/Fuquay-Varina,3,0,9,1,12,1,0,0
 2020-09-10,Nursing Home,Wake,Wellington Rehabilitation and Healthcare,41,0,40,14,81,14,0,0
 2020-09-10,Nursing Home,Watauga,Glenbridge Health and Rehab,1,0,2,0,3,0,0,0
+2020-09-10,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-10,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-10,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-10,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-10,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-09-10,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-10,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,7,0,7,0,0,0
+2020-09-10,Other,Wake,"Louisburg Rd, Wake Forest",0,0,12,1,12,1,0,0
 2020-09-11,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
 2020-09-11,Nursing Home,Burke,Autumn Care of Drexel,6,0,18,1,24,1,7,1
 2020-09-11,Nursing Home,Burke,Carolina Rehab of Burke,21,0,50,9,71,9,0,0
@@ -5324,6 +5715,16 @@
 2020-09-11,Nursing Home,Union,Pruitt Union Point,3,0,1,0,4,0,0,0
 2020-09-11,Nursing Home,Union,White Oak Manor Waxhaw,7,0,0,0,7,0,1,0
 2020-09-11,Nursing Home,Yadkin,Yadkin Nursing Center,1,0,3,0,4,0,,
+2020-09-11,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-11,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-11,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-11,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-11,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-09-11,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,2,0,2,0,,
+2020-09-11,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-11,Other,Sampson,Savannah Hill Rd,2,0,0,0,2,0,,
+2020-09-11,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,9,0,9,0,2,0
+2020-09-11,Other,Wake,"Louisburg Rd, Wake Forest",0,0,13,1,13,1,1,0
 2020-09-12,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
 2020-09-12,Nursing Home,Burke,Autumn Care of Drexel,6,0,18,1,24,1,0,0
 2020-09-12,Nursing Home,Burke,Carolina Rehab of Burke,21,0,50,9,71,9,0,0
@@ -5469,6 +5870,16 @@
 2020-09-12,Nursing Home,Union,Pruitt Union Point,3,0,1,0,4,0,0,0
 2020-09-12,Nursing Home,Union,White Oak Manor Waxhaw,7,0,0,0,7,0,0,0
 2020-09-12,Nursing Home,Yadkin,Yadkin Nursing Center,1,0,3,0,4,0,0,0
+2020-09-12,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-12,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-12,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-12,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-12,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-09-12,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,2,0,2,0,0,0
+2020-09-12,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-12,Other,Sampson,Savannah Hill Rd,2,0,0,0,2,0,0,0
+2020-09-12,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,9,0,9,0,0,0
+2020-09-12,Other,Wake,"Louisburg Rd, Wake Forest",0,0,13,1,13,1,0,0
 2020-09-13,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
 2020-09-13,Nursing Home,Burke,Autumn Care of Drexel,6,0,18,1,24,1,0,0
 2020-09-13,Nursing Home,Burke,Carolina Rehab of Burke,21,0,50,9,71,9,0,0
@@ -5614,6 +6025,16 @@
 2020-09-13,Nursing Home,Union,Pruitt Union Point,3,0,1,0,4,0,0,0
 2020-09-13,Nursing Home,Union,White Oak Manor Waxhaw,7,0,0,0,7,0,0,0
 2020-09-13,Nursing Home,Yadkin,Yadkin Nursing Center,1,0,3,0,4,0,0,0
+2020-09-13,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-13,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-13,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-13,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-13,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-09-13,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,2,0,2,0,0,0
+2020-09-13,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-13,Other,Sampson,Savannah Hill Rd,2,0,0,0,2,0,0,0
+2020-09-13,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,9,0,9,0,0,0
+2020-09-13,Other,Wake,"Louisburg Rd, Wake Forest",0,0,13,1,13,1,0,0
 2020-09-14,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
 2020-09-14,Nursing Home,Burke,Autumn Care of Drexel,6,0,18,1,24,1,0,0
 2020-09-14,Nursing Home,Burke,Carolina Rehab of Burke,21,0,50,9,71,9,0,0
@@ -5759,6 +6180,16 @@
 2020-09-14,Nursing Home,Union,Pruitt Union Point,3,0,1,0,4,0,0,0
 2020-09-14,Nursing Home,Union,White Oak Manor Waxhaw,7,0,0,0,7,0,0,0
 2020-09-14,Nursing Home,Yadkin,Yadkin Nursing Center,1,0,3,0,4,0,0,0
+2020-09-14,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-14,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-14,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-14,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-14,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-09-14,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,2,0,2,0,0,0
+2020-09-14,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-14,Other,Sampson,Savannah Hill Rd,2,0,0,0,2,0,0,0
+2020-09-14,Other,Surry,"Grover Simmons Church Rd, Dobson",0,0,9,0,9,0,0,0
+2020-09-14,Other,Wake,"Louisburg Rd, Wake Forest",0,0,13,1,13,1,0,0
 2020-09-15,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
 2020-09-15,Nursing Home,Burke,Autumn Care of Drexel,8,0,28,1,36,1,12,0
 2020-09-15,Nursing Home,Burke,Carolina Rehab of Burke,21,0,50,11,71,11,0,2
@@ -5904,14 +6335,14 @@
 2020-09-15,Nursing Home,Vance,Kerr Lake Nursing and Rehabilitation Center,32,0,49,12,81,12,0,0
 2020-09-15,Nursing Home,Wake,Bellarose Nursing and Rehab,3,0,0,0,3,0,0,0
 2020-09-15,Nursing Home,Wake,Capital Nursing and Rehabilitation Center,31,0,63,8,94,8,0,0
-2020-09-15,Nursing Home,Johnston,Liberty Commons,4,0,0,0,4,0,-3,0
-2020-09-15,Nursing Home,Mecklenburg,Accordius Health at Charlotte,9,0,25,4,34,4,0,0
-2020-09-15,Nursing Home,Moore,Peak Resources-Pinelake,5,0,1,0,6,0,0,0
-2020-09-15,Nursing Home,Person,Roxboro Healthcare and Rehab,1,0,1,0,2,0,0,0
-2020-09-15,Nursing Home,Randolph,Clapp's Convalescent Nursing Home Inc,6,0,2,0,8,0,0,0
-2020-09-15,Nursing Home,Union,Accordius Health Monroe,3,0,0,0,3,0,0,0
-2020-09-15,Nursing Home,Wake,Cary Health and Rehabilitation Center,4,0,1,0,5,0,0,0
-2020-09-15,Nursing Home,Wake,The Rosewood Health Center,2,0,0,0,2,0,0,0
+2020-09-15,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-15,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-15,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-15,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-15,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-09-15,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,2,0,2,0,0,0
+2020-09-15,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-15,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,,
 2020-09-16,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
 2020-09-16,Nursing Home,Burke,Autumn Care of Drexel,8,0,28,1,36,1,0,0
 2020-09-16,Nursing Home,Burke,Carolina Rehab of Burke,21,0,50,11,71,11,0,0
@@ -5932,7 +6363,7 @@
 2020-09-16,Nursing Home,Cleveland,Peak Resources Shelby,5,0,0,0,5,0,0,0
 2020-09-16,Nursing Home,Cleveland,White Oak Manor - Shelby,25,0,16,4,41,4,0,0
 2020-09-16,Nursing Home,Cleveland,White Oak Manor-Kings Mountain,62,0,110,22,172,22,0,0
-2020-09-16,Nursing Home,Columbus,Liberty Commons,6,0,1,0,7,0,3,0
+2020-09-16,Nursing Home,Columbus,Liberty Commons,6,0,1,0,7,0,0,0
 2020-09-16,Nursing Home,Columbus,Shoreland Health and Rehab,1,0,1,0,2,0,0,0
 2020-09-16,Nursing Home,Craven,PruittHealth-Trent,16,0,57,8,73,8,0,0
 2020-09-16,Nursing Home,Craven,Riverpoint Crest Nursing and Rehabilitation Center,2,0,2,1,4,1,0,0
@@ -6057,14 +6488,14 @@
 2020-09-16,Nursing Home,Vance,Kerr Lake Nursing and Rehabilitation Center,32,0,49,12,81,12,0,0
 2020-09-16,Nursing Home,Wake,Bellarose Nursing and Rehab,3,0,0,0,3,0,0,0
 2020-09-16,Nursing Home,Wake,Capital Nursing and Rehabilitation Center,31,0,63,8,94,8,0,0
-2020-09-16,Nursing Home,Johnston,Liberty Commons,4,0,0,0,4,0,-3,0
-2020-09-16,Nursing Home,Mecklenburg,Accordius Health at Charlotte,9,0,25,4,34,4,0,0
-2020-09-16,Nursing Home,Moore,Peak Resources-Pinelake,5,0,1,0,6,0,0,0
-2020-09-16,Nursing Home,Person,Roxboro Healthcare and Rehab,1,0,1,0,2,0,0,0
-2020-09-16,Nursing Home,Randolph,Clapp's Convalescent Nursing Home Inc,6,0,2,0,8,0,0,0
-2020-09-16,Nursing Home,Union,Accordius Health Monroe,3,0,0,0,3,0,0,0
-2020-09-16,Nursing Home,Wake,Cary Health and Rehabilitation Center,4,0,1,0,5,0,0,0
-2020-09-16,Nursing Home,Wake,The Rosewood Health Center,2,0,0,0,2,0,0,0
+2020-09-16,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-16,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-16,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-16,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-16,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-09-16,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,2,0,2,0,0,0
+2020-09-16,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-16,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
 2020-09-17,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
 2020-09-17,Nursing Home,Burke,Autumn Care of Drexel,8,0,28,1,36,1,0,0
 2020-09-17,Nursing Home,Burke,Carolina Rehab of Burke,21,0,50,11,71,11,0,0
@@ -6085,7 +6516,7 @@
 2020-09-17,Nursing Home,Cleveland,Peak Resources Shelby,5,0,0,0,5,0,0,0
 2020-09-17,Nursing Home,Cleveland,White Oak Manor - Shelby,25,0,16,4,41,4,0,0
 2020-09-17,Nursing Home,Cleveland,White Oak Manor-Kings Mountain,62,0,110,22,172,22,0,0
-2020-09-17,Nursing Home,Columbus,Liberty Commons,6,0,1,0,7,0,3,0
+2020-09-17,Nursing Home,Columbus,Liberty Commons,6,0,1,0,7,0,0,0
 2020-09-17,Nursing Home,Columbus,Shoreland Health and Rehab,1,0,1,0,2,0,0,0
 2020-09-17,Nursing Home,Craven,PruittHealth-Trent,16,0,57,8,73,8,0,0
 2020-09-17,Nursing Home,Craven,Riverpoint Crest Nursing and Rehabilitation Center,2,0,2,1,4,1,0,0
@@ -6210,14 +6641,14 @@
 2020-09-17,Nursing Home,Vance,Kerr Lake Nursing and Rehabilitation Center,32,0,49,12,81,12,0,0
 2020-09-17,Nursing Home,Wake,Bellarose Nursing and Rehab,3,0,0,0,3,0,0,0
 2020-09-17,Nursing Home,Wake,Capital Nursing and Rehabilitation Center,31,0,63,8,94,8,0,0
-2020-09-17,Nursing Home,Johnston,Liberty Commons,4,0,0,0,4,0,-3,0
-2020-09-17,Nursing Home,Mecklenburg,Accordius Health at Charlotte,9,0,25,4,34,4,0,0
-2020-09-17,Nursing Home,Moore,Peak Resources-Pinelake,5,0,1,0,6,0,0,0
-2020-09-17,Nursing Home,Person,Roxboro Healthcare and Rehab,1,0,1,0,2,0,0,0
-2020-09-17,Nursing Home,Randolph,Clapp's Convalescent Nursing Home Inc,6,0,2,0,8,0,0,0
-2020-09-17,Nursing Home,Union,Accordius Health Monroe,3,0,0,0,3,0,0,0
-2020-09-17,Nursing Home,Wake,Cary Health and Rehabilitation Center,4,0,1,0,5,0,0,0
-2020-09-17,Nursing Home,Wake,The Rosewood Health Center,2,0,0,0,2,0,0,0
+2020-09-17,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-17,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-17,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-17,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-17,Other,Nash,"McDonald St, Rocky Mount",0,0,6,0,6,0,0,0
+2020-09-17,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,2,0,2,0,0,0
+2020-09-17,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-17,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
 2020-09-18,Nursing Home,Buncombe,Stonecreek Health and Rehabilitation,35,0,77,9,112,9,44,5
 2020-09-18,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
 2020-09-18,Nursing Home,Burke,Autumn Care of Drexel,8,0,28,1,36,1,0,0
@@ -6237,7 +6668,7 @@
 2020-09-18,Nursing Home,Cleveland,Peak Resources Shelby,5,0,0,0,5,0,0,0
 2020-09-18,Nursing Home,Cleveland,White Oak Manor - Shelby,25,0,16,4,41,4,0,0
 2020-09-18,Nursing Home,Cleveland,White Oak Manor-Kings Mountain,63,0,110,22,173,22,1,0
-2020-09-18,Nursing Home,Columbus,Liberty Commons,6,0,1,0,7,0,3,0
+2020-09-18,Nursing Home,Columbus,Liberty Commons,6,0,1,0,7,0,0,0
 2020-09-18,Nursing Home,Columbus,Shoreland Health and Rehab,1,0,1,0,2,0,0,0
 2020-09-18,Nursing Home,Craven,PruittHealth-Trent,16,0,57,8,73,8,0,0
 2020-09-18,Nursing Home,Craven,Riverpoint Crest Nursing and Rehabilitation Center,9,0,13,2,22,2,18,1
@@ -6318,7 +6749,7 @@
 2020-09-18,Nursing Home,Mecklenburg,Pelican Health Randolph,21,0,56,13,77,13,0,0
 2020-09-18,Nursing Home,Mecklenburg,Pelican Health at Charlotte,12,0,40,3,52,3,0,0
 2020-09-18,Nursing Home,Mecklenburg,Pineville Rehab and Living Center,1,0,1,0,2,0,0,0
-2020-09-18,Nursing Home,Mecklenburg,Sardis Oaks,1,0,4,0,5,0,1,0
+2020-09-18,Nursing Home,Mecklenburg,Sardis Oaks,1,0,4,0,5,0,,
 2020-09-18,Nursing Home,Mecklenburg,Sharon Towers,12,1,17,4,29,5,0,0
 2020-09-18,Nursing Home,Mecklenburg,Southminster,25,0,13,7,38,7,0,0
 2020-09-18,Nursing Home,Orange,Carol Woods,16,0,4,1,20,1,16,1
@@ -6380,16 +6811,13 @@
 2020-09-18,Nursing Home,Wayne,O'Berry Neuro-Medical Treatment Center,38,0,16,0,54,0,4,0
 2020-09-18,Nursing Home,Wayne,Willow Creek Nursing and Rehabilitation Center,13,0,33,0,46,0,,
 2020-09-18,Nursing Home,Wilkes,Westwood Hills Nursing and Rehabilitation Center,46,0,71,12,117,12,,
-2020-09-18,Nursing Home,Cabarrus,PruittHealth-Town Center,8,0,19,3,27,3,0,0
-2020-09-18,Nursing Home,Catawba,Trinity Ridge,18,0,19,6,37,6,0,0
-2020-09-18,Nursing Home,Durham,Durham Nursing & Rehabilitation Center,4,0,0,0,4,0,0,0
-2020-09-18,Nursing Home,Durham,Pettigrew Rehabilitation Center,3,0,1,0,4,0,0,0
-2020-09-18,Nursing Home,Iredell,Accordius Health at Mooresville,1,0,1,0,2,0,0,0
-2020-09-18,Nursing Home,Mecklenburg,WillowBrooke Court SC Ctr at Plantation,26,0,54,17,80,17,,
-2020-09-18,Nursing Home,Wake,Bellarose Nursing and Rehab,3,0,0,0,3,0,0,0
-2020-09-18,Nursing Home,Wake,Tower Nursing and Rehabilitation Center,20,0,69,14,89,14,0,0
-2020-09-18,Nursing Home,Wake,Universal Health Care/Fuquay-Varina,3,0,9,1,12,1,0,0
-2020-09-18,Other,Nash,"McDonald St, Rocky Mount",3,0,8,0,11,0,,
+2020-09-18,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-18,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-18,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-18,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-18,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,1,0
+2020-09-18,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-18,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
 2020-09-19,Nursing Home,Buncombe,Stonecreek Health and Rehabilitation,35,0,77,9,112,9,0,0
 2020-09-19,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
 2020-09-19,Nursing Home,Burke,Autumn Care of Drexel,8,0,28,1,36,1,0,0
@@ -6552,16 +6980,13 @@
 2020-09-19,Nursing Home,Wayne,O'Berry Neuro-Medical Treatment Center,38,0,16,0,54,0,0,0
 2020-09-19,Nursing Home,Wayne,Willow Creek Nursing and Rehabilitation Center,13,0,33,0,46,0,0,0
 2020-09-19,Nursing Home,Wilkes,Westwood Hills Nursing and Rehabilitation Center,46,0,71,12,117,12,0,0
-2020-09-19,Nursing Home,Cabarrus,PruittHealth-Town Center,8,0,19,3,27,3,0,0
-2020-09-19,Nursing Home,Catawba,Trinity Ridge,18,0,19,6,37,6,0,0
-2020-09-19,Nursing Home,Durham,Durham Nursing & Rehabilitation Center,4,0,0,0,4,0,0,0
-2020-09-19,Nursing Home,Durham,Pettigrew Rehabilitation Center,3,0,1,0,4,0,0,0
-2020-09-19,Nursing Home,Iredell,Accordius Health at Mooresville,1,0,1,0,2,0,0,0
-2020-09-19,Nursing Home,Mecklenburg,WillowBrooke Court SC Ctr at Plantation,26,0,54,17,80,17,0,0
-2020-09-19,Nursing Home,Wake,Bellarose Nursing and Rehab,3,0,0,0,3,0,0,0
-2020-09-19,Nursing Home,Wake,Tower Nursing and Rehabilitation Center,20,0,69,14,89,14,0,0
-2020-09-19,Nursing Home,Wake,Universal Health Care/Fuquay-Varina,3,0,9,1,12,1,0,0
-2020-09-19,Other,Nash,"McDonald St, Rocky Mount",3,0,8,0,11,0,0,0
+2020-09-19,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-19,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-19,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-19,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-19,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,0,0
+2020-09-19,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-19,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
 2020-09-20,Nursing Home,Buncombe,Stonecreek Health and Rehabilitation,35,0,77,9,112,9,0,0
 2020-09-20,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
 2020-09-20,Nursing Home,Burke,Autumn Care of Drexel,8,0,28,1,36,1,0,0
@@ -6724,16 +7149,13 @@
 2020-09-20,Nursing Home,Wayne,O'Berry Neuro-Medical Treatment Center,38,0,16,0,54,0,0,0
 2020-09-20,Nursing Home,Wayne,Willow Creek Nursing and Rehabilitation Center,13,0,33,0,46,0,0,0
 2020-09-20,Nursing Home,Wilkes,Westwood Hills Nursing and Rehabilitation Center,46,0,71,12,117,12,0,0
-2020-09-20,Nursing Home,Cabarrus,PruittHealth-Town Center,8,0,19,3,27,3,0,0
-2020-09-20,Nursing Home,Catawba,Trinity Ridge,18,0,19,6,37,6,0,0
-2020-09-20,Nursing Home,Durham,Durham Nursing & Rehabilitation Center,4,0,0,0,4,0,0,0
-2020-09-20,Nursing Home,Durham,Pettigrew Rehabilitation Center,3,0,1,0,4,0,0,0
-2020-09-20,Nursing Home,Iredell,Accordius Health at Mooresville,1,0,1,0,2,0,0,0
-2020-09-20,Nursing Home,Mecklenburg,WillowBrooke Court SC Ctr at Plantation,26,0,54,17,80,17,0,0
-2020-09-20,Nursing Home,Wake,Bellarose Nursing and Rehab,3,0,0,0,3,0,0,0
-2020-09-20,Nursing Home,Wake,Tower Nursing and Rehabilitation Center,20,0,69,14,89,14,0,0
-2020-09-20,Nursing Home,Wake,Universal Health Care/Fuquay-Varina,3,0,9,1,12,1,0,0
-2020-09-20,Other,Nash,"McDonald St, Rocky Mount",3,0,8,0,11,0,0,0
+2020-09-20,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-20,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-20,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-20,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-20,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,0,0
+2020-09-20,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-20,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
 2020-09-21,Nursing Home,Buncombe,Stonecreek Health and Rehabilitation,35,0,77,9,112,9,0,0
 2020-09-21,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
 2020-09-21,Nursing Home,Burke,Autumn Care of Drexel,8,0,28,1,36,1,0,0
@@ -6896,16 +7318,13 @@
 2020-09-21,Nursing Home,Wayne,O'Berry Neuro-Medical Treatment Center,38,0,16,0,54,0,0,0
 2020-09-21,Nursing Home,Wayne,Willow Creek Nursing and Rehabilitation Center,13,0,33,0,46,0,0,0
 2020-09-21,Nursing Home,Wilkes,Westwood Hills Nursing and Rehabilitation Center,46,0,71,12,117,12,0,0
-2020-09-21,Nursing Home,Cabarrus,PruittHealth-Town Center,8,0,19,3,27,3,0,0
-2020-09-21,Nursing Home,Catawba,Trinity Ridge,18,0,19,6,37,6,0,0
-2020-09-21,Nursing Home,Durham,Durham Nursing & Rehabilitation Center,4,0,0,0,4,0,0,0
-2020-09-21,Nursing Home,Durham,Pettigrew Rehabilitation Center,3,0,1,0,4,0,0,0
-2020-09-21,Nursing Home,Iredell,Accordius Health at Mooresville,1,0,1,0,2,0,0,0
-2020-09-21,Nursing Home,Mecklenburg,WillowBrooke Court SC Ctr at Plantation,26,0,54,17,80,17,0,0
-2020-09-21,Nursing Home,Wake,Bellarose Nursing and Rehab,3,0,0,0,3,0,0,0
-2020-09-21,Nursing Home,Wake,Tower Nursing and Rehabilitation Center,20,0,69,14,89,14,0,0
-2020-09-21,Nursing Home,Wake,Universal Health Care/Fuquay-Varina,3,0,9,1,12,1,0,0
-2020-09-21,Other,Nash,"McDonald St, Rocky Mount",3,0,8,0,11,0,0,0
+2020-09-21,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-21,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-21,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-21,Other,Macon,"Prentiss Bridge Rd., Franklin",0,0,47,0,47,0,0,0
+2020-09-21,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,0,0
+2020-09-21,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-21,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
 2020-09-22,Nursing Home,Buncombe,Stonecreek Health and Rehabilitation,36,0,74,12,110,12,-2,3
 2020-09-22,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
 2020-09-22,Nursing Home,Burke,Autumn Care of Drexel,10,0,26,1,36,1,0,0
@@ -7068,6 +7487,13 @@
 2020-09-22,Nursing Home,Wayne,Willow Creek Nursing and Rehabilitation Center,13,0,33,0,46,0,0,0
 2020-09-22,Nursing Home,Wilkes,Westwood Hills Nursing and Rehabilitation Center,52,0,76,12,128,12,11,0
 2020-09-22,Nursing Home,Wilson,Accordius Health at Wilson,0,0,7,1,7,1,,
+2020-09-22,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-22,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-22,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-22,Other,Nash,"Hwy 97, Spring Hope",0,0,35,0,35,0,,
+2020-09-22,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,0,0
+2020-09-22,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-22,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
 2020-09-23,Nursing Home,Buncombe,Stonecreek Health and Rehabilitation,36,0,74,12,110,12,0,0
 2020-09-23,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
 2020-09-23,Nursing Home,Burke,Autumn Care of Drexel,10,0,26,1,36,1,0,0
@@ -7230,6 +7656,13 @@
 2020-09-23,Nursing Home,Wayne,Willow Creek Nursing and Rehabilitation Center,13,0,33,0,46,0,0,0
 2020-09-23,Nursing Home,Wilkes,Westwood Hills Nursing and Rehabilitation Center,52,0,76,12,128,12,0,0
 2020-09-23,Nursing Home,Wilson,Accordius Health at Wilson,0,0,7,1,7,1,0,0
+2020-09-23,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-23,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-23,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-23,Other,Nash,"Hwy 97, Spring Hope",0,0,35,0,35,0,0,0
+2020-09-23,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,0,0
+2020-09-23,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-23,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
 2020-09-24,Nursing Home,Buncombe,Stonecreek Health and Rehabilitation,36,0,74,12,110,12,0,0
 2020-09-24,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
 2020-09-24,Nursing Home,Burke,Autumn Care of Drexel,10,0,26,1,36,1,0,0
@@ -7392,6 +7825,13 @@
 2020-09-24,Nursing Home,Wayne,Willow Creek Nursing and Rehabilitation Center,13,0,33,0,46,0,0,0
 2020-09-24,Nursing Home,Wilkes,Westwood Hills Nursing and Rehabilitation Center,52,0,76,12,128,12,0,0
 2020-09-24,Nursing Home,Wilson,Accordius Health at Wilson,0,0,7,1,7,1,0,0
+2020-09-24,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-24,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-24,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-24,Other,Nash,"Hwy 97, Spring Hope",0,0,35,0,35,0,0,0
+2020-09-24,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,0,0
+2020-09-24,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-24,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
 2020-09-25,Nursing Home,Buncombe,Stonecreek Health and Rehabilitation,36,0,77,13,113,13,3,1
 2020-09-25,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
 2020-09-25,Nursing Home,Burke,Autumn Care of Drexel,10,0,27,2,37,2,1,1
@@ -7555,6 +7995,13 @@
 2020-09-25,Nursing Home,Wake,Capital Nursing and Rehabilitation Center,31,0,63,8,94,8,0,0
 2020-09-25,Nursing Home,Wake,Dan E and Mary Louise Stewart Health Center,29,0,27,9,56,9,1,3
 2020-09-25,Nursing Home,Wake,Hillside Nursing Center of Wake Forest,10,0,75,19,85,19,0,0
+2020-09-25,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-25,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-25,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-25,Other,Nash,"Hwy 97, Spring Hope",0,0,35,0,35,0,0,0
+2020-09-25,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,0,0
+2020-09-25,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-25,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
 2020-09-26,Nursing Home,Buncombe,Stonecreek Health and Rehabilitation,36,0,77,13,113,13,0,0
 2020-09-26,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
 2020-09-26,Nursing Home,Burke,Autumn Care of Drexel,10,0,27,2,37,2,0,0
@@ -7718,6 +8165,13 @@
 2020-09-26,Nursing Home,Wake,Capital Nursing and Rehabilitation Center,31,0,63,8,94,8,0,0
 2020-09-26,Nursing Home,Wake,Dan E and Mary Louise Stewart Health Center,29,0,27,9,56,9,0,0
 2020-09-26,Nursing Home,Wake,Hillside Nursing Center of Wake Forest,10,0,75,19,85,19,0,0
+2020-09-26,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-26,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-26,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-26,Other,Nash,"Hwy 97, Spring Hope",0,0,35,0,35,0,0,0
+2020-09-26,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,0,0
+2020-09-26,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-26,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
 2020-09-27,Nursing Home,Buncombe,Stonecreek Health and Rehabilitation,36,0,77,13,113,13,0,0
 2020-09-27,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
 2020-09-27,Nursing Home,Burke,Autumn Care of Drexel,10,0,27,2,37,2,0,0
@@ -7881,6 +8335,13 @@
 2020-09-27,Nursing Home,Wake,Capital Nursing and Rehabilitation Center,31,0,63,8,94,8,0,0
 2020-09-27,Nursing Home,Wake,Dan E and Mary Louise Stewart Health Center,29,0,27,9,56,9,0,0
 2020-09-27,Nursing Home,Wake,Hillside Nursing Center of Wake Forest,10,0,75,19,85,19,0,0
+2020-09-27,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-27,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-27,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-27,Other,Nash,"Hwy 97, Spring Hope",0,0,35,0,35,0,0,0
+2020-09-27,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,0,0
+2020-09-27,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-27,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
 2020-09-28,Nursing Home,Buncombe,Stonecreek Health and Rehabilitation,36,0,77,13,113,13,0,0
 2020-09-28,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
 2020-09-28,Nursing Home,Burke,Autumn Care of Drexel,10,0,27,2,37,2,0,0
@@ -8044,6 +8505,13 @@
 2020-09-28,Nursing Home,Wake,Capital Nursing and Rehabilitation Center,31,0,63,8,94,8,0,0
 2020-09-28,Nursing Home,Wake,Dan E and Mary Louise Stewart Health Center,29,0,27,9,56,9,0,0
 2020-09-28,Nursing Home,Wake,Hillside Nursing Center of Wake Forest,10,0,75,19,85,19,0,0
+2020-09-28,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-28,Other,Ashe,"East Healing Springs Rd., Crumpler",9,0,0,0,9,0,0,0
+2020-09-28,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-28,Other,Nash,"Hwy 97, Spring Hope",0,0,35,0,35,0,0,0
+2020-09-28,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,0,0
+2020-09-28,Other,Sampson,"Mittie Lane, Autryville",1,0,8,0,9,0,0,0
+2020-09-28,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
 2020-09-29,Nursing Home,Buncombe,Stonecreek Health and Rehabilitation,37,0,79,13,116,13,3,0
 2020-09-29,Nursing Home,Buncombe,The Oaks at Sweeten Creek,1,0,12,0,13,0,,
 2020-09-29,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
@@ -8225,6 +8693,11 @@
 2020-09-29,Nursing Home,Watauga,Glenbridge Health and Rehab,3,0,22,3,25,3,0,0
 2020-09-29,Nursing Home,Wayne,O'Berry Neuro-Medical Treatment Center,38,0,16,0,54,0,0,0
 2020-09-29,Nursing Home,Wayne,Willow Creek Nursing and Rehabilitation Center,21,0,43,0,64,0,18,0
+2020-09-29,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-29,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-29,Other,Nash,"Hwy 97, Spring Hope",0,0,35,0,35,0,0,0
+2020-09-29,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,0,0
+2020-09-29,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
 2020-09-30,Nursing Home,Buncombe,Stonecreek Health and Rehabilitation,37,0,79,13,116,13,0,0
 2020-09-30,Nursing Home,Buncombe,The Oaks at Sweeten Creek,1,0,12,0,13,0,0,0
 2020-09-30,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
@@ -8406,6 +8879,11 @@
 2020-09-30,Nursing Home,Watauga,Glenbridge Health and Rehab,3,0,22,3,25,3,0,0
 2020-09-30,Nursing Home,Wayne,O'Berry Neuro-Medical Treatment Center,38,0,16,0,54,0,0,0
 2020-09-30,Nursing Home,Wayne,Willow Creek Nursing and Rehabilitation Center,21,0,43,0,64,0,0,0
+2020-09-30,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-09-30,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-09-30,Other,Nash,"Hwy 97, Spring Hope",0,0,35,0,35,0,0,0
+2020-09-30,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,0,0
+2020-09-30,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
 2020-10-01,Nursing Home,Buncombe,Stonecreek Health and Rehabilitation,37,0,79,13,116,13,0,0
 2020-10-01,Nursing Home,Buncombe,The Oaks at Sweeten Creek,1,0,12,0,13,0,0,0
 2020-10-01,Nursing Home,Buncombe,Western NC Baptist Home,4,0,1,0,5,0,0,0
@@ -8587,6 +9065,11 @@
 2020-10-01,Nursing Home,Watauga,Glenbridge Health and Rehab,3,0,22,3,25,3,0,0
 2020-10-01,Nursing Home,Wayne,O'Berry Neuro-Medical Treatment Center,38,0,16,0,54,0,0,0
 2020-10-01,Nursing Home,Wayne,Willow Creek Nursing and Rehabilitation Center,21,0,43,0,64,0,0,0
+2020-10-01,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-10-01,Other,Edgecombe,"Bridges St., Battleboro",0,0,14,0,14,0,0,0
+2020-10-01,Other,Nash,"Hwy 97, Spring Hope",0,0,35,0,35,0,0,0
+2020-10-01,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,0,0
+2020-10-01,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
 2020-10-02,Nursing Home,Columbus,Premier Living and Rehab,1,0,1,0,2,0,0,0
 2020-10-02,Nursing Home,Columbus,Shoreland Health and Rehab,1,0,1,0,2,0,0,0
 2020-10-02,Nursing Home,Craven,Bayview Nursing and Rehab,22,0,46,2,68,2,46,1
@@ -8728,6 +9211,12 @@
 2020-10-02,Nursing Home,Union,Lake Park Nursing and Rehab,6,0,0,0,6,0,0,0
 2020-10-02,Nursing Home,Union,Monroe Rehab,1,0,1,0,2,0,0,0
 2020-10-02,Nursing Home,Union,White Oak Manor Waxhaw,8,0,0,0,8,0,0,0
+2020-10-02,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-10-02,Other,Edgecombe,"Bridges St., Battleboro",0,0,16,0,16,0,2,0
+2020-10-02,Other,Nash,"Hwy 97, Spring Hope",0,0,35,0,35,0,0,0
+2020-10-02,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,0,0
+2020-10-02,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
+2020-10-02,Other,Wake,"Louisburg Road, Wake forest",0,0,8,0,8,0,,
 2020-10-03,Nursing Home,Columbus,Premier Living and Rehab,1,0,1,0,2,0,0,0
 2020-10-03,Nursing Home,Columbus,Shoreland Health and Rehab,1,0,1,0,2,0,0,0
 2020-10-03,Nursing Home,Craven,Bayview Nursing and Rehab,22,0,46,2,68,2,0,0
@@ -8869,6 +9358,12 @@
 2020-10-03,Nursing Home,Union,Lake Park Nursing and Rehab,6,0,0,0,6,0,0,0
 2020-10-03,Nursing Home,Union,Monroe Rehab,1,0,1,0,2,0,0,0
 2020-10-03,Nursing Home,Union,White Oak Manor Waxhaw,8,0,0,0,8,0,0,0
+2020-10-03,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-10-03,Other,Edgecombe,"Bridges St., Battleboro",0,0,16,0,16,0,0,0
+2020-10-03,Other,Nash,"Hwy 97, Spring Hope",0,0,35,0,35,0,0,0
+2020-10-03,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,0,0
+2020-10-03,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
+2020-10-03,Other,Wake,"Louisburg Road, Wake forest",0,0,8,0,8,0,0,0
 2020-10-04,Nursing Home,Columbus,Premier Living and Rehab,1,0,1,0,2,0,0,0
 2020-10-04,Nursing Home,Columbus,Shoreland Health and Rehab,1,0,1,0,2,0,0,0
 2020-10-04,Nursing Home,Craven,Bayview Nursing and Rehab,22,0,46,2,68,2,0,0
@@ -9010,6 +9505,12 @@
 2020-10-04,Nursing Home,Union,Lake Park Nursing and Rehab,6,0,0,0,6,0,0,0
 2020-10-04,Nursing Home,Union,Monroe Rehab,1,0,1,0,2,0,0,0
 2020-10-04,Nursing Home,Union,White Oak Manor Waxhaw,8,0,0,0,8,0,0,0
+2020-10-04,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-10-04,Other,Edgecombe,"Bridges St., Battleboro",0,0,16,0,16,0,0,0
+2020-10-04,Other,Nash,"Hwy 97, Spring Hope",0,0,35,0,35,0,0,0
+2020-10-04,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,0,0
+2020-10-04,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
+2020-10-04,Other,Wake,"Louisburg Road, Wake forest",0,0,8,0,8,0,0,0
 2020-10-05,Nursing Home,Columbus,Premier Living and Rehab,1,0,1,0,2,0,0,0
 2020-10-05,Nursing Home,Columbus,Shoreland Health and Rehab,1,0,1,0,2,0,0,0
 2020-10-05,Nursing Home,Craven,Bayview Nursing and Rehab,22,0,46,2,68,2,0,0
@@ -9151,6 +9652,12 @@
 2020-10-05,Nursing Home,Union,Lake Park Nursing and Rehab,6,0,0,0,6,0,0,0
 2020-10-05,Nursing Home,Union,Monroe Rehab,1,0,1,0,2,0,0,0
 2020-10-05,Nursing Home,Union,White Oak Manor Waxhaw,8,0,0,0,8,0,0,0
+2020-10-05,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-10-05,Other,Edgecombe,"Bridges St., Battleboro",0,0,16,0,16,0,0,0
+2020-10-05,Other,Nash,"Hwy 97, Spring Hope",0,0,35,0,35,0,0,0
+2020-10-05,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,0,0
+2020-10-05,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
+2020-10-05,Other,Wake,"Louisburg Road, Wake forest",0,0,8,0,8,0,0,0
 2020-10-06,Nursing Home,Columbus,Premier Living and Rehab,1,0,1,0,2,0,0,0
 2020-10-06,Nursing Home,Columbus,Shoreland Health and Rehab,1,0,1,0,2,0,0,0
 2020-10-06,Nursing Home,Craven,Bayview Nursing and Rehab,22,0,46,2,68,2,0,0
@@ -9292,3 +9799,173 @@
 2020-10-06,Nursing Home,Union,Lake Park Nursing and Rehab,6,0,0,0,6,0,0,0
 2020-10-06,Nursing Home,Union,Monroe Rehab,1,0,1,0,2,0,0,0
 2020-10-06,Nursing Home,Union,White Oak Manor Waxhaw,8,0,0,0,8,0,0,0
+2020-10-06,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-10-06,Other,Edgecombe,"Bridges St., Battleboro",0,0,16,0,16,0,0,0
+2020-10-06,Other,Nash,"Hwy 97, Spring Hope",0,0,35,0,35,0,0,0
+2020-10-06,Other,Sampson,"Ira B Tart Rd, Dunn",0,0,3,0,3,0,0,0
+2020-10-06,Other,Sampson,"Savannah Hill Rd, Dunn",2,0,0,0,2,0,0,0
+2020-10-06,Other,Wake,"Louisburg Road, Wake forest",0,0,8,0,8,0,0,0
+2020-10-07,Nursing Home,Alamance,Alamance Health Care Center,29,0,44,1,73,1,64,1
+2020-10-07,Nursing Home,Alleghany,Alleghany Center,3,0,0,0,3,0,,
+2020-10-07,Nursing Home,Anson,Anson Health & Rehab,5,0,1,0,6,0,3,0
+2020-10-07,Nursing Home,Anson,Wadesboro Health & Rehab Center,8,0,26,1,34,1,,
+2020-10-07,Nursing Home,Beaufort,Ridgewood Living & Rehabilitation Center,24,0,86,9,110,9,83,9
+2020-10-07,Nursing Home,Beaufort,River Trace Nursing and Rehab,36,0,64,8,100,8,97,8
+2020-10-07,Nursing Home,Bertie,Brian Center Health & Rehabilitation/Windsor,7,0,2,0,9,0,1,0
+2020-10-07,Nursing Home,Bertie,Three Rivers,5,0,2,0,7,0,,
+2020-10-07,Nursing Home,Bladen,Bladen East Health and Rehab,18,0,27,5,45,5,39,5
+2020-10-07,Nursing Home,Bladen,Elizabethtown Health and Rehab,2,0,1,0,3,0,,
+2020-10-07,Nursing Home,Brunswick,Autumn Care of Shallotte,30,0,34,2,64,2,39,1
+2020-10-07,Nursing Home,Buncombe,Black Mountain Neuro-Medical Treatment Center,30,0,39,5,69,5,17,0
+2020-10-07,Nursing Home,Buncombe,Brian Center Health & Rehabilitation/Weaverville,0,0,2,0,2,0,,
+2020-10-07,Nursing Home,Buncombe,Brooks-Howell Home,11,0,1,0,12,0,1,0
+2020-10-07,Nursing Home,Buncombe,Deerfield Episcopal Retirement Community Inc,23,1,14,2,37,3,18,1
+2020-10-07,Nursing Home,Buncombe,Givens Health Center,2,0,0,0,2,0,-7,0
+2020-10-07,Nursing Home,Buncombe,Laurels of Greentree Ridge,2,0,0,0,2,0,,
+2020-10-07,Nursing Home,Buncombe,Pisgah Manor Health Care Center,2,0,0,0,2,0,,
+2020-10-07,Nursing Home,Buncombe,Stonecreek Health and Rehabilitation,41,0,85,14,126,14,10,1
+2020-10-07,Nursing Home,Buncombe,The Oaks at Sweeten Creek,13,0,43,3,56,3,43,3
+2020-10-07,Nursing Home,Craven,Bayview Nursing and Rehab,32,0,48,6,80,6,12,4
+2020-10-07,Nursing Home,Craven,Riverpoint Crest Nursing and Rehabilitation Center,16,0,32,3,48,3,2,0
+2020-10-07,Nursing Home,Cumberland,Carolina Rehab Center,8,0,4,0,12,0,0,0
+2020-10-07,Nursing Home,Cumberland,Golden Years Nursing Home,5,0,0,0,5,0,0,0
+2020-10-07,Nursing Home,Cumberland,Highland House Rehabilitation and Healthcare,28,0,47,4,75,4,1,0
+2020-10-07,Nursing Home,Cumberland,VA Community Living Center,4,0,2,0,6,0,0,0
+2020-10-07,Nursing Home,Cumberland,Village Green Health and Rehabilitation,16,0,21,3,37,3,0,0
+2020-10-07,Nursing Home,Cumberland,Woodlands Nursing and Rehab,27,0,48,1,75,1,0,0
+2020-10-07,Nursing Home,Currituck,Currituck Health & Rehab Center,2,0,0,0,2,0,0,0
+2020-10-07,Nursing Home,Dare,Peak Resources LTCF,2,0,2,0,4,0,0,0
+2020-10-07,Nursing Home,Davidson,Abbotts Creek Center,2,0,11,0,13,0,0,0
+2020-10-07,Nursing Home,Davidson,Mount Vista Health Park,7,0,0,0,7,0,0,0
+2020-10-07,Nursing Home,Davidson,Pelican Health,4,0,0,0,4,0,0,0
+2020-10-07,Nursing Home,Davidson,Piedmont Crossing,3,0,0,0,3,0,0,0
+2020-10-07,Nursing Home,Davidson,Pine Ridge Health and Rehabilitation Center,14,0,40,6,54,6,0,0
+2020-10-07,Nursing Home,Durham,Accordius Health at Rose Manor,5,0,5,0,10,0,0,0
+2020-10-07,Nursing Home,Durham,Brian Center Southpoint,2,0,0,0,2,0,0,0
+2020-10-07,Nursing Home,Durham,Carver Living Center,38,0,85,10,123,10,0,0
+2020-10-07,Nursing Home,Durham,Croasdaile Village Pavilion Health Center,15,0,16,4,31,4,0,1
+2020-10-07,Nursing Home,Durham,Durham VA Community,10,0,1,0,11,0,0,0
+2020-10-07,Nursing Home,Durham,Hillcrest Convalescent Center,2,0,1,0,3,0,0,0
+2020-10-07,Nursing Home,Durham,Pruitt Health Durham,20,0,74,6,94,6,5,5
+2020-10-07,Nursing Home,Durham,The Forest at Duke,12,0,0,0,12,0,1,0
+2020-10-07,Nursing Home,Durham,Treyburn Rehabilitation Center,2,0,1,0,3,0,0,0
+2020-10-07,Nursing Home,Edgecombe,Edgecombe Health and Rehabilitation,25,0,77,22,102,22,0,0
+2020-10-07,Nursing Home,Edgecombe,The Fountains at the Albermarle,17,0,19,8,36,8,0,0
+2020-10-07,Nursing Home,Forsyth,Accordius Health of Clemmons,7,0,38,9,45,9,0,0
+2020-10-07,Nursing Home,Forsyth,Arbor Acres United Methodist Retirement,2,0,0,0,2,0,,
+2020-10-07,Nursing Home,Forsyth,Brookridge Retirement Community,2,0,1,0,3,0,0,0
+2020-10-07,Nursing Home,Forsyth,Oak Forest Health and Rehabilitation,32,0,47,1,79,1,0,0
+2020-10-07,Nursing Home,Forsyth,Salemtowne Babcock Health Center,3,0,0,0,3,0,0,0
+2020-10-07,Nursing Home,Forsyth,The Citadel at Winston Salem,5,0,7,0,12,0,0,0
+2020-10-07,Nursing Home,Forsyth,Trinity Glen,23,0,31,10,54,10,0,0
+2020-10-07,Nursing Home,Franklin,Franklin Oaks Nursing and Rehabilitation Center,2,0,0,0,2,0,0,0
+2020-10-07,Nursing Home,Gaston,Accordius Health - Gastonia,4,0,0,0,4,0,0,0
+2020-10-07,Nursing Home,Gaston,Belaire Healthcare Center,24,0,41,8,65,8,0,0
+2020-10-07,Nursing Home,Gaston,Peak Resources - Gastonia,4,0,0,0,4,0,0,0
+2020-10-07,Nursing Home,Gaston,Peak Resources Cherryville,2,0,6,0,8,0,,
+2020-10-07,Nursing Home,Gaston,Stanley Total Living Center,2,0,1,0,3,0,1,0
+2020-10-07,Nursing Home,Gaston,The Ivy at Gastonia,5,0,20,0,25,0,8,0
+2020-10-07,Nursing Home,Graham,Graham Healthcare and Rehabilitation Center,21,0,45,5,66,5,0,5
+2020-10-07,Nursing Home,Granville,Brantwood Nursing and Retirement Center,7,0,1,0,8,0,0,0
+2020-10-07,Nursing Home,Granville,Universal Health Care/Oxford,44,0,96,21,140,21,0,0
+2020-10-07,Nursing Home,Greene,Greendale Forest Nursing and Rehabilitation,2,0,3,0,5,0,1,0
+2020-10-07,Nursing Home,Guilford,Camden Health and Rehabilitation,0,0,2,0,2,0,0,0
+2020-10-07,Nursing Home,Guilford,Clapps Nursing Center,2,0,1,0,3,0,0,0
+2020-10-07,Nursing Home,Guilford,Maryfield Nursing Home,3,0,0,0,3,0,0,0
+2020-10-07,Nursing Home,Guilford,River Landing Assisted Living,2,0,0,0,2,0,0,0
+2020-10-07,Nursing Home,Guilford,Westchester Manor,4,0,0,0,4,0,0,0
+2020-10-07,Nursing Home,Halifax,Accordius Health at Scotland Manor,1,0,2,0,3,0,0,0
+2020-10-07,Nursing Home,Halifax,Bryan Health and Rehab,2,0,1,0,3,0,0,0
+2020-10-07,Nursing Home,Harnett,Cornerstone Nursing and Rehabilitation Center,8,0,1,0,9,0,1,0
+2020-10-07,Nursing Home,Harnett,Emerald Health and Rehab Center,14,0,1,0,15,0,2,0
+2020-10-07,Nursing Home,Harnett,Harnett Woods Nursing and Rehabilitation Center,8,0,13,1,21,1,0,0
+2020-10-07,Nursing Home,Harnett,Universal HealthCare,4,0,11,1,15,1,0,0
+2020-10-07,Nursing Home,Haywood,Silver Bluff Village,55,0,97,27,152,27,0,0
+2020-10-07,Nursing Home,Henderson,Blue Ridge Health and Rehabilitation Center,6,0,19,4,25,4,0,0
+2020-10-07,Nursing Home,Henderson,Hendersonville Health and Rehabilitation,50,0,70,4,120,4,0,0
+2020-10-07,Nursing Home,Henderson,The Laurels of Hendersonville,11,0,6,1,17,1,0,0
+2020-10-07,Nursing Home,Hertford,Accordius at Creekside,16,0,55,9,71,9,0,0
+2020-10-07,Nursing Home,Hoke,Autumn Care of Raeford,15,0,37,1,52,1,10,0
+2020-10-07,Nursing Home,Iredell,Accordius Health at Statesville,3,0,2,0,5,0,0,0
+2020-10-07,Nursing Home,Johnston,Barbour Court,4,0,1,0,5,0,0,0
+2020-10-07,Nursing Home,Johnston,Liberty Commons Nsg and Rehab Ctr of Johnston,4,0,3,0,7,0,1,0
+2020-10-07,Nursing Home,Johnston,Smithfield Manor Nursing and Rehab,8,0,3,0,11,0,0,0
+2020-10-07,Nursing Home,Johnston,Springbrook Rehabilitation and Nursing Center,11,0,8,0,19,0,0,0
+2020-10-07,Nursing Home,Lee,Liberty Commons,2,0,0,0,2,0,-37,0
+2020-10-07,Nursing Home,Lee,Sanford Health and Rehabilitation Co,3,0,0,0,3,0,0,0
+2020-10-07,Nursing Home,Lee,Westfield Rehabilitation and Health Center,2,0,0,0,2,0,0,0
+2020-10-07,Nursing Home,Lenoir,Harmony Hall Nursing and Rehabilitation Center,3,1,1,0,4,1,0,0
+2020-10-07,Nursing Home,Lenoir,NC State Veterans home,4,0,1,0,5,0,,
+2020-10-07,Nursing Home,Lenoir,Signature Healthcare Kinston,2,0,2,0,4,0,0,0
+2020-10-07,Nursing Home,Lincoln,Lincolnton Rehabilitation Center,10,0,3,0,13,0,0,0
+2020-10-07,Nursing Home,Martin,Roanoke River Nursing and Rehabilitation Center,21,0,24,0,45,0,1,0
+2020-10-07,Nursing Home,McDowell,Autumn Care of Marion,2,0,7,0,9,0,7,0
+2020-10-07,Nursing Home,McDowell,Deer Park Health and Rehab,24,0,47,14,71,14,0,0
+2020-10-07,Nursing Home,Mecklenburg,Accordius Health at Midwood,14,0,15,1,29,1,0,0
+2020-10-07,Nursing Home,Mecklenburg,Brookdale Carriage Club Providence,2,0,0,0,2,0,0,0
+2020-10-07,Nursing Home,Mecklenburg,Carrington Place - Matthews,2,0,0,0,2,0,0,0
+2020-10-07,Nursing Home,Mecklenburg,Citadel at Myers Park,6,0,14,1,20,1,0,0
+2020-10-07,Nursing Home,Mecklenburg,Clear Creek Nursing & Rehabilitation Center,8,0,1,0,9,0,0,0
+2020-10-07,Nursing Home,Nash,The Lodge at Rocky Mount,19,0,49,4,68,4,0,0
+2020-10-07,Nursing Home,New Hanover,Autumn Care of Myrtle Grove,3,0,4,0,7,0,0,0
+2020-10-07,Nursing Home,New Hanover,Azalea Health & Rehab,1,0,1,0,2,0,0,0
+2020-10-07,Nursing Home,New Hanover,Bradley Creek Health Center,9,0,5,0,14,0,0,0
+2020-10-07,Nursing Home,New Hanover,Liberty Commons,23,0,16,0,39,0,37,0
+2020-10-07,Nursing Home,New Hanover,The Davis Community,35,0,23,2,58,2,0,0
+2020-10-07,Nursing Home,New Hanover,Trinity Grove,3,0,0,0,3,0,0,0
+2020-10-07,Nursing Home,Northampton,Northampton Nursing and Rehabilitation Center,3,0,1,0,4,0,1,0
+2020-10-07,Nursing Home,Onslow,Premier Nursing and Rehabilitation Center,2,0,0,0,2,0,0,0
+2020-10-07,Nursing Home,Orange,Carol Woods,16,0,4,1,20,1,0,0
+2020-10-07,Nursing Home,Orange,Peak Resources - Brookshire,2,0,0,0,2,0,0,0
+2020-10-07,Nursing Home,Orange,Signature Healthcare,1,0,1,0,2,0,0,0
+2020-10-07,Nursing Home,Pamlico,Grantsbrook Nursing and Rehabilitation Center,3,0,14,0,17,0,0,0
+2020-10-07,Nursing Home,Pasquotank,Elizabeth City Health and Rehabilitation,8,0,11,0,19,0,0,0
+2020-10-07,Nursing Home,Pender,The Laurels of Pender,3,0,0,0,3,0,,
+2020-10-07,Nursing Home,Pender,Woodbury Wellness Center,4,0,4,0,8,0,0,0
+2020-10-07,Nursing Home,Perquimans,Brian Center Health and Rehabilitation/Hertford,2,0,0,0,2,0,0,0
+2020-10-07,Nursing Home,Person,Person Memorial Hospital Extended Care Unit,5,0,9,3,14,3,0,0
+2020-10-07,Nursing Home,Pitt,Ayden Court Nursing and Rehabilitation Center,5,0,4,0,9,0,6,0
+2020-10-07,Nursing Home,Pitt,MacGregor Downs Health and Rehabilitation,3,1,2,0,5,1,3,1
+2020-10-07,Nursing Home,Pitt,PruittHealth Farmville,5,0,16,0,21,0,0,0
+2020-10-07,Nursing Home,Pitt,Universal Health Care/Greenville,11,0,6,0,17,0,0,0
+2020-10-07,Nursing Home,Polk,WillowBrooke Court SC Center at Tryon Estates,3,0,0,0,3,0,,
+2020-10-07,Nursing Home,Randolph,Alpine Health and Rehabilitation of Asheboro,13,0,17,2,30,2,2,1
+2020-10-07,Nursing Home,Randolph,Universal Healthcare Ramseur,2,0,0,0,2,0,0,0
+2020-10-07,Nursing Home,Randolph,Woodland Hill Center,1,0,1,0,2,0,-55,-6
+2020-10-07,Nursing Home,Richmond,PruittHealth-Rockingham,3,0,0,0,3,0,0,0
+2020-10-07,Nursing Home,Robeson,Pembroke Center,16,0,34,0,50,0,0,0
+2020-10-07,Nursing Home,Robeson,Wesley Pines Retirement Community,3,0,1,0,4,0,0,0
+2020-10-07,Nursing Home,Robeson,"Woodhaven Nursing, Alzheimer's, and",4,0,0,0,4,0,0,0
+2020-10-07,Nursing Home,Rockingham,Brian Center Health and Rehabilitation/Eden,11,0,28,1,39,1,1,0
+2020-10-07,Nursing Home,Rockingham,Jacob's Creek Nursing and Rehab Center,42,0,76,1,118,1,2,0
+2020-10-07,Nursing Home,Rockingham,UNC Rockingham Rehabilitation and Health at UNC,2,0,0,0,2,0,0,0
+2020-10-07,Nursing Home,Rowan,Accordius Health of Salisbury,8,0,37,7,45,7,0,0
+2020-10-07,Nursing Home,Rowan,Autumn Care of Salisbury,17,0,36,6,53,6,0,0
+2020-10-07,Nursing Home,Rowan,Big Elm Rehabilitation and Living Center,2,0,0,0,2,0,0,0
+2020-10-07,Nursing Home,Rowan,Liberty Commons Nursing and Rehab,20,0,35,11,55,11,6,1
+2020-10-07,Nursing Home,Rowan,The Citadel Salisbury,6,0,2,0,8,0,0,0
+2020-10-07,Nursing Home,Rowan,Trinity Oaks Health and Rehab,47,0,46,8,93,8,2,0
+2020-10-07,Nursing Home,Rutherford,Accordius Health at Rutherford LLC,4,0,0,0,4,0,0,0
+2020-10-07,Nursing Home,Rutherford,Fair Haven of Forest City,6,0,12,0,18,0,6,0
+2020-10-07,Nursing Home,Rutherford,Oak Grove Healthcare Center,17,0,32,1,49,1,0,0
+2020-10-07,Nursing Home,Rutherford,Willow Ridge Rehab and Living Center,35,0,74,10,109,10,10,5
+2020-10-07,Nursing Home,Sampson,Mary Gran Nursing Center,11,0,7,0,18,0,8,0
+2020-10-07,Nursing Home,Scotland,Scottish Pines,17,0,38,3,55,3,8,0
+2020-10-07,Nursing Home,Stanly,Bethany Woods Nursing and Rehabilitation Center,17,0,23,0,40,0,0,0
+2020-10-07,Nursing Home,Stanly,Stanly Manor,21,0,54,6,75,6,0,0
+2020-10-07,Nursing Home,Stanly,Trinity Place,18,0,38,8,56,8,0,0
+2020-10-07,Nursing Home,Stokes,LifeBrite Long Term Care affiliated with LifeBrite,2,0,0,0,2,0,0,0
+2020-10-07,Nursing Home,Stokes,Walnut Cove Health and Rehab,2,0,0,0,2,0,0,0
+2020-10-07,Nursing Home,Surry,Central Continuing Care,9,0,11,0,20,0,0,0
+2020-10-07,Nursing Home,Transylvania,Accordius Health at Brevard,31,0,53,6,84,6,8,1
+2020-10-07,Nursing Home,Union,Accordius Health at Monroe,2,0,1,0,3,0,0,0
+2020-10-07,Nursing Home,Union,Autumn Care of Marshville,7,0,1,0,8,0,0,0
+2020-10-07,Nursing Home,Union,Lake Park Nursing and Rehab,6,0,0,0,6,0,0,0
+2020-10-07,Nursing Home,Union,Monroe Rehab,1,0,1,0,2,0,0,0
+2020-10-07,Nursing Home,Union,White Oak Manor Waxhaw,8,0,0,0,8,0,0,0
+2020-10-07,Nursing Home,Vance,Kerr Lake Nursing and Rehabilitation Center,32,0,49,12,81,12,0,0
+2020-10-07,Nursing Home,Wake,Capital Nursing and Rehabilitation Center,31,0,63,14,94,14,0,6
+2020-10-07,Other,Alleghany,"S Sparta Pkwy, Sparta",127,0,0,0,127,0,0,0
+2020-10-07,Other,Edgecombe,"Bridges St., Battleboro",0,0,16,0,16,0,0,0
+2020-10-07,Other,Nash,"Hwy 97, Spring Hope",0,0,35,0,35,0,0,0
+2020-10-07,Other,Wake,"Louisburg Road, Wake forest",0,0,8,0,8,0,0,0
