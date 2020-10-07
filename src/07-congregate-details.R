@@ -26,10 +26,15 @@ in_pdf <- lapply(in_pdf, function(x) {x <- x[-1]})
 names(in_pdf) <- in_files %>% pull(update_date_only)
 
 cat(names(in_pdf))
-x <- in_pdf[[1]]
-xfun::write_utf8(in_pdf[[1]], "test.txt")
+x <- in_pdf[[81]]
+
+xfun::write_utf8(in_pdf[[81]], "test.txt")
 
 process_outbreaks <- function(x){
+
+  x <- gsub("\uab37", '', x)
+  x <- gsub("≠", '', x)
+  x <- gsub("•", '', x)
 
   x2 <- iconv(x, from = "utf-8", to = "ascii")
   xfun::write_utf8(x2, "test.txt")
@@ -59,7 +64,7 @@ for(i in 1:length(in_pdf)){
   cat("processing: ", i," out of ",length(in_pdf) , "\n")
   combined_data[[i]] <- process_outbreaks(in_pdf[[i]])
 }
-
+process_outbreaks(in_pdf[[81]])
 #combined_data <- try(purrr::map_dfr(in_pdf, process_pdfs, .id = "date"))
 
 names(combined_data) <- in_files %>% pull(update_date_only)
