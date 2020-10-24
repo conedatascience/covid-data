@@ -21645,3 +21645,9 @@ Confrontation: 3, Failures: 0, Time 202010241156
 Confrontation: 4, Failures: 0, Time 202010241156
 Confrontation: 5, Failures: 0, Time 202010241156
 Confrontation: 6, Failures: 8, Time 202010241156
+Confrontation: 1, Failures: 0, Time 202010241303
+Confrontation: 2, Failures: 0, Time 202010241303
+Confrontation: 3, Failures: 0, Time 202010241303
+Confrontation: 4, Failures: 0, Time 202010241303
+Confrontation: 5, Failures: 0, Time 202010241303
+Confrontation: 6, Failures: 8, Time 202010241303
