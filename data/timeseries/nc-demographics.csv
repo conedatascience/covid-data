@@ -1,5 +1,5 @@
 .id,metric,cases,perc_of_cases,deaths,perc_of_deaths,category,cases_daily,deaths_daily
-2020-07-13,American Indian,656,1,21,1,race,,
+2020-07-13,American Indian and Alaska Native,656,1,21,1,race,,
 2020-07-13,Asian,1144,2,22,2,race,,
 2020-07-13,Black or African American,14151,24,477,33,race,,
 2020-07-13,Native Hawaiian or Pacific Islander,186,0,3,0,race,,
@@ -15,7 +15,7 @@
 2020-07-13,75+,4956,6,885,59,age,,
 2020-07-13,Female,44385,51,702,47,sex,,
 2020-07-13,Male,42307,49,797,53,sex,,
-2020-07-14,American Indian,678,1,21,1,race,22,0
+2020-07-14,American Indian and Alaska Native,678,1,21,1,race,22,0
 2020-07-14,Asian,1158,2,22,1,race,14,0
 2020-07-14,Black or African American,14431,24,490,33,race,280,13
 2020-07-14,Native Hawaiian or Pacific Islander,191,0,3,0,race,5,0
@@ -31,7 +31,7 @@
 2020-07-14,75+,5047,6,908,59,age,91,23
 2020-07-14,Female,45443,51,719,47,sex,1058,17
 2020-07-14,Male,43192,49,822,53,sex,885,25
-2020-07-15,American Indian,698,1,23,2,race,20,2
+2020-07-15,American Indian and Alaska Native,698,1,23,2,race,20,2
 2020-07-15,Asian,1168,2,22,1,race,10,0
 2020-07-15,Black or African American,14760,24,496,33,race,329,6
 2020-07-15,Native Hawaiian or Pacific Islander,193,0,3,0,race,2,0
@@ -47,7 +47,7 @@
 2020-07-15,75+,5163,6,916,58,age,116,8
 2020-07-15,Female,46377,51,726,47,sex,934,7
 2020-07-15,Male,44032,49,831,53,sex,840,9
-2020-07-16,American Indian,723,1,24,2,race,25,1
+2020-07-16,American Indian and Alaska Native,723,1,24,2,race,25,1
 2020-07-16,Asian,1192,2,24,2,race,24,2
 2020-07-16,Black or African American,15222,24,505,33,race,462,9
 2020-07-16,Native Hawaiian or Pacific Islander,195,0,3,0,race,2,0
@@ -63,7 +63,7 @@
 2020-07-16,75+,5274,6,926,58,age,111,10
 2020-07-16,Female,47499,51,736,47,sex,1122,10
 2020-07-16,Male,45060,49,841,53,sex,1028,10
-2020-07-17,American Indian,744,1,24,2,race,21,0
+2020-07-17,American Indian and Alaska Native,744,1,24,2,race,21,0
 2020-07-17,Asian,1212,2,24,2,race,20,0
 2020-07-17,Black or African American,15601,24,509,33,race,379,4
 2020-07-17,Native Hawaiian or Pacific Islander,195,0,3,0,race,0,0
@@ -79,7 +79,7 @@
 2020-07-17,75+,5399,6,937,58,age,125,11
 2020-07-17,Female,48599,51,741,46,sex,1100,5
 2020-07-17,Male,45999,49,854,54,sex,939,13
-2020-07-18,American Indian,788,1,24,2,race,44,0
+2020-07-18,American Indian and Alaska Native,788,1,24,2,race,44,0
 2020-07-18,Asian,1225,2,25,2,race,13,1
 2020-07-18,Black or African American,15936,24,516,33,race,335,7
 2020-07-18,Native Hawaiian or Pacific Islander,201,0,3,0,race,6,0
@@ -95,7 +95,7 @@
 2020-07-18,75+,5500,6,944,58,age,101,7
 2020-07-18,Female,49919,51,755,47,sex,1320,14
 2020-07-18,Male,47143,49,863,53,sex,1144,9
-2020-07-19,American Indian,804,1,24,2,race,16,0
+2020-07-19,American Indian and Alaska Native,804,1,24,2,race,16,0
 2020-07-19,Asian,1237,2,25,2,race,12,0
 2020-07-19,Black or African American,16174,24,517,33,race,238,1
 2020-07-19,Native Hawaiian or Pacific Islander,205,0,3,0,race,4,0
@@ -111,7 +111,7 @@
 2020-07-19,75+,5570,6,946,58,age,70,2
 2020-07-19,Female,50956,52,756,47,sex,1037,1
 2020-07-19,Male,47909,48,867,53,sex,766,4
-2020-07-20,American Indian,825,1,24,2,race,21,0
+2020-07-20,American Indian and Alaska Native,825,1,24,2,race,21,0
 2020-07-20,Asian,1253,2,25,2,race,16,0
 2020-07-20,Black or African American,16378,24,520,33,race,204,3
 2020-07-20,Native Hawaiian or Pacific Islander,205,0,3,0,race,0,0
@@ -127,7 +127,7 @@
 2020-07-20,75+,5632,6,951,58,age,62,5
 2020-07-20,Female,51620,52,759,47,sex,664,3
 2020-07-20,Male,48505,48,872,53,sex,596,5
-2020-07-21,American Indian,859,1,24,1,race,34,0
+2020-07-21,American Indian and Alaska Native,859,1,24,1,race,34,0
 2020-07-21,Asian,1279,2,25,2,race,26,0
 2020-07-21,Black or African American,16812,24,530,33,race,434,10
 2020-07-21,Native Hawaiian or Pacific Islander,207,0,3,0,race,2,0
@@ -143,7 +143,7 @@
 2020-07-21,75+,5728,6,958,57,age,96,7
 2020-07-21,Female,52591,52,773,47,sex,971,14
 2020-07-21,Male,49352,48,884,53,sex,847,12
-2020-07-22,American Indian,911,1,25,2,race,52,1
+2020-07-22,American Indian and Alaska Native,911,1,25,2,race,52,1
 2020-07-22,Asian,1301,2,25,2,race,22,0
 2020-07-22,Black or African American,17314,24,536,33,race,502,6
 2020-07-22,Native Hawaiian or Pacific Islander,210,0,4,0,race,3,1
@@ -159,7 +159,7 @@
 2020-07-22,75+,5865,6,977,58,age,137,19
 2020-07-22,Female,53741,52,785,47,sex,1150,12
 2020-07-22,Male,50339,48,902,53,sex,987,18
-2020-07-23,American Indian,960,1,26,2,race,49,1
+2020-07-23,American Indian and Alaska Native,960,1,26,2,race,49,1
 2020-07-23,Asian,1341,2,25,2,race,40,0
 2020-07-23,Black or African American,17818,24,542,33,race,504,6
 2020-07-23,Native Hawaiian or Pacific Islander,211,0,4,0,race,1,0
@@ -175,7 +175,7 @@
 2020-07-23,75+,5931,6,989,57,age,66,12
 2020-07-23,Female,54767,52,804,47,sex,1026,19
 2020-07-23,Male,51204,48,911,53,sex,865,9
-2020-07-24,American Indian,996,1,26,2,race,36,0
+2020-07-24,American Indian and Alaska Native,996,1,26,2,race,36,0
 2020-07-24,Asian,1373,2,25,1,race,32,0
 2020-07-24,Black or African American,18298,24,548,33,race,480,6
 2020-07-24,Native Hawaiian or Pacific Islander,211,0,3,0,race,0,-1
@@ -191,7 +191,7 @@
 2020-07-24,75+,5995,6,999,57,age,64,10
 2020-07-24,Female,55824,52,812,47,sex,1057,8
 2020-07-24,Male,52235,48,923,53,sex,1031,12
-2020-07-25,American Indian,1043,1,26,2,race,47,0
+2020-07-25,American Indian and Alaska Native,1043,1,26,2,race,47,0
 2020-07-25,Asian,1400,2,26,2,race,27,1
 2020-07-25,Black or African American,18760,24,557,32,race,462,9
 2020-07-25,Native Hawaiian or Pacific Islander,216,0,3,0,race,5,0
@@ -207,7 +207,7 @@
 2020-07-25,75+,6109,6,1015,57,age,114,16
 2020-07-25,Female,56880,52,827,47,sex,1056,15
 2020-07-25,Male,53267,48,940,53,sex,1032,17
-2020-07-26,American Indian,1103,1,26,2,race,60,0
+2020-07-26,American Indian and Alaska Native,1103,1,26,2,race,60,0
 2020-07-26,Asian,1408,2,26,2,race,8,0
 2020-07-26,Black or African American,19045,24,558,32,race,285,1
 2020-07-26,Native Hawaiian or Pacific Islander,218,0,3,0,race,2,0
@@ -223,7 +223,7 @@
 2020-07-26,75+,6193,5,1020,57,age,84,5
 2020-07-26,Female,57694,52,828,47,sex,814,1
 2020-07-26,Male,54072,48,946,53,sex,805,6
-2020-07-27,American Indian,1135,1,26,2,race,32,0
+2020-07-27,American Indian and Alaska Native,1135,1,26,2,race,32,0
 2020-07-27,Asian,1419,2,26,2,race,11,0
 2020-07-27,Black or African American,19338,24,560,32,race,293,2
 2020-07-27,Native Hawaiian or Pacific Islander,219,0,3,0,race,1,0
@@ -239,7 +239,7 @@
 2020-07-27,75+,6273,5,1020,57,age,80,0
 2020-07-27,Female,58513,52,831,47,sex,819,3
 2020-07-27,Male,54870,48,948,53,sex,798,2
-2020-07-28,American Indian,1154,1,26,1,race,19,0
+2020-07-28,American Indian and Alaska Native,1154,1,26,1,race,19,0
 2020-07-28,Asian,1440,2,26,1,race,21,0
 2020-07-28,Black or African American,19790,24,569,32,race,452,9
 2020-07-28,Native Hawaiian or Pacific Islander,225,0,3,0,race,6,0
@@ -255,7 +255,7 @@
 2020-07-28,75+,6378,5,1038,57,age,105,18
 2020-07-28,Female,59448,52,842,47,sex,935,11
 2020-07-28,Male,55658,48,967,53,sex,788,19
-2020-07-29,American Indian,1192,1,27,1,race,38,1
+2020-07-29,American Indian and Alaska Native,1192,1,27,1,race,38,1
 2020-07-29,Asian,1460,2,27,1,race,20,1
 2020-07-29,Black or African American,20252,24,576,32,race,462,7
 2020-07-29,Native Hawaiian or Pacific Islander,234,0,3,0,race,9,0
@@ -271,7 +271,7 @@
 2020-07-29,75+,6504,6,1064,57,age,126,26
 2020-07-29,Female,60404,52,862,47,sex,956,20
 2020-07-29,Male,56465,48,991,53,sex,807,24
-2020-07-30,American Indian,1258,1,27,1,race,66,0
+2020-07-30,American Indian and Alaska Native,1258,1,27,1,race,66,0
 2020-07-30,Asian,1486,2,28,2,race,26,1
 2020-07-30,Black or African American,20763,24,580,32,race,511,4
 2020-07-30,Native Hawaiian or Pacific Islander,233,0,3,0,race,-1,0
@@ -287,7 +287,7 @@
 2020-07-30,75+,6647,6,1082,57,age,143,18
 2020-07-30,Female,61679,52,876,46,sex,1275,14
 2020-07-30,Male,57529,48,1015,54,sex,1064,24
-2020-07-31,American Indian,1288,1,28,2,race,30,1
+2020-07-31,American Indian and Alaska Native,1288,1,28,2,race,30,1
 2020-07-31,Asian,1521,2,28,2,race,35,0
 2020-07-31,Black or African American,21190,24,584,31,race,427,4
 2020-07-31,Native Hawaiian or Pacific Islander,233,0,3,0,race,0,0
@@ -303,7 +303,7 @@
 2020-07-31,75+,6763,6,1098,57,age,116,16
 2020-07-31,Female,62722,52,885,46,sex,1043,9
 2020-07-31,Male,58436,48,1027,54,sex,907,12
-2020-08-01,American Indian,1333,1,28,1,race,45,0
+2020-08-01,American Indian and Alaska Native,1333,1,28,1,race,45,0
 2020-08-01,Asian,1535,2,29,2,race,14,1
 2020-08-01,Black or African American,21584,24,591,31,race,394,7
 2020-08-01,Native Hawaiian or Pacific Islander,234,0,3,0,race,1,0
@@ -319,7 +319,7 @@
 2020-08-01,75+,6862,6,1117,57,age,99,19
 2020-08-01,Female,63640,52,902,46,sex,918,17
 2020-08-01,Male,59248,48,1050,54,sex,812,23
-2020-08-02,American Indian,1378,2,29,2,race,45,1
+2020-08-02,American Indian and Alaska Native,1378,2,29,2,race,45,1
 2020-08-02,Asian,1547,2,29,2,race,12,0
 2020-08-02,Black or African American,21805,24,592,31,race,221,1
 2020-08-02,Native Hawaiian or Pacific Islander,236,0,3,0,race,2,0
@@ -335,7 +335,7 @@
 2020-08-02,75+,6928,6,1119,57,age,66,2
 2020-08-02,Female,64335,52,903,46,sex,695,1
 2020-08-02,Male,59888,48,1054,54,sex,640,4
-2020-08-03,American Indian,1404,2,29,2,race,26,0
+2020-08-03,American Indian and Alaska Native,1404,2,29,2,race,26,0
 2020-08-03,Asian,1557,2,29,2,race,10,0
 2020-08-03,Black or African American,21989,24,596,31,race,184,4
 2020-08-03,Native Hawaiian or Pacific Islander,237,0,4,0,race,1,1
@@ -351,7 +351,7 @@
 2020-08-03,75+,7025,6,1125,57,age,97,6
 2020-08-03,Female,65006,52,909,46,sex,671,6
 2020-08-03,Male,60514,48,1061,54,sex,626,7
-2020-08-04,American Indian,1415,2,29,2,race,11,0
+2020-08-04,American Indian and Alaska Native,1415,2,29,2,race,11,0
 2020-08-04,Asian,1573,2,29,2,race,16,0
 2020-08-04,Black or African American,22386,24,606,31,race,397,10
 2020-08-04,Native Hawaiian or Pacific Islander,241,0,4,0,race,4,0
@@ -367,7 +367,7 @@
 2020-08-04,75+,7144,6,1135,56,age,119,10
 2020-08-04,Female,65868,52,921,46,sex,862,12
 2020-08-04,Male,61262,48,1077,54,sex,748,16
-2020-08-05,American Indian,1427,2,29,1,race,12,0
+2020-08-05,American Indian and Alaska Native,1427,2,29,1,race,12,0
 2020-08-05,Asian,1593,2,29,1,race,20,0
 2020-08-05,Black or African American,22680,24,612,31,race,294,6
 2020-08-05,Native Hawaiian or Pacific Islander,240,0,4,0,race,-1,0
@@ -383,7 +383,7 @@
 2020-08-05,75+,7223,6,1160,57,age,79,25
 2020-08-05,Female,66482,52,941,46,sex,614,20
 2020-08-05,Male,61774,48,1096,54,sex,512,19
-2020-08-06,American Indian,1457,2,30,1,race,30,1
+2020-08-06,American Indian and Alaska Native,1457,2,30,1,race,30,1
 2020-08-06,Asian,1621,2,29,1,race,28,0
 2020-08-06,Black or African American,23005,24,623,31,race,325,11
 2020-08-06,Native Hawaiian or Pacific Islander,240,0,4,0,race,0,0
@@ -399,7 +399,7 @@
 2020-08-06,75+,7370,6,1187,57,age,147,27
 2020-08-06,Female,67531,52,967,47,sex,1049,26
 2020-08-06,Male,62690,48,1112,53,sex,916,16
-2020-08-07,American Indian,1481,2,30,1,race,24,0
+2020-08-07,American Indian and Alaska Native,1481,2,30,1,race,24,0
 2020-08-07,Asian,1647,2,29,1,race,26,0
 2020-08-07,Black or African American,23339,24,638,31,race,334,15
 2020-08-07,Native Hawaiian or Pacific Islander,243,0,4,0,race,3,0
@@ -415,7 +415,7 @@
 2020-08-07,75+,7460,6,1213,57,age,90,26
 2020-08-07,Female,68359,52,991,47,sex,828,24
 2020-08-07,Male,63393,48,1129,53,sex,703,17
-2020-08-08,American Indian,1511,2,30,1,race,30,0
+2020-08-08,American Indian and Alaska Native,1511,2,30,1,race,30,0
 2020-08-08,Asian,1676,2,29,1,race,29,0
 2020-08-08,Black or African American,23713,24,650,32,race,374,12
 2020-08-08,Native Hawaiian or Pacific Islander,245,0,4,0,race,2,0
@@ -431,7 +431,7 @@
 2020-08-08,75+,7602,6,1226,57,age,142,13
 2020-08-08,Female,69409,52,1007,47,sex,1050,16
 2020-08-08,Male,64288,48,1139,53,sex,895,10
-2020-08-09,American Indian,1526,2,30,1,race,15,0
+2020-08-09,American Indian and Alaska Native,1526,2,30,1,race,15,0
 2020-08-09,Asian,1694,2,29,1,race,18,0
 2020-08-09,Black or African American,23982,24,651,31,race,269,1
 2020-08-09,Native Hawaiian or Pacific Islander,249,0,4,0,race,4,0
@@ -447,7 +447,7 @@
 2020-08-09,75+,7723,6,1229,57,age,121,3
 2020-08-09,Female,70215,52,1011,47,sex,806,4
 2020-08-09,Male,64914,48,1143,53,sex,626,4
-2020-08-10,American Indian,1531,2,30,1,race,5,0
+2020-08-10,American Indian and Alaska Native,1531,2,30,1,race,5,0
 2020-08-10,Asian,1704,2,29,1,race,10,0
 2020-08-10,Black or African American,24125,24,653,32,race,143,2
 2020-08-10,Native Hawaiian or Pacific Islander,250,0,4,0,race,1,0
@@ -463,7 +463,7 @@
 2020-08-10,75+,7796,6,1231,57,age,73,2
 2020-08-10,Female,70576,52,1013,47,sex,361,2
 2020-08-10,Male,65176,48,1145,53,sex,262,2
-2020-08-11,American Indian,1547,2,30,1,race,16,0
+2020-08-11,American Indian and Alaska Native,1547,2,30,1,race,16,0
 2020-08-11,Asian,1738,2,30,1,race,34,1
 2020-08-11,Black or African American,24420,24,663,32,race,295,10
 2020-08-11,Native Hawaiian or Pacific Islander,254,0,4,0,race,4,0
@@ -479,7 +479,7 @@
 2020-08-11,75+,7868,6,1252,57,age,72,21
 2020-08-11,Female,71160,52,1032,47,sex,584,19
 2020-08-11,Male,65633,48,1159,53,sex,457,14
-2020-08-12,American Indian,1551,2,32,1,race,4,2
+2020-08-12,American Indian and Alaska Native,1551,2,32,1,race,4,2
 2020-08-12,Asian,1758,2,30,1,race,20,0
 2020-08-12,Black or African American,24702,24,677,32,race,282,14
 2020-08-12,Native Hawaiian or Pacific Islander,253,0,4,0,race,-1,0
@@ -495,7 +495,7 @@
 2020-08-12,75+,7954,6,1280,57,age,86,28
 2020-08-12,Female,71793,52,1055,47,sex,633,23
 2020-08-12,Male,66177,48,1181,53,sex,544,22
-2020-08-13,American Indian,1567,2,32,1,race,16,0
+2020-08-13,American Indian and Alaska Native,1567,2,32,1,race,16,0
 2020-08-13,Asian,1787,2,30,1,race,29,0
 2020-08-13,Black or African American,25123,24,683,32,race,421,6
 2020-08-13,Native Hawaiian or Pacific Islander,255,0,4,0,race,2,0
@@ -511,7 +511,7 @@
 2020-08-13,75+,8125,6,1307,57,age,171,27
 2020-08-13,Female,72749,52,1067,47,sex,956,12
 2020-08-13,Male,66980,48,1207,53,sex,803,26
-2020-08-14,American Indian,1609,2,32,1,race,42,0
+2020-08-14,American Indian and Alaska Native,1609,2,32,1,race,42,0
 2020-08-14,Asian,1811,2,31,1,race,24,1
 2020-08-14,Black or African American,25455,24,689,31,race,332,6
 2020-08-14,Native Hawaiian or Pacific Islander,254,0,4,0,race,-1,0
@@ -527,7 +527,7 @@
 2020-08-14,75+,8252,6,1321,57,age,127,14
 2020-08-14,Female,73490,52,1081,47,sex,741,14
 2020-08-14,Male,67569,48,1219,53,sex,589,12
-2020-08-15,American Indian,1635,2,32,1,race,26,0
+2020-08-15,American Indian and Alaska Native,1635,2,32,1,race,26,0
 2020-08-15,Asian,1826,2,31,1,race,15,0
 2020-08-15,Black or African American,25772,24,697,31,race,317,8
 2020-08-15,Native Hawaiian or Pacific Islander,256,0,4,0,race,2,0
@@ -543,7 +543,7 @@
 2020-08-15,75+,8345,6,1341,57,age,93,20
 2020-08-15,Female,74320,52,1103,47,sex,830,22
 2020-08-15,Male,68255,48,1227,53,sex,686,8
-2020-08-16,American Indian,1655,2,32,1,race,20,0
+2020-08-16,American Indian and Alaska Native,1655,2,32,1,race,20,0
 2020-08-16,Asian,1845,2,31,1,race,19,0
 2020-08-16,Black or African American,25967,24,698,31,race,195,1
 2020-08-16,Native Hawaiian or Pacific Islander,258,0,4,0,race,2,0
@@ -559,7 +559,7 @@
 2020-08-16,75+,8440,6,1343,57,age,95,2
 2020-08-16,Female,75015,52,1108,47,sex,695,5
 2020-08-16,Male,68801,48,1226,53,sex,546,-1
-2020-08-17,American Indian,1667,2,32,1,race,12,0
+2020-08-17,American Indian and Alaska Native,1667,2,32,1,race,12,0
 2020-08-17,Asian,1853,2,31,1,race,8,0
 2020-08-17,Black or African American,26083,24,698,31,race,116,0
 2020-08-17,Native Hawaiian or Pacific Islander,259,0,4,0,race,1,0
@@ -575,7 +575,7 @@
 2020-08-17,75+,8492,6,1344,57,age,52,1
 2020-08-17,Female,75338,52,1109,47,sex,323,1
 2020-08-17,Male,69034,48,1226,53,sex,233,0
-2020-08-18,American Indian,1686,2,32,1,race,19,0
+2020-08-18,American Indian and Alaska Native,1686,2,32,1,race,19,0
 2020-08-18,Asian,1878,2,31,1,race,25,0
 2020-08-18,Black or African American,26410,24,709,31,race,327,11
 2020-08-18,Native Hawaiian or Pacific Islander,262,0,4,0,race,3,0
@@ -591,7 +591,7 @@
 2020-08-18,75+,8600,6,1364,57,age,108,20
 2020-08-18,Female,75971,52,1131,47,sex,633,22
 2020-08-18,Male,69653,48,1251,53,sex,619,25
-2020-08-19,American Indian,1702,2,32,1,race,16,0
+2020-08-19,American Indian and Alaska Native,1702,2,32,1,race,16,0
 2020-08-19,Asian,1918,2,31,1,race,40,0
 2020-08-19,Black or African American,26709,24,718,31,race,299,9
 2020-08-19,Native Hawaiian or Pacific Islander,264,0,4,0,race,2,0
@@ -607,7 +607,7 @@
 2020-08-19,75+,8703,6,1382,57,age,103,18
 2020-08-19,Female,76606,52,1147,47,sex,635,16
 2020-08-19,Male,70161,48,1270,53,sex,508,19
-2020-08-20,American Indian,1727,2,32,1,race,25,0
+2020-08-20,American Indian and Alaska Native,1727,2,32,1,race,25,0
 2020-08-20,Asian,1961,2,32,1,race,43,1
 2020-08-20,Black or African American,27072,24,728,31,race,363,10
 2020-08-20,Native Hawaiian or Pacific Islander,265,0,4,0,race,1,0
@@ -623,7 +623,7 @@
 2020-08-20,75+,8875,6,1394,57,age,172,12
 2020-08-20,Female,77649,52,1157,47,sex,1043,10
 2020-08-20,Male,71076,48,1294,53,sex,915,24
-2020-08-21,American Indian,1753,2,32,1,race,26,0
+2020-08-21,American Indian and Alaska Native,1753,2,32,1,race,26,0
 2020-08-21,Asian,2016,2,32,1,race,55,0
 2020-08-21,Black or African American,27467,24,736,31,race,395,8
 2020-08-21,Native Hawaiian or Pacific Islander,267,0,4,0,race,2,0
@@ -639,7 +639,7 @@
 2020-08-21,75+,9017,6,1410,57,age,142,16
 2020-08-21,Female,78722,52,1168,47,sex,1073,11
 2020-08-21,Male,71994,48,1312,53,sex,918,18
-2020-08-22,American Indian,1757,2,32,1,race,4,0
+2020-08-22,American Indian and Alaska Native,1757,2,32,1,race,4,0
 2020-08-22,Asian,2058,2,32,1,race,42,0
 2020-08-22,Black or African American,27875,24,743,31,race,408,7
 2020-08-22,Native Hawaiian or Pacific Islander,267,0,4,0,race,0,0
@@ -655,7 +655,7 @@
 2020-08-22,75+,9116,6,1428,57,age,99,18
 2020-08-22,Female,79646,52,1182,47,sex,924,14
 2020-08-22,Male,72788,48,1323,53,sex,794,11
-2020-08-23,American Indian,1776,2,32,1,race,19,0
+2020-08-23,American Indian and Alaska Native,1776,2,32,1,race,19,0
 2020-08-23,Asian,2081,2,32,1,race,23,0
 2020-08-23,Black or African American,28061,24,745,31,race,186,2
 2020-08-23,Native Hawaiian or Pacific Islander,268,0,4,0,race,1,0
@@ -671,7 +671,7 @@
 2020-08-23,75+,9231,6,1434,57,age,115,6
 2020-08-23,Female,80482,52,1190,47,sex,836,8
 2020-08-23,Male,73395,48,1325,53,sex,607,2
-2020-08-24,American Indian,1792,2,32,1,race,16,0
+2020-08-24,American Indian and Alaska Native,1792,2,32,1,race,16,0
 2020-08-24,Asian,2105,2,32,1,race,24,0
 2020-08-24,Black or African American,28202,24,747,31,race,141,2
 2020-08-24,Native Hawaiian or Pacific Islander,267,0,4,0,race,-1,0
@@ -687,7 +687,7 @@
 2020-08-24,75+,9298,6,1434,57,age,67,0
 2020-08-24,Female,81150,52,1192,47,sex,668,2
 2020-08-24,Male,74008,48,1327,53,sex,613,2
-2020-08-25,American Indian,1803,2,34,1,race,11,2
+2020-08-25,American Indian and Alaska Native,1803,2,34,1,race,11,2
 2020-08-25,Asian,2149,2,33,1,race,44,1
 2020-08-25,Black or African American,28552,24,754,31,race,350,7
 2020-08-25,Native Hawaiian or Pacific Islander,268,0,4,0,race,1,0
@@ -703,7 +703,7 @@
 2020-08-25,75+,9368,6,1455,57,age,70,21
 2020-08-25,Female,81849,52,1211,47,sex,699,19
 2020-08-25,Male,74623,48,1343,53,sex,615,16
-2020-08-26,American Indian,1824,2,34,1,race,21,0
+2020-08-26,American Indian and Alaska Native,1824,2,34,1,race,21,0
 2020-08-26,Asian,2179,2,33,1,race,30,0
 2020-08-26,Black or African American,28857,24,765,31,race,305,11
 2020-08-26,Native Hawaiian or Pacific Islander,270,0,4,0,race,2,0
@@ -719,7 +719,7 @@
 2020-08-26,75+,9444,6,1479,57,age,76,24
 2020-08-26,Female,82516,52,1233,48,sex,667,22
 2020-08-26,Male,75199,48,1357,52,sex,576,14
-2020-08-27,American Indian,1871,2,34,1,race,47,0
+2020-08-27,American Indian and Alaska Native,1871,2,34,1,race,47,0
 2020-08-27,Asian,2220,2,33,1,race,41,0
 2020-08-27,Black or African American,29238,24,768,31,race,381,3
 2020-08-27,Native Hawaiian or Pacific Islander,271,0,4,0,race,1,0
@@ -735,7 +735,7 @@
 2020-08-27,75+,9575,6,1490,57,age,131,11
 2020-08-27,Female,83653,52,1246,48,sex,1137,13
 2020-08-27,Male,76144,48,1368,52,sex,945,11
-2020-08-28,American Indian,1903,2,35,1,race,32,1
+2020-08-28,American Indian and Alaska Native,1903,2,35,1,race,32,1
 2020-08-28,Asian,2244,2,33,1,race,24,0
 2020-08-28,Black or African American,29533,24,772,31,race,295,4
 2020-08-28,Native Hawaiian or Pacific Islander,272,0,4,0,race,1,0
@@ -751,7 +751,7 @@
 2020-08-28,75+,9675,6,1501,57,age,100,11
 2020-08-28,Female,84400,52,1256,48,sex,747,10
 2020-08-28,Male,76807,48,1379,52,sex,663,11
-2020-08-29,American Indian,1953,2,35,1,race,50,0
+2020-08-29,American Indian and Alaska Native,1953,2,35,1,race,50,0
 2020-08-29,Asian,2287,2,33,1,race,43,0
 2020-08-29,Black or African American,29903,24,782,31,race,370,10
 2020-08-29,Native Hawaiian or Pacific Islander,269,0,4,0,race,-3,0
@@ -767,7 +767,7 @@
 2020-08-29,75+,9827,6,1522,57,age,152,21
 2020-08-29,Female,85721,52,1272,48,sex,1321,16
 2020-08-29,Male,78063,48,1393,52,sex,1256,14
-2020-08-30,American Indian,1960,2,35,1,race,7,0
+2020-08-30,American Indian and Alaska Native,1960,2,35,1,race,7,0
 2020-08-30,Asian,2309,2,33,1,race,22,0
 2020-08-30,Black or African American,30056,24,785,31,race,153,3
 2020-08-30,Native Hawaiian or Pacific Islander,271,0,4,0,race,2,0
@@ -783,7 +783,7 @@
 2020-08-30,75+,9898,6,1529,57,age,71,7
 2020-08-30,Female,86244,52,1276,48,sex,523,4
 2020-08-30,Male,78590,48,1398,52,sex,527,5
-2020-08-31,American Indian,1990,2,35,1,race,30,0
+2020-08-31,American Indian and Alaska Native,1990,2,35,1,race,30,0
 2020-08-31,Asian,2328,2,33,1,race,19,0
 2020-08-31,Black or African American,30275,24,790,31,race,219,5
 2020-08-31,Native Hawaiian or Pacific Islander,271,0,4,0,race,0,0
@@ -799,7 +799,7 @@
 2020-08-31,75+,9956,6,1531,57,age,58,2
 2020-08-31,Female,86834,52,1279,48,sex,590,3
 2020-08-31,Male,79180,48,1405,52,sex,590,7
-2020-09-01,American Indian,2048,2,35,1,race,58,0
+2020-09-01,American Indian and Alaska Native,2048,2,35,1,race,58,0
 2020-09-01,Asian,2401,2,34,1,race,73,1
 2020-09-01,Black or African American,30696,24,800,31,race,421,10
 2020-09-01,Native Hawaiian or Pacific Islander,271,0,4,0,race,0,0
@@ -815,7 +815,7 @@
 2020-09-01,75+,10074,6,1561,57,age,118,30
 2020-09-01,Female,87905,52,1297,48,sex,1071,18
 2020-09-01,Male,80203,48,1427,52,sex,1023,22
-2020-09-02,American Indian,2053,2,36,1,race,5,1
+2020-09-02,American Indian and Alaska Native,2053,2,36,1,race,5,1
 2020-09-02,Asian,2442,2,34,1,race,41,0
 2020-09-02,Black or African American,30995,24,812,31,race,299,12
 2020-09-02,Native Hawaiian or Pacific Islander,273,0,4,0,race,2,0
@@ -831,7 +831,7 @@
 2020-09-02,75+,10154,6,1581,57,age,80,20
 2020-09-02,Female,88503,52,1316,48,sex,598,19
 2020-09-02,Male,80742,48,1447,52,sex,539,20
-2020-09-03,American Indian,2064,2,36,1,race,11,0
+2020-09-03,American Indian and Alaska Native,2064,2,36,1,race,11,0
 2020-09-03,Asian,2485,2,35,1,race,43,1
 2020-09-03,Black or African American,31349,24,822,31,race,354,10
 2020-09-03,Native Hawaiian or Pacific Islander,276,0,4,0,race,3,0
@@ -847,7 +847,7 @@
 2020-09-03,75+,10254,6,1593,57,age,100,12
 2020-09-03,Female,89394,52,1327,48,sex,891,11
 2020-09-03,Male,81495,48,1461,52,sex,753,14
-2020-09-04,American Indian,2064,2,36,1,race,0,0
+2020-09-04,American Indian and Alaska Native,2064,2,36,1,race,0,0
 2020-09-04,Asian,2485,2,35,1,race,0,0
 2020-09-04,Black or African American,31349,24,822,31,race,0,0
 2020-09-04,Native Hawaiian or Pacific Islander,276,0,4,0,race,0,0
@@ -863,7 +863,7 @@
 2020-09-04,75+,10254,6,1593,57,age,0,0
 2020-09-04,Female,89394,52,1327,48,sex,0,0
 2020-09-04,Male,81495,48,1461,52,sex,0,0
-2020-09-05,American Indian,2131,2,37,1,race,67,1
+2020-09-05,American Indian and Alaska Native,2131,2,37,1,race,67,1
 2020-09-05,Asian,2575,2,35,1,race,90,0
 2020-09-05,Black or African American,32011,24,845,31,race,662,23
 2020-09-05,Native Hawaiian or Pacific Islander,276,0,4,0,race,0,0
@@ -879,7 +879,7 @@
 2020-09-05,75+,10529,6,1654,57,age,275,61
 2020-09-05,Female,91223,52,1377,48,sex,1829,50
 2020-09-05,Male,83251,48,1497,52,sex,1756,36
-2020-09-06,American Indian,2140,2,37,1,race,9,0
+2020-09-06,American Indian and Alaska Native,2140,2,37,1,race,9,0
 2020-09-06,Asian,2589,2,35,1,race,14,0
 2020-09-06,Black or African American,32140,24,845,31,race,129,0
 2020-09-06,Native Hawaiian or Pacific Islander,275,0,4,0,race,-1,0
@@ -895,7 +895,7 @@
 2020-09-06,75+,10591,6,1655,57,age,62,1
 2020-09-06,Female,91798,52,1377,48,sex,575,0
 2020-09-06,Male,83751,48,1498,52,sex,500,1
-2020-09-07,American Indian,2150,2,37,1,race,10,0
+2020-09-07,American Indian and Alaska Native,2150,2,37,1,race,10,0
 2020-09-07,Asian,2606,2,35,1,race,17,0
 2020-09-07,Black or African American,32303,24,850,31,race,163,5
 2020-09-07,Native Hawaiian or Pacific Islander,274,0,4,0,race,-1,0
@@ -911,7 +911,7 @@
 2020-09-07,75+,10682,6,1658,57,age,91,3
 2020-09-07,Female,92379,52,1382,48,sex,581,5
 2020-09-07,Male,84178,48,1500,52,sex,427,2
-2020-09-08,American Indian,2166,2,37,1,race,16,0
+2020-09-08,American Indian and Alaska Native,2166,2,37,1,race,16,0
 2020-09-08,Asian,2617,2,35,1,race,11,0
 2020-09-08,Black or African American,32423,24,854,31,race,120,4
 2020-09-08,Native Hawaiian or Pacific Islander,274,0,4,0,race,0,0
@@ -927,7 +927,7 @@
 2020-09-08,75+,10730,6,1664,57,age,48,6
 2020-09-08,Female,92762,52,1387,48,sex,383,5
 2020-09-08,Male,84513,48,1507,52,sex,335,7
-2020-09-09,American Indian,2178,2,38,1,race,12,1
+2020-09-09,American Indian and Alaska Native,2178,2,38,1,race,12,1
 2020-09-09,Asian,2649,2,35,1,race,32,0
 2020-09-09,Black or African American,32669,24,869,31,race,246,15
 2020-09-09,Native Hawaiian or Pacific Islander,273,0,4,0,race,-1,0
@@ -943,7 +943,7 @@
 2020-09-09,75+,10800,6,1695,57,age,70,31
 2020-09-09,Female,93242,52,1409,48,sex,480,22
 2020-09-09,Male,84931,48,1534,52,sex,418,27
-2020-09-10,American Indian,2198,2,40,1,race,20,2
+2020-09-10,American Indian and Alaska Native,2198,2,40,1,race,20,2
 2020-09-10,Asian,2679,2,36,1,race,30,1
 2020-09-10,Black or African American,33010,24,876,31,race,341,7
 2020-09-10,Native Hawaiian or Pacific Islander,273,0,4,0,race,0,0
@@ -959,7 +959,7 @@
 2020-09-10,75+,10881,6,1712,57,age,81,17
 2020-09-10,Female,93905,52,1418,48,sex,663,9
 2020-09-10,Male,85492,48,1557,52,sex,561,23
-2020-09-11,American Indian,2224,2,40,1,race,26,0
+2020-09-11,American Indian and Alaska Native,2224,2,40,1,race,26,0
 2020-09-11,Asian,2728,2,37,1,race,49,1
 2020-09-11,Black or African American,33364,24,886,31,race,354,10
 2020-09-11,Native Hawaiian or Pacific Islander,275,0,4,0,race,2,0
@@ -975,7 +975,7 @@
 2020-09-11,75+,11010,6,1724,57,age,129,12
 2020-09-11,Female,94731,52,1435,48,sex,826,17
 2020-09-11,Male,86174,48,1573,52,sex,682,16
-2020-09-12,American Indian,2248,2,40,1,race,24,0
+2020-09-12,American Indian and Alaska Native,2248,2,40,1,race,24,0
 2020-09-12,Asian,2756,2,39,1,race,28,2
 2020-09-12,Black or African American,33654,24,892,31,race,290,6
 2020-09-12,Native Hawaiian or Pacific Islander,279,0,4,0,race,4,0
@@ -991,7 +991,7 @@
 2020-09-12,75+,11105,6,1739,57,age,95,15
 2020-09-12,Female,95454,52,1445,48,sex,723,10
 2020-09-12,Male,86911,48,1587,52,sex,737,14
-2020-09-13,American Indian,2272,2,40,1,race,24,0
+2020-09-13,American Indian and Alaska Native,2272,2,40,1,race,24,0
 2020-09-13,Asian,2772,2,39,1,race,16,0
 2020-09-13,Black or African American,33838,24,894,31,race,184,2
 2020-09-13,Native Hawaiian or Pacific Islander,281,0,4,0,race,2,0
@@ -1007,7 +1007,7 @@
 2020-09-13,75+,11218,6,1743,57,age,113,4
 2020-09-13,Female,96095,52,1447,48,sex,641,2
 2020-09-13,Male,87452,48,1590,52,sex,541,3
-2020-09-14,American Indian,2282,2,40,1,race,10,0
+2020-09-14,American Indian and Alaska Native,2282,2,40,1,race,10,0
 2020-09-14,Asian,2779,2,39,1,race,7,0
 2020-09-14,Black or African American,33983,24,896,31,race,145,2
 2020-09-14,Native Hawaiian or Pacific Islander,281,0,4,0,race,0,0
@@ -1023,7 +1023,7 @@
 2020-09-14,75+,11271,6,1748,57,age,53,5
 2020-09-14,Female,96551,52,1451,48,sex,456,4
 2020-09-14,Male,87821,48,1594,52,sex,369,4
-2020-09-15,American Indian,2302,2,40,1,race,20,0
+2020-09-15,American Indian and Alaska Native,2302,2,40,1,race,20,0
 2020-09-15,Asian,2810,2,40,1,race,31,1
 2020-09-15,Black or African American,34264,24,905,31,race,281,9
 2020-09-15,Native Hawaiian or Pacific Islander,284,0,4,0,race,3,0
@@ -1039,7 +1039,7 @@
 2020-09-15,75+,11353,6,1786,57,age,82,38
 2020-09-15,Female,97152,52,1478,48,sex,601,27
 2020-09-15,Male,88327,48,1618,52,sex,506,24
-2020-09-16,American Indian,2315,2,41,1,race,13,1
+2020-09-16,American Indian and Alaska Native,2315,2,41,1,race,13,1
 2020-09-16,Asian,2827,2,40,1,race,17,0
 2020-09-16,Black or African American,34538,23,912,30,race,274,7
 2020-09-16,Native Hawaiian or Pacific Islander,291,0,4,0,race,7,0
@@ -1055,7 +1055,7 @@
 2020-09-16,75+,11435,6,1811,58,age,82,25
 2020-09-16,Female,97770,52,1493,48,sex,618,15
 2020-09-16,Male,88846,48,1641,52,sex,519,23
-2020-09-17,American Indian,2356,2,43,1,race,41,2
+2020-09-17,American Indian and Alaska Native,2356,2,43,1,race,41,2
 2020-09-17,Asian,2852,2,41,1,race,25,1
 2020-09-17,Black or African American,34827,23,925,31,race,289,13
 2020-09-17,Native Hawaiian or Pacific Islander,293,0,4,0,race,2,0
@@ -1071,7 +1071,7 @@
 2020-09-17,75+,11566,6,1824,57,age,131,13
 2020-09-17,Female,98577,52,1509,48,sex,807,16
 2020-09-17,Male,89574,48,1656,52,sex,728,15
-2020-09-18,American Indian,2376,2,44,1,race,20,1
+2020-09-18,American Indian and Alaska Native,2376,2,44,1,race,20,1
 2020-09-18,Asian,2883,2,41,1,race,31,0
 2020-09-18,Black or African American,35178,23,933,31,race,351,8
 2020-09-18,Native Hawaiian or Pacific Islander,293,0,4,0,race,0,0
@@ -1087,7 +1087,7 @@
 2020-09-18,75+,11671,6,1834,57,age,105,10
 2020-09-18,Female,99363,52,1525,48,sex,786,16
 2020-09-18,Male,90239,48,1667,52,sex,665,11
-2020-09-19,American Indian,2389,2,44,1,race,13,0
+2020-09-19,American Indian and Alaska Native,2389,2,44,1,race,13,0
 2020-09-19,Asian,2906,2,41,1,race,23,0
 2020-09-19,Black or African American,35482,24,941,31,race,304,8
 2020-09-19,Native Hawaiian or Pacific Islander,295,0,4,0,race,2,0
@@ -1103,7 +1103,7 @@
 2020-09-19,75+,11755,6,1852,57,age,84,18
 2020-09-19,Female,100071,52,1538,48,sex,708,13
 2020-09-19,Male,90815,48,1682,52,sex,576,15
-2020-09-20,American Indian,2403,2,44,1,race,14,0
+2020-09-20,American Indian and Alaska Native,2403,2,44,1,race,14,0
 2020-09-20,Asian,2931,2,41,1,race,25,0
 2020-09-20,Black or African American,35668,23,940,30,race,186,-1
 2020-09-20,Native Hawaiian or Pacific Islander,295,0,4,0,race,0,0
@@ -1119,7 +1119,7 @@
 2020-09-20,75+,11886,6,1857,57,age,131,5
 2020-09-20,Female,100778,52,1543,48,sex,707,5
 2020-09-20,Male,91428,48,1685,52,sex,613,3
-2020-09-21,American Indian,2408,2,44,1,race,5,0
+2020-09-21,American Indian and Alaska Native,2408,2,44,1,race,5,0
 2020-09-21,Asian,2949,2,41,1,race,18,0
 2020-09-21,Black or African American,35769,23,941,30,race,101,1
 2020-09-21,Native Hawaiian or Pacific Islander,295,0,4,0,race,0,0
@@ -1135,7 +1135,7 @@
 2020-09-21,75+,11937,6,1861,57,age,51,4
 2020-09-21,Female,101157,52,1546,48,sex,379,3
 2020-09-21,Male,91848,48,1686,52,sex,420,1
-2020-09-22,American Indian,2417,2,44,1,race,9,0
+2020-09-22,American Indian and Alaska Native,2417,2,44,1,race,9,0
 2020-09-22,Asian,2975,2,41,1,race,26,0
 2020-09-22,Black or African American,36123,24,954,31,race,354,13
 2020-09-22,Native Hawaiian or Pacific Islander,298,0,4,0,race,3,0
@@ -1151,7 +1151,7 @@
 2020-09-22,75+,12042,6,1887,57,age,105,26
 2020-09-22,Female,101774,52,1571,48,sex,617,25
 2020-09-22,Male,92388,48,1700,52,sex,540,14
-2020-09-23,American Indian,2433,2,44,1,race,16,0
+2020-09-23,American Indian and Alaska Native,2433,2,44,1,race,16,0
 2020-09-23,Asian,3010,2,42,1,race,35,1
 2020-09-23,Black or African American,36406,24,962,31,race,283,8
 2020-09-23,Native Hawaiian or Pacific Islander,301,0,4,0,race,3,0
@@ -1167,7 +1167,7 @@
 2020-09-23,75+,12117,6,1908,58,age,75,21
 2020-09-23,Female,102274,52,1586,48,sex,500,15
 2020-09-23,Male,92839,48,1715,52,sex,451,15
-2020-09-24,American Indian,2460,2,45,1,race,27,1
+2020-09-24,American Indian and Alaska Native,2460,2,45,1,race,27,1
 2020-09-24,Asian,3028,2,42,1,race,18,0
 2020-09-24,Black or African American,36726,24,971,30,race,320,9
 2020-09-24,Native Hawaiian or Pacific Islander,304,0,4,0,race,3,0
@@ -1183,8 +1183,8 @@
 2020-09-24,75+,12241,6,1936,58,age,124,28
 2020-09-24,Female,103120,52,1604,48,sex,846,18
 2020-09-24,Male,93677,48,1737,52,sex,838,22
-2020-09-25,American Indian,2535,2,45,1,race,75,0
-2020-09-25,American Indian,2535,2,45,1,race,0,0
+2020-09-25,American Indian and Alaska Native,2535,2,45,1,race,75,0
+2020-09-25,American Indian and Alaska Native,2535,2,45,1,race,0,0
 2020-09-25,Asian,3109,2,42,1,race,81,0
 2020-09-25,Black or African American,37478,23,979,30,race,752,8
 2020-09-25,Native Hawaiian or Pacific Islander,312,0,6,0,race,8,2
@@ -1200,7 +1200,7 @@
 2020-09-25,75+,12558,6,1967,58,age,317,31
 2020-09-25,Female,106369,52,1634,48,sex,3249,30
 2020-09-25,Male,96449,48,1759,52,sex,2772,22
-2020-09-26,American Indian,2551,2,45,1,race,16,0
+2020-09-26,American Indian and Alaska Native,2551,2,45,1,race,16,0
 2020-09-26,Asian,3146,2,44,1,race,37,2
 2020-09-26,Black or African American,37837,23,989,30,race,359,10
 2020-09-26,Native Hawaiian or Pacific Islander,312,0,6,0,race,0,0
@@ -1216,7 +1216,7 @@
 2020-09-26,75+,12705,6,1989,58,age,147,22
 2020-09-26,Female,107282,52,1651,48,sex,913,17
 2020-09-26,Male,97276,48,1773,52,sex,827,14
-2020-09-27,American Indian,2576,2,45,1,race,25,0
+2020-09-27,American Indian and Alaska Native,2576,2,45,1,race,25,0
 2020-09-27,Asian,3170,2,44,1,race,24,0
 2020-09-27,Black or African American,38021,23,989,30,race,184,0
 2020-09-27,Native Hawaiian or Pacific Islander,313,0,6,0,race,1,0
@@ -1232,7 +1232,7 @@
 2020-09-27,75+,12788,6,1990,58,age,83,1
 2020-09-27,Female,107980,52,1652,48,sex,698,1
 2020-09-27,Male,97866,48,1773,52,sex,590,0
-2020-09-28,American Indian,2586,2,45,1,race,10,0
+2020-09-28,American Indian and Alaska Native,2586,2,45,1,race,10,0
 2020-09-28,Asian,3183,2,44,1,race,13,0
 2020-09-28,Black or African American,38149,23,989,30,race,128,0
 2020-09-28,Native Hawaiian or Pacific Islander,312,0,6,0,race,-1,0
@@ -1248,7 +1248,7 @@
 2020-09-28,75+,12876,6,1994,58,age,88,4
 2020-09-28,Female,108460,52,1655,48,sex,480,3
 2020-09-28,Male,98255,48,1774,52,sex,389,1
-2020-09-29,American Indian,2600,2,46,1,race,14,1
+2020-09-29,American Indian and Alaska Native,2600,2,46,1,race,14,1
 2020-09-29,Asian,3203,2,44,1,race,20,0
 2020-09-29,Black or African American,38429,23,1003,30,race,280,14
 2020-09-29,Native Hawaiian or Pacific Islander,313,0,6,0,race,1,0
@@ -1264,7 +1264,7 @@
 2020-09-29,75+,12955,6,2017,58,age,79,23
 2020-09-29,Female,108923,52,1682,48,sex,463,27
 2020-09-29,Male,98684,48,1796,52,sex,429,22
-2020-09-30,American Indian,2650,2,47,1,race,50,1
+2020-09-30,American Indian and Alaska Native,2650,2,47,1,race,50,1
 2020-09-30,Asian,3240,2,45,1,race,37,1
 2020-09-30,Black or African American,38779,23,1014,30,race,350,11
 2020-09-30,Native Hawaiian or Pacific Islander,316,0,6,0,race,3,0
@@ -1280,7 +1280,7 @@
 2020-09-30,75+,13057,6,2039,58,age,102,22
 2020-09-30,Female,109705,52,1698,48,sex,782,16
 2020-09-30,Male,99388,48,1818,52,sex,704,22
-2020-10-01,American Indian,2706,2,48,1,race,56,1
+2020-10-01,American Indian and Alaska Native,2706,2,48,1,race,56,1
 2020-10-01,Asian,3279,2,47,1,race,39,2
 2020-10-01,Black or African American,39200,23,1032,30,race,421,18
 2020-10-01,Native Hawaiian or Pacific Islander,322,0,6,0,race,6,0
@@ -1296,7 +1296,7 @@
 2020-10-01,75+,13228,6,2073,58,age,171,34
 2020-10-01,Female,110916,52,1720,48,sex,1211,22
 2020-10-01,Male,100508,48,1843,52,sex,1120,25
-2020-10-02,American Indian,2730,2,48,1,race,24,0
+2020-10-02,American Indian and Alaska Native,2730,2,48,1,race,24,0
 2020-10-02,Asian,3305,2,47,1,race,26,0
 2020-10-02,Black or African American,39537,23,1040,30,race,337,8
 2020-10-02,Native Hawaiian or Pacific Islander,323,0,6,0,race,1,0
@@ -1312,7 +1312,7 @@
 2020-10-02,75+,13382,6,2089,58,age,154,16
 2020-10-02,Female,111875,52,1736,48,sex,959,16
 2020-10-02,Male,101346,48,1856,52,sex,838,13
-2020-10-03,American Indian,2760,2,48,1,race,30,0
+2020-10-03,American Indian and Alaska Native,2760,2,48,1,race,30,0
 2020-10-03,Asian,3332,2,47,1,race,27,0
 2020-10-03,Black or African American,39912,23,1048,30,race,375,8
 2020-10-03,Native Hawaiian or Pacific Islander,325,0,6,0,race,2,0
@@ -1328,7 +1328,7 @@
 2020-10-03,75+,13582,6,2103,58,age,200,14
 2020-10-03,Female,113036,52,1746,48,sex,1161,10
 2020-10-03,Male,102371,48,1867,52,sex,1025,11
-2020-10-04,American Indian,2778,2,48,1,race,18,0
+2020-10-04,American Indian and Alaska Native,2778,2,48,1,race,18,0
 2020-10-04,Asian,3338,2,47,1,race,6,0
 2020-10-04,Black or African American,40008,23,1049,30,race,96,1
 2020-10-04,Native Hawaiian or Pacific Islander,325,0,6,0,race,0,0
@@ -1344,7 +1344,7 @@
 2020-10-04,75+,13653,6,2106,58,age,71,3
 2020-10-04,Female,113378,52,1749,48,sex,342,3
 2020-10-04,Male,102637,48,1869,52,sex,266,2
-2020-10-05,American Indian,2824,2,48,1,race,46,0
+2020-10-05,American Indian and Alaska Native,2824,2,48,1,race,46,0
 2020-10-05,Asian,3351,2,47,1,race,13,0
 2020-10-05,Black or African American,40281,23,1049,30,race,273,0
 2020-10-05,Native Hawaiian or Pacific Islander,324,0,6,0,race,-1,0
@@ -1360,7 +1360,7 @@
 2020-10-05,75+,13784,6,2108,58,age,131,2
 2020-10-05,Female,114506,52,1751,48,sex,1128,2
 2020-10-05,Male,103769,48,1870,52,sex,1132,1
-2020-10-06,American Indian,2853,2,49,1,race,29,1
+2020-10-06,American Indian and Alaska Native,2853,2,49,1,race,29,1
 2020-10-06,Asian,3366,2,47,1,race,15,0
 2020-10-06,Black or African American,40566,23,1061,30,race,285,12
 2020-10-06,Native Hawaiian or Pacific Islander,328,0,6,0,race,4,0
@@ -1376,7 +1376,7 @@
 2020-10-06,75+,13900,6,2129,58,age,116,21
 2020-10-06,Female,115298,52,1774,49,sex,792,23
 2020-10-06,Male,104463,48,1880,51,sex,694,10
-2020-10-07,American Indian,2890,2,49,1,race,37,0
+2020-10-07,American Indian and Alaska Native,2890,2,49,1,race,37,0
 2020-10-07,Asian,3397,2,47,1,race,31,0
 2020-10-07,Black or African American,40871,23,1068,30,race,305,7
 2020-10-07,Native Hawaiian or Pacific Islander,329,0,6,0,race,1,0
@@ -1392,7 +1392,7 @@
 2020-10-07,75+,14027,6,2146,58,age,127,17
 2020-10-07,Female,116184,52,1785,49,sex,886,11
 2020-10-07,Male,105278,48,1892,51,sex,815,12
-2020-10-08,American Indian,2940,2,50,1,race,50,1
+2020-10-08,American Indian and Alaska Native,2940,2,50,1,race,50,1
 2020-10-08,Asian,3424,2,48,1,race,27,1
 2020-10-08,Black or African American,41286,23,1073,30,race,415,5
 2020-10-08,Native Hawaiian or Pacific Islander,330,0,6,0,race,1,0
@@ -1408,7 +1408,7 @@
 2020-10-08,75+,14225,6,2163,58,age,198,17
 2020-10-08,Female,117481,52,1796,48,sex,1297,11
 2020-10-08,Male,106395,48,1908,52,sex,1117,16
-2020-10-09,American Indian,2969,2,51,1,race,29,1
+2020-10-09,American Indian and Alaska Native,2969,2,51,1,race,29,1
 2020-10-09,Asian,3441,2,48,1,race,17,0
 2020-10-09,Black or African American,41637,23,1078,30,race,351,5
 2020-10-09,Native Hawaiian or Pacific Islander,333,0,7,0,race,3,1
@@ -1424,7 +1424,7 @@
 2020-10-09,75+,14365,6,2179,58,age,140,16
 2020-10-09,Female,118521,52,1809,49,sex,1040,13
 2020-10-09,Male,107365,48,1920,51,sex,970,12
-2020-10-10,American Indian,2988,2,50,1,race,19,-1
+2020-10-10,American Indian and Alaska Native,2988,2,50,1,race,19,-1
 2020-10-10,Asian,3473,2,48,1,race,32,0
 2020-10-10,Black or African American,42011,23,1082,30,race,374,4
 2020-10-10,Native Hawaiian or Pacific Islander,335,0,7,0,race,2,0
@@ -1440,7 +1440,7 @@
 2020-10-10,75+,14578,6,2186,58,age,213,7
 2020-10-10,Female,119766,52,1816,48,sex,1245,7
 2020-10-10,Male,108429,48,1931,52,sex,1064,11
-2020-10-11,American Indian,3031,2,50,1,race,43,0
+2020-10-11,American Indian and Alaska Native,3031,2,50,1,race,43,0
 2020-10-11,Asian,3494,2,48,1,race,21,0
 2020-10-11,Black or African American,42248,23,1082,30,race,237,0
 2020-10-11,Native Hawaiian or Pacific Islander,334,0,7,0,race,-1,0
@@ -1456,7 +1456,7 @@
 2020-10-11,75+,14698,6,2189,58,age,120,3
 2020-10-11,Female,120665,52,1819,48,sex,899,3
 2020-10-11,Male,109243,48,1933,52,sex,814,2
-2020-10-12,American Indian,3055,2,50,1,race,24,0
+2020-10-12,American Indian and Alaska Native,3055,2,50,1,race,24,0
 2020-10-12,Asian,3509,2,48,1,race,15,0
 2020-10-12,Black or African American,42402,23,1082,30,race,154,0
 2020-10-12,Native Hawaiian or Pacific Islander,334,0,7,0,race,0,0
@@ -1472,7 +1472,7 @@
 2020-10-12,75+,14778,6,2190,58,age,80,1
 2020-10-12,Female,121327,52,1820,48,sex,662,1
 2020-10-12,Male,109857,48,1935,52,sex,614,2
-2020-10-13,American Indian,3092,2,50,1,race,37,0
+2020-10-13,American Indian and Alaska Native,3092,2,50,1,race,37,0
 2020-10-13,Asian,3546,2,48,1,race,37,0
 2020-10-13,Black or African American,42760,23,1100,30,race,358,18
 2020-10-13,Native Hawaiian or Pacific Islander,335,0,7,0,race,1,0
@@ -1488,7 +1488,7 @@
 2020-10-13,75+,14897,6,2220,58,age,119,30
 2020-10-13,Female,122259,52,1844,49,sex,932,24
 2020-10-13,Male,110650,48,1954,51,sex,793,19
-2020-10-14,American Indian,3130,2,50,1,race,38,0
+2020-10-14,American Indian and Alaska Native,3130,2,50,1,race,38,0
 2020-10-14,Asian,3573,2,48,1,race,27,0
 2020-10-14,Black or African American,43114,23,1108,30,race,354,8
 2020-10-14,Native Hawaiian or Pacific Islander,338,0,7,0,race,3,0
@@ -1504,7 +1504,7 @@
 2020-10-14,75+,15034,6,2249,58,age,137,29
 2020-10-14,Female,123257,52,1860,48,sex,998,16
 2020-10-14,Male,111557,48,1978,52,sex,907,24
-2020-10-15,American Indian,3186,2,50,1,race,56,0
+2020-10-15,American Indian and Alaska Native,3186,2,50,1,race,56,0
 2020-10-15,Asian,3611,2,48,1,race,38,0
 2020-10-15,Black or African American,43555,23,1113,30,race,441,5
 2020-10-15,Native Hawaiian or Pacific Islander,339,0,7,0,race,1,0
@@ -1520,7 +1520,7 @@
 2020-10-15,75+,15227,6,2262,58,age,193,13
 2020-10-15,Female,124578,52,1869,48,sex,1321,9
 2020-10-15,Male,112746,48,1987,52,sex,1189,9
-2020-10-16,American Indian,3225,2,50,1,race,39,0
+2020-10-16,American Indian and Alaska Native,3225,2,50,1,race,39,0
 2020-10-16,Asian,3644,2,49,1,race,33,1
 2020-10-16,Black or African American,43996,23,1122,30,race,441,9
 2020-10-16,Native Hawaiian or Pacific Islander,344,0,7,0,race,5,0
@@ -1536,7 +1536,7 @@
 2020-10-16,75+,15502,6,2286,58,age,275,24
 2020-10-16,Female,125914,52,1888,49,sex,1336,19
 2020-10-16,Male,114078,48,2004,51,sex,1332,17
-2020-10-17,American Indian,3251,2,50,1,race,26,0
+2020-10-17,American Indian and Alaska Native,3251,2,50,1,race,26,0
 2020-10-17,Asian,3671,2,49,1,race,27,0
 2020-10-17,Black or African American,44401,23,1128,30,race,405,6
 2020-10-17,Native Hawaiian or Pacific Islander,344,0,7,0,race,0,0
@@ -1552,7 +1552,7 @@
 2020-10-17,75+,15689,6,2295,58,age,187,9
 2020-10-17,Female,126969,52,1900,49,sex,1055,12
 2020-10-17,Male,115109,48,2011,51,sex,1031,7
-2020-10-18,American Indian,3287,2,50,1,race,36,0
+2020-10-18,American Indian and Alaska Native,3287,2,50,1,race,36,0
 2020-10-18,Asian,3682,2,49,1,race,11,0
 2020-10-18,Black or African American,44769,23,1130,30,race,368,2
 2020-10-18,Native Hawaiian or Pacific Islander,344,0,7,0,race,0,0
@@ -1568,7 +1568,7 @@
 2020-10-18,75+,15876,6,2299,58,age,187,4
 2020-10-18,Female,128210,52,1904,49,sex,1241,4
 2020-10-18,Male,116165,48,2012,51,sex,1056,1
-2020-10-19,American Indian,3305,2,50,1,race,18,0
+2020-10-19,American Indian and Alaska Native,3305,2,50,1,race,18,0
 2020-10-19,Asian,3695,2,49,1,race,13,0
 2020-10-19,Black or African American,44960,23,1131,30,race,191,1
 2020-10-19,Native Hawaiian or Pacific Islander,346,0,7,0,race,2,0
@@ -1584,7 +1584,7 @@
 2020-10-19,75+,15965,6,2302,58,age,89,3
 2020-10-19,Female,128775,52,1906,49,sex,565,2
 2020-10-19,Male,116742,48,2015,51,sex,577,3
-2020-10-20,American Indian,3352,2,51,1,race,47,1
+2020-10-20,American Indian and Alaska Native,3352,2,51,1,race,47,1
 2020-10-20,Asian,3721,2,50,1,race,26,1
 2020-10-20,Black or African American,45344,23,1144,30,race,384,13
 2020-10-20,Native Hawaiian or Pacific Islander,346,0,7,0,race,0,0
@@ -1600,7 +1600,7 @@
 2020-10-20,75+,16077,6,2332,58,age,112,30
 2020-10-20,Female,129583,52,1931,49,sex,808,25
 2020-10-20,Male,117501,48,2043,51,sex,759,28
-2020-10-21,American Indian,3382,2,54,1,race,30,3
+2020-10-21,American Indian and Alaska Native,3382,2,54,1,race,30,3
 2020-10-21,Asian,3743,2,50,1,race,22,0
 2020-10-21,Black or African American,45749,23,1154,30,race,405,10
 2020-10-21,Native Hawaiian or Pacific Islander,344,0,7,0,race,-2,0
@@ -1616,7 +1616,7 @@
 2020-10-21,75+,16195,6,2356,58,age,118,24
 2020-10-21,Female,130580,52,1950,49,sex,997,19
 2020-10-21,Male,118331,48,2064,51,sex,830,21
-2020-10-22,American Indian,3435,2,54,1,race,53,0
+2020-10-22,American Indian and Alaska Native,3435,2,54,1,race,53,0
 2020-10-22,Asian,3761,2,50,1,race,18,0
 2020-10-22,Black or African American,46258,23,1167,30,race,509,13
 2020-10-22,Native Hawaiian or Pacific Islander,348,0,7,0,race,4,0
@@ -1632,7 +1632,7 @@
 2020-10-22,75+,16414,6,2381,58,age,219,25
 2020-10-22,Female,131852,52,1983,49,sex,1272,33
 2020-10-22,Male,119446,48,2081,51,sex,1115,17
-2020-10-23,American Indian,3470,2,54,1,race,35,0
+2020-10-23,American Indian and Alaska Native,3470,2,54,1,race,35,0
 2020-10-23,Asian,3779,2,50,1,race,18,0
 2020-10-23,Black or African American,46777,23,1177,30,race,519,10
 2020-10-23,Native Hawaiian or Pacific Islander,351,0,7,0,race,3,0
@@ -1648,7 +1648,7 @@
 2020-10-23,75+,16613,6,2393,58,age,199,12
 2020-10-23,Female,133322,52,1997,49,sex,1470,14
 2020-10-23,Male,120678,48,2099,51,sex,1232,18
-2020-10-24,American Indian,3499,2,56,1,race,29,2
+2020-10-24,American Indian and Alaska Native,3499,2,56,1,race,29,2
 2020-10-24,Asian,3817,2,50,1,race,38,0
 2020-10-24,Black or African American,47279,23,1183,30,race,502,6
 2020-10-24,Native Hawaiian or Pacific Islander,352,0,7,0,race,1,0
@@ -1664,7 +1664,7 @@
 2020-10-24,75+,16867,7,2412,58,age,254,19
 2020-10-24,Female,134650,52,2011,49,sex,1328,14
 2020-10-24,Male,121924,48,2114,51,sex,1246,15
-2020-10-25,American Indian,3520,2,56,1,race,21,0
+2020-10-25,American Indian and Alaska Native,3520,2,56,1,race,21,0
 2020-10-25,Asian,3848,2,50,1,race,31,0
 2020-10-25,Black or African American,47548,23,1184,30,race,269,1
 2020-10-25,Native Hawaiian or Pacific Islander,351,0,7,0,race,-1,0
@@ -1680,7 +1680,7 @@
 2020-10-25,75+,17010,7,2420,58,age,143,8
 2020-10-25,Female,135653,53,2017,49,sex,1003,6
 2020-10-25,Male,122722,47,2121,51,sex,798,7
-2020-10-26,American Indian,3541,2,56,1,race,21,0
+2020-10-26,American Indian and Alaska Native,3541,2,56,1,race,21,0
 2020-10-26,Asian,3866,2,50,1,race,18,0
 2020-10-26,Black or African American,47854,23,1188,30,race,306,4
 2020-10-26,Native Hawaiian or Pacific Islander,351,0,7,0,race,0,0
@@ -1696,7 +1696,7 @@
 2020-10-26,75+,17162,7,2430,58,age,152,10
 2020-10-26,Female,136567,53,2025,49,sex,914,8
 2020-10-26,Male,123442,47,2126,51,sex,720,5
-2020-10-27,American Indian,3606,2,56,1,race,65,0
+2020-10-27,American Indian and Alaska Native,3606,2,56,1,race,65,0
 2020-10-27,Asian,3922,2,50,1,race,56,0
 2020-10-27,Black or African American,48296,23,1198,30,race,442,10
 2020-10-27,Native Hawaiian or Pacific Islander,353,0,7,0,race,2,0
@@ -1712,7 +1712,7 @@
 2020-10-27,75+,17305,7,2458,58,age,143,28
 2020-10-27,Female,137674,53,2047,49,sex,1107,22
 2020-10-27,Male,124469,47,2145,51,sex,1027,19
-2020-10-28,American Indian,3637,2,56,1,race,31,0
+2020-10-28,American Indian and Alaska Native,3637,2,56,1,race,31,0
 2020-10-28,Asian,3950,2,50,1,race,28,0
 2020-10-28,Black or African American,48692,23,1206,30,race,396,8
 2020-10-28,Native Hawaiian or Pacific Islander,354,0,7,0,race,1,0
