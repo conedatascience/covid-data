@@ -1,6 +1,33 @@
 # Covid Data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4159703.svg)](https://doi.org/10.5281/zenodo.4159703)
+
 This repository stores data pulled from the North Carolina Department of Health and Human Services.
+Additionally, longitudinal data are extracted from static snapshots provided by the Department of Health and Human Services.
+
+The data available longitudinally include:
+
+* Cases/Deaths by county by day 
+* Cases/Deaths by ZIP Code by day
+* Cases/ Deaths by assorted demographics (race, sex, ethnicity, age) at the state level by day 
+* Congregate housing outbreak information by county/facility by date of update (typically Tuesdays and Thursdays of Each Week) 
+
+# Citation
+
+To cite these data:
+
+Michael DeWitt (2020) Aggregation of North Carolina Department of Health and Human Services COVID-19 Data, DOI:10.5281/zenodo.4159703
+
+```
+@misc{,
+    title = {Aggregation of North Carolina Department of Health and Human Services COVID-19 Data},
+    author = {Michael DeWitt},
+    year = {2020},
+    doi = {10.5281/zenodo.4159703}
+    url = {https://CRAN.R-project.org/package=tidycensus},
+  }
+
+```
 
 # Terms of Use
 
