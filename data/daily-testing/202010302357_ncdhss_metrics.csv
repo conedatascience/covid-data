@@ -1,0 +1,973 @@
+Date,Measure Names,Measure Values
+3/2/2020,Daily Tests Total,
+3/2/2020,Molecular (PCR) Tests,
+3/2/2020,Antigen Tests,
+3/2/2020,Positive Test Percentage,
+3/3/2020,Daily Tests Total,
+3/3/2020,Molecular (PCR) Tests,
+3/3/2020,Antigen Tests,
+3/3/2020,Positive Test Percentage,
+3/4/2020,Daily Tests Total,
+3/4/2020,Molecular (PCR) Tests,
+3/4/2020,Antigen Tests,
+3/4/2020,Positive Test Percentage,
+3/5/2020,Daily Tests Total,
+3/5/2020,Molecular (PCR) Tests,
+3/5/2020,Antigen Tests,
+3/5/2020,Positive Test Percentage,
+3/6/2020,Daily Tests Total,
+3/6/2020,Molecular (PCR) Tests,
+3/6/2020,Antigen Tests,
+3/6/2020,Positive Test Percentage,
+3/7/2020,Daily Tests Total,
+3/7/2020,Molecular (PCR) Tests,
+3/7/2020,Antigen Tests,
+3/7/2020,Positive Test Percentage,
+3/8/2020,Daily Tests Total,
+3/8/2020,Molecular (PCR) Tests,
+3/8/2020,Antigen Tests,
+3/8/2020,Positive Test Percentage,
+3/9/2020,Daily Tests Total,
+3/9/2020,Molecular (PCR) Tests,
+3/9/2020,Antigen Tests,
+3/9/2020,Positive Test Percentage,
+3/10/2020,Daily Tests Total,
+3/10/2020,Molecular (PCR) Tests,
+3/10/2020,Antigen Tests,
+3/10/2020,Positive Test Percentage,
+3/11/2020,Daily Tests Total,
+3/11/2020,Molecular (PCR) Tests,
+3/11/2020,Antigen Tests,
+3/11/2020,Positive Test Percentage,
+3/12/2020,Daily Tests Total,
+3/12/2020,Molecular (PCR) Tests,
+3/12/2020,Antigen Tests,
+3/12/2020,Positive Test Percentage,
+3/13/2020,Daily Tests Total,
+3/13/2020,Molecular (PCR) Tests,
+3/13/2020,Antigen Tests,
+3/13/2020,Positive Test Percentage,
+3/14/2020,Daily Tests Total,
+3/14/2020,Molecular (PCR) Tests,
+3/14/2020,Antigen Tests,
+3/14/2020,Positive Test Percentage,
+3/15/2020,Daily Tests Total,
+3/15/2020,Molecular (PCR) Tests,
+3/15/2020,Antigen Tests,
+3/15/2020,Positive Test Percentage,
+3/16/2020,Daily Tests Total,936
+3/16/2020,Molecular (PCR) Tests,
+3/16/2020,Antigen Tests,
+3/16/2020,Positive Test Percentage,
+3/17/2020,Daily Tests Total,295
+3/17/2020,Molecular (PCR) Tests,
+3/17/2020,Antigen Tests,
+3/17/2020,Positive Test Percentage,
+3/18/2020,Daily Tests Total,205
+3/18/2020,Molecular (PCR) Tests,
+3/18/2020,Antigen Tests,
+3/18/2020,Positive Test Percentage,
+3/19/2020,Daily Tests Total,1696
+3/19/2020,Molecular (PCR) Tests,
+3/19/2020,Antigen Tests,
+3/19/2020,Positive Test Percentage,
+3/20/2020,Daily Tests Total,943
+3/20/2020,Molecular (PCR) Tests,
+3/20/2020,Antigen Tests,
+3/20/2020,Positive Test Percentage,
+3/21/2020,Daily Tests Total,2192
+3/21/2020,Molecular (PCR) Tests,
+3/21/2020,Antigen Tests,
+3/21/2020,Positive Test Percentage,
+3/22/2020,Daily Tests Total,1389
+3/22/2020,Molecular (PCR) Tests,
+3/22/2020,Antigen Tests,
+3/22/2020,Positive Test Percentage,
+3/23/2020,Daily Tests Total,2163
+3/23/2020,Molecular (PCR) Tests,
+3/23/2020,Antigen Tests,
+3/23/2020,Positive Test Percentage,
+3/24/2020,Daily Tests Total,529
+3/24/2020,Molecular (PCR) Tests,
+3/24/2020,Antigen Tests,
+3/24/2020,Positive Test Percentage,
+3/25/2020,Daily Tests Total,2446
+3/25/2020,Molecular (PCR) Tests,
+3/25/2020,Antigen Tests,
+3/25/2020,Positive Test Percentage,
+3/26/2020,Daily Tests Total,2793
+3/26/2020,Molecular (PCR) Tests,
+3/26/2020,Antigen Tests,
+3/26/2020,Positive Test Percentage,
+3/27/2020,Daily Tests Total,2667
+3/27/2020,Molecular (PCR) Tests,
+3/27/2020,Antigen Tests,
+3/27/2020,Positive Test Percentage,
+3/28/2020,Daily Tests Total,2910
+3/28/2020,Molecular (PCR) Tests,
+3/28/2020,Antigen Tests,
+3/28/2020,Positive Test Percentage,
+3/29/2020,Daily Tests Total,1638
+3/29/2020,Molecular (PCR) Tests,
+3/29/2020,Antigen Tests,
+3/29/2020,Positive Test Percentage,
+3/30/2020,Daily Tests Total,2082
+3/30/2020,Molecular (PCR) Tests,
+3/30/2020,Antigen Tests,
+3/30/2020,Positive Test Percentage,
+3/31/2020,Daily Tests Total,2787
+3/31/2020,Molecular (PCR) Tests,
+3/31/2020,Antigen Tests,
+3/31/2020,Positive Test Percentage,
+4/1/2020,Daily Tests Total,3435
+4/1/2020,Molecular (PCR) Tests,
+4/1/2020,Antigen Tests,
+4/1/2020,Positive Test Percentage,0.074540504
+4/2/2020,Daily Tests Total,2883
+4/2/2020,Molecular (PCR) Tests,
+4/2/2020,Antigen Tests,
+4/2/2020,Positive Test Percentage,0.067842605
+4/3/2020,Daily Tests Total,3404
+4/3/2020,Molecular (PCR) Tests,
+4/3/2020,Antigen Tests,
+4/3/2020,Positive Test Percentage,0.080601093
+4/4/2020,Daily Tests Total,7629
+4/4/2020,Molecular (PCR) Tests,
+4/4/2020,Antigen Tests,
+4/4/2020,Positive Test Percentage,0.084626755
+4/5/2020,Daily Tests Total,1343
+4/5/2020,Molecular (PCR) Tests,
+4/5/2020,Antigen Tests,
+4/5/2020,Positive Test Percentage,0.081907895
+4/6/2020,Daily Tests Total,852
+4/6/2020,Molecular (PCR) Tests,
+4/6/2020,Antigen Tests,
+4/6/2020,Positive Test Percentage,0.078657074
+4/7/2020,Daily Tests Total,913
+4/7/2020,Molecular (PCR) Tests,
+4/7/2020,Antigen Tests,
+4/7/2020,Positive Test Percentage,0.11994077
+4/8/2020,Daily Tests Total,2431
+4/8/2020,Molecular (PCR) Tests,
+4/8/2020,Antigen Tests,
+4/8/2020,Positive Test Percentage,0.090139442
+4/9/2020,Daily Tests Total,5262
+4/9/2020,Molecular (PCR) Tests,
+4/9/2020,Antigen Tests,
+4/9/2020,Positive Test Percentage,0.091695502
+4/10/2020,Daily Tests Total,10211
+4/10/2020,Molecular (PCR) Tests,
+4/10/2020,Antigen Tests,
+4/10/2020,Positive Test Percentage,0.083916084
+4/11/2020,Daily Tests Total,2875
+4/11/2020,Molecular (PCR) Tests,
+4/11/2020,Antigen Tests,
+4/11/2020,Positive Test Percentage,0.112781955
+4/12/2020,Daily Tests Total,7999
+4/12/2020,Molecular (PCR) Tests,
+4/12/2020,Antigen Tests,
+4/12/2020,Positive Test Percentage,0.163080408
+4/13/2020,Daily Tests Total,1298
+4/13/2020,Molecular (PCR) Tests,
+4/13/2020,Antigen Tests,
+4/13/2020,Positive Test Percentage,0.111904762
+4/14/2020,Daily Tests Total,1968
+4/14/2020,Molecular (PCR) Tests,
+4/14/2020,Antigen Tests,
+4/14/2020,Positive Test Percentage,0.111312217
+4/15/2020,Daily Tests Total,3215
+4/15/2020,Molecular (PCR) Tests,
+4/15/2020,Antigen Tests,
+4/15/2020,Positive Test Percentage,0.127086699
+4/16/2020,Daily Tests Total,3576
+4/16/2020,Molecular (PCR) Tests,
+4/16/2020,Antigen Tests,
+4/16/2020,Positive Test Percentage,0.159050179
+4/17/2020,Daily Tests Total,2472
+4/17/2020,Molecular (PCR) Tests,
+4/17/2020,Antigen Tests,
+4/17/2020,Positive Test Percentage,0.118605704
+4/18/2020,Daily Tests Total,3600
+4/18/2020,Molecular (PCR) Tests,
+4/18/2020,Antigen Tests,
+4/18/2020,Positive Test Percentage,0.139534884
+4/19/2020,Daily Tests Total,2592
+4/19/2020,Molecular (PCR) Tests,
+4/19/2020,Antigen Tests,
+4/19/2020,Positive Test Percentage,0.128423889
+4/20/2020,Daily Tests Total,773
+4/20/2020,Molecular (PCR) Tests,
+4/20/2020,Antigen Tests,
+4/20/2020,Positive Test Percentage,0.089733226
+4/21/2020,Daily Tests Total,4520
+4/21/2020,Molecular (PCR) Tests,
+4/21/2020,Antigen Tests,
+4/21/2020,Positive Test Percentage,0.108487915
+4/22/2020,Daily Tests Total,7796
+4/22/2020,Molecular (PCR) Tests,
+4/22/2020,Antigen Tests,
+4/22/2020,Positive Test Percentage,0.105315286
+4/23/2020,Daily Tests Total,6406
+4/23/2020,Molecular (PCR) Tests,
+4/23/2020,Antigen Tests,
+4/23/2020,Positive Test Percentage,0.115679443
+4/24/2020,Daily Tests Total,4788
+4/24/2020,Molecular (PCR) Tests,
+4/24/2020,Antigen Tests,
+4/24/2020,Positive Test Percentage,0.106723238
+4/25/2020,Daily Tests Total,5298
+4/25/2020,Molecular (PCR) Tests,
+4/25/2020,Antigen Tests,
+4/25/2020,Positive Test Percentage,0.08781484
+4/26/2020,Daily Tests Total,2985
+4/26/2020,Molecular (PCR) Tests,
+4/26/2020,Antigen Tests,
+4/26/2020,Positive Test Percentage,0.129165107
+4/27/2020,Daily Tests Total,2134
+4/27/2020,Molecular (PCR) Tests,
+4/27/2020,Antigen Tests,
+4/27/2020,Positive Test Percentage,0.110685398
+4/28/2020,Daily Tests Total,3751
+4/28/2020,Molecular (PCR) Tests,
+4/28/2020,Antigen Tests,
+4/28/2020,Positive Test Percentage,0.080039043
+4/29/2020,Daily Tests Total,5318
+4/29/2020,Molecular (PCR) Tests,
+4/29/2020,Antigen Tests,
+4/29/2020,Positive Test Percentage,0.097441199
+4/30/2020,Daily Tests Total,6598
+4/30/2020,Molecular (PCR) Tests,
+4/30/2020,Antigen Tests,
+4/30/2020,Positive Test Percentage,0.073554183
+5/1/2020,Daily Tests Total,5490
+5/1/2020,Molecular (PCR) Tests,
+5/1/2020,Antigen Tests,
+5/1/2020,Positive Test Percentage,0.070293563
+5/2/2020,Daily Tests Total,5961
+5/2/2020,Molecular (PCR) Tests,
+5/2/2020,Antigen Tests,
+5/2/2020,Positive Test Percentage,0.077575135
+5/3/2020,Daily Tests Total,5202
+5/3/2020,Molecular (PCR) Tests,
+5/3/2020,Antigen Tests,
+5/3/2020,Positive Test Percentage,0.063224098
+5/4/2020,Daily Tests Total,2701
+5/4/2020,Molecular (PCR) Tests,
+5/4/2020,Antigen Tests,
+5/4/2020,Positive Test Percentage,0.06483922
+5/5/2020,Daily Tests Total,5972
+5/5/2020,Molecular (PCR) Tests,
+5/5/2020,Antigen Tests,
+5/5/2020,Positive Test Percentage,0.071168487
+5/6/2020,Daily Tests Total,9330
+5/6/2020,Molecular (PCR) Tests,
+5/6/2020,Antigen Tests,
+5/6/2020,Positive Test Percentage,0.080526316
+5/7/2020,Daily Tests Total,6871
+5/7/2020,Molecular (PCR) Tests,
+5/7/2020,Antigen Tests,
+5/7/2020,Positive Test Percentage,0.082966549
+5/8/2020,Daily Tests Total,7917
+5/8/2020,Molecular (PCR) Tests,
+5/8/2020,Antigen Tests,
+5/8/2020,Positive Test Percentage,0.072480989
+5/9/2020,Daily Tests Total,7457
+5/9/2020,Molecular (PCR) Tests,
+5/9/2020,Antigen Tests,
+5/9/2020,Positive Test Percentage,0.082430523
+5/10/2020,Daily Tests Total,5318
+5/10/2020,Molecular (PCR) Tests,
+5/10/2020,Antigen Tests,
+5/10/2020,Positive Test Percentage,0.064462018
+5/11/2020,Daily Tests Total,2741
+5/11/2020,Molecular (PCR) Tests,
+5/11/2020,Antigen Tests,
+5/11/2020,Positive Test Percentage,0.041221936
+5/12/2020,Daily Tests Total,6686
+5/12/2020,Molecular (PCR) Tests,
+5/12/2020,Antigen Tests,
+5/12/2020,Positive Test Percentage,0.054282869
+5/13/2020,Daily Tests Total,7919
+5/13/2020,Molecular (PCR) Tests,
+5/13/2020,Antigen Tests,
+5/13/2020,Positive Test Percentage,0.071915584
+5/14/2020,Daily Tests Total,9317
+5/14/2020,Molecular (PCR) Tests,
+5/14/2020,Antigen Tests,
+5/14/2020,Positive Test Percentage,0.067139738
+5/15/2020,Daily Tests Total,13923
+5/15/2020,Molecular (PCR) Tests,
+5/15/2020,Antigen Tests,
+5/15/2020,Positive Test Percentage,0.068452381
+5/16/2020,Daily Tests Total,10708
+5/16/2020,Molecular (PCR) Tests,
+5/16/2020,Antigen Tests,
+5/16/2020,Positive Test Percentage,0.070864761
+5/17/2020,Daily Tests Total,9508
+5/17/2020,Molecular (PCR) Tests,
+5/17/2020,Antigen Tests,
+5/17/2020,Positive Test Percentage,0.061035758
+5/18/2020,Daily Tests Total,8397
+5/18/2020,Molecular (PCR) Tests,
+5/18/2020,Antigen Tests,
+5/18/2020,Positive Test Percentage,0.055878929
+5/19/2020,Daily Tests Total,8647
+5/19/2020,Molecular (PCR) Tests,
+5/19/2020,Antigen Tests,
+5/19/2020,Positive Test Percentage,0.062995027
+5/20/2020,Daily Tests Total,12313
+5/20/2020,Molecular (PCR) Tests,
+5/20/2020,Antigen Tests,
+5/20/2020,Positive Test Percentage,0.073159579
+5/21/2020,Daily Tests Total,10185
+5/21/2020,Molecular (PCR) Tests,
+5/21/2020,Antigen Tests,
+5/21/2020,Positive Test Percentage,0.082716204
+5/22/2020,Daily Tests Total,11829
+5/22/2020,Molecular (PCR) Tests,
+5/22/2020,Antigen Tests,
+5/22/2020,Positive Test Percentage,0.097362344
+5/23/2020,Daily Tests Total,9046
+5/23/2020,Molecular (PCR) Tests,
+5/23/2020,Antigen Tests,
+5/23/2020,Positive Test Percentage,0.087664371
+5/24/2020,Daily Tests Total,7154
+5/24/2020,Molecular (PCR) Tests,
+5/24/2020,Antigen Tests,
+5/24/2020,Positive Test Percentage,0.082130635
+5/25/2020,Daily Tests Total,7748
+5/25/2020,Molecular (PCR) Tests,
+5/25/2020,Antigen Tests,
+5/25/2020,Positive Test Percentage,0.07645608
+5/26/2020,Daily Tests Total,3571
+5/26/2020,Molecular (PCR) Tests,
+5/26/2020,Antigen Tests,
+5/26/2020,Positive Test Percentage,0.070671378
+5/27/2020,Daily Tests Total,11573
+5/27/2020,Molecular (PCR) Tests,
+5/27/2020,Antigen Tests,
+5/27/2020,Positive Test Percentage,0.076494504
+5/28/2020,Daily Tests Total,10116
+5/28/2020,Molecular (PCR) Tests,
+5/28/2020,Antigen Tests,
+5/28/2020,Positive Test Percentage,0.089991819
+5/29/2020,Daily Tests Total,16706
+5/29/2020,Molecular (PCR) Tests,
+5/29/2020,Antigen Tests,
+5/29/2020,Positive Test Percentage,0.099439006
+5/30/2020,Daily Tests Total,11978
+5/30/2020,Molecular (PCR) Tests,
+5/30/2020,Antigen Tests,
+5/30/2020,Positive Test Percentage,0.081924198
+5/31/2020,Daily Tests Total,13931
+5/31/2020,Molecular (PCR) Tests,
+5/31/2020,Antigen Tests,
+5/31/2020,Positive Test Percentage,0.081138488
+6/1/2020,Daily Tests Total,4552
+6/1/2020,Molecular (PCR) Tests,
+6/1/2020,Antigen Tests,
+6/1/2020,Positive Test Percentage,0.078562833
+6/2/2020,Daily Tests Total,12313
+6/2/2020,Molecular (PCR) Tests,
+6/2/2020,Antigen Tests,
+6/2/2020,Positive Test Percentage,0.077999566
+6/3/2020,Daily Tests Total,12966
+6/3/2020,Molecular (PCR) Tests,
+6/3/2020,Antigen Tests,
+6/3/2020,Positive Test Percentage,0.089491525
+6/4/2020,Daily Tests Total,18746
+6/4/2020,Molecular (PCR) Tests,
+6/4/2020,Antigen Tests,
+6/4/2020,Positive Test Percentage,0.086595395
+6/5/2020,Daily Tests Total,12921
+6/5/2020,Molecular (PCR) Tests,
+6/5/2020,Antigen Tests,
+6/5/2020,Positive Test Percentage,0.097695853
+6/6/2020,Daily Tests Total,15790
+6/6/2020,Molecular (PCR) Tests,
+6/6/2020,Antigen Tests,
+6/6/2020,Positive Test Percentage,0.093746625
+6/7/2020,Daily Tests Total,12929
+6/7/2020,Molecular (PCR) Tests,
+6/7/2020,Antigen Tests,
+6/7/2020,Positive Test Percentage,0.090363454
+6/8/2020,Daily Tests Total,9326
+6/8/2020,Molecular (PCR) Tests,
+6/8/2020,Antigen Tests,
+6/8/2020,Positive Test Percentage,0.086791881
+6/9/2020,Daily Tests Total,15719
+6/9/2020,Molecular (PCR) Tests,
+6/9/2020,Antigen Tests,
+6/9/2020,Positive Test Percentage,0.076456924
+6/10/2020,Daily Tests Total,15356
+6/10/2020,Molecular (PCR) Tests,
+6/10/2020,Antigen Tests,
+6/10/2020,Positive Test Percentage,0.084623323
+6/11/2020,Daily Tests Total,19471
+6/11/2020,Molecular (PCR) Tests,
+6/11/2020,Antigen Tests,
+6/11/2020,Positive Test Percentage,0.0985005
+6/12/2020,Daily Tests Total,22126
+6/12/2020,Molecular (PCR) Tests,
+6/12/2020,Antigen Tests,
+6/12/2020,Positive Test Percentage,0.092546238
+6/13/2020,Daily Tests Total,16049
+6/13/2020,Molecular (PCR) Tests,
+6/13/2020,Antigen Tests,
+6/13/2020,Positive Test Percentage,0.091741796
+6/14/2020,Daily Tests Total,13541
+6/14/2020,Molecular (PCR) Tests,
+6/14/2020,Antigen Tests,
+6/14/2020,Positive Test Percentage,0.08262821
+6/15/2020,Daily Tests Total,12694
+6/15/2020,Molecular (PCR) Tests,
+6/15/2020,Antigen Tests,
+6/15/2020,Positive Test Percentage,0.090570897
+6/16/2020,Daily Tests Total,13726
+6/16/2020,Molecular (PCR) Tests,
+6/16/2020,Antigen Tests,
+6/16/2020,Positive Test Percentage,0.080521145
+6/17/2020,Daily Tests Total,17071
+6/17/2020,Molecular (PCR) Tests,
+6/17/2020,Antigen Tests,
+6/17/2020,Positive Test Percentage,0.082668455
+6/18/2020,Daily Tests Total,21412
+6/18/2020,Molecular (PCR) Tests,
+6/18/2020,Antigen Tests,
+6/18/2020,Positive Test Percentage,0.08585499
+6/19/2020,Daily Tests Total,24377
+6/19/2020,Molecular (PCR) Tests,
+6/19/2020,Antigen Tests,
+6/19/2020,Positive Test Percentage,0.095626072
+6/20/2020,Daily Tests Total,15400
+6/20/2020,Molecular (PCR) Tests,
+6/20/2020,Antigen Tests,
+6/20/2020,Positive Test Percentage,0.094396362
+6/21/2020,Daily Tests Total,18129
+6/21/2020,Molecular (PCR) Tests,
+6/21/2020,Antigen Tests,
+6/21/2020,Positive Test Percentage,0.084212112
+6/22/2020,Daily Tests Total,11253
+6/22/2020,Molecular (PCR) Tests,
+6/22/2020,Antigen Tests,
+6/22/2020,Positive Test Percentage,0.090220223
+6/23/2020,Daily Tests Total,15713
+6/23/2020,Molecular (PCR) Tests,
+6/23/2020,Antigen Tests,
+6/23/2020,Positive Test Percentage,0.082606123
+6/24/2020,Daily Tests Total,18527
+6/24/2020,Molecular (PCR) Tests,
+6/24/2020,Antigen Tests,
+6/24/2020,Positive Test Percentage,0.077441951
+6/25/2020,Daily Tests Total,21238
+6/25/2020,Molecular (PCR) Tests,
+6/25/2020,Antigen Tests,
+6/25/2020,Positive Test Percentage,0.096405445
+6/26/2020,Daily Tests Total,19149
+6/26/2020,Molecular (PCR) Tests,
+6/26/2020,Antigen Tests,
+6/26/2020,Positive Test Percentage,0.098955311
+6/27/2020,Daily Tests Total,20411
+6/27/2020,Molecular (PCR) Tests,
+6/27/2020,Antigen Tests,
+6/27/2020,Positive Test Percentage,0.09478014
+6/28/2020,Daily Tests Total,17548
+6/28/2020,Molecular (PCR) Tests,
+6/28/2020,Antigen Tests,
+6/28/2020,Positive Test Percentage,0.081866248
+6/29/2020,Daily Tests Total,16374
+6/29/2020,Molecular (PCR) Tests,
+6/29/2020,Antigen Tests,
+6/29/2020,Positive Test Percentage,0.087671712
+6/30/2020,Daily Tests Total,18461
+6/30/2020,Molecular (PCR) Tests,
+6/30/2020,Antigen Tests,
+6/30/2020,Positive Test Percentage,0.095669688
+7/1/2020,Daily Tests Total,21911
+7/1/2020,Molecular (PCR) Tests,
+7/1/2020,Antigen Tests,
+7/1/2020,Positive Test Percentage,0.083256933
+7/2/2020,Daily Tests Total,21474
+7/2/2020,Molecular (PCR) Tests,
+7/2/2020,Antigen Tests,
+7/2/2020,Positive Test Percentage,0.104310946
+7/3/2020,Daily Tests Total,20409
+7/3/2020,Molecular (PCR) Tests,
+7/3/2020,Antigen Tests,
+7/3/2020,Positive Test Percentage,0.091578346
+7/4/2020,Daily Tests Total,16908
+7/4/2020,Molecular (PCR) Tests,
+7/4/2020,Antigen Tests,
+7/4/2020,Positive Test Percentage,0.08919403
+7/5/2020,Daily Tests Total,18885
+7/5/2020,Molecular (PCR) Tests,
+7/5/2020,Antigen Tests,
+7/5/2020,Positive Test Percentage,0.084185375
+7/6/2020,Daily Tests Total,17129
+7/6/2020,Molecular (PCR) Tests,
+7/6/2020,Antigen Tests,
+7/6/2020,Positive Test Percentage,0.092107501
+7/7/2020,Daily Tests Total,14821
+7/7/2020,Molecular (PCR) Tests,
+7/7/2020,Antigen Tests,
+7/7/2020,Positive Test Percentage,0.088293528
+7/8/2020,Daily Tests Total,18338
+7/8/2020,Molecular (PCR) Tests,
+7/8/2020,Antigen Tests,
+7/8/2020,Positive Test Percentage,0.085274845
+7/9/2020,Daily Tests Total,23660
+7/9/2020,Molecular (PCR) Tests,
+7/9/2020,Antigen Tests,
+7/9/2020,Positive Test Percentage,0.093681361
+7/10/2020,Daily Tests Total,22280
+7/10/2020,Molecular (PCR) Tests,
+7/10/2020,Antigen Tests,
+7/10/2020,Positive Test Percentage,0.0958503
+7/11/2020,Daily Tests Total,24483
+7/11/2020,Molecular (PCR) Tests,
+7/11/2020,Antigen Tests,
+7/11/2020,Positive Test Percentage,0.091123681
+7/12/2020,Daily Tests Total,27022
+7/12/2020,Molecular (PCR) Tests,
+7/12/2020,Antigen Tests,
+7/12/2020,Positive Test Percentage,0.092382888
+7/13/2020,Daily Tests Total,18874
+7/13/2020,Molecular (PCR) Tests,
+7/13/2020,Antigen Tests,
+7/13/2020,Positive Test Percentage,0.096166955
+7/14/2020,Daily Tests Total,23193
+7/14/2020,Molecular (PCR) Tests,
+7/14/2020,Antigen Tests,
+7/14/2020,Positive Test Percentage,0.0783393
+7/15/2020,Daily Tests Total,23132
+7/15/2020,Molecular (PCR) Tests,
+7/15/2020,Antigen Tests,
+7/15/2020,Positive Test Percentage,0.087299326
+7/16/2020,Daily Tests Total,22271
+7/16/2020,Molecular (PCR) Tests,
+7/16/2020,Antigen Tests,
+7/16/2020,Positive Test Percentage,0.073025335
+7/17/2020,Daily Tests Total,28220
+7/17/2020,Molecular (PCR) Tests,
+7/17/2020,Antigen Tests,
+7/17/2020,Positive Test Percentage,0.084372961
+7/18/2020,Daily Tests Total,25799
+7/18/2020,Molecular (PCR) Tests,
+7/18/2020,Antigen Tests,
+7/18/2020,Positive Test Percentage,0.080719886
+7/19/2020,Daily Tests Total,24440
+7/19/2020,Molecular (PCR) Tests,
+7/19/2020,Antigen Tests,
+7/19/2020,Positive Test Percentage,0.069428834
+7/20/2020,Daily Tests Total,21111
+7/20/2020,Molecular (PCR) Tests,
+7/20/2020,Antigen Tests,
+7/20/2020,Positive Test Percentage,0.080750722
+7/21/2020,Daily Tests Total,19982
+7/21/2020,Molecular (PCR) Tests,
+7/21/2020,Antigen Tests,
+7/21/2020,Positive Test Percentage,0.076070439
+7/22/2020,Daily Tests Total,25652
+7/22/2020,Molecular (PCR) Tests,
+7/22/2020,Antigen Tests,
+7/22/2020,Positive Test Percentage,0.077951583
+7/23/2020,Daily Tests Total,26648
+7/23/2020,Molecular (PCR) Tests,
+7/23/2020,Antigen Tests,
+7/23/2020,Positive Test Percentage,0.084572451
+7/24/2020,Daily Tests Total,22113
+7/24/2020,Molecular (PCR) Tests,
+7/24/2020,Antigen Tests,
+7/24/2020,Positive Test Percentage,0.074855479
+7/25/2020,Daily Tests Total,23879
+7/25/2020,Molecular (PCR) Tests,
+7/25/2020,Antigen Tests,
+7/25/2020,Positive Test Percentage,0.078486757
+7/26/2020,Daily Tests Total,25642
+7/26/2020,Molecular (PCR) Tests,
+7/26/2020,Antigen Tests,
+7/26/2020,Positive Test Percentage,0.076706444
+7/27/2020,Daily Tests Total,18738
+7/27/2020,Molecular (PCR) Tests,
+7/27/2020,Antigen Tests,
+7/27/2020,Positive Test Percentage,0.072017645
+7/28/2020,Daily Tests Total,20426
+7/28/2020,Molecular (PCR) Tests,
+7/28/2020,Antigen Tests,
+7/28/2020,Positive Test Percentage,0.069590086
+7/29/2020,Daily Tests Total,25175
+7/29/2020,Molecular (PCR) Tests,
+7/29/2020,Antigen Tests,
+7/29/2020,Positive Test Percentage,0.074993774
+7/30/2020,Daily Tests Total,25438
+7/30/2020,Molecular (PCR) Tests,
+7/30/2020,Antigen Tests,
+7/30/2020,Positive Test Percentage,0.072435032
+7/31/2020,Daily Tests Total,23947
+7/31/2020,Molecular (PCR) Tests,
+7/31/2020,Antigen Tests,
+7/31/2020,Positive Test Percentage,0.066551497
+8/1/2020,Daily Tests Total,23091
+8/1/2020,Molecular (PCR) Tests,
+8/1/2020,Antigen Tests,
+8/1/2020,Positive Test Percentage,0.068476919
+8/2/2020,Daily Tests Total,23480
+8/2/2020,Molecular (PCR) Tests,
+8/2/2020,Antigen Tests,
+8/2/2020,Positive Test Percentage,0.073057887
+8/3/2020,Daily Tests Total,19740
+8/3/2020,Molecular (PCR) Tests,
+8/3/2020,Antigen Tests,
+8/3/2020,Positive Test Percentage,0.068010872
+8/4/2020,Daily Tests Total,11613
+8/4/2020,Molecular (PCR) Tests,
+8/4/2020,Antigen Tests,
+8/4/2020,Positive Test Percentage,0.076727572
+8/5/2020,Daily Tests Total,19558
+8/5/2020,Molecular (PCR) Tests,
+8/5/2020,Antigen Tests,
+8/5/2020,Positive Test Percentage,0.075788558
+8/6/2020,Daily Tests Total,23469
+8/6/2020,Molecular (PCR) Tests,
+8/6/2020,Antigen Tests,
+8/6/2020,Positive Test Percentage,0.07078849
+8/7/2020,Daily Tests Total,21840
+8/7/2020,Molecular (PCR) Tests,
+8/7/2020,Antigen Tests,
+8/7/2020,Positive Test Percentage,0.06823694
+8/8/2020,Daily Tests Total,21031
+8/8/2020,Molecular (PCR) Tests,
+8/8/2020,Antigen Tests,
+8/8/2020,Positive Test Percentage,0.05963472
+8/9/2020,Daily Tests Total,19182
+8/9/2020,Molecular (PCR) Tests,
+8/9/2020,Antigen Tests,
+8/9/2020,Positive Test Percentage,0.052520175
+8/10/2020,Daily Tests Total,17137
+8/10/2020,Molecular (PCR) Tests,
+8/10/2020,Antigen Tests,
+8/10/2020,Positive Test Percentage,0.064447696
+8/11/2020,Daily Tests Total,15704
+8/11/2020,Molecular (PCR) Tests,
+8/11/2020,Antigen Tests,
+8/11/2020,Positive Test Percentage,0.061983713
+8/12/2020,Daily Tests Total,26715
+8/12/2020,Molecular (PCR) Tests,
+8/12/2020,Antigen Tests,
+8/12/2020,Positive Test Percentage,0.064267125
+8/13/2020,Daily Tests Total,30068
+8/13/2020,Molecular (PCR) Tests,
+8/13/2020,Antigen Tests,
+8/13/2020,Positive Test Percentage,0.059342221
+8/14/2020,Daily Tests Total,22856
+8/14/2020,Molecular (PCR) Tests,
+8/14/2020,Antigen Tests,
+8/14/2020,Positive Test Percentage,0.063610726
+8/15/2020,Daily Tests Total,25652
+8/15/2020,Molecular (PCR) Tests,
+8/15/2020,Antigen Tests,
+8/15/2020,Positive Test Percentage,0.063981269
+8/16/2020,Daily Tests Total,23021
+8/16/2020,Molecular (PCR) Tests,
+8/16/2020,Antigen Tests,
+8/16/2020,Positive Test Percentage,0.063070426
+8/17/2020,Daily Tests Total,13862
+8/17/2020,Molecular (PCR) Tests,
+8/17/2020,Antigen Tests,
+8/17/2020,Positive Test Percentage,0.068901304
+8/18/2020,Daily Tests Total,10893
+8/18/2020,Molecular (PCR) Tests,
+8/18/2020,Antigen Tests,
+8/18/2020,Positive Test Percentage,0.065509391
+8/19/2020,Daily Tests Total,25739
+8/19/2020,Molecular (PCR) Tests,
+8/19/2020,Antigen Tests,
+8/19/2020,Positive Test Percentage,0.075903567
+8/20/2020,Daily Tests Total,26022
+8/20/2020,Molecular (PCR) Tests,
+8/20/2020,Antigen Tests,
+8/20/2020,Positive Test Percentage,0.069149766
+8/21/2020,Daily Tests Total,25761
+8/21/2020,Molecular (PCR) Tests,
+8/21/2020,Antigen Tests,
+8/21/2020,Positive Test Percentage,0.063945991
+8/22/2020,Daily Tests Total,24904
+8/22/2020,Molecular (PCR) Tests,
+8/22/2020,Antigen Tests,
+8/22/2020,Positive Test Percentage,0.064179353
+8/23/2020,Daily Tests Total,24169
+8/23/2020,Molecular (PCR) Tests,
+8/23/2020,Antigen Tests,
+8/23/2020,Positive Test Percentage,0.0732245
+8/24/2020,Daily Tests Total,13120
+8/24/2020,Molecular (PCR) Tests,
+8/24/2020,Antigen Tests,
+8/24/2020,Positive Test Percentage,0.080021664
+8/25/2020,Daily Tests Total,14920
+8/25/2020,Molecular (PCR) Tests,
+8/25/2020,Antigen Tests,
+8/25/2020,Positive Test Percentage,0.065399724
+8/26/2020,Daily Tests Total,31132
+8/26/2020,Molecular (PCR) Tests,
+8/26/2020,Antigen Tests,
+8/26/2020,Positive Test Percentage,0.071048078
+8/27/2020,Daily Tests Total,35721
+8/27/2020,Molecular (PCR) Tests,
+8/27/2020,Antigen Tests,
+8/27/2020,Positive Test Percentage,0.062534732
+8/28/2020,Daily Tests Total,34871
+8/28/2020,Molecular (PCR) Tests,
+8/28/2020,Antigen Tests,
+8/28/2020,Positive Test Percentage,0.059898354
+8/29/2020,Daily Tests Total,30979
+8/29/2020,Molecular (PCR) Tests,
+8/29/2020,Antigen Tests,
+8/29/2020,Positive Test Percentage,0.076357391
+8/30/2020,Daily Tests Total,25044
+8/30/2020,Molecular (PCR) Tests,
+8/30/2020,Antigen Tests,
+8/30/2020,Positive Test Percentage,0.065814988
+8/31/2020,Daily Tests Total,18622
+8/31/2020,Molecular (PCR) Tests,
+8/31/2020,Antigen Tests,
+8/31/2020,Positive Test Percentage,0.076286941
+9/1/2020,Daily Tests Total,15065
+9/1/2020,Molecular (PCR) Tests,
+9/1/2020,Antigen Tests,
+9/1/2020,Positive Test Percentage,0.065517616
+9/2/2020,Daily Tests Total,28887
+9/2/2020,Molecular (PCR) Tests,
+9/2/2020,Antigen Tests,
+9/2/2020,Positive Test Percentage,0.06305871
+9/3/2020,Daily Tests Total,36879
+9/3/2020,Molecular (PCR) Tests,
+9/3/2020,Antigen Tests,
+9/3/2020,Positive Test Percentage,0.053270779
+9/4/2020,Daily Tests Total,32622
+9/4/2020,Molecular (PCR) Tests,
+9/4/2020,Antigen Tests,
+9/4/2020,Positive Test Percentage,0.05980961
+9/5/2020,Daily Tests Total,28779
+9/5/2020,Molecular (PCR) Tests,
+9/5/2020,Antigen Tests,
+9/5/2020,Positive Test Percentage,0.056366358
+9/6/2020,Daily Tests Total,25209
+9/6/2020,Molecular (PCR) Tests,
+9/6/2020,Antigen Tests,
+9/6/2020,Positive Test Percentage,0.058598028
+9/7/2020,Daily Tests Total,15250
+9/7/2020,Molecular (PCR) Tests,
+9/7/2020,Antigen Tests,
+9/7/2020,Positive Test Percentage,0.070952092
+9/8/2020,Daily Tests Total,10621
+9/8/2020,Molecular (PCR) Tests,
+9/8/2020,Antigen Tests,
+9/8/2020,Positive Test Percentage,0.06436906
+9/9/2020,Daily Tests Total,15536
+9/9/2020,Molecular (PCR) Tests,
+9/9/2020,Antigen Tests,
+9/9/2020,Positive Test Percentage,0.051288901
+9/10/2020,Daily Tests Total,33872
+9/10/2020,Molecular (PCR) Tests,
+9/10/2020,Antigen Tests,
+9/10/2020,Positive Test Percentage,0.049935333
+9/11/2020,Daily Tests Total,38681
+9/11/2020,Molecular (PCR) Tests,
+9/11/2020,Antigen Tests,
+9/11/2020,Positive Test Percentage,0.049758777
+9/12/2020,Daily Tests Total,33367
+9/12/2020,Molecular (PCR) Tests,
+9/12/2020,Antigen Tests,
+9/12/2020,Positive Test Percentage,0.04737151
+9/13/2020,Daily Tests Total,26203
+9/13/2020,Molecular (PCR) Tests,
+9/13/2020,Antigen Tests,
+9/13/2020,Positive Test Percentage,0.049236186
+9/14/2020,Daily Tests Total,18342
+9/14/2020,Molecular (PCR) Tests,
+9/14/2020,Antigen Tests,
+9/14/2020,Positive Test Percentage,0.057190386
+9/15/2020,Daily Tests Total,15629
+9/15/2020,Molecular (PCR) Tests,
+9/15/2020,Antigen Tests,
+9/15/2020,Positive Test Percentage,0.056915091
+9/16/2020,Daily Tests Total,28506
+9/16/2020,Molecular (PCR) Tests,
+9/16/2020,Antigen Tests,
+9/16/2020,Positive Test Percentage,0.047488962
+9/17/2020,Daily Tests Total,37607
+9/17/2020,Molecular (PCR) Tests,
+9/17/2020,Antigen Tests,
+9/17/2020,Positive Test Percentage,0.046946323
+9/18/2020,Daily Tests Total,34441
+9/18/2020,Molecular (PCR) Tests,
+9/18/2020,Antigen Tests,
+9/18/2020,Positive Test Percentage,0.045819339
+9/19/2020,Daily Tests Total,27403
+9/19/2020,Molecular (PCR) Tests,
+9/19/2020,Antigen Tests,
+9/19/2020,Positive Test Percentage,0.052947648
+9/20/2020,Daily Tests Total,24679
+9/20/2020,Molecular (PCR) Tests,
+9/20/2020,Antigen Tests,
+9/20/2020,Positive Test Percentage,0.053025973
+9/21/2020,Daily Tests Total,16001
+9/21/2020,Molecular (PCR) Tests,
+9/21/2020,Antigen Tests,
+9/21/2020,Positive Test Percentage,0.053675613
+9/22/2020,Daily Tests Total,12565
+9/22/2020,Molecular (PCR) Tests,12252
+9/22/2020,Antigen Tests,313
+9/22/2020,Positive Test Percentage,0.048139936
+9/23/2020,Daily Tests Total,28493
+9/23/2020,Molecular (PCR) Tests,28120
+9/23/2020,Antigen Tests,373
+9/23/2020,Positive Test Percentage,0.048866408
+9/24/2020,Daily Tests Total,38380
+9/24/2020,Molecular (PCR) Tests,38017
+9/24/2020,Antigen Tests,363
+9/24/2020,Positive Test Percentage,0.045615935
+9/25/2020,Daily Tests Total,35895
+9/25/2020,Molecular (PCR) Tests,35566
+9/25/2020,Antigen Tests,329
+9/25/2020,Positive Test Percentage,0.049411845
+9/26/2020,Daily Tests Total,31492
+9/26/2020,Molecular (PCR) Tests,31162
+9/26/2020,Antigen Tests,330
+9/26/2020,Positive Test Percentage,0.052831623
+9/27/2020,Daily Tests Total,25930
+9/27/2020,Molecular (PCR) Tests,25833
+9/27/2020,Antigen Tests,97
+9/27/2020,Positive Test Percentage,0.059679767
+9/28/2020,Daily Tests Total,13817
+9/28/2020,Molecular (PCR) Tests,13705
+9/28/2020,Antigen Tests,112
+9/28/2020,Positive Test Percentage,0.066854374
+9/29/2020,Daily Tests Total,14076
+9/29/2020,Molecular (PCR) Tests,13541
+9/29/2020,Antigen Tests,535
+9/29/2020,Positive Test Percentage,0.057735312
+9/30/2020,Daily Tests Total,29077
+9/30/2020,Molecular (PCR) Tests,28428
+9/30/2020,Antigen Tests,649
+9/30/2020,Positive Test Percentage,0.054447939
+10/1/2020,Daily Tests Total,40501
+10/1/2020,Molecular (PCR) Tests,39763
+10/1/2020,Antigen Tests,738
+10/1/2020,Positive Test Percentage,0.054454697
+10/2/2020,Daily Tests Total,35845
+10/2/2020,Molecular (PCR) Tests,35265
+10/2/2020,Antigen Tests,580
+10/2/2020,Positive Test Percentage,0.0611312
+10/3/2020,Daily Tests Total,32368
+10/3/2020,Molecular (PCR) Tests,31765
+10/3/2020,Antigen Tests,603
+10/3/2020,Positive Test Percentage,0.061999138
+10/4/2020,Daily Tests Total,26900
+10/4/2020,Molecular (PCR) Tests,26620
+10/4/2020,Antigen Tests,280
+10/4/2020,Positive Test Percentage,0.079023655
+10/5/2020,Daily Tests Total,17917
+10/5/2020,Molecular (PCR) Tests,17678
+10/5/2020,Antigen Tests,239
+10/5/2020,Positive Test Percentage,0.064484188
+10/6/2020,Daily Tests Total,17573
+10/6/2020,Molecular (PCR) Tests,16678
+10/6/2020,Antigen Tests,895
+10/6/2020,Positive Test Percentage,0.05680442
+10/7/2020,Daily Tests Total,34270
+10/7/2020,Molecular (PCR) Tests,33334
+10/7/2020,Antigen Tests,936
+10/7/2020,Positive Test Percentage,0.057243517
+10/8/2020,Daily Tests Total,40723
+10/8/2020,Molecular (PCR) Tests,39912
+10/8/2020,Antigen Tests,811
+10/8/2020,Positive Test Percentage,0.04998118
+10/9/2020,Daily Tests Total,42063
+10/9/2020,Molecular (PCR) Tests,40969
+10/9/2020,Antigen Tests,1094
+10/9/2020,Positive Test Percentage,0.055352586
+10/10/2020,Daily Tests Total,36959
+10/10/2020,Molecular (PCR) Tests,36054
+10/10/2020,Antigen Tests,905
+10/10/2020,Positive Test Percentage,0.056065699
+10/11/2020,Daily Tests Total,32360
+10/11/2020,Molecular (PCR) Tests,32053
+10/11/2020,Antigen Tests,307
+10/11/2020,Positive Test Percentage,0.069937695
+10/12/2020,Daily Tests Total,21130
+10/12/2020,Molecular (PCR) Tests,20914
+10/12/2020,Antigen Tests,216
+10/12/2020,Positive Test Percentage,0.067420639
+10/13/2020,Daily Tests Total,21085
+10/13/2020,Molecular (PCR) Tests,20119
+10/13/2020,Antigen Tests,966
+10/13/2020,Positive Test Percentage,0.066398775
+10/14/2020,Daily Tests Total,33658
+10/14/2020,Molecular (PCR) Tests,32308
+10/14/2020,Antigen Tests,1350
+10/14/2020,Positive Test Percentage,0.060113526
+10/15/2020,Daily Tests Total,41295
+10/15/2020,Molecular (PCR) Tests,40368
+10/15/2020,Antigen Tests,927
+10/15/2020,Positive Test Percentage,0.0645989
+10/16/2020,Daily Tests Total,40923
+10/16/2020,Molecular (PCR) Tests,39595
+10/16/2020,Antigen Tests,1328
+10/16/2020,Positive Test Percentage,0.060377602
+10/17/2020,Daily Tests Total,33540
+10/17/2020,Molecular (PCR) Tests,32800
+10/17/2020,Antigen Tests,740
+10/17/2020,Positive Test Percentage,0.057615038
+10/18/2020,Daily Tests Total,31954
+10/18/2020,Molecular (PCR) Tests,31620
+10/18/2020,Antigen Tests,334
+10/18/2020,Positive Test Percentage,0.073173059
+10/19/2020,Daily Tests Total,22846
+10/19/2020,Molecular (PCR) Tests,22559
+10/19/2020,Antigen Tests,287
+10/19/2020,Positive Test Percentage,0.075178496
+10/20/2020,Daily Tests Total,17165
+10/20/2020,Molecular (PCR) Tests,15621
+10/20/2020,Antigen Tests,1544
+10/20/2020,Positive Test Percentage,0.06094697
+10/21/2020,Daily Tests Total,35555
+10/21/2020,Molecular (PCR) Tests,34045
+10/21/2020,Antigen Tests,1510
+10/21/2020,Positive Test Percentage,0.05889921
+10/22/2020,Daily Tests Total,45511
+10/22/2020,Molecular (PCR) Tests,44381
+10/22/2020,Antigen Tests,1130
+10/22/2020,Positive Test Percentage,0.06300558
+10/23/2020,Daily Tests Total,39916
+10/23/2020,Molecular (PCR) Tests,38352
+10/23/2020,Antigen Tests,1564
+10/23/2020,Positive Test Percentage,0.063537773
+10/24/2020,Daily Tests Total,37320
+10/24/2020,Molecular (PCR) Tests,36426
+10/24/2020,Antigen Tests,894
+10/24/2020,Positive Test Percentage,0.061988931
+10/25/2020,Daily Tests Total,30127
+10/25/2020,Molecular (PCR) Tests,29709
+10/25/2020,Antigen Tests,418
+10/25/2020,Positive Test Percentage,0.07462938
+10/26/2020,Daily Tests Total,25080
+10/26/2020,Molecular (PCR) Tests,24734
+10/26/2020,Antigen Tests,346
+10/26/2020,Positive Test Percentage,0.069893487
+10/27/2020,Daily Tests Total,23192
+10/27/2020,Molecular (PCR) Tests,21297
+10/27/2020,Antigen Tests,1895
+10/27/2020,Positive Test Percentage,0.064234708
+10/28/2020,Daily Tests Total,37928
+10/28/2020,Molecular (PCR) Tests,36044
+10/28/2020,Antigen Tests,1884
+10/28/2020,Positive Test Percentage,0.062079612
+10/29/2020,Daily Tests Total,38247
+10/29/2020,Molecular (PCR) Tests,36369
+10/29/2020,Antigen Tests,1878
+10/29/2020,Positive Test Percentage,
+10/30/2020,Daily Tests Total,
+10/30/2020,Molecular (PCR) Tests,
+10/30/2020,Antigen Tests,
+10/30/2020,Positive Test Percentage,
