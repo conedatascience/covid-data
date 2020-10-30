@@ -24,7 +24,22 @@ Michael DeWitt (2020) Aggregation of North Carolina Department of Health and Hum
     author = {Michael DeWitt},
     year = {2020},
     doi = {10.5281/zenodo.4159703}
-    url = {https://CRAN.R-project.org/package=tidycensus},
+    url = {https://github.com/conedatascience/covid-data},
+  }
+
+```
+
+And 
+
+North Carolina Department of Health and Human Services (2020) COVID-19 Dashboard,https://covid19.ncdhhs.gov/dashboard/about-data
+
+```
+@misc{,
+    title = {COVID-19 Dashboard},
+    author = {North Carolina Department of Health and Human Services},
+    year = {2020},
+    doi = {10.5281/zenodo.4159703}
+    url = {https://covid19.ncdhhs.gov/dashboard/about-data},
   }
 
 ```
