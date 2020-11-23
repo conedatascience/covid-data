@@ -20,7 +20,7 @@ dat_raw[ ,date:= lubridate::date(update_date)]
 
 dat_state <- copy(dat_raw[ , c("date", "Hosp")])
 
-dat_raw <- dat_raw[ , c("date", "County", "Total", "Deaths")]
+dat_raw <- dat_raw[ , c("date", "County", "Total", "Deaths", "PctPos")]
 
 dat_raw <- dat_raw[,County:= stringr::str_remove(string = County, "County")]
 
@@ -35,7 +35,7 @@ early_cases[, date := as.Date(date, format = "%m/%d/%Y")]
 early_cases <- early_cases[,c("date", "county", "cases_confirmed_cum", "deaths_confirmed_cum")]
 
 names(early_cases) <- c("date", "County", "Total", "Deaths")
-
+early_cases$PctPos <- NA
 dat_raw <- rbind(dat_raw, early_cases)
 
 dat_raw <- dat_raw[dat_raw[,.I[which.max(Total)], by = c("date", "County")]$V1]
@@ -46,7 +46,7 @@ dat_raw_cleaned <- dat_raw %>%
          deaths = Deaths - dplyr::lag(Deaths,n = 1, default = 0)) %>%
   dplyr::mutate_at(vars(cases, deaths), function(x){ifelse(x<0,0,x)}) %>%
   dplyr::mutate(state = "North Carolina") %>%
-  dplyr::select(state, County, date, cases, deaths) %>%
+  dplyr::select(state, County, date, cases, deaths, pct_pos = PctPos) %>%
   dplyr::rename(cases_daily = cases,
                 deaths_daily = deaths,
                 county = County)
