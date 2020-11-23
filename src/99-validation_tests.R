@@ -1,5 +1,5 @@
 input_dat <- data.table::fread(here::here("data", "timeseries","nc-cases-by-county.csv"),
-                               colClasses = c("character", "character", "Date", "integer", "integer", "integer", "integer"))
+                               colClasses = c("character", "character", "Date", "integer", "integer", "double","integer","integer"))
 
 library(validate)
 

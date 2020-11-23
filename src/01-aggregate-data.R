@@ -47,6 +47,7 @@ dat_raw_cleaned <- dat_raw %>%
   dplyr::mutate_at(vars(cases, deaths), function(x){ifelse(x<0,0,x)}) %>%
   dplyr::mutate(state = "North Carolina") %>%
   dplyr::select(state, County, date, cases, deaths, pct_pos = PctPos) %>%
+  dplyr::mutate(pct_pos = pct_pos/100) %>%
   dplyr::rename(cases_daily = cases,
                 deaths_daily = deaths,
                 county = County)
