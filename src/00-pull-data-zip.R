@@ -11,16 +11,16 @@ current_time <- format(Sys.time(), "%Y%m%d%H%M")
 # now get zip data -----------------------------------------------------
 # Public esri db is here:: https://www.arcgis.com/home/webmap/viewer.html?url=https://services.arcgis.com/iFBq2AW9XO0jYYF7/ArcGIS/rest/services/Covid19byZIPnew/FeatureServer/0&source=sd
 
-#out <- try(jsonlite::fromJSON(readLines("https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json")))
+out <- try(jsonlite::fromJSON(readLines("https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json")))
 
-#if(!"try-error" %in% class(out)){
-#  attribute_out <- out$features$attributes
-#  
-#  attribute_out <- attribute_out %>%
-#  mutate(DataGatherTS = current_time)
-#  
-#  data.table::fwrite(attribute_out, here::here("data","dailyzip",  paste0(current_time,"_ncdhss_byZIP.csv")))
+if(!"try-error" %in% class(out)){
+  attribute_out <- out$features$attributes
+  
+  attribute_out <- attribute_out %>%
+  mutate(DataGatherTS = current_time)
+  
+  data.table::fwrite(attribute_out, here::here("data","dailyzip",  paste0(current_time,"_ncdhss_byZIP.csv")))
 
-#}
+}
 
 
