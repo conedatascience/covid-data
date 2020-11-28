@@ -30,6 +30,21 @@ dat_raw_cleaned <- dat_raw %>%
   dplyr::mutate(cases_daily = ifelse(cases_daily<0, 0, cases_daily),
                 deaths_daily = ifelse(deaths_daily<0, 0, deaths_daily))
 
+
+# Fix Thanksgiving zero reports
+
+dates_correct <- dat_raw_cleaned %>%
+  dplyr::filter(date == as.Date("2020-11-27")) %>%
+  dplyr::mutate(cases_daily = round(cases_daily/2),
+                deaths_daily = round(deaths_daily/2))
+
+dates_correct_out <- dplyr::bind_rows(dates_correct,
+                                      dates_correct %>% mutate(date = as.Date("2020-11-26")))
+
+dat_raw_cleaned <- dat_raw_cleaned %>%
+  dplyr::filter(!date %in% c(as.Date("2020-11-26"), as.Date("2020-11-27"))) %>%
+  dplyr::bind_rows(dates_correct_out)
+
 dat_agg <- dat_raw_cleaned %>%
   dplyr::mutate(state = "North Carolina") %>%
   dplyr::rename(
@@ -49,6 +64,10 @@ new_daily_cases <- dat_agg %>%
   dplyr::filter(date == Sys.Date()) %>%
   summarise(new_cases = sum(cases_daily)) %>%
   dplyr::pull(new_cases)
+
+
+
+
 
 dat_complete <- dat_agg
 # If no county has any new cases (unlikely at this point)
