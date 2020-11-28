@@ -54,7 +54,7 @@ dat_raw_cleaned <- dat_raw %>%
 
 # Fix Thanksgiving zero reports
 
-dates_correct <- dat_raw_clean %>%
+dates_correct <- dat_raw_cleaned %>%
   dplyr::filter(date == as.Date("2020-11-27"))
   dplyr::mutate(cases_daily = round(cases_daily/2),
                 deaths_daily = round(deaths_daily/2))
