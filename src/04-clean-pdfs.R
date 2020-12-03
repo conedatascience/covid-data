@@ -86,7 +86,7 @@ combined_data <- rbindlist(combined_data, idcol = TRUE)
 combined_data <- combined_data[ , cases_daily:=cases - data.table::shift(cases, type = "lag"), by = metric]
 combined_data <- combined_data[ , deaths_daily:=deaths - data.table::shift(deaths, type = "lag"), by = metric]
 
-if(combined_data[.id==max(.id)][,sum(cases_daily)]==0){
+if(combined_data[.id==max(.id)][,sum(cases_daily)]==0|length(combined_data[.id==max(.id)][,sum(cases_daily)])){
   combined_data <- combined_data[.id!=max(.id)]
 }
 
