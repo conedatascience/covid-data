@@ -1,5 +1,0 @@
-Other;Alleghany;S Sparta Pkwy, Sparta;127;0;0;0;127;0
-Other;Edgecombe;Bridges St., Battleboro;0;0;16;0;16;0
-Other;Nash;Hwy 97, Spring Hope;0;0;35;0;35;0
-Other;Wake;Louisburg Road, Wake forest;0;0;8;0;8;0
-;COVID-19 transmission through food handling, packaging or processing. In a congregate living setting, a COVID-19 outbreak is defined as two or more positive
