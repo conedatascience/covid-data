@@ -49,12 +49,16 @@ process_outbreaks <- function(x){
 
   formated_text <- data.table::fread("test3.txt")
 
-  names(formated_text) <- c("facility_type", "facility_county", "facility_name",
-                            "staff_cases",
-                            "staff_deaths", "resident_cases", "resident_deaths",
-                            "total_cases", "total_deaths")
+  if(ncol(formated_text)==9){
+    names(formated_text) <- c("facility_type", "facility_county", "facility_name",
+                              "staff_cases",
+                              "staff_deaths", "resident_cases", "resident_deaths",
+                              "total_cases", "total_deaths")
 
-  formated_text
+    formated_text
+  } else {NULL}
+
+
 
 }
 
