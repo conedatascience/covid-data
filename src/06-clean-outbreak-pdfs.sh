@@ -1,6 +1,6 @@
 #! bin/bash
 echo "sed worked"
-awk '!/Created/' test.txt|awk '!/Map/'  | sed 's/    */;/g' > test2.txt
+awk '!/Created/' test.txt|awk '!/Map/'  | awk '!/COVID-19/'  | awk '!/Setting/'  | sed 's/    */;/g' > test2.txt
 
 echo "remove dead lines"
 head test2.txt
