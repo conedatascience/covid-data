@@ -1,7 +1,6 @@
 Imports:
     dplyr,
     data.table,
-    dplyr,
     purrr,
     jsonlite,
     stringr,
