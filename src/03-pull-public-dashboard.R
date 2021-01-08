@@ -80,3 +80,14 @@ try(download.file(url = url, destfile = here::here("data", "daily-patient",
 # try(download.file(url = url, destfile = here::here("data", "county-detail",
 #                                                    paste0(current_time,"_ncdhss_age.csv"))))
 #
+
+
+# vaccinations rollouts ---------------------------------------------------
+
+
+## Pull
+url <- "https://files.nc.gov/covid/documents/dashboard/Vaccinations_Dashboard_Data.xlsx"
+try(download.file(url = url, destfile = here::here("data", "daily-vax",
+                                                   paste0(current_time,"_ncdhss_vax.xlsx")),
+                  mode = "wb"))
+
