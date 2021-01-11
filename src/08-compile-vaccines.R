@@ -59,7 +59,7 @@ names(dat_latest) <- c("date", "reported_date","county", "dose_1", "dose_2")
 dat_latest[order(date),`:=` (daily_dose_1 = dose_1 - shift(dose_1,1, fill = 0),
                   daily_dose_2 = dose_2 - shift(dose_2,1, fill = 0)), by = "county"]
 
-days_avail <- as.numeric(Sys.Date()-first_dist)
+days_avail <- as.numeric(min(dat_latest$reported_date)-first_dist)
 
 dat_latest[,days_available:=ifelse(date==min(date),days_avail,date-shift(date,1,0)), by = "county"]
 
