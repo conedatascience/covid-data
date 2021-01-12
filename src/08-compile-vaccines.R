@@ -37,7 +37,7 @@ report_date[, update_date := gsub(pattern = "([0-9]+).*$", "\\1",basename(date_p
 
 report_date[, update_date := as.POSIXct(update_date, format = "%Y%m%d%H%M")]
 
-report_date[,reported_date:=stringr::str_extract(date, pattern = "(\\D{3}\\. \\d{1}|\\d{2})")]
+report_date[,reported_date:=stringr::str_extract(date, pattern = "(\\D{3}\\. \\d{1,2})")]
 
 report_date[,reported_date:=lubridate::mdy(paste0(reported_date, " 2021"))]
 
@@ -47,22 +47,57 @@ report_date <- report_date[,c("reported_date", "date_pulled")]
 dat_raw <- merge(dat_raw, report_date, by = "date_pulled", all.x = TRUE)
 
 # diffing -----------------------------------------------------------------
+debug <- FALSE
 
-dat_raw[ ,date:= lubridate::date(update_date)]
+if(debug){
+  dat_raw <- dat_raw[county=="Alamance"]
+}
 
-dat_latest <- dat_raw[update_date==max(update_date), , by = "date"]
+dat_raw[ ,date:= lubridate::date(reported_date)]
 
-dat_latest <- dcast(formula = date+reported_date+county~vaccine_status, value.var = "total_doses", data = dat_latest)
+dat_latest <- dat_raw[,.(county,vaccine_status,total_doses,date)] %>%
+  .[order(county,date)] %>%
+  .[,head(.SD,1), by = c("county", "date", "vaccine_status")]
 
-names(dat_latest) <- c("date", "reported_date","county", "dose_1", "dose_2")
+dat_latest <- dcast(formula = date+county~vaccine_status, value.var = "total_doses", data = dat_latest)
+
+names(dat_latest) <- c("date","county", "dose_1", "dose_2")
 
 dat_latest[order(date),`:=` (daily_dose_1 = dose_1 - shift(dose_1,1, fill = 0),
                   daily_dose_2 = dose_2 - shift(dose_2,1, fill = 0)), by = "county"]
 
-days_avail <- as.numeric(min(dat_latest$reported_date)-first_dist)
+days_avail <- as.numeric(min(dat_latest$date)-first_dist)
 
 dat_latest[,days_available:=ifelse(date==min(date),days_avail,date-shift(date,1,0)), by = "county"]
+
+dat_latest[,cum_days:=cumsum(days_available)]
+
+dat_latest[,`:=` (
+  dose_1_rate = daily_dose_1/days_available,
+  dose_2_rate = daily_dose_2/days_available,
+  dose_1_running_rate = dose_1/ cum_days,
+  dose_2_running_rate = dose_2/ cum_days
+)]
 
 # write output ------------------------------------------------------------
 
 data.table::fwrite(dat_latest, here::here("data", "timeseries", "nc-vaccinations.csv"))
+
+# dat_latest %>%
+#   left_join(nccovid::nc_population[,1:2], by = c("county" = "county")) %>%
+#   mutate(per_cap_daily = dose_1_running_rate/(july_2020/100000)) %>%
+#   filter(county != "Missing") %>%
+#   group_by(county) %>%
+#   mutate(mu = mean(per_cap_daily, na.rm = TRUE),
+#          min_day = min(per_cap_daily, na.rm = TRUE),
+#          max_day = max(per_cap_daily, na.rm = TRUE)) %>%
+#   ungroup() %>%
+#   mutate(median_value = median(per_cap_daily, na.rm =TRUE)) %>%
+#   mutate(my_col = ifelse(per_cap_daily>median_value, "A", "B")) %>%
+#   left_join(nccovid::nc_hc_coalitions) %>%
+#   ggplot(aes(reorder(county,per_cap_daily), per_cap_daily, colour = my_col))+
+#   geom_pointrange(aes(ymin = min_day, ymax = max_day, colour = my_col))+
+#   geom_point()+
+#   coord_flip()+
+#   theme_minimal()+
+#   facet_wrap(~coalition, scales = "free_x")
