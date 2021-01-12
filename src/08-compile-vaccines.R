@@ -70,7 +70,7 @@ days_avail <- as.numeric(min(dat_latest$date)-first_dist)
 
 dat_latest[,days_available:=ifelse(date==min(date),days_avail,date-shift(date,1,0)), by = "county"]
 
-dat_latest[,cum_days:=cumsum(days_available)]
+dat_latest[,cum_days:=cumsum(days_available), by = "county"]
 
 dat_latest[,`:=` (
   dose_1_rate = daily_dose_1/days_available,
@@ -82,22 +82,21 @@ dat_latest[,`:=` (
 # write output ------------------------------------------------------------
 
 data.table::fwrite(dat_latest, here::here("data", "timeseries", "nc-vaccinations.csv"))
-
+# library(ggplot2)
 # dat_latest %>%
 #   left_join(nccovid::nc_population[,1:2], by = c("county" = "county")) %>%
+#   filter(date==max(date)) %>%
 #   mutate(per_cap_daily = dose_1_running_rate/(july_2020/100000)) %>%
 #   filter(county != "Missing") %>%
-#   group_by(county) %>%
-#   mutate(mu = mean(per_cap_daily, na.rm = TRUE),
-#          min_day = min(per_cap_daily, na.rm = TRUE),
-#          max_day = max(per_cap_daily, na.rm = TRUE)) %>%
-#   ungroup() %>%
-#   mutate(median_value = median(per_cap_daily, na.rm =TRUE)) %>%
-#   mutate(my_col = ifelse(per_cap_daily>median_value, "A", "B")) %>%
 #   left_join(nccovid::nc_hc_coalitions) %>%
-#   ggplot(aes(reorder(county,per_cap_daily), per_cap_daily, colour = my_col))+
-#   geom_pointrange(aes(ymin = min_day, ymax = max_day, colour = my_col))+
+#   .[county %in% nccovid::cone_region] %>%
+#   ggplot(aes(reorder(county,per_cap_daily), per_cap_daily, colour = coalition))+
 #   geom_point()+
 #   coord_flip()+
 #   theme_minimal()+
-#   facet_wrap(~coalition, scales = "free_x")
+#   eastyle::theme_cone()+
+#   labs(
+#     title = "Vaccine Shots in Arms in NC",
+#     y = "Dose 1 per Day per 100k Residents",
+#     x = NULL
+#   )
