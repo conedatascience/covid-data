@@ -44,7 +44,7 @@ report_date[,reported_date:=lubridate::mdy(paste0(reported_date, " 2021"))]
 report_date <- report_date[,c("reported_date", "date_pulled")]
 # join information together -----------------------------------------------
 
-dat_raw <- merge(dat_raw, report_date, by = "date_pulled", all.x = TRUE)
+dat_raw <- merge(dat_raw[!is.na(total_doses)], report_date, by = "date_pulled", all.x = TRUE)
 
 # diffing -----------------------------------------------------------------
 debug <- FALSE

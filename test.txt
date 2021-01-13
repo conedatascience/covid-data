@@ -1,0 +1,35 @@
+                                               Demographics
+Race
+                             Cases         Percent of Cases               Deaths  Percent of Deaths
+American Indian
+                             8,357                 2%                        82          1%
+Alaskan Native
+Asian or Pacific             9,637                 2%                        90          1%
+Islander
+Black or African            105,286               20%                      1,888        26%
+American
+White                       321,724               62%                      4,707        65%
+Other                       70,633                14%                       483          7%
+Missing                     120,338                                         388
+Ethnicity
+                       Cases            Percent of Cases               Deaths    Percent of Deaths
+Hispanic               95,125                 24%                        550            8%
+Non-Hispanic          308,376                 76%                       6,015          92%
+Missing               232,474                                           1,073
+Age
+                             Cases          Percent of Cases              Deaths  Percent of Deaths
+0-17                         71,224                11%                        1          0%
+18-24                        87,544                14%                        9          0%
+25-49                       250,933                39%                      288          4%
+50-64                       129,191                20%                     1,036        14%
+65-74                        52,708                8%                      1,743        23%
+75+                          44,183                7%                      4,561        60%
+Missing                        192                                            0
+Gender
+                          Cases           Percent of Cases               Deaths  Percent of Deaths
+Female                   337,082                53%                       3,648         48%
+Male                     294,485                47%                       3,960         52%
+Missing                   4,408                                            30
+  Data updated daily.
+  Created and maintained by the NCDHHS | Version Control: 1.1 | 12/3/2020
+

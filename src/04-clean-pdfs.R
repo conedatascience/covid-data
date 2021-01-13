@@ -59,6 +59,8 @@ process_pdfs <- function(x){
                                  fifelse(grepl("ale", metric),"sex","race")))] %>%
     .[,metric := fifelse(grepl("Indian", x = metric),
                          "American Indian and Alaska Native", metric)] %>%
+    .[,metric := fifelse(grepl("Asian", x = metric),
+                         "Asian", metric)] %>%
   .[,metric := fifelse(grepl("Hawaiian", x = metric),
                         "Native Hawaiian or Pacific Islander", metric)] %>%
     .[,metric := fifelse(grepl("Black", x = metric),
