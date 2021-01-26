@@ -9,11 +9,15 @@ data_dir <- fs::dir_ls(here::here("data", "daily-vax"), glob = "*xlsx")
 # import data -------------------------------------------------------------
 
 dat_raw <- purrr::map_dfr(data_dir,
-                          ~readxl::read_excel(.x, skip = 3, sheet = 2,
+                          ~readxl::read_excel(.x, skip = 3, sheet = 2,range = "A3:C205",
                                               col_names = c("county", "vaccine_status", "total_doses")),
                            .id = "date_pulled"
                           )
 setDT(dat_raw)
+
+dat_raw <- dat_raw[!is.na(total_doses)]
+
+dat_raw <- dat_raw[vaccine_status!= "Vaccine Status"]
 
 dat_raw[, update_date := gsub(pattern = "([0-9]+).*$", "\\1",basename(date_pulled))]
 
