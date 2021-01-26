@@ -67,12 +67,12 @@ dat_latest <- dcast(formula = date+county~vaccine_status, value.var = "total_dos
 
 names(dat_latest) <- c("date","county", "dose_1", "dose_2")
 
-dat_latest[order(date),`:=` (daily_dose_1 = dose_1 - shift(dose_1,1, fill = 0),
-                  daily_dose_2 = dose_2 - shift(dose_2,1, fill = 0)), by = "county"]
+dat_latest[order(date),`:=` (daily_dose_1 = dose_1 - data.table::shift(dose_1,1, fill = 0),
+                  daily_dose_2 = dose_2 - data.table::shift(dose_2,1, fill = 0)), by = "county"]
 
 days_avail <- as.numeric(min(dat_latest$date)-first_dist)
 
-dat_latest[,days_available:=ifelse(date==min(date),days_avail,date-shift(date,1,0)), by = "county"]
+dat_latest[,days_available:=ifelse(date==min(date),days_avail,date-data.table::shift(date,1,0)), by = "county"]
 
 dat_latest[,cum_days:=cumsum(days_available), by = "county"]
 
