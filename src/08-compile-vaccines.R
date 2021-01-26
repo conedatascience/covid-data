@@ -9,7 +9,7 @@ data_dir <- fs::dir_ls(here::here("data", "daily-vax"), glob = "*xlsx")
 # import data -------------------------------------------------------------
 
 dat_raw <- purrr::map_dfr(data_dir,
-                          ~readxl::read_excel(.x, skip = 3, sheet = 2,range = "A3:C205",
+                          ~readxl::read_excel(.x, skip = 3, sheet = 2,range = "A4:C205",
                                               col_names = c("county", "vaccine_status", "total_doses")),
                            .id = "date_pulled"
                           )
@@ -66,6 +66,9 @@ dat_latest <- dat_raw[,.(county,vaccine_status,total_doses,date)] %>%
 dat_latest <- dcast(formula = date+county~vaccine_status, value.var = "total_doses", data = dat_latest)
 
 names(dat_latest) <- c("date","county", "dose_1", "dose_2")
+
+dat_raw$dose_1 <- as.numeric(dat_raw$dose_1)
+dat_raw$dose_2 <- as.numeric(dat_raw$dose_2)
 
 dat_latest[order(date),`:=` (daily_dose_1 = dose_1 - data.table::shift(dose_1,1, fill = 0),
                   daily_dose_2 = dose_2 - data.table::shift(dose_2,1, fill = 0)), by = "county"]
