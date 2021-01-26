@@ -56,7 +56,19 @@ process_outbreaks <- function(x){
                               "total_cases", "total_deaths")
 
     formated_text
-  } else {NULL}
+  } else {
+    formated_text <- c("facility_type", "facility_county", "facility_name",
+                       "staff_cases",
+                       "staff_deaths", "resident_cases", "resident_deaths",
+                       "total_cases", "total_deaths")
+
+    names(formated_text) <- c("facility_type", "facility_county", "facility_name",
+                              "staff_cases",
+                              "staff_deaths", "resident_cases", "resident_deaths",
+                              "total_cases", "total_deaths")
+
+    formated_text
+  }
 
 
 
