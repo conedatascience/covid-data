@@ -1,0 +1,29 @@
+Age Group,calc.ValueComma,Name
+0-17,"91,774",Cases
+0-17,12%,Percent of Cases
+0-17,2,Deaths
+0-17,0%,Percent of Deaths
+18-24,"107,998",Cases
+18-24,14%,Percent of Cases
+18-24,11,Deaths
+18-24,0%,Percent of Deaths
+25-49,"312,539",Cases
+25-49,39%,Percent of Cases
+25-49,349,Deaths
+25-49,3%,Percent of Deaths
+50-64,"162,775",Cases
+50-64,20%,Percent of Cases
+50-64,"1,347",Deaths
+50-64,13%,Percent of Deaths
+65-74,"66,212",Cases
+65-74,8%,Percent of Cases
+65-74,"2,310",Deaths
+65-74,23%,Percent of Deaths
+75+,"54,700",Cases
+75+,7%,Percent of Cases
+75+,"5,964",Deaths
+75+,60%,Percent of Deaths
+Missing,197,Cases
+Missing,,Percent of Cases
+Missing,0,Deaths
+Missing,,Percent of Deaths
