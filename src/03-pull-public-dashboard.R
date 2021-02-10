@@ -85,9 +85,9 @@ try(download.file(url = url, destfile = here::here("data", "daily-patient",
 # vaccinations rollouts ---------------------------------------------------
 
 
-## Pull
-url <- "https://files.nc.gov/covid/documents/dashboard/Vaccinations_Dashboard_Data.xlsx"
-try(download.file(url = url, destfile = here::here("data", "daily-vax",
-                                                   paste0(current_time,"_ncdhss_vax.xlsx")),
-                  mode = "wb"))
+# ## Pull
+# url <- "https://files.nc.gov/covid/documents/dashboard/Vaccinations_Dashboard_Data.xlsx"
+# try(download.file(url = url, destfile = here::here("data", "daily-vax",
+#                                                    paste0(current_time,"_ncdhss_vax.xlsx")),
+#                   mode = "wb"))
 
