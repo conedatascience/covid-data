@@ -77,6 +77,13 @@ days_avail <- as.numeric(min(dat_latest$date)-first_dist)
 
 dat_latest[,days_available:=ifelse(date==min(date),days_avail,date-data.table::shift(date,1,0)), by = "county"]
 
+
+# add in csv version of files ---------------------------------------------
+
+
+
+# bringing it back together -----------------------------------------------
+
 dat_latest[,cum_days:=cumsum(days_available), by = "county"]
 
 dat_latest[,`:=` (
