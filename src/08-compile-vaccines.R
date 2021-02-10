@@ -5,9 +5,34 @@ library(data.table)
 # raw data locations ------------------------------------------------------
 
 data_dir <- fs::dir_ls(here::here("data", "daily-vax"), glob = "*xlsx")
+data_dir2 <- fs::dir_ls(here::here("data", "daily-vax"), glob = "*csv")
 
 # import data -------------------------------------------------------------
 
+#new csv files
+dat_raw2 <- purrr::map_dfr(data_dir2, data.table::fread, .id = "date_pulled")
+
+setDT(dat_raw2)
+
+dat_raw2 <- melt(dat_raw2, id.vars = c('date_pulled', 'County'),
+                 variable.name = 'vaccine_status',
+                 value.name = 'total_doses')
+
+dat_raw2[, vaccine_status := case_when(vaccine_status=='First Doses Administered'~'Dose 1 Administered',
+                                       vaccine_status=='Second Doses Administered'~'Dose 2 Administered',
+                                       TRUE~as.character(NA))]
+
+dat_raw2 <- dat_raw2[!is.na(vaccine_status)]
+
+dat_raw2[, update_date := gsub(pattern = "([0-9]+).*$", "\\1",basename(date_pulled))]
+
+dat_raw2[, update_date := as.POSIXct(update_date, format = "%Y%m%d%H%M")]
+
+dat_raw2[, reported_date := as.Date(update_date)]
+
+setnames(dat_raw2, "County", "county")
+
+#old xlsx files
 dat_raw <- purrr::map_dfr(data_dir,
                           ~readxl::read_excel(.x, skip = 3, sheet = 2,range = "A4:C205",
                                               col_names = c("county", "vaccine_status", "total_doses")),
@@ -50,6 +75,8 @@ report_date <- report_date[,c("reported_date", "date_pulled")]
 
 dat_raw <- merge(dat_raw[!is.na(total_doses)], report_date, by = "date_pulled", all.x = TRUE)
 
+dat_raw <- rbindlist(list(dat_raw, dat_raw2))
+
 # diffing -----------------------------------------------------------------
 debug <- FALSE
 
@@ -76,11 +103,6 @@ dat_latest[order(date),`:=` (daily_dose_1 = dose_1 - data.table::shift(dose_1,1,
 days_avail <- as.numeric(min(dat_latest$date)-first_dist)
 
 dat_latest[,days_available:=ifelse(date==min(date),days_avail,date-data.table::shift(date,1,0)), by = "county"]
-
-
-# add in csv version of files ---------------------------------------------
-
-
 
 # bringing it back together -----------------------------------------------
 
