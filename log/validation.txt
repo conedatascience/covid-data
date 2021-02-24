@@ -38373,3 +38373,9 @@ Confrontation: 3, Failures: 0, Time 202102241621
 Confrontation: 4, Failures: 0, Time 202102241621
 Confrontation: 5, Failures: 0, Time 202102241621
 Confrontation: 6, Failures: 8, Time 202102241621
+Confrontation: 1, Failures: 0, Time 202102241742
+Confrontation: 2, Failures: 0, Time 202102241742
+Confrontation: 3, Failures: 0, Time 202102241742
+Confrontation: 4, Failures: 0, Time 202102241742
+Confrontation: 5, Failures: 0, Time 202102241742
+Confrontation: 6, Failures: 8, Time 202102241742
