@@ -9,6 +9,7 @@ awk '!/AB37/' | \
 awk '!/outbreaks/' | \
 awk '!/Setting/' | \
 awk '!/COVID-19/' | \
+awk '!/was published/' | \
 awk '!/*/' | \
 sed 's/    */;/g' > test2.txt
 
