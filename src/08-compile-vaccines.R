@@ -28,7 +28,7 @@ dat_raw2[, update_date := gsub(pattern = "([0-9]+).*$", "\\1",basename(date_pull
 
 dat_raw2[, update_date := as.POSIXct(update_date, format = "%Y%m%d%H%M")]
 
-dat_raw2[, reported_date := as.Date(update_date)]
+dat_raw2[, reported_date := as.Date(format(update_date,'%Y-%m-%d'))]
 
 setnames(dat_raw2, "County", "county")
 
@@ -52,8 +52,6 @@ dat_raw[,county:= stringr::str_remove(string = county, "County")]
 
 first_dist <- as.Date("2020-12-14")
 
-dat_raw[,county:= stringr::str_remove(string = county, "County")]
-
 report_date <- purrr::map_dfr(data_dir,
                               ~readxl::read_excel(.x, range = "A1:A1", sheet = 2,
                                                   col_names = c("date")),
@@ -76,6 +74,8 @@ report_date <- report_date[,c("reported_date", "date_pulled")]
 dat_raw <- merge(dat_raw[!is.na(total_doses)], report_date, by = "date_pulled", all.x = TRUE)
 
 dat_raw <- rbindlist(list(dat_raw, dat_raw2))
+
+dat_raw[,county:= ifelse(county=='Mcdowell','McDowell',county)]
 
 # diffing -----------------------------------------------------------------
 debug <- FALSE

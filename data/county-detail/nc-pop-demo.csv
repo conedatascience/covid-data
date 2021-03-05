@@ -1,0 +1,1920 @@
+county,demographic,demographic_identity,population,aggregation_level
+New Hanover,Age Group,25-49,74725,County
+Surry,Age Group,25-49,20806,County
+Robeson,Age Group,25-49,40072,County
+Person,Age Group,25-49,11585,County
+Alamance,Age Group,25-49,51738,County
+Wilson,Age Group,25-49,24315,County
+Union,Age Group,25-49,75448,County
+Lincoln,Age Group,25-49,26543,County
+Lenoir,Age Group,25-49,15782,County
+Clay,Age Group,25-49,2578,County
+McDowell,Age Group,25-49,13806,County
+Davidson,Age Group,25-49,50744,County
+Stanly,Age Group,25-49,19067,County
+Lee,Age Group,25-49,19335,County
+Chatham,Age Group,25-49,20165,County
+Martin,Age Group,25-49,5937,County
+Tyrrell,Age Group,25-49,1365,County
+Greene,Age Group,25-49,7248,County
+Cumberland,Age Group,25-49,114650,County
+Washington,Age Group,25-49,2875,County
+Camden,Age Group,25-49,3468,County
+Mitchell,Age Group,25-49,4164,County
+Wake,Age Group,25-49,411746,County
+Sampson,Age Group,25-49,18665,County
+Chowan,Age Group,25-49,3642,County
+Cleveland,Age Group,25-49,28635,County
+Beaufort,Age Group,25-49,12689,County
+Vance,Age Group,25-49,12839,County
+Davie,Age Group,25-49,11973,County
+Pender,Age Group,25-49,19378,County
+Watauga,Age Group,25-49,14517,County
+Graham,Age Group,25-49,2307,County
+Montgomery,Age Group,25-49,7555,County
+Caldwell,Age Group,25-49,24489,County
+Brunswick,Age Group,25-49,33466,County
+Duplin,Age Group,25-49,17043,County
+Hyde,Age Group,25-49,1551,County
+Pamlico,Age Group,25-49,3183,County
+Buncombe,Age Group,25-49,88430,County
+Caswell,Age Group,25-49,6690,County
+Ashe,Age Group,25-49,7315,County
+Mecklenburg,Age Group,25-49,430671,County
+Jones,Age Group,25-49,2581,County
+Northampton,Age Group,25-49,5056,County
+Transylvania,Age Group,25-49,8467,County
+Polk,Age Group,25-49,4737,County
+Johnston,Age Group,25-49,70950,County
+Catawba,Age Group,25-49,48523,County
+Gates,Age Group,25-49,3151,County
+Avery,Age Group,25-49,5620,County
+Anson,Age Group,25-49,7892,County
+Columbus,Age Group,25-49,16793,County
+Haywood,Age Group,25-49,17840,County
+Orange,Age Group,25-49,44131,County
+Cabarrus,Age Group,25-49,74555,County
+Richmond,Age Group,25-49,13599,County
+Moore,Age Group,25-49,29581,County
+Harnett,Age Group,25-49,48422,County
+Jackson,Age Group,25-49,11852,County
+Guilford,Age Group,25-49,174473,County
+Iredell,Age Group,25-49,58064,County
+Forsyth,Age Group,25-49,120732,County
+Currituck,Age Group,25-49,8648,County
+Rutherford,Age Group,25-49,18822,County
+Warren,Age Group,25-49,5224,County
+Bertie,Age Group,25-49,5533,County
+Pitt,Age Group,25-49,56429,County
+Randolph,Age Group,25-49,43390,County
+Stokes,Age Group,25-49,13043,County
+Henderson,Age Group,25-49,32347,County
+Gaston,Age Group,25-49,74157,County
+Pasquotank,Age Group,25-49,12534,County
+Cherokee,Age Group,25-49,6942,County
+Macon,Age Group,25-49,8914,County
+Perquimans,Age Group,25-49,3433,County
+Rockingham,Age Group,25-49,26204,County
+Wayne,Age Group,25-49,37775,County
+Scotland,Age Group,25-49,10524,County
+Franklin,Age Group,25-49,21587,County
+Hoke,Age Group,25-49,20861,County
+Hertford,Age Group,25-49,6853,County
+Alexander,Age Group,25-49,11564,County
+Edgecombe,Age Group,25-49,14633,County
+Durham,Age Group,25-49,124352,County
+Craven,Age Group,25-49,30014,County
+Granville,Age Group,25-49,18882,County
+Alleghany,Age Group,25-49,2856,County
+Rowan,Age Group,25-49,43580,County
+Swain,Age Group,25-49,4321,County
+Yadkin,Age Group,25-49,10826,County
+Halifax,Age Group,25-49,14122,County
+Madison,Age Group,25-49,6304,County
+Burke,Age Group,25-49,27025,County
+Yancey,Age Group,25-49,4964,County
+Onslow,Age Group,25-49,65520,County
+Wilkes,Age Group,25-49,19478,County
+Dare,Age Group,25-49,10462,County
+Nash,Age Group,25-49,27878,County
+Carteret,Age Group,25-49,18705,County
+Bladen,Age Group,25-49,9170,County
+New Hanover,Age Group,65-74,26066,County
+Surry,Age Group,65-74,8532,County
+Robeson,Age Group,65-74,12776,County
+Person,Age Group,65-74,4743,County
+Alamance,Age Group,65-74,16352,County
+Wilson,Age Group,65-74,9062,County
+Union,Age Group,65-74,19160,County
+Lincoln,Age Group,65-74,9543,County
+Lenoir,Age Group,65-74,6541,County
+Clay,Age Group,65-74,2143,County
+McDowell,Age Group,65-74,5591,County
+Davidson,Age Group,65-74,18239,County
+Stanly,Age Group,65-74,7022,County
+Lee,Age Group,65-74,6091,County
+Chatham,Age Group,65-74,10562,County
+Martin,Age Group,65-74,3173,County
+Tyrrell,Age Group,65-74,432,County
+Greene,Age Group,65-74,2219,County
+Cumberland,Age Group,65-74,24275,County
+Washington,Age Group,65-74,1698,County
+Camden,Age Group,65-74,1055,County
+Mitchell,Age Group,65-74,2145,County
+Wake,Age Group,65-74,83002,County
+Sampson,Age Group,65-74,6729,County
+Chowan,Age Group,65-74,2019,County
+Cleveland,Age Group,65-74,11078,County
+Beaufort,Age Group,65-74,6902,County
+Vance,Age Group,65-74,4992,County
+Davie,Age Group,65-74,5229,County
+Pender,Age Group,65-74,7251,County
+Watauga,Age Group,65-74,5645,County
+Graham,Age Group,65-74,1100,County
+Montgomery,Age Group,65-74,3439,County
+Caldwell,Age Group,65-74,9939,County
+Brunswick,Age Group,65-74,31305,County
+Duplin,Age Group,65-74,6589,County
+Hyde,Age Group,65-74,671,County
+Pamlico,Age Group,65-74,2266,County
+Buncombe,Age Group,65-74,31788,County
+Caswell,Age Group,65-74,2967,County
+Ashe,Age Group,65-74,4248,County
+Mecklenburg,Age Group,65-74,78390,County
+Jones,Age Group,65-74,1348,County
+Northampton,Age Group,65-74,2970,County
+Transylvania,Age Group,65-74,5808,County
+Polk,Age Group,65-74,3492,County
+Johnston,Age Group,65-74,18169,County
+Catawba,Age Group,65-74,17303,County
+Gates,Age Group,65-74,1390,County
+Avery,Age Group,65-74,2360,County
+Anson,Age Group,65-74,2782,County
+Columbus,Age Group,65-74,6607,County
+Haywood,Age Group,65-74,8909,County
+Orange,Age Group,65-74,13751,County
+Cabarrus,Age Group,65-74,17390,County
+Richmond,Age Group,65-74,4875,County
+Moore,Age Group,65-74,12793,County
+Harnett,Age Group,65-74,10693,County
+Jackson,Age Group,65-74,5301,County
+Guilford,Age Group,65-74,49068,County
+Iredell,Age Group,65-74,17892,County
+Forsyth,Age Group,65-74,36873,County
+Currituck,Age Group,65-74,2946,County
+Rutherford,Age Group,65-74,8740,County
+Warren,Age Group,65-74,3023,County
+Bertie,Age Group,65-74,2536,County
+Pitt,Age Group,65-74,15246,County
+Randolph,Age Group,65-74,15397,County
+Stokes,Age Group,65-74,5617,County
+Henderson,Age Group,65-74,17336,County
+Gaston,Age Group,65-74,21931,County
+Pasquotank,Age Group,65-74,4092,County
+Cherokee,Age Group,65-74,5115,County
+Macon,Age Group,65-74,5819,County
+Perquimans,Age Group,65-74,2065,County
+Rockingham,Age Group,65-74,11080,County
+Wayne,Age Group,65-74,12211,County
+Scotland,Age Group,65-74,3894,County
+Franklin,Age Group,65-74,7308,County
+Hoke,Age Group,65-74,3868,County
+Hertford,Age Group,65-74,2773,County
+Alexander,Age Group,65-74,4436,County
+Edgecombe,Age Group,65-74,6313,County
+Durham,Age Group,65-74,27190,County
+Craven,Age Group,65-74,11632,County
+Granville,Age Group,65-74,6432,County
+Alleghany,Age Group,65-74,1796,County
+Rowan,Age Group,65-74,14816,County
+Swain,Age Group,65-74,1628,County
+Yadkin,Age Group,65-74,4347,County
+Halifax,Age Group,65-74,6224,County
+Madison,Age Group,65-74,3037,County
+Burke,Age Group,65-74,10605,County
+Yancey,Age Group,65-74,2715,County
+Onslow,Age Group,65-74,11312,County
+Wilkes,Age Group,65-74,8676,County
+Dare,Age Group,65-74,5365,County
+Nash,Age Group,65-74,10889,County
+Carteret,Age Group,65-74,10840,County
+Bladen,Age Group,65-74,4515,County
+New Hanover,Age Group K-12,0-1,4386,County
+Surry,Age Group K-12,0-1,1482,County
+Robeson,Age Group K-12,0-1,3318,County
+Person,Age Group K-12,0-1,841,County
+Alamance,Age Group K-12,0-1,4006,County
+Wilson,Age Group K-12,0-1,1924,County
+Union,Age Group K-12,0-1,4957,County
+Lincoln,Age Group K-12,0-1,1711,County
+Lenoir,Age Group K-12,0-1,1246,County
+Clay,Age Group K-12,0-1,184,County
+McDowell,Age Group K-12,0-1,881,County
+Davidson,Age Group K-12,0-1,3506,County
+Stanly,Age Group K-12,0-1,1404,County
+Lee,Age Group K-12,0-1,1559,County
+Chatham,Age Group K-12,0-1,1375,County
+Martin,Age Group K-12,0-1,496,County
+Tyrrell,Age Group K-12,0-1,76,County
+Greene,Age Group K-12,0-1,440,County
+Cumberland,Age Group K-12,0-1,10538,County
+Washington,Age Group K-12,0-1,243,County
+Camden,Age Group K-12,0-1,208,County
+Mitchell,Age Group K-12,0-1,283,County
+Wake,Age Group K-12,0-1,25883,County
+Sampson,Age Group K-12,0-1,1652,County
+Chowan,Age Group K-12,0-1,280,County
+Cleveland,Age Group K-12,0-1,2234,County
+Beaufort,Age Group K-12,0-1,904,County
+Vance,Age Group K-12,0-1,1125,County
+Davie,Age Group K-12,0-1,784,County
+Pender,Age Group K-12,0-1,1342,County
+Watauga,Age Group K-12,0-1,777,County
+Graham,Age Group K-12,0-1,155,County
+Montgomery,Age Group K-12,0-1,537,County
+Caldwell,Age Group K-12,0-1,1589,County
+Brunswick,Age Group K-12,0-1,2024,County
+Duplin,Age Group K-12,0-1,1381,County
+Hyde,Age Group K-12,0-1,66,County
+Pamlico,Age Group K-12,0-1,166,County
+Buncombe,Age Group K-12,0-1,4909,County
+Caswell,Age Group K-12,0-1,413,County
+Ashe,Age Group K-12,0-1,407,County
+Mecklenburg,Age Group K-12,0-1,29481,County
+Jones,Age Group K-12,0-1,182,County
+Northampton,Age Group K-12,0-1,356,County
+Transylvania,Age Group K-12,0-1,533,County
+Polk,Age Group K-12,0-1,314,County
+Johnston,Age Group K-12,0-1,4927,County
+Catawba,Age Group K-12,0-1,3400,County
+Gates,Age Group K-12,0-1,209,County
+Avery,Age Group K-12,0-1,268,County
+Anson,Age Group K-12,0-1,504,County
+Columbus,Age Group K-12,0-1,1146,County
+Haywood,Age Group K-12,0-1,1192,County
+Orange,Age Group K-12,0-1,2425,County
+Cabarrus,Age Group K-12,0-1,5259,County
+Richmond,Age Group K-12,0-1,1111,County
+Moore,Age Group K-12,0-1,2309,County
+Harnett,Age Group K-12,0-1,3747,County
+Jackson,Age Group K-12,0-1,712,County
+Guilford,Age Group K-12,0-1,12225,County
+Iredell,Age Group K-12,0-1,3766,County
+Forsyth,Age Group K-12,0-1,8711,County
+Currituck,Age Group K-12,0-1,532,County
+Rutherford,Age Group K-12,0-1,1345,County
+Warren,Age Group K-12,0-1,340,County
+Bertie,Age Group K-12,0-1,352,County
+Pitt,Age Group K-12,0-1,4084,County
+Randolph,Age Group K-12,0-1,3098,County
+Stokes,Age Group K-12,0-1,806,County
+Henderson,Age Group K-12,0-1,2153,County
+Gaston,Age Group K-12,0-1,5146,County
+Pasquotank,Age Group K-12,0-1,931,County
+Cherokee,Age Group K-12,0-1,500,County
+Macon,Age Group K-12,0-1,683,County
+Perquimans,Age Group K-12,0-1,237,County
+Rockingham,Age Group K-12,0-1,1733,County
+Wayne,Age Group K-12,0-1,3194,County
+Scotland,Age Group K-12,0-1,863,County
+Franklin,Age Group K-12,0-1,1468,County
+Hoke,Age Group K-12,0-1,1682,County
+Hertford,Age Group K-12,0-1,436,County
+Alexander,Age Group K-12,0-1,734,County
+Edgecombe,Age Group K-12,0-1,1186,County
+Durham,Age Group K-12,0-1,8278,County
+Craven,Age Group K-12,0-1,2620,County
+Granville,Age Group K-12,0-1,1212,County
+Alleghany,Age Group K-12,0-1,205,County
+Rowan,Age Group K-12,0-1,3225,County
+Swain,Age Group K-12,0-1,287,County
+Yadkin,Age Group K-12,0-1,790,County
+Halifax,Age Group K-12,0-1,1103,County
+Madison,Age Group K-12,0-1,372,County
+Burke,Age Group K-12,0-1,1712,County
+Yancey,Age Group K-12,0-1,352,County
+Onslow,Age Group K-12,0-1,7486,County
+Wilkes,Age Group K-12,0-1,1365,County
+Dare,Age Group K-12,0-1,656,County
+Nash,Age Group K-12,0-1,2126,County
+Carteret,Age Group K-12,0-1,1062,County
+Bladen,Age Group K-12,0-1,645,County
+New Hanover,Age Group K-12,2-4,6724,County
+Surry,Age Group K-12,2-4,2322,County
+Robeson,Age Group K-12,2-4,5259,County
+Person,Age Group K-12,2-4,1244,County
+Alamance,Age Group K-12,2-4,5943,County
+Wilson,Age Group K-12,2-4,2905,County
+Union,Age Group K-12,2-4,8394,County
+Lincoln,Age Group K-12,2-4,2737,County
+Lenoir,Age Group K-12,2-4,1902,County
+Clay,Age Group K-12,2-4,307,County
+McDowell,Age Group K-12,2-4,1401,County
+Davidson,Age Group K-12,2-4,5694,County
+Stanly,Age Group K-12,2-4,2224,County
+Lee,Age Group K-12,2-4,2327,County
+Chatham,Age Group K-12,2-4,2198,County
+Martin,Age Group K-12,2-4,733,County
+Tyrrell,Age Group K-12,2-4,113,County
+Greene,Age Group K-12,2-4,607,County
+Cumberland,Age Group K-12,2-4,14719,County
+Washington,Age Group K-12,2-4,352,County
+Camden,Age Group K-12,2-4,332,County
+Mitchell,Age Group K-12,2-4,439,County
+Wake,Age Group K-12,2-4,41353,County
+Sampson,Age Group K-12,2-4,2490,County
+Chowan,Age Group K-12,2-4,420,County
+Cleveland,Age Group K-12,2-4,3348,County
+Beaufort,Age Group K-12,2-4,1355,County
+Vance,Age Group K-12,2-4,1630,County
+Davie,Age Group K-12,2-4,1302,County
+Pender,Age Group K-12,2-4,2236,County
+Watauga,Age Group K-12,2-4,1092,County
+Graham,Age Group K-12,2-4,246,County
+Montgomery,Age Group K-12,2-4,879,County
+Caldwell,Age Group K-12,2-4,2574,County
+Brunswick,Age Group K-12,2-4,3318,County
+Duplin,Age Group K-12,2-4,2234,County
+Hyde,Age Group K-12,2-4,118,County
+Pamlico,Age Group K-12,2-4,299,County
+Buncombe,Age Group K-12,2-4,7732,County
+Caswell,Age Group K-12,2-4,695,County
+Ashe,Age Group K-12,2-4,667,County
+Mecklenburg,Age Group K-12,2-4,43826,County
+Jones,Age Group K-12,2-4,281,County
+Northampton,Age Group K-12,2-4,557,County
+Transylvania,Age Group K-12,2-4,837,County
+Polk,Age Group K-12,2-4,470,County
+Johnston,Age Group K-12,2-4,8129,County
+Catawba,Age Group K-12,2-4,5515,County
+Gates,Age Group K-12,2-4,326,County
+Avery,Age Group K-12,2-4,384,County
+Anson,Age Group K-12,2-4,799,County
+Columbus,Age Group K-12,2-4,1759,County
+Haywood,Age Group K-12,2-4,1859,County
+Orange,Age Group K-12,2-4,4041,County
+Cabarrus,Age Group K-12,2-4,8587,County
+Richmond,Age Group K-12,2-4,1643,County
+Moore,Age Group K-12,2-4,3634,County
+Harnett,Age Group K-12,2-4,6143,County
+Jackson,Age Group K-12,2-4,1225,County
+Guilford,Age Group K-12,2-4,19053,County
+Iredell,Age Group K-12,2-4,6156,County
+Forsyth,Age Group K-12,2-4,13650,County
+Currituck,Age Group K-12,2-4,1015,County
+Rutherford,Age Group K-12,2-4,2079,County
+Warren,Age Group K-12,2-4,548,County
+Bertie,Age Group K-12,2-4,469,County
+Pitt,Age Group K-12,2-4,6214,County
+Randolph,Age Group K-12,2-4,5013,County
+Stokes,Age Group K-12,2-4,1249,County
+Henderson,Age Group K-12,2-4,3500,County
+Gaston,Age Group K-12,2-4,8212,County
+Pasquotank,Age Group K-12,2-4,1500,County
+Cherokee,Age Group K-12,2-4,692,County
+Macon,Age Group K-12,2-4,1054,County
+Perquimans,Age Group K-12,2-4,365,County
+Rockingham,Age Group K-12,2-4,2871,County
+Wayne,Age Group K-12,2-4,4891,County
+Scotland,Age Group K-12,2-4,1430,County
+Franklin,Age Group K-12,2-4,2418,County
+Hoke,Age Group K-12,2-4,2888,County
+Hertford,Age Group K-12,2-4,631,County
+Alexander,Age Group K-12,2-4,1143,County
+Edgecombe,Age Group K-12,2-4,1754,County
+Durham,Age Group K-12,2-4,11903,County
+Craven,Age Group K-12,2-4,3741,County
+Granville,Age Group K-12,2-4,1895,County
+Alleghany,Age Group K-12,2-4,306,County
+Rowan,Age Group K-12,2-4,5033,County
+Swain,Age Group K-12,2-4,581,County
+Yadkin,Age Group K-12,2-4,1177,County
+Halifax,Age Group K-12,2-4,1662,County
+Madison,Age Group K-12,2-4,642,County
+Burke,Age Group K-12,2-4,2597,County
+Yancey,Age Group K-12,2-4,505,County
+Onslow,Age Group K-12,2-4,9665,County
+Wilkes,Age Group K-12,2-4,2101,County
+Dare,Age Group K-12,2-4,986,County
+Nash,Age Group K-12,2-4,3149,County
+Carteret,Age Group K-12,2-4,1739,County
+Bladen,Age Group K-12,2-4,946,County
+New Hanover,Age Group K-12,15-17,7412,County
+Surry,Age Group K-12,15-17,2747,County
+Robeson,Age Group K-12,15-17,5218,County
+Person,Age Group K-12,15-17,1497,County
+Alamance,Age Group K-12,15-17,6471,County
+Wilson,Age Group K-12,15-17,3262,County
+Union,Age Group K-12,15-17,12928,County
+Lincoln,Age Group K-12,15-17,3376,County
+Lenoir,Age Group K-12,15-17,2183,County
+Clay,Age Group K-12,15-17,358,County
+McDowell,Age Group K-12,15-17,1619,County
+Davidson,Age Group K-12,15-17,6596,County
+Stanly,Age Group K-12,15-17,2342,County
+Lee,Age Group K-12,15-17,2437,County
+Chatham,Age Group K-12,15-17,2731,County
+Martin,Age Group K-12,15-17,763,County
+Tyrrell,Age Group K-12,15-17,111,County
+Greene,Age Group K-12,15-17,707,County
+Cumberland,Age Group K-12,15-17,12391,County
+Washington,Age Group K-12,15-17,400,County
+Camden,Age Group K-12,15-17,452,County
+Mitchell,Age Group K-12,15-17,493,County
+Wake,Age Group K-12,15-17,46082,County
+Sampson,Age Group K-12,15-17,2730,County
+Chowan,Age Group K-12,15-17,504,County
+Cleveland,Age Group K-12,15-17,3728,County
+Beaufort,Age Group K-12,15-17,1766,County
+Vance,Age Group K-12,15-17,1775,County
+Davie,Age Group K-12,15-17,1717,County
+Pender,Age Group K-12,15-17,2446,County
+Watauga,Age Group K-12,15-17,1210,County
+Graham,Age Group K-12,15-17,322,County
+Montgomery,Age Group K-12,15-17,1157,County
+Caldwell,Age Group K-12,15-17,2998,County
+Brunswick,Age Group K-12,15-17,3567,County
+Duplin,Age Group K-12,15-17,2382,County
+Hyde,Age Group K-12,15-17,147,County
+Pamlico,Age Group K-12,15-17,371,County
+Buncombe,Age Group K-12,15-17,8271,County
+Caswell,Age Group K-12,15-17,799,County
+Ashe,Age Group K-12,15-17,854,County
+Mecklenburg,Age Group K-12,15-17,42200,County
+Jones,Age Group K-12,15-17,308,County
+Northampton,Age Group K-12,15-17,581,County
+Transylvania,Age Group K-12,15-17,933,County
+Polk,Age Group K-12,15-17,662,County
+Johnston,Age Group K-12,15-17,9361,County
+Catawba,Age Group K-12,15-17,6277,County
+Gates,Age Group K-12,15-17,414,County
+Avery,Age Group K-12,15-17,514,County
+Anson,Age Group K-12,15-17,855,County
+Columbus,Age Group K-12,15-17,2144,County
+Haywood,Age Group K-12,15-17,2033,County
+Orange,Age Group K-12,15-17,5436,County
+Cabarrus,Age Group K-12,15-17,9793,County
+Richmond,Age Group K-12,15-17,1753,County
+Moore,Age Group K-12,15-17,3511,County
+Harnett,Age Group K-12,15-17,5218,County
+Jackson,Age Group K-12,15-17,1217,County
+Guilford,Age Group K-12,15-17,20601,County
+Iredell,Age Group K-12,15-17,7683,County
+Forsyth,Age Group K-12,15-17,15076,County
+Currituck,Age Group K-12,15-17,1040,County
+Rutherford,Age Group K-12,15-17,2522,County
+Warren,Age Group K-12,15-17,631,County
+Bertie,Age Group K-12,15-17,603,County
+Pitt,Age Group K-12,15-17,6423,County
+Randolph,Age Group K-12,15-17,5935,County
+Stokes,Age Group K-12,15-17,1632,County
+Henderson,Age Group K-12,15-17,3883,County
+Gaston,Age Group K-12,15-17,8670,County
+Pasquotank,Age Group K-12,15-17,1479,County
+Cherokee,Age Group K-12,15-17,898,County
+Macon,Age Group K-12,15-17,1171,County
+Perquimans,Age Group K-12,15-17,420,County
+Rockingham,Age Group K-12,15-17,3335,County
+Wayne,Age Group K-12,15-17,4745,County
+Scotland,Age Group K-12,15-17,1237,County
+Franklin,Age Group K-12,15-17,2711,County
+Hoke,Age Group K-12,15-17,2055,County
+Hertford,Age Group K-12,15-17,804,County
+Alexander,Age Group K-12,15-17,1340,County
+Edgecombe,Age Group K-12,15-17,2069,County
+Durham,Age Group K-12,15-17,9870,County
+Craven,Age Group K-12,15-17,3386,County
+Granville,Age Group K-12,15-17,2345,County
+Alleghany,Age Group K-12,15-17,321,County
+Rowan,Age Group K-12,15-17,5720,County
+Swain,Age Group K-12,15-17,487,County
+Yadkin,Age Group K-12,15-17,1401,County
+Halifax,Age Group K-12,15-17,1893,County
+Madison,Age Group K-12,15-17,748,County
+Burke,Age Group K-12,15-17,3147,County
+Yancey,Age Group K-12,15-17,611,County
+Onslow,Age Group K-12,15-17,5976,County
+Wilkes,Age Group K-12,15-17,2628,County
+Dare,Age Group K-12,15-17,1302,County
+Nash,Age Group K-12,15-17,3698,County
+Carteret,Age Group K-12,15-17,2214,County
+Bladen,Age Group K-12,15-17,1233,County
+New Hanover,Age Group K-12,10-14,12399,County
+Surry,Age Group K-12,10-14,4478,County
+Robeson,Age Group K-12,10-14,9360,County
+Person,Age Group K-12,10-14,2337,County
+Alamance,Age Group K-12,10-14,10702,County
+Wilson,Age Group K-12,10-14,5481,County
+Union,Age Group K-12,10-14,20221,County
+Lincoln,Age Group K-12,10-14,5371,County
+Lenoir,Age Group K-12,10-14,3772,County
+Clay,Age Group K-12,10-14,555,County
+McDowell,Age Group K-12,10-14,2786,County
+Davidson,Age Group K-12,10-14,10836,County
+Stanly,Age Group K-12,10-14,3914,County
+Lee,Age Group K-12,10-14,4252,County
+Chatham,Age Group K-12,10-14,4557,County
+Martin,Age Group K-12,10-14,1314,County
+Tyrrell,Age Group K-12,10-14,226,County
+Greene,Age Group K-12,10-14,1291,County
+Cumberland,Age Group K-12,10-14,21712,County
+Washington,Age Group K-12,10-14,675,County
+Camden,Age Group K-12,10-14,781,County
+Mitchell,Age Group K-12,10-14,800,County
+Wake,Age Group K-12,10-14,77083,County
+Sampson,Age Group K-12,10-14,4385,County
+Chowan,Age Group K-12,10-14,832,County
+Cleveland,Age Group K-12,10-14,6343,County
+Beaufort,Age Group K-12,10-14,2749,County
+Vance,Age Group K-12,10-14,3006,County
+Davie,Age Group K-12,10-14,2694,County
+Pender,Age Group K-12,10-14,4104,County
+Watauga,Age Group K-12,10-14,2157,County
+Graham,Age Group K-12,10-14,510,County
+Montgomery,Age Group K-12,10-14,1756,County
+Caldwell,Age Group K-12,10-14,4841,County
+Brunswick,Age Group K-12,10-14,6271,County
+Duplin,Age Group K-12,10-14,4117,County
+Hyde,Age Group K-12,10-14,263,County
+Pamlico,Age Group K-12,10-14,593,County
+Buncombe,Age Group K-12,10-14,13446,County
+Caswell,Age Group K-12,10-14,1224,County
+Ashe,Age Group K-12,10-14,1489,County
+Mecklenburg,Age Group K-12,10-14,72493,County
+Jones,Age Group K-12,10-14,491,County
+Northampton,Age Group K-12,10-14,1024,County
+Transylvania,Age Group K-12,10-14,1546,County
+Polk,Age Group K-12,10-14,990,County
+Johnston,Age Group K-12,10-14,15870,County
+Catawba,Age Group K-12,10-14,10278,County
+Gates,Age Group K-12,10-14,769,County
+Avery,Age Group K-12,10-14,741,County
+Anson,Age Group K-12,10-14,1395,County
+Columbus,Age Group K-12,10-14,3381,County
+Haywood,Age Group K-12,10-14,3189,County
+Orange,Age Group K-12,10-14,8801,County
+Cabarrus,Age Group K-12,10-14,16286,County
+Richmond,Age Group K-12,10-14,2956,County
+Moore,Age Group K-12,10-14,6090,County
+Harnett,Age Group K-12,10-14,9857,County
+Jackson,Age Group K-12,10-14,2010,County
+Guilford,Age Group K-12,10-14,34494,County
+Iredell,Age Group K-12,10-14,12547,County
+Forsyth,Age Group K-12,10-14,25362,County
+Currituck,Age Group K-12,10-14,1729,County
+Rutherford,Age Group K-12,10-14,4020,County
+Warren,Age Group K-12,10-14,1074,County
+Bertie,Age Group K-12,10-14,996,County
+Pitt,Age Group K-12,10-14,11109,County
+Randolph,Age Group K-12,10-14,9308,County
+Stokes,Age Group K-12,10-14,2516,County
+Henderson,Age Group K-12,10-14,6500,County
+Gaston,Age Group K-12,10-14,14460,County
+Pasquotank,Age Group K-12,10-14,2501,County
+Cherokee,Age Group K-12,10-14,1414,County
+Macon,Age Group K-12,10-14,1915,County
+Perquimans,Age Group K-12,10-14,807,County
+Rockingham,Age Group K-12,10-14,5348,County
+Wayne,Age Group K-12,10-14,8140,County
+Scotland,Age Group K-12,10-14,2295,County
+Franklin,Age Group K-12,10-14,4533,County
+Hoke,Age Group K-12,10-14,3944,County
+Hertford,Age Group K-12,10-14,1322,County
+Alexander,Age Group K-12,10-14,2276,County
+Edgecombe,Age Group K-12,10-14,3404,County
+Durham,Age Group K-12,10-14,17418,County
+Craven,Age Group K-12,10-14,6023,County
+Granville,Age Group K-12,10-14,3664,County
+Alleghany,Age Group K-12,10-14,556,County
+Rowan,Age Group K-12,10-14,9267,County
+Swain,Age Group K-12,10-14,846,County
+Yadkin,Age Group K-12,10-14,2305,County
+Halifax,Age Group K-12,10-14,3162,County
+Madison,Age Group K-12,10-14,1038,County
+Burke,Age Group K-12,10-14,4862,County
+Yancey,Age Group K-12,10-14,958,County
+Onslow,Age Group K-12,10-14,11698,County
+Wilkes,Age Group K-12,10-14,4182,County
+Dare,Age Group K-12,10-14,2139,County
+Nash,Age Group K-12,10-14,5972,County
+Carteret,Age Group K-12,10-14,3659,County
+Bladen,Age Group K-12,10-14,1993,County
+New Hanover,Age Group,75+,17081,County
+Surry,Age Group,75+,6432,County
+Robeson,Age Group,75+,7789,County
+Person,Age Group,75+,3195,County
+Alamance,Age Group,75+,12683,County
+Wilson,Age Group,75+,6275,County
+Union,Age Group,75+,12074,County
+Lincoln,Age Group,75+,5913,County
+Lenoir,Age Group,75+,4762,County
+Clay,Age Group,75+,1438,County
+McDowell,Age Group,75+,3926,County
+Davidson,Age Group,75+,12850,County
+Stanly,Age Group,75+,5101,County
+Lee,Age Group,75+,4313,County
+Chatham,Age Group,75+,8072,County
+Martin,Age Group,75+,2199,County
+Tyrrell,Age Group,75+,378,County
+Greene,Age Group,75+,1373,County
+Cumberland,Age Group,75+,16662,County
+Washington,Age Group,75+,1234,County
+Camden,Age Group,75+,778,County
+Mitchell,Age Group,75+,1665,County
+Wake,Age Group,75+,50862,County
+Sampson,Age Group,75+,4908,County
+Chowan,Age Group,75+,1502,County
+Cleveland,Age Group,75+,7497,County
+Beaufort,Age Group,75+,4636,County
+Vance,Age Group,75+,3495,County
+Davie,Age Group,75+,4050,County
+Pender,Age Group,75+,4465,County
+Watauga,Age Group,75+,3584,County
+Graham,Age Group,75+,967,County
+Montgomery,Age Group,75+,2304,County
+Caldwell,Age Group,75+,6830,County
+Brunswick,Age Group,75+,15300,County
+Duplin,Age Group,75+,4816,County
+Hyde,Age Group,75+,443,County
+Pamlico,Age Group,75+,1600,County
+Buncombe,Age Group,75+,21706,County
+Caswell,Age Group,75+,2038,County
+Ashe,Age Group,75+,3001,County
+Mecklenburg,Age Group,75+,49296,County
+Jones,Age Group,75+,909,County
+Northampton,Age Group,75+,2286,County
+Transylvania,Age Group,75+,5001,County
+Polk,Age Group,75+,3152,County
+Johnston,Age Group,75+,10389,County
+Catawba,Age Group,75+,11853,County
+Gates,Age Group,75+,1028,County
+Avery,Age Group,75+,1660,County
+Anson,Age Group,75+,1948,County
+Columbus,Age Group,75+,4812,County
+Haywood,Age Group,75+,6663,County
+Orange,Age Group,75+,7903,County
+Cabarrus,Age Group,75+,11674,County
+Richmond,Age Group,75+,3308,County
+Moore,Age Group,75+,11399,County
+Harnett,Age Group,75+,6765,County
+Jackson,Age Group,75+,3458,County
+Guilford,Age Group,75+,34374,County
+Iredell,Age Group,75+,11621,County
+Forsyth,Age Group,75+,25847,County
+Currituck,Age Group,75+,1605,County
+Rutherford,Age Group,75+,6115,County
+Warren,Age Group,75+,2150,County
+Bertie,Age Group,75+,1943,County
+Pitt,Age Group,75+,9799,County
+Randolph,Age Group,75+,10663,County
+Stokes,Age Group,75+,4300,County
+Henderson,Age Group,75+,13625,County
+Gaston,Age Group,75+,14720,County
+Pasquotank,Age Group,75+,2749,County
+Cherokee,Age Group,75+,3608,County
+Macon,Age Group,75+,4531,County
+Perquimans,Age Group,75+,1606,County
+Rockingham,Age Group,75+,7916,County
+Wayne,Age Group,75+,8591,County
+Scotland,Age Group,75+,2637,County
+Franklin,Age Group,75+,4627,County
+Hoke,Age Group,75+,1986,County
+Hertford,Age Group,75+,2063,County
+Alexander,Age Group,75+,3231,County
+Edgecombe,Age Group,75+,4196,County
+Durham,Age Group,75+,16574,County
+Craven,Age Group,75+,8471,County
+Granville,Age Group,75+,4242,County
+Alleghany,Age Group,75+,1320,County
+Rowan,Age Group,75+,10555,County
+Swain,Age Group,75+,1175,County
+Yadkin,Age Group,75+,3364,County
+Halifax,Age Group,75+,4466,County
+Madison,Age Group,75+,1997,County
+Burke,Age Group,75+,8115,County
+Yancey,Age Group,75+,2029,County
+Onslow,Age Group,75+,7714,County
+Wilkes,Age Group,75+,6486,County
+Dare,Age Group,75+,2836,County
+Nash,Age Group,75+,7067,County
+Carteret,Age Group,75+,7027,County
+Bladen,Age Group,75+,2944,County
+New Hanover,Age Group,0-17,42661,County
+Surry,Age Group,0-17,14972,County
+Robeson,Age Group,0-17,32200,County
+Person,Age Group,0-17,8129,County
+Alamance,Age Group,0-17,37364,County
+Wilson,Age Group,0-17,18577,County
+Union,Age Group,0-17,63243,County
+Lincoln,Age Group,0-17,18130,County
+Lenoir,Age Group,0-17,12526,County
+Clay,Age Group,0-17,1879,County
+McDowell,Age Group,0-17,9139,County
+Davidson,Age Group,0-17,36324,County
+Stanly,Age Group,0-17,13524,County
+Lee,Age Group,0-17,14643,County
+Chatham,Age Group,0-17,14809,County
+Martin,Age Group,0-17,4523,County
+Tyrrell,Age Group,0-17,728,County
+Greene,Age Group,0-17,4185,County
+Cumberland,Age Group,0-17,82854,County
+Washington,Age Group,0-17,2306,County
+Camden,Age Group,0-17,2460,County
+Mitchell,Age Group,0-17,2735,County
+Wake,Age Group,0-17,262706,County
+Sampson,Age Group,0-17,15450,County
+Chowan,Age Group,0-17,2779,County
+Cleveland,Age Group,0-17,21443,County
+Beaufort,Age Group,0-17,9325,County
+Vance,Age Group,0-17,10443,County
+Davie,Age Group,0-17,8945,County
+Pender,Age Group,0-17,14002,County
+Watauga,Age Group,0-17,7155,County
+Graham,Age Group,0-17,1674,County
+Montgomery,Age Group,0-17,5907,County
+Caldwell,Age Group,0-17,16336,County
+Brunswick,Age Group,0-17,21025,County
+Duplin,Age Group,0-17,13981,County
+Hyde,Age Group,0-17,839,County
+Pamlico,Age Group,0-17,1921,County
+Buncombe,Age Group,0-17,47414,County
+Caswell,Age Group,0-17,4221,County
+Ashe,Age Group,0-17,4724,County
+Mecklenburg,Age Group,0-17,258277,County
+Jones,Age Group,0-17,1715,County
+Northampton,Age Group,0-17,3351,County
+Transylvania,Age Group,0-17,5286,County
+Polk,Age Group,0-17,3246,County
+Johnston,Age Group,0-17,52754,County
+Catawba,Age Group,0-17,34920,County
+Gates,Age Group,0-17,2332,County
+Avery,Age Group,0-17,2588,County
+Anson,Age Group,0-17,4838,County
+Columbus,Age Group,0-17,11495,County
+Haywood,Age Group,0-17,11349,County
+Orange,Age Group,0-17,28551,County
+Cabarrus,Age Group,0-17,54991,County
+Richmond,Age Group,0-17,10313,County
+Moore,Age Group,0-17,21552,County
+Harnett,Age Group,0-17,34986,County
+Jackson,Age Group,0-17,7217,County
+Guilford,Age Group,0-17,118934,County
+Iredell,Age Group,0-17,41183,County
+Forsyth,Age Group,0-17,86894,County
+Currituck,Age Group,0-17,6088,County
+Rutherford,Age Group,0-17,13607,County
+Warren,Age Group,0-17,3531,County
+Bertie,Age Group,0-17,3300,County
+Pitt,Age Group,0-17,38276,County
+Randolph,Age Group,0-17,31965,County
+Stokes,Age Group,0-17,8446,County
+Henderson,Age Group,0-17,21966,County
+Gaston,Age Group,0-17,50253,County
+Pasquotank,Age Group,0-17,8756,County
+Cherokee,Age Group,0-17,4735,County
+Macon,Age Group,0-17,6598,County
+Perquimans,Age Group,0-17,2506,County
+Rockingham,Age Group,0-17,18315,County
+Wayne,Age Group,0-17,29100,County
+Scotland,Age Group,0-17,8030,County
+Franklin,Age Group,0-17,15161,County
+Hoke,Age Group,0-17,14952,County
+Hertford,Age Group,0-17,4378,County
+Alexander,Age Group,0-17,7457,County
+Edgecombe,Age Group,0-17,11568,County
+Durham,Age Group,0-17,65659,County
+Craven,Age Group,0-17,21752,County
+Granville,Age Group,0-17,12385,County
+Alleghany,Age Group,0-17,1888,County
+Rowan,Age Group,0-17,31359,County
+Swain,Age Group,0-17,3134,County
+Yadkin,Age Group,0-17,7816,County
+Halifax,Age Group,0-17,10619,County
+Madison,Age Group,0-17,3816,County
+Burke,Age Group,0-17,16625,County
+Yancey,Age Group,0-17,3287,County
+Onslow,Age Group,0-17,48595,County
+Wilkes,Age Group,0-17,13784,County
+Dare,Age Group,0-17,6921,County
+Nash,Age Group,0-17,20533,County
+Carteret,Age Group,0-17,11936,County
+Bladen,Age Group,0-17,6645,County
+New Hanover,Age Group K-12,5-9,11740,County
+Surry,Age Group K-12,5-9,3943,County
+Robeson,Age Group K-12,5-9,9045,County
+Person,Age Group K-12,5-9,2210,County
+Alamance,Age Group K-12,5-9,10242,County
+Wilson,Age Group K-12,5-9,5005,County
+Union,Age Group K-12,5-9,16743,County
+Lincoln,Age Group K-12,5-9,4935,County
+Lenoir,Age Group K-12,5-9,3423,County
+Clay,Age Group K-12,5-9,475,County
+McDowell,Age Group K-12,5-9,2452,County
+Davidson,Age Group K-12,5-9,9692,County
+Stanly,Age Group K-12,5-9,3640,County
+Lee,Age Group K-12,5-9,4068,County
+Chatham,Age Group K-12,5-9,3948,County
+Martin,Age Group K-12,5-9,1217,County
+Tyrrell,Age Group K-12,5-9,202,County
+Greene,Age Group K-12,5-9,1140,County
+Cumberland,Age Group K-12,5-9,23494,County
+Washington,Age Group K-12,5-9,636,County
+Camden,Age Group K-12,5-9,687,County
+Mitchell,Age Group K-12,5-9,720,County
+Wake,Age Group K-12,5-9,72305,County
+Sampson,Age Group K-12,5-9,4193,County
+Chowan,Age Group K-12,5-9,743,County
+Cleveland,Age Group K-12,5-9,5790,County
+Beaufort,Age Group K-12,5-9,2551,County
+Vance,Age Group K-12,5-9,2907,County
+Davie,Age Group K-12,5-9,2448,County
+Pender,Age Group K-12,5-9,3874,County
+Watauga,Age Group K-12,5-9,1919,County
+Graham,Age Group K-12,5-9,441,County
+Montgomery,Age Group K-12,5-9,1578,County
+Caldwell,Age Group K-12,5-9,4334,County
+Brunswick,Age Group K-12,5-9,5845,County
+Duplin,Age Group K-12,5-9,3867,County
+Hyde,Age Group K-12,5-9,245,County
+Pamlico,Age Group K-12,5-9,492,County
+Buncombe,Age Group K-12,5-9,13056,County
+Caswell,Age Group K-12,5-9,1090,County
+Ashe,Age Group K-12,5-9,1307,County
+Mecklenburg,Age Group K-12,5-9,70277,County
+Jones,Age Group K-12,5-9,453,County
+Northampton,Age Group K-12,5-9,833,County
+Transylvania,Age Group K-12,5-9,1437,County
+Polk,Age Group K-12,5-9,810,County
+Johnston,Age Group K-12,5-9,14467,County
+Catawba,Age Group K-12,5-9,9450,County
+Gates,Age Group K-12,5-9,614,County
+Avery,Age Group K-12,5-9,681,County
+Anson,Age Group K-12,5-9,1285,County
+Columbus,Age Group K-12,5-9,3065,County
+Haywood,Age Group K-12,5-9,3076,County
+Orange,Age Group K-12,5-9,7848,County
+Cabarrus,Age Group K-12,5-9,15066,County
+Richmond,Age Group K-12,5-9,2850,County
+Moore,Age Group K-12,5-9,6008,County
+Harnett,Age Group K-12,5-9,10021,County
+Jackson,Age Group K-12,5-9,2053,County
+Guilford,Age Group K-12,5-9,32561,County
+Iredell,Age Group K-12,5-9,11031,County
+Forsyth,Age Group K-12,5-9,24095,County
+Currituck,Age Group K-12,5-9,1772,County
+Rutherford,Age Group K-12,5-9,3641,County
+Warren,Age Group K-12,5-9,938,County
+Bertie,Age Group K-12,5-9,880,County
+Pitt,Age Group K-12,5-9,10446,County
+Randolph,Age Group K-12,5-9,8611,County
+Stokes,Age Group K-12,5-9,2243,County
+Henderson,Age Group K-12,5-9,5930,County
+Gaston,Age Group K-12,5-9,13765,County
+Pasquotank,Age Group K-12,5-9,2345,County
+Cherokee,Age Group K-12,5-9,1231,County
+Macon,Age Group K-12,5-9,1775,County
+Perquimans,Age Group K-12,5-9,677,County
+Rockingham,Age Group K-12,5-9,5028,County
+Wayne,Age Group K-12,5-9,8130,County
+Scotland,Age Group K-12,5-9,2205,County
+Franklin,Age Group K-12,5-9,4031,County
+Hoke,Age Group K-12,5-9,4383,County
+Hertford,Age Group K-12,5-9,1185,County
+Alexander,Age Group K-12,5-9,1964,County
+Edgecombe,Age Group K-12,5-9,3155,County
+Durham,Age Group K-12,5-9,18190,County
+Craven,Age Group K-12,5-9,5982,County
+Granville,Age Group K-12,5-9,3269,County
+Alleghany,Age Group K-12,5-9,500,County
+Rowan,Age Group K-12,5-9,8114,County
+Swain,Age Group K-12,5-9,933,County
+Yadkin,Age Group K-12,5-9,2143,County
+Halifax,Age Group K-12,5-9,2799,County
+Madison,Age Group K-12,5-9,1016,County
+Burke,Age Group K-12,5-9,4307,County
+Yancey,Age Group K-12,5-9,861,County
+Onslow,Age Group K-12,5-9,13770,County
+Wilkes,Age Group K-12,5-9,3508,County
+Dare,Age Group K-12,5-9,1838,County
+Nash,Age Group K-12,5-9,5588,County
+Carteret,Age Group K-12,5-9,3262,County
+Bladen,Age Group K-12,5-9,1828,County
+New Hanover,Age Group,50-64,44550,County
+Surry,Age Group,50-64,15427,County
+Robeson,Age Group,50-64,24588,County
+Person,Age Group,50-64,8925,County
+Alamance,Age Group,50-64,33484,County
+Wilson,Age Group,50-64,16491,County
+Union,Age Group,50-64,47796,County
+Lincoln,Age Group,50-64,19732,County
+Lenoir,Age Group,50-64,11893,County
+Clay,Age Group,50-64,2536,County
+McDowell,Age Group,50-64,9913,County
+Davidson,Age Group,50-64,36684,County
+Stanly,Age Group,50-64,13008,County
+Lee,Age Group,50-64,12365,County
+Chatham,Age Group,50-64,16206,County
+Martin,Age Group,50-64,5036,County
+Tyrrell,Age Group,50-64,815,County
+Greene,Age Group,50-64,4262,County
+Cumberland,Age Group,50-64,52889,County
+Washington,Age Group,50-64,2615,County
+Camden,Age Group,50-64,2381,County
+Mitchell,Age Group,50-64,3311,County
+Wake,Age Group,50-64,202622,County
+Sampson,Age Group,50-64,12517,County
+Chowan,Age Group,50-64,3041,County
+Cleveland,Age Group,50-64,20649,County
+Beaufort,Age Group,50-64,10185,County
+Vance,Age Group,50-64,8995,County
+Davie,Age Group,50-64,9513,County
+Pender,Age Group,50-64,13669,County
+Watauga,Age Group,50-64,9658,County
+Graham,Age Group,50-64,1793,County
+Montgomery,Age Group,50-64,5721,County
+Caldwell,Age Group,50-64,18372,County
+Brunswick,Age Group,50-64,34193,County
+Duplin,Age Group,50-64,11566,County
+Hyde,Age Group,50-64,1104,County
+Pamlico,Age Group,50-64,3023,County
+Buncombe,Age Group,50-64,51929,County
+Caswell,Age Group,50-64,5124,County
+Ashe,Age Group,50-64,6197,County
+Mecklenburg,Age Group,50-64,193871,County
+Jones,Age Group,50-64,2249,County
+Northampton,Age Group,50-64,4540,County
+Transylvania,Age Group,50-64,7266,County
+Polk,Age Group,50-64,4828,County
+Johnston,Age Group,50-64,40693,County
+Catawba,Age Group,50-64,33526,County
+Gates,Age Group,50-64,2864,County
+Avery,Age Group,50-64,3682,County
+Anson,Age Group,50-64,4997,County
+Columbus,Age Group,50-64,11184,County
+Haywood,Age Group,50-64,13664,County
+Orange,Age Group,50-64,26769,County
+Cabarrus,Age Group,50-64,40415,County
+Richmond,Age Group,50-64,8835,County
+Moore,Age Group,50-64,19303,County
+Harnett,Age Group,50-64,23214,County
+Jackson,Age Group,50-64,7953,County
+Guilford,Age Group,50-64,101625,County
+Iredell,Age Group,50-64,38581,County
+Forsyth,Age Group,50-64,74911,County
+Currituck,Age Group,50-64,6598,County
+Rutherford,Age Group,50-64,14749,County
+Warren,Age Group,50-64,4457,County
+Bertie,Age Group,50-64,4177,County
+Pitt,Age Group,50-64,29946,County
+Randolph,Age Group,50-64,30765,County
+Stokes,Age Group,50-64,10934,County
+Henderson,Age Group,50-64,24697,County
+Gaston,Age Group,50-64,45520,County
+Pasquotank,Age Group,50-64,7838,County
+Cherokee,Age Group,50-64,6528,County
+Macon,Age Group,50-64,7680,County
+Perquimans,Age Group,50-64,3048,County
+Rockingham,Age Group,50-64,20795,County
+Wayne,Age Group,50-64,23685,County
+Scotland,Age Group,50-64,6509,County
+Franklin,Age Group,50-64,15223,County
+Hoke,Age Group,50-64,9212,County
+Hertford,Age Group,50-64,5044,County
+Alexander,Age Group,50-64,8090,County
+Edgecombe,Age Group,50-64,10710,County
+Durham,Age Group,50-64,55578,County
+Craven,Age Group,50-64,18283,County
+Granville,Age Group,50-64,13559,County
+Alleghany,Age Group,50-64,2588,County
+Rowan,Age Group,50-64,29528,County
+Swain,Age Group,50-64,2831,County
+Yadkin,Age Group,50-64,8487,County
+Halifax,Age Group,50-64,10900,County
+Madison,Age Group,50-64,4501,County
+Burke,Age Group,50-64,20484,County
+Yancey,Age Group,50-64,3864,County
+Onslow,Age Group,50-64,23828,County
+Wilkes,Age Group,50-64,14814,County
+Dare,Age Group,50-64,9146,County
+Nash,Age Group,50-64,19627,County
+Carteret,Age Group,50-64,16603,County
+Bladen,Age Group,50-64,7019,County
+New Hanover,Age Group,18-24,29390,County
+Surry,Age Group,18-24,5614,County
+Robeson,Age Group,18-24,13200,County
+Person,Age Group,18-24,2913,County
+Alamance,Age Group,18-24,17888,County
+Wilson,Age Group,18-24,7081,County
+Union,Age Group,18-24,22138,County
+Lincoln,Age Group,18-24,6250,County
+Lenoir,Age Group,18-24,4445,County
+Clay,Age Group,18-24,657,County
+McDowell,Age Group,18-24,3381,County
+Davidson,Age Group,18-24,12768,County
+Stanly,Age Group,18-24,5084,County
+Lee,Age Group,18-24,5032,County
+Chatham,Age Group,18-24,4656,County
+Martin,Age Group,18-24,1572,County
+Tyrrell,Age Group,18-24,298,County
+Greene,Age Group,18-24,1782,County
+Cumberland,Age Group,18-24,44179,County
+Washington,Age Group,18-24,852,County
+Camden,Age Group,18-24,725,County
+Mitchell,Age Group,18-24,944,County
+Wake,Age Group,18-24,100823,County
+Sampson,Age Group,18-24,5262,County
+Chowan,Age Group,18-24,960,County
+Cleveland,Age Group,18-24,8645,County
+Beaufort,Age Group,18-24,3257,County
+Vance,Age Group,18-24,3771,County
+Davie,Age Group,18-24,3136,County
+Pender,Age Group,18-24,4295,County
+Watauga,Age Group,18-24,15618,County
+Graham,Age Group,18-24,600,County
+Montgomery,Age Group,18-24,2247,County
+Caldwell,Age Group,18-24,6212,County
+Brunswick,Age Group,18-24,7531,County
+Duplin,Age Group,18-24,4746,County
+Hyde,Age Group,18-24,329,County
+Pamlico,Age Group,18-24,733,County
+Buncombe,Age Group,18-24,19924,County
+Caswell,Age Group,18-24,1564,County
+Ashe,Age Group,18-24,1718,County
+Mecklenburg,Age Group,18-24,99851,County
+Jones,Age Group,18-24,617,County
+Northampton,Age Group,18-24,1280,County
+Transylvania,Age Group,18-24,2557,County
+Polk,Age Group,18-24,1269,County
+Johnston,Age Group,18-24,16384,County
+Catawba,Age Group,18-24,13426,County
+Gates,Age Group,18-24,797,County
+Avery,Age Group,18-24,1647,County
+Anson,Age Group,18-24,1989,County
+Columbus,Age Group,18-24,4617,County
+Haywood,Age Group,18-24,3892,County
+Orange,Age Group,18-24,27371,County
+Cabarrus,Age Group,18-24,17428,County
+Richmond,Age Group,18-24,3899,County
+Moore,Age Group,18-24,6252,County
+Harnett,Age Group,18-24,11896,County
+Jackson,Age Group,18-24,8157,County
+Guilford,Age Group,18-24,58700,County
+Iredell,Age Group,18-24,14465,County
+Forsyth,Age Group,18-24,37038,County
+Currituck,Age Group,18-24,1878,County
+Rutherford,Age Group,18-24,4996,County
+Warren,Age Group,18-24,1346,County
+Bertie,Age Group,18-24,1458,County
+Pitt,Age Group,18-24,31046,County
+Randolph,Age Group,18-24,11487,County
+Stokes,Age Group,18-24,3251,County
+Henderson,Age Group,18-24,7446,County
+Gaston,Age Group,18-24,17948,County
+Pasquotank,Age Group,18-24,3855,County
+Cherokee,Age Group,18-24,1684,County
+Macon,Age Group,18-24,2316,County
+Perquimans,Age Group,18-24,805,County
+Rockingham,Age Group,18-24,6700,County
+Wayne,Age Group,18-24,11769,County
+Scotland,Age Group,18-24,3229,County
+Franklin,Age Group,18-24,5779,County
+Hoke,Age Group,18-24,4355,County
+Hertford,Age Group,18-24,2566,County
+Alexander,Age Group,18-24,2719,County
+Edgecombe,Age Group,18-24,4052,County
+Durham,Age Group,18-24,32135,County
+Craven,Age Group,18-24,11987,County
+Granville,Age Group,18-24,4943,County
+Alleghany,Age Group,18-24,689,County
+Rowan,Age Group,18-24,12250,County
+Swain,Age Group,18-24,1182,County
+Yadkin,Age Group,18-24,2827,County
+Halifax,Age Group,18-24,3679,County
+Madison,Age Group,18-24,2100,County
+Burke,Age Group,18-24,7631,County
+Yancey,Age Group,18-24,1210,County
+Onslow,Age Group,18-24,40969,County
+Wilkes,Age Group,18-24,5174,County
+Dare,Age Group,18-24,2279,County
+Nash,Age Group,18-24,8304,County
+Carteret,Age Group,18-24,4362,County
+Bladen,Age Group,18-24,2429,County
+New Hanover,Race,Asian or Pacific Islander,4460,County
+Surry,Race,Asian or Pacific Islander,681,County
+Robeson,Race,Asian or Pacific Islander,1172,County
+Person,Race,Asian or Pacific Islander,211,County
+Alamance,Race,Asian or Pacific Islander,3416,County
+Wilson,Race,Asian or Pacific Islander,1221,County
+Union,Race,Asian or Pacific Islander,9443,County
+Lincoln,Race,Asian or Pacific Islander,865,County
+Lenoir,Race,Asian or Pacific Islander,577,County
+Clay,Race,Asian or Pacific Islander,62,County
+McDowell,Race,Asian or Pacific Islander,528,County
+Davidson,Race,Asian or Pacific Islander,3065,County
+Stanly,Race,Asian or Pacific Islander,1470,County
+Lee,Race,Asian or Pacific Islander,1052,County
+Chatham,Race,Asian or Pacific Islander,1886,County
+Martin,Race,Asian or Pacific Islander,169,County
+Tyrrell,Race,Asian or Pacific Islander,82,County
+Greene,Race,Asian or Pacific Islander,184,County
+Cumberland,Race,Asian or Pacific Islander,12184,County
+Washington,Race,Asian or Pacific Islander,52,County
+Camden,Race,Asian or Pacific Islander,256,County
+Mitchell,Race,Asian or Pacific Islander,134,County
+Wake,Race,Asian or Pacific Islander,89941,County
+Sampson,Race,Asian or Pacific Islander,639,County
+Chowan,Race,Asian or Pacific Islander,155,County
+Cleveland,Race,Asian or Pacific Islander,1155,County
+Beaufort,Race,Asian or Pacific Islander,318,County
+Vance,Race,Asian or Pacific Islander,394,County
+Davie,Race,Asian or Pacific Islander,421,County
+Pender,Race,Asian or Pacific Islander,561,County
+Watauga,Race,Asian or Pacific Islander,736,County
+Graham,Race,Asian or Pacific Islander,61,County
+Montgomery,Race,Asian or Pacific Islander,480,County
+Caldwell,Race,Asian or Pacific Islander,780,County
+Brunswick,Race,Asian or Pacific Islander,1400,County
+Duplin,Race,Asian or Pacific Islander,716,County
+Hyde,Race,Asian or Pacific Islander,34,County
+Pamlico,Race,Asian or Pacific Islander,105,County
+Buncombe,Race,Asian or Pacific Islander,4567,County
+Caswell,Race,Asian or Pacific Islander,153,County
+Ashe,Race,Asian or Pacific Islander,164,County
+Mecklenburg,Race,Asian or Pacific Islander,74255,County
+Jones,Race,Asian or Pacific Islander,57,County
+Northampton,Race,Asian or Pacific Islander,66,County
+Transylvania,Race,Asian or Pacific Islander,275,County
+Polk,Race,Asian or Pacific Islander,188,County
+Johnston,Race,Asian or Pacific Islander,2527,County
+Catawba,Race,Asian or Pacific Islander,7592,County
+Gates,Race,Asian or Pacific Islander,60,County
+Avery,Race,Asian or Pacific Islander,129,County
+Anson,Race,Asian or Pacific Islander,381,County
+Columbus,Race,Asian or Pacific Islander,384,County
+Haywood,Race,Asian or Pacific Islander,437,County
+Orange,Race,Asian or Pacific Islander,12639,County
+Cabarrus,Race,Asian or Pacific Islander,10978,County
+Richmond,Race,Asian or Pacific Islander,561,County
+Moore,Race,Asian or Pacific Islander,1897,County
+Harnett,Race,Asian or Pacific Islander,2400,County
+Jackson,Race,Asian or Pacific Islander,530,County
+Guilford,Race,Asian or Pacific Islander,29971,County
+Iredell,Race,Asian or Pacific Islander,5336,County
+Forsyth,Race,Asian or Pacific Islander,10941,County
+Currituck,Race,Asian or Pacific Islander,331,County
+Rutherford,Race,Asian or Pacific Islander,520,County
+Warren,Race,Asian or Pacific Islander,98,County
+Bertie,Race,Asian or Pacific Islander,168,County
+Pitt,Race,Asian or Pacific Islander,4496,County
+Randolph,Race,Asian or Pacific Islander,2483,County
+Stokes,Race,Asian or Pacific Islander,217,County
+Henderson,Race,Asian or Pacific Islander,1881,County
+Gaston,Race,Asian or Pacific Islander,4229,County
+Pasquotank,Race,Asian or Pacific Islander,727,County
+Cherokee,Race,Asian or Pacific Islander,239,County
+Macon,Race,Asian or Pacific Islander,412,County
+Perquimans,Race,Asian or Pacific Islander,76,County
+Rockingham,Race,Asian or Pacific Islander,796,County
+Wayne,Race,Asian or Pacific Islander,2170,County
+Scotland,Race,Asian or Pacific Islander,368,County
+Franklin,Race,Asian or Pacific Islander,674,County
+Hoke,Race,Asian or Pacific Islander,1200,County
+Hertford,Race,Asian or Pacific Islander,206,County
+Alexander,Race,Asian or Pacific Islander,425,County
+Edgecombe,Race,Asian or Pacific Islander,255,County
+Durham,Race,Asian or Pacific Islander,18818,County
+Craven,Race,Asian or Pacific Islander,3476,County
+Granville,Race,Asian or Pacific Islander,541,County
+Alleghany,Race,Asian or Pacific Islander,99,County
+Rowan,Race,Asian or Pacific Islander,2101,County
+Swain,Race,Asian or Pacific Islander,122,County
+Yadkin,Race,Asian or Pacific Islander,233,County
+Halifax,Race,Asian or Pacific Islander,488,County
+Madison,Race,Asian or Pacific Islander,134,County
+Burke,Race,Asian or Pacific Islander,4016,County
+Yancey,Race,Asian or Pacific Islander,113,County
+Onslow,Race,Asian or Pacific Islander,6224,County
+Wilkes,Race,Asian or Pacific Islander,508,County
+Dare,Race,Asian or Pacific Islander,382,County
+Nash,Race,Asian or Pacific Islander,1111,County
+Carteret,Race,Asian or Pacific Islander,1106,County
+Bladen,Race,Asian or Pacific Islander,137,County
+New Hanover,Sex,Female,122910,County
+Surry,Sex,Female,36828,County
+Robeson,Sex,Female,67702,County
+Person,Sex,Female,20397,County
+Alamance,Sex,Female,88976,County
+Wilson,Sex,Female,43018,County
+Union,Sex,Female,121704,County
+Lincoln,Sex,Female,43360,County
+Lenoir,Sex,Female,29212,County
+Clay,Sex,Female,5772,County
+McDowell,Sex,Female,22958,County
+Davidson,Sex,Female,85618,County
+Stanly,Sex,Female,31451,County
+Lee,Sex,Female,31638,County
+Chatham,Sex,Female,38853,County
+Martin,Sex,Female,11896,County
+Tyrrell,Sex,Female,1749,County
+Greene,Sex,Female,9529,County
+Cumberland,Sex,Female,169070,County
+Washington,Sex,Female,6112,County
+Camden,Sex,Female,5441,County
+Mitchell,Sex,Female,7572,County
+Wake,Sex,Female,570996,County
+Sampson,Sex,Female,32286,County
+Chowan,Sex,Female,7311,County
+Cleveland,Sex,Female,50854,County
+Beaufort,Sex,Female,24672,County
+Vance,Sex,Female,23755,County
+Davie,Sex,Female,21924,County
+Pender,Sex,Female,31660,County
+Watauga,Sex,Female,28185,County
+Graham,Sex,Female,4221,County
+Montgomery,Sex,Female,13876,County
+Caldwell,Sex,Female,41534,County
+Brunswick,Sex,Female,74655,County
+Duplin,Sex,Female,30050,County
+Hyde,Sex,Female,2299,County
+Pamlico,Sex,Female,6247,County
+Buncombe,Sex,Female,135971,County
+Caswell,Sex,Female,11117,County
+Ashe,Sex,Female,13872,County
+Mecklenburg,Sex,Female,576686,County
+Jones,Sex,Female,4845,County
+Northampton,Sex,Female,9946,County
+Transylvania,Sex,Female,17822,County
+Polk,Sex,Female,10801,County
+Johnston,Sex,Female,106762,County
+Catawba,Sex,Female,81563,County
+Gates,Sex,Female,5837,County
+Avery,Sex,Female,8044,County
+Anson,Sex,Female,11914,County
+Columbus,Sex,Female,27960,County
+Haywood,Sex,Female,32216,County
+Orange,Sex,Female,77617,County
+Cabarrus,Sex,Female,110872,County
+Richmond,Sex,Female,22859,County
+Moore,Sex,Female,52115,County
+Harnett,Sex,Female,68717,County
+Jackson,Sex,Female,22321,County
+Guilford,Sex,Female,282962,County
+Iredell,Sex,Female,92318,County
+Forsyth,Sex,Female,201462,County
+Currituck,Sex,Female,13926,County
+Rutherford,Sex,Female,34676,County
+Warren,Sex,Female,9968,County
+Bertie,Sex,Female,9333,County
+Pitt,Sex,Female,95962,County
+Randolph,Sex,Female,72812,County
+Stokes,Sex,Female,23270,County
+Henderson,Sex,Female,61018,County
+Gaston,Sex,Female,116157,County
+Pasquotank,Sex,Female,20337,County
+Cherokee,Sex,Female,14668,County
+Macon,Sex,Female,18460,County
+Perquimans,Sex,Female,7018,County
+Rockingham,Sex,Female,47085,County
+Wayne,Sex,Female,63159,County
+Scotland,Sex,Female,17562,County
+Franklin,Sex,Female,35169,County
+Hoke,Sex,Female,27994,County
+Hertford,Sex,Female,11896,County
+Alexander,Sex,Female,18388,County
+Edgecombe,Sex,Female,27715,County
+Durham,Sex,Female,168064,County
+Craven,Sex,Female,50570,County
+Granville,Sex,Female,29751,County
+Alleghany,Sex,Female,5618,County
+Rowan,Sex,Female,71925,County
+Swain,Sex,Female,7430,County
+Yadkin,Sex,Female,19013,County
+Halifax,Sex,Female,25911,County
+Madison,Sex,Female,11033,County
+Burke,Sex,Female,45208,County
+Yancey,Sex,Female,9179,County
+Onslow,Sex,Female,89206,County
+Wilkes,Sex,Female,34800,County
+Dare,Sex,Female,18856,County
+Nash,Sex,Female,49155,County
+Carteret,Sex,Female,35449,County
+Bladen,Sex,Female,17189,County
+New Hanover,Sex,Male,111563,County
+Surry,Sex,Male,34955,County
+Robeson,Sex,Male,62923,County
+Person,Sex,Male,19093,County
+Alamance,Sex,Male,80533,County
+Wilson,Sex,Male,38783,County
+Union,Sex,Male,118155,County
+Lincoln,Sex,Male,42751,County
+Lenoir,Sex,Male,26737,County
+Clay,Sex,Male,5459,County
+McDowell,Sex,Male,22798,County
+Davidson,Sex,Male,81991,County
+Stanly,Sex,Male,31355,County
+Lee,Sex,Male,30141,County
+Chatham,Sex,Male,35617,County
+Martin,Sex,Male,10544,County
+Tyrrell,Sex,Male,2267,County
+Greene,Sex,Male,11540,County
+Cumberland,Sex,Male,166439,County
+Washington,Sex,Male,5468,County
+Camden,Sex,Male,5426,County
+Mitchell,Sex,Male,7392,County
+Wake,Sex,Male,540765,County
+Sampson,Sex,Male,31245,County
+Chowan,Sex,Male,6632,County
+Cleveland,Sex,Male,47093,County
+Beaufort,Sex,Male,22322,County
+Vance,Sex,Male,20780,County
+Davie,Sex,Male,20922,County
+Pender,Sex,Male,31400,County
+Watauga,Sex,Male,27992,County
+Graham,Sex,Male,4220,County
+Montgomery,Sex,Male,13297,County
+Caldwell,Sex,Male,40644,County
+Brunswick,Sex,Male,68165,County
+Duplin,Sex,Male,28691,County
+Hyde,Sex,Male,2638,County
+Pamlico,Sex,Male,6479,County
+Buncombe,Sex,Male,125220,County
+Caswell,Sex,Male,11487,County
+Ashe,Sex,Male,13331,County
+Mecklenburg,Sex,Male,533670,County
+Jones,Sex,Male,4574,County
+Northampton,Sex,Male,9537,County
+Transylvania,Sex,Male,16563,County
+Polk,Sex,Male,9923,County
+Johnston,Sex,Male,102577,County
+Catawba,Sex,Male,77988,County
+Gates,Sex,Male,5725,County
+Avery,Sex,Male,9513,County
+Anson,Sex,Male,12532,County
+Columbus,Sex,Male,27548,County
+Haywood,Sex,Male,30101,County
+Orange,Sex,Male,70859,County
+Cabarrus,Sex,Male,105581,County
+Richmond,Sex,Male,21970,County
+Moore,Sex,Male,48765,County
+Harnett,Sex,Male,67259,County
+Jackson,Sex,Male,21617,County
+Guilford,Sex,Male,254212,County
+Iredell,Sex,Male,89488,County
+Forsyth,Sex,Male,180833,County
+Currituck,Sex,Male,13837,County
+Rutherford,Sex,Male,32353,County
+Warren,Sex,Male,9763,County
+Bertie,Sex,Male,9614,County
+Pitt,Sex,Male,84780,County
+Randolph,Sex,Male,70855,County
+Stokes,Sex,Male,22321,County
+Henderson,Sex,Male,56399,County
+Gaston,Sex,Male,108372,County
+Pasquotank,Sex,Male,19487,County
+Cherokee,Sex,Male,13944,County
+Macon,Sex,Male,17398,County
+Perquimans,Sex,Male,6445,County
+Rockingham,Sex,Male,43925,County
+Wayne,Sex,Male,59972,County
+Scotland,Sex,Male,17261,County
+Franklin,Sex,Male,34516,County
+Hoke,Sex,Male,27240,County
+Hertford,Sex,Male,11781,County
+Alexander,Sex,Male,19109,County
+Edgecombe,Sex,Male,23757,County
+Durham,Sex,Male,153424,County
+Craven,Sex,Male,51569,County
+Granville,Sex,Male,30692,County
+Alleghany,Sex,Male,5519,County
+Rowan,Sex,Male,70163,County
+Swain,Sex,Male,6841,County
+Yadkin,Sex,Male,18654,County
+Halifax,Sex,Male,24099,County
+Madison,Sex,Male,10722,County
+Burke,Sex,Male,45277,County
+Yancey,Sex,Male,8890,County
+Onslow,Sex,Male,108732,County
+Wilkes,Sex,Male,33612,County
+Dare,Sex,Male,18153,County
+Nash,Sex,Male,45143,County
+Carteret,Sex,Male,34024,County
+Bladen,Sex,Male,15533,County
+New Hanover,Ethnicity,Hispanic,13610,County
+Surry,Ethnicity,Hispanic,7963,County
+Robeson,Ethnicity,Hispanic,12048,County
+Person,Ethnicity,Hispanic,1785,County
+Alamance,Ethnicity,Hispanic,22130,County
+Wilson,Ethnicity,Hispanic,8819,County
+Union,Ethnicity,Hispanic,27515,County
+Lincoln,Ethnicity,Hispanic,6480,County
+Lenoir,Ethnicity,Hispanic,4422,County
+Clay,Ethnicity,Hispanic,434,County
+McDowell,Ethnicity,Hispanic,2920,County
+Davidson,Ethnicity,Hispanic,12450,County
+Stanly,Ethnicity,Hispanic,2786,County
+Lee,Ethnicity,Hispanic,12105,County
+Chatham,Ethnicity,Hispanic,9026,County
+Martin,Ethnicity,Hispanic,916,County
+Tyrrell,Ethnicity,Hispanic,376,County
+Greene,Ethnicity,Hispanic,3308,County
+Cumberland,Ethnicity,Hispanic,40572,County
+Washington,Ethnicity,Hispanic,653,County
+Camden,Ethnicity,Hispanic,327,County
+Mitchell,Ethnicity,Hispanic,923,County
+Wake,Ethnicity,Hispanic,115531,County
+Sampson,Ethnicity,Hispanic,13057,County
+Chowan,Ethnicity,Hispanic,522,County
+Cleveland,Ethnicity,Hispanic,3690,County
+Beaufort,Ethnicity,Hispanic,3769,County
+Vance,Ethnicity,Hispanic,3675,County
+Davie,Ethnicity,Hispanic,3107,County
+Pender,Ethnicity,Hispanic,4742,County
+Watauga,Ethnicity,Hispanic,2261,County
+Graham,Ethnicity,Hispanic,316,County
+Montgomery,Ethnicity,Hispanic,4231,County
+Caldwell,Ethnicity,Hispanic,4854,County
+Brunswick,Ethnicity,Hispanic,7042,County
+Duplin,Ethnicity,Hispanic,13517,County
+Hyde,Ethnicity,Hispanic,485,County
+Pamlico,Ethnicity,Hispanic,542,County
+Buncombe,Ethnicity,Hispanic,17870,County
+Caswell,Ethnicity,Hispanic,1035,County
+Ashe,Ethnicity,Hispanic,1390,County
+Mecklenburg,Ethnicity,Hispanic,152925,County
+Jones,Ethnicity,Hispanic,484,County
+Northampton,Ethnicity,Hispanic,513,County
+Transylvania,Ethnicity,Hispanic,1168,County
+Polk,Ethnicity,Hispanic,1223,County
+Johnston,Ethnicity,Hispanic,29475,County
+Catawba,Ethnicity,Hispanic,16175,County
+Gates,Ethnicity,Hispanic,276,County
+Avery,Ethnicity,Hispanic,887,County
+Anson,Ethnicity,Hispanic,1006,County
+Columbus,Ethnicity,Hispanic,3094,County
+Haywood,Ethnicity,Hispanic,2672,County
+Orange,Ethnicity,Hispanic,12816,County
+Cabarrus,Ethnicity,Hispanic,24034,County
+Richmond,Ethnicity,Hispanic,3052,County
+Moore,Ethnicity,Hispanic,7156,County
+Harnett,Ethnicity,Hispanic,18178,County
+Jackson,Ethnicity,Hispanic,2746,County
+Guilford,Ethnicity,Hispanic,45191,County
+Iredell,Ethnicity,Hispanic,14603,County
+Forsyth,Ethnicity,Hispanic,50828,County
+Currituck,Ethnicity,Hispanic,1212,County
+Rutherford,Ethnicity,Hispanic,3225,County
+Warren,Ethnicity,Hispanic,773,County
+Bertie,Ethnicity,Hispanic,446,County
+Pitt,Ethnicity,Hispanic,11730,County
+Randolph,Ethnicity,Hispanic,17224,County
+Stokes,Ethnicity,Hispanic,1507,County
+Henderson,Ethnicity,Hispanic,12137,County
+Gaston,Ethnicity,Hispanic,17014,County
+Pasquotank,Ethnicity,Hispanic,2300,County
+Cherokee,Ethnicity,Hispanic,937,County
+Macon,Ethnicity,Hispanic,2641,County
+Perquimans,Ethnicity,Hispanic,370,County
+Rockingham,Ethnicity,Hispanic,5760,County
+Wayne,Ethnicity,Hispanic,15327,County
+Scotland,Ethnicity,Hispanic,1150,County
+Franklin,Ethnicity,Hispanic,6253,County
+Hoke,Ethnicity,Hispanic,7695,County
+Hertford,Ethnicity,Hispanic,982,County
+Alexander,Ethnicity,Hispanic,1788,County
+Edgecombe,Ethnicity,Hispanic,2553,County
+Durham,Ethnicity,Hispanic,43928,County
+Craven,Ethnicity,Hispanic,7770,County
+Granville,Ethnicity,Hispanic,5147,County
+Alleghany,Ethnicity,Hispanic,1097,County
+Rowan,Ethnicity,Hispanic,13400,County
+Swain,Ethnicity,Hispanic,822,County
+Yadkin,Ethnicity,Hispanic,4338,County
+Halifax,Ethnicity,Hispanic,1558,County
+Madison,Ethnicity,Hispanic,532,County
+Burke,Ethnicity,Hispanic,5855,County
+Yancey,Ethnicity,Hispanic,998,County
+Onslow,Ethnicity,Hispanic,25521,County
+Wilkes,Ethnicity,Hispanic,4728,County
+Dare,Ethnicity,Hispanic,2861,County
+Nash,Ethnicity,Hispanic,6940,County
+Carteret,Ethnicity,Hispanic,3067,County
+Bladen,Ethnicity,Hispanic,2538,County
+New Hanover,Race,American Indian or Alaskan Native,1471,County
+Surry,Race,American Indian or Alaskan Native,495,County
+Robeson,Race,American Indian or Alaskan Native,56681,County
+Person,Race,American Indian or Alaskan Native,360,County
+Alamance,Race,American Indian or Alaskan Native,2582,County
+Wilson,Race,American Indian or Alaskan Native,589,County
+Union,Race,American Indian or Alaskan Native,1697,County
+Lincoln,Race,American Indian or Alaskan Native,440,County
+Lenoir,Race,American Indian or Alaskan Native,398,County
+Clay,Race,American Indian or Alaskan Native,79,County
+McDowell,Race,American Indian or Alaskan Native,395,County
+Davidson,Race,American Indian or Alaskan Native,1439,County
+Stanly,Race,American Indian or Alaskan Native,301,County
+Lee,Race,American Indian or Alaskan Native,896,County
+Chatham,Race,American Indian or Alaskan Native,901,County
+Martin,Race,American Indian or Alaskan Native,130,County
+Tyrrell,Race,American Indian or Alaskan Native,38,County
+Greene,Race,American Indian or Alaskan Native,483,County
+Cumberland,Race,American Indian or Alaskan Native,7126,County
+Washington,Race,American Indian or Alaskan Native,114,County
+Camden,Race,American Indian or Alaskan Native,65,County
+Mitchell,Race,American Indian or Alaskan Native,145,County
+Wake,Race,American Indian or Alaskan Native,9536,County
+Sampson,Race,American Indian or Alaskan Native,2540,County
+Chowan,Race,American Indian or Alaskan Native,66,County
+Cleveland,Race,American Indian or Alaskan Native,400,County
+Beaufort,Race,American Indian or Alaskan Native,497,County
+Vance,Race,American Indian or Alaskan Native,476,County
+Davie,Race,American Indian or Alaskan Native,304,County
+Pender,Race,American Indian or Alaskan Native,649,County
+Watauga,Race,American Indian or Alaskan Native,258,County
+Graham,Race,American Indian or Alaskan Native,712,County
+Montgomery,Race,American Indian or Alaskan Native,324,County
+Caldwell,Race,American Indian or Alaskan Native,540,County
+Brunswick,Race,American Indian or Alaskan Native,1315,County
+Duplin,Race,American Indian or Alaskan Native,854,County
+Hyde,Race,American Indian or Alaskan Native,41,County
+Pamlico,Race,American Indian or Alaskan Native,102,County
+Buncombe,Race,American Indian or Alaskan Native,1557,County
+Caswell,Race,American Indian or Alaskan Native,178,County
+Ashe,Race,American Indian or Alaskan Native,116,County
+Mecklenburg,Race,American Indian or Alaskan Native,10056,County
+Jones,Race,American Indian or Alaskan Native,104,County
+Northampton,Race,American Indian or Alaskan Native,141,County
+Transylvania,Race,American Indian or Alaskan Native,160,County
+Polk,Race,American Indian or Alaskan Native,129,County
+Johnston,Race,American Indian or Alaskan Native,2164,County
+Catawba,Race,American Indian or Alaskan Native,994,County
+Gates,Race,American Indian or Alaskan Native,78,County
+Avery,Race,American Indian or Alaskan Native,106,County
+Anson,Race,American Indian or Alaskan Native,239,County
+Columbus,Race,American Indian or Alaskan Native,2248,County
+Haywood,Race,American Indian or Alaskan Native,481,County
+Orange,Race,American Indian or Alaskan Native,992,County
+Cabarrus,Race,American Indian or Alaskan Native,1748,County
+Richmond,Race,American Indian or Alaskan Native,1584,County
+Moore,Race,American Indian or Alaskan Native,1155,County
+Harnett,Race,American Indian or Alaskan Native,2692,County
+Jackson,Race,American Indian or Alaskan Native,4240,County
+Guilford,Race,American Indian or Alaskan Native,4610,County
+Iredell,Race,American Indian or Alaskan Native,1137,County
+Forsyth,Race,American Indian or Alaskan Native,3706,County
+Currituck,Race,American Indian or Alaskan Native,207,County
+Rutherford,Race,American Indian or Alaskan Native,281,County
+Warren,Race,American Indian or Alaskan Native,1185,County
+Bertie,Race,American Indian or Alaskan Native,143,County
+Pitt,Race,American Indian or Alaskan Native,1041,County
+Randolph,Race,American Indian or Alaskan Native,1787,County
+Stokes,Race,American Indian or Alaskan Native,216,County
+Henderson,Race,American Indian or Alaskan Native,915,County
+Gaston,Race,American Indian or Alaskan Native,1488,County
+Pasquotank,Race,American Indian or Alaskan Native,304,County
+Cherokee,Race,American Indian or Alaskan Native,542,County
+Macon,Race,American Indian or Alaskan Native,314,County
+Perquimans,Race,American Indian or Alaskan Native,69,County
+Rockingham,Race,American Indian or Alaskan Native,599,County
+Wayne,Race,American Indian or Alaskan Native,1115,County
+Scotland,Race,American Indian or Alaskan Native,4696,County
+Franklin,Race,American Indian or Alaskan Native,693,County
+Hoke,Race,American Indian or Alaskan Native,5549,County
+Hertford,Race,American Indian or Alaskan Native,334,County
+Alexander,Race,American Indian or Alaskan Native,199,County
+Edgecombe,Race,American Indian or Alaskan Native,404,County
+Durham,Race,American Indian or Alaskan Native,3236,County
+Craven,Race,American Indian or Alaskan Native,811,County
+Granville,Race,American Indian or Alaskan Native,593,County
+Alleghany,Race,American Indian or Alaskan Native,59,County
+Rowan,Race,American Indian or Alaskan Native,1009,County
+Swain,Race,American Indian or Alaskan Native,4593,County
+Yadkin,Race,American Indian or Alaskan Native,277,County
+Halifax,Race,American Indian or Alaskan Native,2119,County
+Madison,Race,American Indian or Alaskan Native,112,County
+Burke,Race,American Indian or Alaskan Native,851,County
+Yancey,Race,American Indian or Alaskan Native,137,County
+Onslow,Race,American Indian or Alaskan Native,2127,County
+Wilkes,Race,American Indian or Alaskan Native,295,County
+Dare,Race,American Indian or Alaskan Native,216,County
+Nash,Race,American Indian or Alaskan Native,1028,County
+Carteret,Race,American Indian or Alaskan Native,486,County
+Bladen,Race,American Indian or Alaskan Native,1085,County
+New Hanover,Race,White,195508,County
+Surry,Race,White,67277,County
+Robeson,Race,White,41004,County
+Person,Race,White,27945,County
+Alamance,Race,White,126697,County
+Wilson,Race,White,46204,County
+Union,Race,White,197444,County
+Lincoln,Race,White,79516,County
+Lenoir,Race,White,31354,County
+Clay,Race,White,10892,County
+McDowell,Race,White,42691,County
+Davidson,Race,White,145390,County
+Stanly,Race,White,53519,County
+Lee,Race,White,46914,County
+Chatham,Race,White,61972,County
+Martin,Race,White,12510,County
+Tyrrell,Race,White,2313,County
+Greene,Race,White,12511,County
+Cumberland,Race,White,177124,County
+Washington,Race,White,5598,County
+Camden,Race,White,9161,County
+Mitchell,Race,White,14504,County
+Wake,Race,White,768917,County
+Sampson,Race,White,42923,County
+Chowan,Race,White,8818,County
+Cleveland,Race,White,75205,County
+Beaufort,Race,White,34185,County
+Vance,Race,White,20309,County
+Davie,Race,White,39074,County
+Pender,Race,White,52106,County
+Watauga,Race,White,53924,County
+Graham,Race,White,7577,County
+Montgomery,Race,White,20997,County
+Caldwell,Race,White,76155,County
+Brunswick,Race,White,125024,County
+Duplin,Race,White,41832,County
+Hyde,Race,White,3509,County
+Pamlico,Race,White,9999,County
+Buncombe,Race,White,237081,County
+Caswell,Race,White,14766,County
+Ashe,Race,White,26560,County
+Mecklenburg,Race,White,649604,County
+Jones,Race,White,6404,County
+Northampton,Race,White,7962,County
+Transylvania,Race,White,32519,County
+Polk,Race,White,19413,County
+Johnston,Race,White,167584,County
+Catawba,Race,White,135659,County
+Gates,Race,White,7666,County
+Avery,Race,White,16439,County
+Anson,Race,White,11754,County
+Columbus,Race,White,35496,County
+Haywood,Race,White,60364,County
+Orange,Race,White,116411,County
+Cabarrus,Race,White,159694,County
+Richmond,Race,White,27987,County
+Moore,Race,White,85016,County
+Harnett,Race,White,99203,County
+Jackson,Race,White,37943,County
+Guilford,Race,White,306101,County
+Iredell,Race,White,151616,County
+Forsyth,Race,White,258869,County
+Currituck,Race,White,25506,County
+Rutherford,Race,White,59075,County
+Warren,Race,White,8107,County
+Bertie,Race,White,6915,County
+Pitt,Race,White,108463,County
+Randolph,Race,White,129179,County
+Stokes,Race,White,43119,County
+Henderson,Race,White,110015,County
+Gaston,Race,White,177187,County
+Pasquotank,Race,White,23700,County
+Cherokee,Race,White,27254,County
+Macon,Race,White,34389,County
+Perquimans,Race,White,10157,County
+Rockingham,Race,White,71555,County
+Wayne,Race,White,78713,County
+Scotland,Race,White,15892,County
+Franklin,Race,White,49586,County
+Hoke,Race,White,27904,County
+Hertford,Race,White,8548,County
+Alexander,Race,White,34436,County
+Edgecombe,Race,White,20666,County
+Durham,Race,White,176922,County
+Craven,Race,White,74848,County
+Granville,Race,White,39487,County
+Alleghany,Race,White,10730,County
+Rowan,Race,White,114263,County
+Swain,Race,White,9298,County
+Yadkin,Race,White,35715,County
+Halifax,Race,White,20149,County
+Madison,Race,White,21109,County
+Burke,Race,White,78906,County
+Yancey,Race,White,17552,County
+Onslow,Race,White,155084,County
+Wilkes,Race,White,64046,County
+Dare,Race,White,35171,County
+Nash,Race,White,52325,County
+Carteret,Race,White,63535,County
+Bladen,Race,White,20123,County
+New Hanover,Ethnicity,Non-Hispanic,220863,County
+Surry,Ethnicity,Non-Hispanic,63820,County
+Robeson,Ethnicity,Non-Hispanic,118577,County
+Person,Ethnicity,Non-Hispanic,37705,County
+Alamance,Ethnicity,Non-Hispanic,147379,County
+Wilson,Ethnicity,Non-Hispanic,72982,County
+Union,Ethnicity,Non-Hispanic,212344,County
+Lincoln,Ethnicity,Non-Hispanic,79631,County
+Lenoir,Ethnicity,Non-Hispanic,51527,County
+Clay,Ethnicity,Non-Hispanic,10797,County
+McDowell,Ethnicity,Non-Hispanic,42836,County
+Davidson,Ethnicity,Non-Hispanic,155159,County
+Stanly,Ethnicity,Non-Hispanic,60020,County
+Lee,Ethnicity,Non-Hispanic,49674,County
+Chatham,Ethnicity,Non-Hispanic,65444,County
+Martin,Ethnicity,Non-Hispanic,21524,County
+Tyrrell,Ethnicity,Non-Hispanic,3640,County
+Greene,Ethnicity,Non-Hispanic,17761,County
+Cumberland,Ethnicity,Non-Hispanic,294937,County
+Washington,Ethnicity,Non-Hispanic,10927,County
+Camden,Ethnicity,Non-Hispanic,10540,County
+Mitchell,Ethnicity,Non-Hispanic,14041,County
+Wake,Ethnicity,Non-Hispanic,996230,County
+Sampson,Ethnicity,Non-Hispanic,50474,County
+Chowan,Ethnicity,Non-Hispanic,13421,County
+Cleveland,Ethnicity,Non-Hispanic,94257,County
+Beaufort,Ethnicity,Non-Hispanic,43225,County
+Vance,Ethnicity,Non-Hispanic,40860,County
+Davie,Ethnicity,Non-Hispanic,39739,County
+Pender,Ethnicity,Non-Hispanic,58318,County
+Watauga,Ethnicity,Non-Hispanic,53916,County
+Graham,Ethnicity,Non-Hispanic,8125,County
+Montgomery,Ethnicity,Non-Hispanic,22942,County
+Caldwell,Ethnicity,Non-Hispanic,77324,County
+Brunswick,Ethnicity,Non-Hispanic,135778,County
+Duplin,Ethnicity,Non-Hispanic,45224,County
+Hyde,Ethnicity,Non-Hispanic,4452,County
+Pamlico,Ethnicity,Non-Hispanic,12184,County
+Buncombe,Ethnicity,Non-Hispanic,243321,County
+Caswell,Ethnicity,Non-Hispanic,21569,County
+Ashe,Ethnicity,Non-Hispanic,25813,County
+Mecklenburg,Ethnicity,Non-Hispanic,957431,County
+Jones,Ethnicity,Non-Hispanic,8935,County
+Northampton,Ethnicity,Non-Hispanic,18970,County
+Transylvania,Ethnicity,Non-Hispanic,33217,County
+Polk,Ethnicity,Non-Hispanic,19501,County
+Johnston,Ethnicity,Non-Hispanic,179864,County
+Catawba,Ethnicity,Non-Hispanic,143376,County
+Gates,Ethnicity,Non-Hispanic,11286,County
+Avery,Ethnicity,Non-Hispanic,16670,County
+Anson,Ethnicity,Non-Hispanic,23440,County
+Columbus,Ethnicity,Non-Hispanic,52414,County
+Haywood,Ethnicity,Non-Hispanic,59645,County
+Orange,Ethnicity,Non-Hispanic,135660,County
+Cabarrus,Ethnicity,Non-Hispanic,192419,County
+Richmond,Ethnicity,Non-Hispanic,41777,County
+Moore,Ethnicity,Non-Hispanic,93724,County
+Harnett,Ethnicity,Non-Hispanic,117798,County
+Jackson,Ethnicity,Non-Hispanic,41192,County
+Guilford,Ethnicity,Non-Hispanic,491983,County
+Iredell,Ethnicity,Non-Hispanic,167203,County
+Forsyth,Ethnicity,Non-Hispanic,331467,County
+Currituck,Ethnicity,Non-Hispanic,26551,County
+Rutherford,Ethnicity,Non-Hispanic,63804,County
+Warren,Ethnicity,Non-Hispanic,18958,County
+Bertie,Ethnicity,Non-Hispanic,18501,County
+Pitt,Ethnicity,Non-Hispanic,169012,County
+Randolph,Ethnicity,Non-Hispanic,126443,County
+Stokes,Ethnicity,Non-Hispanic,44084,County
+Henderson,Ethnicity,Non-Hispanic,105280,County
+Gaston,Ethnicity,Non-Hispanic,207515,County
+Pasquotank,Ethnicity,Non-Hispanic,37524,County
+Cherokee,Ethnicity,Non-Hispanic,27675,County
+Macon,Ethnicity,Non-Hispanic,33217,County
+Perquimans,Ethnicity,Non-Hispanic,13093,County
+Rockingham,Ethnicity,Non-Hispanic,85250,County
+Wayne,Ethnicity,Non-Hispanic,107804,County
+Scotland,Ethnicity,Non-Hispanic,33673,County
+Franklin,Ethnicity,Non-Hispanic,63432,County
+Hoke,Ethnicity,Non-Hispanic,47539,County
+Hertford,Ethnicity,Non-Hispanic,22695,County
+Alexander,Ethnicity,Non-Hispanic,35709,County
+Edgecombe,Ethnicity,Non-Hispanic,48919,County
+Durham,Ethnicity,Non-Hispanic,277560,County
+Craven,Ethnicity,Non-Hispanic,94369,County
+Granville,Ethnicity,Non-Hispanic,55296,County
+Alleghany,Ethnicity,Non-Hispanic,10040,County
+Rowan,Ethnicity,Non-Hispanic,128688,County
+Swain,Ethnicity,Non-Hispanic,13449,County
+Yadkin,Ethnicity,Non-Hispanic,33329,County
+Halifax,Ethnicity,Non-Hispanic,48452,County
+Madison,Ethnicity,Non-Hispanic,21223,County
+Burke,Ethnicity,Non-Hispanic,84630,County
+Yancey,Ethnicity,Non-Hispanic,17071,County
+Onslow,Ethnicity,Non-Hispanic,172417,County
+Wilkes,Ethnicity,Non-Hispanic,63684,County
+Dare,Ethnicity,Non-Hispanic,34148,County
+Nash,Ethnicity,Non-Hispanic,87358,County
+Carteret,Ethnicity,Non-Hispanic,66406,County
+Bladen,Ethnicity,Non-Hispanic,30184,County
+New Hanover,Race,Black or African-American,33034,County
+Surry,Race,Black or African-American,3330,County
+Robeson,Race,Black or African-American,31768,County
+Person,Race,Black or African-American,10974,County
+Alamance,Race,Black or African-American,36814,County
+Wilson,Race,Black or African-American,33787,County
+Union,Race,Black or African-American,31275,County
+Lincoln,Race,Black or African-American,5290,County
+Lenoir,Race,Black or African-American,23620,County
+Clay,Race,Black or African-American,198,County
+McDowell,Race,Black or African-American,2142,County
+Davidson,Race,Black or African-American,17715,County
+Stanly,Race,Black or African-American,7516,County
+Lee,Race,Black or African-American,12917,County
+Chatham,Race,Black or African-American,9711,County
+Martin,Race,Black or African-American,9631,County
+Tyrrell,Race,Black or African-American,1583,County
+Greene,Race,Black or African-American,7891,County
+Cumberland,Race,Black or African-American,139075,County
+Washington,Race,Black or African-American,5816,County
+Camden,Race,Black or African-American,1385,County
+Mitchell,Race,Black or African-American,181,County
+Wake,Race,Black or African-American,243367,County
+Sampson,Race,Black or African-American,17429,County
+Chowan,Race,Black or African-American,4904,County
+Cleveland,Race,Black or African-American,21187,County
+Beaufort,Race,Black or African-American,11994,County
+Vance,Race,Black or African-American,23356,County
+Davie,Race,Black or African-American,3047,County
+Pender,Race,Black or African-American,9744,County
+Watauga,Race,Black or African-American,1259,County
+Graham,Race,Black or African-American,91,County
+Montgomery,Race,Black or African-American,5372,County
+Caldwell,Race,Black or African-American,4703,County
+Brunswick,Race,Black or African-American,15081,County
+Duplin,Race,Black or African-American,15339,County
+Hyde,Race,Black or African-American,1353,County
+Pamlico,Race,Black or African-American,2520,County
+Buncombe,Race,Black or African-American,17986,County
+Caswell,Race,Black or African-American,7507,County
+Ashe,Race,Black or African-American,363,County
+Mecklenburg,Race,Black or African-American,376441,County
+Jones,Race,Black or African-American,2854,County
+Northampton,Race,Black or African-American,11314,County
+Transylvania,Race,Black or African-American,1431,County
+Polk,Race,Black or African-American,994,County
+Johnston,Race,Black or African-American,37064,County
+Catawba,Race,Black or African-American,15306,County
+Gates,Race,Black or African-American,3758,County
+Avery,Race,Black or African-American,883,County
+Anson,Race,Black or African-American,12072,County
+Columbus,Race,Black or African-American,17380,County
+Haywood,Race,Black or African-American,1035,County
+Orange,Race,Black or African-American,18434,County
+Cabarrus,Race,Black or African-American,44033,County
+Richmond,Race,Black or African-American,14697,County
+Moore,Race,Black or African-American,12812,County
+Harnett,Race,Black or African-American,31681,County
+Jackson,Race,Black or African-American,1225,County
+Guilford,Race,Black or African-American,196492,County
+Iredell,Race,Black or African-American,23717,County
+Forsyth,Race,Black or African-American,108779,County
+Currituck,Race,Black or African-American,1719,County
+Rutherford,Race,Black or African-American,7153,County
+Warren,Race,Black or African-American,10341,County
+Bertie,Race,Black or African-American,11721,County
+Pitt,Race,Black or African-American,66742,County
+Randolph,Race,Black or African-American,10218,County
+Stokes,Race,Black or African-American,2039,County
+Henderson,Race,Black or African-American,4606,County
+Gaston,Race,Black or African-American,41625,County
+Pasquotank,Race,Black or African-American,15093,County
+Cherokee,Race,Black or African-American,577,County
+Macon,Race,Black or African-American,743,County
+Perquimans,Race,Black or African-American,3161,County
+Rockingham,Race,Black or African-American,18060,County
+Wayne,Race,Black or African-American,41133,County
+Scotland,Race,Black or African-American,13867,County
+Franklin,Race,Black or African-American,18732,County
+Hoke,Race,Black or African-American,20581,County
+Hertford,Race,Black or African-American,14589,County
+Alexander,Race,Black or African-American,2437,County
+Edgecombe,Race,Black or African-American,30147,County
+Durham,Race,Black or African-American,122512,County
+Craven,Race,Black or African-American,23004,County
+Granville,Race,Black or African-American,19822,County
+Alleghany,Race,Black or African-American,249,County
+Rowan,Race,Black or African-American,24715,County
+Swain,Race,Black or African-American,258,County
+Yadkin,Race,Black or African-American,1442,County
+Halifax,Race,Black or African-American,27254,County
+Madison,Race,Black or African-American,400,County
+Burke,Race,Black or African-American,6712,County
+Yancey,Race,Black or African-American,267,County
+Onslow,Race,Black or African-American,34503,County
+Wilkes,Race,Black or African-American,3563,County
+Dare,Race,Black or African-American,1240,County
+Nash,Race,Black or African-American,39834,County
+Carteret,Race,Black or African-American,4346,County
+Bladen,Race,Black or African-American,11377,County
+North Carolina,Age Group,25-49,3408095,Statewide
+North Carolina,Age Group,65-74,1046508,Statewide
+North Carolina,Age Group K-12,0-1,239468,Statewide
+North Carolina,Age Group K-12,2-4,370302,Statewide
+North Carolina,Age Group K-12,15-17,396473,Statewide
+North Carolina,Age Group K-12,10-14,665606,Statewide
+North Carolina,Age Group,75+,704586,Statewide
+North Carolina,Age Group,0-17,2300715,Statewide
+North Carolina,Age Group K-12,5-9,628866,Statewide
+North Carolina,Age Group,50-64,2037593,Statewide
+North Carolina,Age Group,18-24,990587,Statewide
+North Carolina,Race,Asian or Pacific Islander,369134,Statewide
+North Carolina,Sex,Female,5387820,Statewide
+North Carolina,Sex,Male,5100264,Statewide
+North Carolina,Ethnicity,Hispanic,1025830,Statewide
+North Carolina,Race,American Indian or Alaskan Native,177169,Statewide
+North Carolina,Race,White,7520342,Statewide
+North Carolina,Ethnicity,Non-Hispanic,9462254,Statewide
+North Carolina,Race,Black or African-American,2421439,Statewide
