@@ -69,17 +69,36 @@ vax_nc <- vax_totals[,list(dose_1 = sum(dose_1, na.rm = T),
                      by = .(date)]
 vax_totals <- rbind(vax_totals, vax_nc)
 
-# population totals
+# population totals---------------------------------------
 pop_totals <- data.table::fread(here::here("data", "county-detail", "nc-pop-demo.csv"))
 
+# identify suppressed totals:
+suppressed <- dat_raw_final %>% filter(date ==max(date),
+                                       demographic_identity=='Suppressed') %>%
+  select(county, demographic) %>% unique.data.frame()
 
-# merge to demo vax
+notsuppressed <- merge(dat_raw_final %>% filter(date==max(date)),
+                       suppressed, by = c('county', 'demographic')) %>%
+  filter(demographic_identity!='Suppressed') %>%
+  select(county, demographic, demographic_identity) %>% unique.data.frame()
+
+consider_suppressed <- pop_totals %>%
+  inner_join(suppressed, by = c('county', 'demographic')) %>%
+  anti_join(notsuppressed, by = c('county', 'demographic', 'demographic_identity')) %>%
+  mutate(demographic_identity='Suppressed') %>%
+  group_by(aggregation_level, county, demographic, demographic_identity) %>%
+  summarise(population = sum(population, na.rm = T))
+
+# merge to demo vax ------------------------------------------------------
+#vax totals
 dat_with_vax <- merge.data.frame(dat_raw_final, vax_totals,
                                  by = c('date','aggregation_level','county'),
                                  all.x = T)
 
+#pop totals
 dat_with_vax_pop <- merge(dat_with_vax,
-                      pop_totals %>% filter(demographic!='Age Group K-12'),
+                      pop_totals %>% filter(demographic!='Age Group K-12') %>%
+                        bind_rows(consider_suppressed),
                       by = c('aggregation_level','county',
                              'demographic', 'demographic_identity'),
                       all.x = T)
