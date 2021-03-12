@@ -45163,7 +45163,7 @@
 2021-03-12,Nursing Home,Alamance,Peak Resources-Alamance,44,0,70,22,114,22,0,0
 2021-03-12,Nursing Home,Alamance,Twin Lakes Community Memory Care,8,0,1,0,9,0,0,0
 2021-03-12,Nursing Home,Alamance,White Oak Manor,22,0,4,1,26,1,0,0
-2021-03-12,Nursing Home,Alexander,Valley Nursing Center,22,0,0,19,22,19,0,0
+2021-03-12,Nursing Home,Alexander,Valley Nursing Center,22,0,56,20,78,20,56,1
 2021-03-12,Nursing Home,Anson,Anson Health & Rehab,43,0,74,17,117,17,0,0
 2021-03-12,Nursing Home,Anson,Wadesboro Health & Rehab Center,2,0,2,0,4,0,0,0
 2021-03-12,Nursing Home,Ashe,Margate Health and Rehab Center,57,0,89,18,146,18,0,0
@@ -45179,14 +45179,12 @@
 2021-03-12,Nursing Home,Buncombe,NC State Veteran's Home - Black Mountain,12,0,15,4,27,4,0,0
 2021-03-12,Nursing Home,Buncombe,Pelican Health Asheville,22,0,76,5,98,5,0,0
 2021-03-12,Nursing Home,Buncombe,Pisgah Manor Health Care Center,37,1,68,18,105,19,0,0
-2021-03-12,Nursing Home,Buncombe,Western North Carolina Baptist Home,18,0,30,7,48,7,0,0
 2021-03-12,Nursing Home,Burke,Autumn Care of Drexel,11,0,32,11,43,11,0,0
 2021-03-12,Nursing Home,Burke,College Pines Health and Rehabilitation,52,0,87,20,139,20,0,0
 2021-03-12,Nursing Home,Burke,Grace Heights Health and Rehabilitation,8,0,5,1,13,1,0,0
 2021-03-12,Nursing Home,Burke,Magnolia Lane Nursing and Rehabilitation Center,2,0,0,0,2,0,0,0
 2021-03-12,Nursing Home,Cabarrus,Brian Center Health & Retirement/Cabarrus,12,0,18,0,30,0,0,0
 2021-03-12,Nursing Home,Cabarrus,Five Oaks Manor,74,0,39,2,113,2,0,0
-2021-03-12,Nursing Home,Cabarrus,The Gardens of Taylor Glen Retirement Community,9,0,2,1,11,1,0,0
 2021-03-12,Nursing Home,Caldwell,Gateway Rehabilitation and Healthcare,50,0,71,10,121,10,0,0
 2021-03-12,Nursing Home,Caldwell,Hickory Falls Health and Rehabilitation,49,0,102,8,151,8,0,0
 2021-03-12,Nursing Home,Caldwell,Shaire Nursing Center,40,0,32,8,72,8,0,0
@@ -45204,14 +45202,13 @@
 2021-03-12,Nursing Home,Chowan,Chowan River Nursing & Rehabilitation Center,3,0,1,0,4,0,0,0
 2021-03-12,Nursing Home,Cleveland,Cleveland Pines,26,0,14,3,40,3,0,0
 2021-03-12,Nursing Home,Cleveland,Peak Resources - Shelby,3,0,0,0,3,0,0,0
-2021-03-12,Nursing Home,Cleveland,White Oak Manor-Shelby,51,0,80,15,131,15,0,0
+2021-03-12,Nursing Home,Cleveland,White Oak Manor-Shelby,51,0,81,15,132,15,1,0
 2021-03-12,Nursing Home,Columbus,Liberty Commons Nursing and Rehab Ctr of Columbus Cty,33,0,52,10,85,10,0,0
 2021-03-12,Nursing Home,Craven,PruittHealth-Neuse,18,0,47,4,65,4,0,0
-2021-03-12,Nursing Home,Cumberland,Autumn Care of Fayetteville,15,0,45,2,60,2,0,0
 2021-03-12,Nursing Home,Cumberland,Bethesda Health Care,41,0,60,25,101,25,0,0
 2021-03-12,Nursing Home,Cumberland,Haymount Rehabilitation & Nursing Center Inc,31,0,25,4,56,4,0,0
-2021-03-12,Nursing Home,Cumberland,Highland House Rehabilitation and Healthcare,53,0,69,3,122,3,0,0
-2021-03-12,Nursing Home,Cumberland,NC State Veterans Home-Fayetteville,18,0,4,0,22,0,0,0
+2021-03-12,Nursing Home,Cumberland,Highland House Rehabilitation and Healthcare,55,0,72,3,127,3,5,0
+2021-03-12,Nursing Home,Cumberland,NC State Veterans Home-Fayetteville,18,0,5,0,23,0,1,0
 2021-03-12,Nursing Home,Cumberland,Village Green Health and Rehabilitation,57,0,68,4,125,4,0,0
 2021-03-12,Nursing Home,Currituck,Currituck Health & Rehab Center,2,0,4,0,6,0,0,0
 2021-03-12,Nursing Home,Dare,Peak Resources-Outer Banks,7,0,28,0,35,0,0,0
@@ -45224,25 +45221,23 @@
 2021-03-12,Nursing Home,Durham,Accordius Health at Rose Manor,2,0,1,0,3,0,0,0
 2021-03-12,Nursing Home,Durham,Carver Living Center,58,0,119,23,177,23,0,0
 2021-03-12,Nursing Home,Durham,Croasdaile Village Pavilion Health Center,34,0,45,7,79,7,0,0
-2021-03-12,Nursing Home,Durham,Durham Nursing & Rehabilitation Center,30,0,40,3,70,3,0,0
+2021-03-12,Nursing Home,Durham,Durham Nursing & Rehabilitation Center,30,0,41,3,71,3,1,0
 2021-03-12,Nursing Home,Durham,Pettigrew Rehabilitation Center,34,0,59,9,93,9,0,0
 2021-03-12,Nursing Home,Durham,The Cedars of Chapel Hill,23,0,12,3,35,3,0,0
 2021-03-12,Nursing Home,Edgecombe,Prodigy Transitional Rehab,31,0,65,7,96,7,0,0
 2021-03-12,Nursing Home,Forsyth,Accordius Health at Winston Salem,19,0,33,2,52,2,0,0
-2021-03-12,Nursing Home,Forsyth,Arbor Acres United Methodist Retirement Community Inc,64,0,45,4,109,4,0,0
+2021-03-12,Nursing Home,Forsyth,Arbor Acres United Methodist Retirement Community Inc,64,0,46,4,110,4,1,0
 2021-03-12,Nursing Home,Forsyth,Brookridge Retirement Community,29,0,39,11,68,11,0,0
-2021-03-12,Nursing Home,Forsyth,Oak Forest Health and Rehabilitation,42,0,43,6,85,6,0,0
+2021-03-12,Nursing Home,Forsyth,Oak Forest Health and Rehabilitation,42,0,44,6,86,6,1,0
 2021-03-12,Nursing Home,Forsyth,Salemtowne Babcock Health Center,49,0,39,8,88,8,0,0
 2021-03-12,Nursing Home,Forsyth,Silas Creek Rehabilitation Center,2,0,2,1,4,1,0,0
 2021-03-12,Nursing Home,Forsyth,The Citadel at Winston Salem,33,0,91,3,124,3,0,0
-2021-03-12,Nursing Home,Forsyth,The Oaks Nursing & Rehabilitation Center,22,0,7,0,29,0,0,0
+2021-03-12,Nursing Home,Forsyth,The Oaks Nursing & Rehabilitation Center,22,0,7,1,29,1,0,1
 2021-03-12,Nursing Home,Forsyth,Trinity Glen,59,0,44,10,103,10,0,0
 2021-03-12,Nursing Home,Franklin,Franklin Oaks Nursing and Rehabilitation Center,6,0,1,1,7,1,0,0
 2021-03-12,Nursing Home,Franklin,Louisburg Healthcare & Rehabilitation Center,9,0,12,0,21,0,0,0
-2021-03-12,Nursing Home,Gaston,Alexandria Place,11,0,0,0,11,0,0,0
 2021-03-12,Nursing Home,Gaston,Carolina Care-Cherryville,60,0,74,9,134,9,0,0
 2021-03-12,Nursing Home,Gaston,Peak Resources Cherryville,28,0,29,0,57,0,0,0
-2021-03-12,Nursing Home,Gaston,Peak Resources-Gastonia,16,0,6,0,22,0,0,0
 2021-03-12,Nursing Home,Gates,Accordius Health and Rehabilitation,0,0,3,0,3,0,0,0
 2021-03-12,Nursing Home,Granville,Brantwood Nursing and Retirement Center,10,0,15,0,25,0,0,0
 2021-03-12,Nursing Home,Greene,Greendale Forest Nursing and Rehabilitation Center,17,0,105,19,122,19,0,0
@@ -45265,51 +45260,42 @@
 2021-03-12,Nursing Home,Haywood,Haywood Nursing and Rehabilitation Center,16,0,65,3,81,3,0,0
 2021-03-12,Nursing Home,Haywood,Maggie Valley Nursing and Rehab,26,0,24,3,50,3,0,0
 2021-03-12,Nursing Home,Haywood,Silver Bluff LLC,26,0,25,2,51,2,0,0
-2021-03-12,Nursing Home,Henderson,Henderson Health and Rehabilitation,3,0,14,0,17,0,0,0
 2021-03-12,Nursing Home,Henderson,Life Care Center of Hendersonville,14,0,26,3,40,3,0,0
-2021-03-12,Nursing Home,Henderson,The Laurels of Hendersonville,5,0,21,0,26,0,0,0
 2021-03-12,Nursing Home,Henderson,The Lodge at Mills River,6,0,4,1,10,1,0,0
 2021-03-12,Nursing Home,Hertford,Accordius Health at Creekside Care,0,0,3,0,3,0,0,0
 2021-03-12,Nursing Home,Iredell,Accordius Health at Statesville,1,0,1,0,2,0,0,0
 2021-03-12,Nursing Home,Iredell,Autumn Care of Statesville,1,0,1,0,2,0,0,0
+2021-03-12,Nursing Home,Iredell,The Citadel Mooresville,58,0,103,0,161,0,159,0
 2021-03-12,Nursing Home,Iredell,Maple Leaf Health Care,5,0,1,0,6,0,0,0
 2021-03-12,Nursing Home,Johnston,Brian Center Health & Retirement/ Clayton,12,0,36,0,48,0,0,0
-2021-03-12,Nursing Home,Johnston,Liberty Commons Nsg and Rehab Ctr of Johnston Cty,11,0,8,3,19,3,0,0
-2021-03-12,Nursing Home,Johnston,Springbrook Nursing and Rehabilitation Center,25,0,18,2,43,2,0,0
 2021-03-12,Nursing Home,Lee,Sanford Health and Rehabilitation,33,0,90,16,123,16,0,0
 2021-03-12,Nursing Home,Lee,Westfield Rehabilitation and Health Center,18,0,58,3,76,3,0,0
-2021-03-12,Nursing Home,Lenoir,Harmony Hall,6,0,0,0,6,0,0,0
-2021-03-12,Nursing Home,Lenoir,NC State Veterans Home-Kinston,15,0,5,0,20,0,0,0
+2021-03-12,Nursing Home,Lenoir,NC State Veterans Home-Kinston,17,0,9,0,26,0,6,0
 2021-03-12,Nursing Home,Lenoir,Signature HealthCARE of Kinston,6,0,3,1,9,1,0,0
-2021-03-12,Nursing Home,Lincoln,Lincolnton Rehabilitation Center,11,0,36,3,47,3,0,0
+2021-03-12,Nursing Home,Lincoln,Lincolnton Rehabilitation Center,23,0,58,3,81,3,34,0
 2021-03-12,Nursing Home,Macon,Eckerd Living Center,15,0,33,0,48,0,0,0
 2021-03-12,Nursing Home,Macon,Macon Valley Nursing and Rehabilitation Center,28,0,66,5,94,5,0,0
-2021-03-12,Nursing Home,Madison,Madison Health and Rehabilitation,34,0,74,16,108,16,0,0
+2021-03-12,Nursing Home,Madison,Madison Health and Rehabilitation,34,0,74,19,108,19,0,3
 2021-03-12,Nursing Home,Martin,The Carrolton of Williamston,31,1,31,1,62,2,0,0
 2021-03-12,Nursing Home,McDowell,Deer Park Health & Rehabilitation,8,0,1,0,9,0,0,0
 2021-03-12,Nursing Home,Mecklenburg,Accordius Health at Charlotte,2,0,0,0,2,0,0,0
 2021-03-12,Nursing Home,Mecklenburg,Asbury Health and Rehabilitation Center,35,0,23,5,58,5,0,0
-2021-03-12,Nursing Home,Mecklenburg,Autumn Care of Cornelius,15,0,3,0,18,0,0,0
 2021-03-12,Nursing Home,Mecklenburg,Hunter Woods Nursing & Rehabilitation Center,24,0,25,3,49,3,0,0
 2021-03-12,Nursing Home,Mecklenburg,Huntersville Health & Rehabilitation Center,19,0,18,5,37,5,0,0
-2021-03-12,Nursing Home,Mecklenburg,Huntersville Oaks,13,0,1,0,14,0,0,0
 2021-03-12,Nursing Home,Mecklenburg,Mecklenburg Health & Rehabilitation,2,0,0,0,2,0,0,0
 2021-03-12,Nursing Home,Mecklenburg,Olde Knox Commons at The Villages of Mecklenburg,50,0,73,13,123,13,0,0
 2021-03-12,Nursing Home,Mecklenburg,Pelican Health Randolph,6,0,11,2,17,2,0,0
-2021-03-12,Nursing Home,Mecklenburg,Sharon Towers,31,1,21,5,52,6,0,0
 2021-03-12,Nursing Home,Mecklenburg,Southminster,15,0,11,1,26,1,0,0
 2021-03-12,Nursing Home,Mecklenburg,University Place Nursing and Rehabilitation Center,28,0,51,4,79,4,0,0
-2021-03-12,Nursing Home,Mecklenburg,White Oak Manor-Charlotte,71,0,110,27,181,27,0,0
+2021-03-12,Nursing Home,Mecklenburg,White Oak Manor-Charlotte,72,0,110,27,182,27,1,0
 2021-03-12,Nursing Home,Montgomery,Autumn Care of Biscoe,19,0,41,10,60,10,0,0
 2021-03-12,Nursing Home,Moore,Pinehurst Healthcare & Rehabilitation Center,5,0,3,0,8,0,0,0
-2021-03-12,Nursing Home,Moore,St Joseph of The Pines Health Center,54,0,65,11,119,11,0,0
+2021-03-12,Nursing Home,Moore,St Joseph of The Pines Health Center,54,0,69,11,123,11,4,0
 2021-03-12,Nursing Home,Nash,Autumn Care of Nash,1,0,2,0,3,0,0,0
 2021-03-12,Nursing Home,Nash,Rocky Mount Rehabilitation Center,10,0,5,1,15,1,0,0
 2021-03-12,Nursing Home,Nash,The Carrolton of Nash,18,0,57,13,75,13,0,0
 2021-03-12,Nursing Home,New Hanover,Accordius Health at Wilmington,19,0,8,0,27,0,0,0
 2021-03-12,Nursing Home,New Hanover,Azalea Health & Rehab Center,45,0,60,10,105,10,0,0
-2021-03-12,Nursing Home,New Hanover,Bradley Creek Health Center,27,0,18,0,45,0,0,0
-2021-03-12,Nursing Home,New Hanover,Cypress Pointe Rehabilitation Center,27,0,55,17,82,17,0,0
 2021-03-12,Nursing Home,New Hanover,Davis Health Care Center,25,0,2,1,27,1,0,0
-2021-03-12,Nursing Home,New Hanover,Liberty Commons Rehabilitation Center,12,0,5,0,17,0,0,0
+2021-03-12,Nursing Home,New Hanover,Liberty Commons Rehabilitation Center,12,0,3,0,15,0,-2,0
 2021-03-12,Nursing Home,New Hanover,NorthChase Nursing and Rehabilitation Center,41,0,78,8,119,8,0,0
