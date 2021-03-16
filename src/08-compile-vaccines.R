@@ -75,6 +75,37 @@ dat_raw <- merge(dat_raw[!is.na(total_doses)], report_date, by = "date_pulled", 
 
 dat_raw <- rbindlist(list(dat_raw, dat_raw2))
 
+# data location for partial / fully vaccinated data update ----------------------
+
+data_dir3 <- fs::dir_ls(here::here("data", "daily-vax-status"), glob = "*csv")
+
+# import updated data -------------------------------------------------------------
+
+dat_raw3 <- purrr::map_dfr(data_dir3, data.table::fread, .id = "date_pulled")
+
+setDT(dat_raw3)
+
+cols <- c('date_pulled','County', 'People at Least Partially Vaccinated',
+          'People Fully Vaccinated')
+
+dat_raw3 <- dat_raw3[!is.na(County),..cols]
+
+setnames(dat_raw3, 'County', 'county')
+
+dat_raw3 <- melt(dat_raw3, id.vars = c('date_pulled', 'county'),
+                 variable.name = 'vaccine_status',
+                 value.name = 'total_doses')
+
+dat_raw3[, update_date := gsub(pattern = "([0-9]+).*$", "\\1",basename(date_pulled))]
+
+dat_raw3[, update_date := as.POSIXct(update_date, format = "%Y%m%d%H%M")]
+
+dat_raw3[, reported_date := as.Date(format(update_date,'%Y-%m-%d'))]
+
+# combine with the new update --------------------------------------------
+
+dat_raw <- rbindlist(list(dat_raw, dat_raw3))
+
 dat_raw[,county:= ifelse(county=='Mcdowell','McDowell',county)]
 
 # diffing -----------------------------------------------------------------
@@ -92,17 +123,29 @@ dat_latest <- dat_raw[,.(county,vaccine_status,total_doses,date)] %>%
 
 dat_latest <- dcast(formula = date+county~vaccine_status, value.var = "total_doses", data = dat_latest)
 
-names(dat_latest) <- c("date","county", "dose_1", "dose_2")
+setnames(dat_latest,
+         c('Dose 1 Administered', 'Dose 2 Administered',
+           'People at Least Partially Vaccinated', 'People Fully Vaccinated'),
+         c('dose_1', 'dose_2', 'people_partial_vax', 'people_full_vax'))
 
-dat_raw$dose_1 <- as.numeric(dat_raw$dose_1)
-dat_raw$dose_2 <- as.numeric(dat_raw$dose_2)
+dat_latest[,`:=` (
+  dose_1 = as.numeric(dose_1),
+  dose_2 = as.numeric(dose_2),
+  people_partial_vax = case_when(is.na(people_partial_vax)~as.numeric(dose_1),
+                                 TRUE~as.numeric(people_partial_vax)),
+  people_full_vax = case_when(is.na(people_full_vax)~as.numeric(dose_2),
+                              TRUE~as.numeric(people_full_vax))
+  )]
+
 
 dat_latest[order(date),`:=` (daily_dose_1 = dose_1 - data.table::shift(dose_1,1, fill = 0),
-                  daily_dose_2 = dose_2 - data.table::shift(dose_2,1, fill = 0)), by = "county"]
+                             daily_dose_2 = dose_2 - data.table::shift(dose_2,1, fill = 0),
+                             daily_partial_vax = people_partial_vax - data.table::shift(people_partial_vax,1, fill = 0),
+                             daily_full_vax = people_full_vax - data.table::shift(people_full_vax,1, fill = 0)),
+           by = "county"]
 
-days_avail <- as.numeric(min(dat_latest$date)-first_dist)
-
-dat_latest[,days_available:=ifelse(date==min(date),days_avail,date-data.table::shift(date,1,0)), by = "county"]
+dat_latest[,days_available:=ifelse(date==min(date),as.numeric(min(date)-first_dist),
+                                   date-data.table::shift(date,1,0)), by = "county"]
 
 # bringing it back together -----------------------------------------------
 
@@ -112,7 +155,11 @@ dat_latest[,`:=` (
   dose_1_rate = daily_dose_1/days_available,
   dose_2_rate = daily_dose_2/days_available,
   dose_1_running_rate = dose_1/ cum_days,
-  dose_2_running_rate = dose_2/ cum_days
+  dose_2_running_rate = dose_2/ cum_days,
+  partial_vax_rate = daily_partial_vax/days_available,
+  full_vax_rate = daily_full_vax/days_available,
+  partial_vax_running_rate = people_partial_vax/ cum_days,
+  full_vax_running_rate = people_full_vax/ cum_days
 )]
 
 # write output ------------------------------------------------------------

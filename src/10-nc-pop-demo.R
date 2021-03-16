@@ -32,7 +32,7 @@ pop_totals[,demographic_identity:=case_when(grepl('^age',variable)~gsub('_','-',
                                                           'hispanic')~stringr::str_to_title(variable),
                                             variable=='ai_an'~'American Indian or Alaskan Native',
                                             variable=='asian_pi'~'Asian or Pacific Islander',
-                                            variable=='black'~'Black or African-American',
+                                            variable=='black'~'Black or African American',
                                             variable=='nonhisp'~'Non-Hispanic',
                                             TRUE~'Unknown')]
 pop_totals <- pop_totals[,.(County,demographic,demographic_identity,population,
