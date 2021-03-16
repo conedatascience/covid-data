@@ -1,4 +1,4 @@
-date,daily_specimen_antigen,daily_cases,Deaths by Date of Death,hospitalizations,daily_specimen_pcr,daily_deaths,daily_specimen_report,daily_specimen,sum_hospitalizations,positive_tests,daily_tests
+date,daily_specimen_antigen,daily_cases,daily_deaths_report,hospitalizations,daily_specimen_pcr,daily_deaths,daily_specimen_report,daily_specimen,sum_hospitalizations,positive_tests,daily_tests
 2020-03-02,0,1,,,1,,1,1,,,
 2020-03-03,,0,,,,,0,,,,
 2020-03-04,0,0,,,1,,0,1,,,
