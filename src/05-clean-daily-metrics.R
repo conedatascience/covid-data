@@ -46,8 +46,9 @@ column_lookup <- data.frame(old= c("date",
                                   "Antigen Positive Cases by Specimen Date",
                                   "New Cases by Report Date",
                                   "New Cases by Specimen Date",
-                                  "NC Deaths",
+
                                    "Deaths by Date of Death",
+                                  "NC Deaths",
                                   "Positive Test Percentage",
                                   "Sum of Hospitalizations"),
                            new = c("date",
@@ -66,7 +67,7 @@ column_lookup <- data.frame(old= c("date",
 
 names(out_data_long)[names(out_data_long) %in% column_lookup$old] = column_lookup$new[match(names(out_data_long)[names(out_data_long) %in% column_lookup$old], column_lookup$old)]
 
-out_data_long[, daily_deaths:= daily_deaths - shift(daily_deaths,1, type = "lag", fill = 0)]
+#out_data_long[, daily_deaths:= daily_deaths - shift(daily_deaths,1, type = "lag", fill = 0)]
 
 
 
