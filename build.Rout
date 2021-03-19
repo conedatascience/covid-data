@@ -47,13 +47,15 @@ Content type 'text/csv' length 73478 bytes (71 KB)
 ==================================================
 downloaded 71 KB
 
-No encoding supplied: defaulting to UTF-8.
-Parsed with column specification:
-cols(
-  Date = col_character(),
-  `Measure Names` = col_character(),
-  `Measure Values` = col_number()
-)
+Error in curl::curl_fetch_memory(url, handle = handle) : 
+  TCP connection reset by peer
+In addition: Warning messages:
+1: In readLines("https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json") :
+  incomplete final line found on 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json'
+2: In readLines("https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json") :
+  incomplete final line found on 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json'
+Error in data.table::fwrite(metrics, here::here("data", "daily-testing",  : 
+  object 'metrics' not found
 trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/Demographics.csv?%3Aembed=y&%3AshowVizHome=no&%3Ahost_url=https%3A%2F%2Fpublic.tableau.com%2F&%3Aembed_code_version=3&%3Aembed_code_version=3&%3Atabs=yes&%3Atabs=yes&%3Atoolbar=no&%3Atoolbar=no&%3Aanimate_transition=yes&%3Aanimate_transition=yes&%3Adisplay_static_image=no&%3Adisplay_static_image=no&%3Adisplay_spinner=no&%3Adisplay_spinner=no&%3Adisplay_overlay=yes&%3Adisplay_overlay=yes&%3Adisplay_count=no&%3Adisplay_count=no&publish=yes&publish=yes&%3AloadOrderID=0u.com%2F&%3AloadOrderID=0'
 Content type 'text/csv' length 673 bytes
 ==================================================
@@ -62,12 +64,8 @@ downloaded 673 bytes
 trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/HospitalBeds.csv?%3Aembed=y&%3AshowVizHome=no&%3Ahost_url=https%3A%2F%2Fpublic.tableau.com%2F&%3Aembed_code_version=3&%3Aembed_code_version=3&%3Atabs=yes&%3Atabs=yes&%3Atoolbar=no&%3Atoolbar=no&%3Aanimate_transition=yes&%3Aanimate_transition=yes&%3Adisplay_static_image=no&%3Adisplay_static_image=no&%3Adisplay_spinner=no&%3Adisplay_spinner=no&%3Adisplay_overlay=yes&%3Adisplay_overlay=yes&%3Adisplay_count=no&%3Adisplay_count=no&publish=yes&publish=yes&%3AloadOrderID=0u.com%2F&%3AloadOrderID=0'
 Error in download.file(url = url, destfile = here::here("data", "daily-beds",  : 
   cannot open URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/HospitalBeds.csv?%3Aembed=y&%3AshowVizHome=no&%3Ahost_url=https%3A%2F%2Fpublic.tableau.com%2F&%3Aembed_code_version=3&%3Aembed_code_version=3&%3Atabs=yes&%3Atabs=yes&%3Atoolbar=no&%3Atoolbar=no&%3Aanimate_transition=yes&%3Aanimate_transition=yes&%3Adisplay_static_image=no&%3Adisplay_static_image=no&%3Adisplay_spinner=no&%3Adisplay_spinner=no&%3Adisplay_overlay=yes&%3Adisplay_overlay=yes&%3Adisplay_count=no&%3Adisplay_count=no&publish=yes&publish=yes&%3AloadOrderID=0u.com%2F&%3AloadOrderID=0'
-In addition: Warning messages:
-1: In readLines("https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json") :
-  incomplete final line found on 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json'
-2: In readLines("https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json") :
-  incomplete final line found on 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json'
-3: In download.file(url = url, destfile = here::here("data", "daily-beds",  :
+In addition: Warning message:
+In download.file(url = url, destfile = here::here("data", "daily-beds",  :
   cannot open URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/HospitalBeds.csv?%3Aembed=y&%3AshowVizHome=no&%3Ahost_url=https%3A%2F%2Fpublic.tableau.com%2F&%3Aembed_code_version=3&%3Aembed_code_version=3&%3Atabs=yes&%3Atabs=yes&%3Atoolbar=no&%3Atoolbar=no&%3Aanimate_transition=yes&%3Aanimate_transition=yes&%3Adisplay_static_image=no&%3Adisplay_static_image=no&%3Adisplay_spinner=no&%3Adisplay_spinner=no&%3Adisplay_overlay=yes&%3Adisplay_overlay=yes&%3Adisplay_count=no&%3Adisplay_count=no&publish=yes&publish=yes&%3AloadOrderID=0u.com%2F&%3AloadOrderID=0': HTTP status was '500 Internal Server Error'
 trying URL 'https://public.tableau.com/vizql/w/NCDHHS_COVID-19_DataDownload/v/HospitalPatientData/vudcsv/sessions/48357CE83FD24F04AC0BD68C3874BECE-0:0/views/4022802588106640556_9307479125736770152?showall=true&underlying_table_id=medsurge_public_facing.csv_9E85D41A33ED4AAE941D68C3B611FF90&underlying_table_caption=Full%20Data'
 Error in download.file(url = url, destfile = here::here("data", "daily-patient",  : 
@@ -2216,4 +2214,4 @@ There were 50 or more warnings (use warnings() to see the first 50)
 > 
 > proc.time()
     user   system  elapsed 
- 488.272  572.996 1364.912 
+ 499.867  578.157 1560.512 
