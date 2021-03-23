@@ -42,8 +42,8 @@ The following objects are masked from ‘package:dplyr’:
 
 Latest Date: March-23 
 Earliest Date: January-22 
-Today's data are not yet available.Latest Date: March-22Earliest Date: January-22Latest Date: March-23Earliest Date: May-08Latest Date: March-23Earliest Date: May-08trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
-Content type 'text/csv' length 74261 bytes (72 KB)
+Latest Date: March-23Earliest Date: January-22Latest Date: March-23Earliest Date: May-08Latest Date: March-23Earliest Date: May-08trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
+Content type 'text/csv' length 74457 bytes (72 KB)
 ==================================================
 downloaded 72 KB
 
@@ -2248,4 +2248,4 @@ There were 50 or more warnings (use warnings() to see the first 50)
 > 
 > proc.time()
    user  system elapsed 
-336.154 405.417 757.513 
+334.751 403.931 787.084 
