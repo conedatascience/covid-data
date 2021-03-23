@@ -2247,5 +2247,5 @@ $`/mnt/resource/covid-data-store/covid-data/src/99-validation_tests.R`$visible
 There were 50 or more warnings (use warnings() to see the first 50)
 > 
 > proc.time()
-   user  system elapsed 
-391.632 486.525 963.253 
+    user   system  elapsed 
+ 446.547  508.722 1015.421 
