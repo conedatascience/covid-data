@@ -46615,7 +46615,8 @@
 2021-03-23,Nursing Home,Anson,Anson Health & Rehab,43,0,74,17,117,17,0,0
 2021-03-23,Nursing Home,Anson,Wadesboro Health & Rehab Center,2,0,2,0,4,0,0,0
 2021-03-23,Nursing Home,Ashe,Margate Health and Rehab Center,57,0,89,18,146,18,0,0
-2021-03-23,Nursing Home,Bertie,Three Rivers Health and Rehab,1,0,4,1,5,1,0,0
+2021-03-23,Nursing Home,Beaufort,Ridgewood Rehabilitation & Living Center #2,1,0,3,0,4,0,,
+2021-03-23,Nursing Home,Bertie,Three Rivers Health and Rehab,2,0,5,1,7,1,2,0
 2021-03-23,Nursing Home,Bladen,Elizabethtown Health and Rehab,16,0,5,1,21,1,0,0
 2021-03-23,Nursing Home,Buncombe,Aston Park Health Care Center Inc,3,0,1,0,4,0,0,0
 2021-03-23,Nursing Home,Buncombe,Black Mountain Neuro-Medical Treatment Center,93,0,56,6,149,6,0,0
@@ -46625,7 +46626,7 @@
 2021-03-23,Nursing Home,Buncombe,NC State Veteran's Home - Black Mountain,12,0,15,4,27,4,0,0
 2021-03-23,Nursing Home,Buncombe,Pelican Health Asheville,22,0,76,5,98,5,0,0
 2021-03-23,Nursing Home,Burke,Autumn Care of Drexel,11,0,33,11,44,11,0,0
-2021-03-23,Nursing Home,Burke,College Pines Health and Rehabilitation,53,0,87,20,140,20,0,0
+2021-03-23,Nursing Home,Burke,College Pines Health and Rehabilitation,54,0,87,20,141,20,1,0
 2021-03-23,Nursing Home,Cabarrus,Accordius Health at Concord,2,0,0,0,2,0,0,0
 2021-03-23,Nursing Home,Cabarrus,Five Oaks Manor,74,0,39,2,113,2,0,0
 2021-03-23,Nursing Home,Cabarrus,The Gardens of Taylor Glen Retirement Community,2,0,0,0,2,0,0,0
@@ -46636,7 +46637,6 @@
 2021-03-23,Nursing Home,Carteret,Crystal Bluffs Rehabilitation and Health Care Center,8,0,5,0,13,0,0,0
 2021-03-23,Nursing Home,Carteret,PruittHealth - SeaLevel,2,0,2,0,4,0,0,0
 2021-03-23,Nursing Home,Caswell,Brian Center Health & Rehabilitation/Yanceyville,31,0,83,13,114,13,0,0
-2021-03-23,Nursing Home,Catawba,Abernethy Laurels,84,0,90,14,174,14,0,0
 2021-03-23,Nursing Home,Catawba,Brian Center Health and Rehabilitation Hickory/Viewmont,24,0,56,7,80,7,0,0
 2021-03-23,Nursing Home,Catawba,Conover Nursing and Rehabilitation Center,56,0,62,12,118,12,0,0
 2021-03-23,Nursing Home,Catawba,Trinity Ridge,50,0,25,5,75,5,0,0
@@ -46659,7 +46659,7 @@
 2021-03-23,Nursing Home,Duplin,Brian Center Health & Rehabilitation/Wallace,13,0,38,8,51,8,0,0
 2021-03-23,Nursing Home,Durham,Accordius Health at Rose Manor,2,0,1,0,3,0,0,0
 2021-03-23,Nursing Home,Durham,Carver Living Center,59,0,121,22,180,22,0,0
-2021-03-23,Nursing Home,Durham,Croasdaile Village Pavilion Health Center,34,0,45,7,79,7,0,0
+2021-03-23,Nursing Home,Durham,Croasdaile Village Pavilion Health Center,34,0,45,8,79,8,0,1
 2021-03-23,Nursing Home,Durham,Durham Nursing & Rehabilitation Center,30,0,41,3,71,3,0,0
 2021-03-23,Nursing Home,Durham,The Cedars of Chapel Hill,24,0,12,3,36,3,0,0
 2021-03-23,Nursing Home,Edgecombe,Prodigy Transitional Rehab,31,0,65,7,96,7,0,0
@@ -46696,17 +46696,18 @@
 2021-03-23,Nursing Home,Iredell,Accordius Health at Statesville,1,0,1,0,2,0,0,0
 2021-03-23,Nursing Home,Iredell,Autumn Care of Statesville,1,0,1,0,2,0,0,0
 2021-03-23,Nursing Home,Iredell,Maple Leaf Health Care,5,0,1,0,6,0,0,0
-2021-03-23,Nursing Home,Johnston,Brian Center Health & Retirement/ Clayton,12,0,36,0,48,0,0,0
+2021-03-23,Nursing Home,Johnston,Brian Center Health & Retirement/ Clayton,14,0,37,5,51,5,3,5
 2021-03-23,Nursing Home,Lee,Sanford Health and Rehabilitation,33,0,90,16,123,16,0,0
 2021-03-23,Nursing Home,Lee,Westfield Rehabilitation and Health Center,18,0,58,3,76,3,0,0
 2021-03-23,Nursing Home,Lenoir,NC State Veterans Home-Kinston,20,0,9,0,29,0,0,0
 2021-03-23,Nursing Home,Lenoir,Signature HealthCARE of Kinston,6,0,3,2,9,2,0,0
-2021-03-23,Nursing Home,Lincoln,Lincolnton Rehabilitation Center,33,0,61,5,94,5,0,0
+2021-03-23,Nursing Home,Lincoln,Lincolnton Rehabilitation Center,45,0,61,5,106,5,12,0
 2021-03-23,Nursing Home,Macon,Eckerd Living Center,15,0,33,0,48,0,0,0
 2021-03-23,Nursing Home,Macon,Macon Valley Nursing and Rehabilitation Center,28,0,66,5,94,5,0,0
 2021-03-23,Nursing Home,Madison,Madison Health and Rehabilitation,34,0,74,19,108,19,0,0
 2021-03-23,Nursing Home,McDowell,Deer Park Health & Rehabilitation,8,0,1,0,9,0,0,0
-2021-03-23,Nursing Home,Mecklenburg,Accordius Health at Charlotte,2,0,0,0,2,0,0,0
+2021-03-23,Nursing Home,Mecklenburg,Accordius Health at Charlotte,3,0,0,0,3,0,1,0
+2021-03-23,Nursing Home,Mecklenburg,Brookdale Carriage Club at Providence,3,0,0,0,3,0,-29,0
 2021-03-23,Nursing Home,Mecklenburg,Carrington Place,1,0,2,0,3,0,0,0
 2021-03-23,Nursing Home,Mecklenburg,Huntersville Health & Rehabilitation Center,19,0,19,5,38,5,0,0
 2021-03-23,Nursing Home,Mecklenburg,Pelican Health Randolph,6,0,11,2,17,2,0,0
@@ -46716,10 +46717,10 @@
 2021-03-23,Nursing Home,Moore,Peak Resources-Pinelake,1,0,1,0,2,0,0,0
 2021-03-23,Nursing Home,Moore,Pinehurst Healthcare & Rehabilitation Center,5,0,3,0,8,0,0,0
 2021-03-23,Nursing Home,Moore,St Joseph of The Pines Health Center,54,0,69,11,123,11,0,0
-2021-03-23,Nursing Home,Moore,The Greens at Pinehurst Rehabilitation & Living Center,0,0,2,0,2,0,0,0
+2021-03-23,Nursing Home,Moore,The Greens at Pinehurst Rehabilitation & Living Center,0,0,3,0,3,0,1,0
 2021-03-23,Nursing Home,Nash,Autumn Care of Nash,1,0,2,0,3,0,0,0
 2021-03-23,Nursing Home,Nash,Rocky Mount Rehabilitation Center,10,0,5,1,15,1,0,0
 2021-03-23,Nursing Home,Nash,The Carrolton of Nash,18,0,57,13,75,13,0,0
-2021-03-23,Nursing Home,New Hanover,Accordius Health at Wilmington,19,0,8,0,27,0,0,0
+2021-03-23,Nursing Home,New Hanover,Accordius Health at Wilmington,20,0,8,0,28,0,1,0
 2021-03-23,Nursing Home,New Hanover,Azalea Health & Rehab Center,45,0,60,10,105,10,0,0
 2021-03-23,Nursing Home,New Hanover,Davis Health Care Center,25,0,2,1,27,1,0,0
