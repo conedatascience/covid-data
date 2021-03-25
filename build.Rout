@@ -43,9 +43,9 @@ The following objects are masked from ‘package:dplyr’:
 Latest Date: March-25 
 Earliest Date: January-22 
 Latest Date: March-25Earliest Date: January-22Latest Date: March-25Earliest Date: May-08Today's data are not yet available.Latest Date: March-24Earliest Date: May-08trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
-Content type 'text/csv' length 74650 bytes (72 KB)
+Content type 'text/csv' length 74846 bytes (73 KB)
 ==================================================
-downloaded 72 KB
+downloaded 73 KB
 
 No encoding supplied: defaulting to UTF-8.
 Parsed with column specification:
@@ -2264,4 +2264,4 @@ There were 50 or more warnings (use warnings() to see the first 50)
 > 
 > proc.time()
    user  system elapsed 
-346.005 421.541 792.288 
+427.238 528.838 995.215 
