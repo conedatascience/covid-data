@@ -2288,4 +2288,4 @@ There were 50 or more warnings (use warnings() to see the first 50)
 > 
 > proc.time()
    user  system elapsed 
-349.961 457.164 888.887 
+342.613 440.019 800.105 
