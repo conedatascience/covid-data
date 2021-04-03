@@ -72,9 +72,8 @@ In addition: Warning messages:
 trying URL 'https://public.tableau.com/vizql/w/NCDHHS_COVID-19_DataDownload/v/HospitalPatientData/vudcsv/sessions/48357CE83FD24F04AC0BD68C3874BECE-0:0/views/4022802588106640556_9307479125736770152?showall=true&underlying_table_id=medsurge_public_facing.csv_9E85D41A33ED4AAE941D68C3B611FF90&underlying_table_caption=Full%20Data'
 Error in download.file(url = url, destfile = here::here("data", "daily-patient",  : 
   cannot open URL 'https://public.tableau.com/vizql/w/NCDHHS_COVID-19_DataDownload/v/HospitalPatientData/vudcsv/sessions/48357CE83FD24F04AC0BD68C3874BECE-0:0/views/4022802588106640556_9307479125736770152?showall=true&underlying_table_id=medsurge_public_facing.csv_9E85D41A33ED4AAE941D68C3B611FF90&underlying_table_caption=Full%20Data'
-In addition: Warning messages:
-1: In request_GET(session, url) : Service Unavailable (HTTP 503).
-2: In download.file(url = url, destfile = here::here("data", "daily-patient",  :
+In addition: Warning message:
+In download.file(url = url, destfile = here::here("data", "daily-patient",  :
   cannot open URL 'https://public.tableau.com/vizql/w/NCDHHS_COVID-19_DataDownload/v/HospitalPatientData/vudcsv/sessions/48357CE83FD24F04AC0BD68C3874BECE-0:0/views/4022802588106640556_9307479125736770152?showall=true&underlying_table_id=medsurge_public_facing.csv_9E85D41A33ED4AAE941D68C3B611FF90&underlying_table_caption=Full%20Data': HTTP status was '410 Gone'
 Starting Pdf Scrapes
 
@@ -2337,4 +2336,4 @@ There were 50 or more warnings (use warnings() to see the first 50)
 > 
 > proc.time()
    user  system elapsed 
-363.057 458.342 962.319 
+362.687 450.801 831.017 
