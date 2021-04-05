@@ -1,0 +1,34 @@
+                                              Demographics
+Race
+                             Cases          Percent	of	Cases              Deaths Percent	of	Deaths
+American	Indian
+                             2,053                 2%                       36          1%
+Alaskan	Native
+Asian                        2,442                 2%                       34          1%
+Black	or	African
+                             30,995               24%                       812        31%
+American
+Native	Hawaiian	or	Pa..       273                  0%                        4          0%
+White                        74,290               57%                      1,566       59%
+Other                        20,619               16%                       191         7%
+Missing                      39,881                                         136
+Ethnicity
+                            Cases           Percent	of	Cases             Deaths  Percent	of	Deaths
+Hispanic                    41,182                37%                      270         11%
+Non-Hispanic                71,528                63%                     2,228        89%
+Missing                     57,843                                         281
+Age
+                          Cases           Percent	of	Cases              Deaths   Percent	of	Deaths
+0-17                      18,645                 11%                        1          0%
+18-24                     27,234                 16%                        3          0%
+25-49                     71,223                 42%                      133          5%
+50-64                     31,721                 19%                      431          16%
+65-74                     11,487                 7%                       629          23%
+75+                       10,154                 6%                      1,581         57%
+Missing                     89                                              1
+Gender
+                          Cases           Percent	of	Cases              Deaths   Percent	of	Deaths
+Female                    88,503                 52%                     1,316         48%
+Male                      80,742                 48%                     1,447         52%
+Missing                   1,308                                            16
+ Created	and	maintained	by	the	NCDHHS	|	Version	Control:	1.0	|	06/29/2020
