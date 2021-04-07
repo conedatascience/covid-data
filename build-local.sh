@@ -6,4 +6,9 @@ R CMD BATCH --vanilla build.R
 
 git add .
 git commit -m "Update the latest data" -a || echo "No changes to commit"
-git push origin master
+#git push origin master
+
+Rscript -e 'gert::git_push()'
+
+echo 'completed scrape'
+
