@@ -42,8 +42,8 @@ The following objects are masked from ‘package:dplyr’:
 
 Latest Date: April-08 
 Earliest Date: January-22 
-Today's data are not yet available.Latest Date: April-07Earliest Date: January-22Latest Date: April-08Earliest Date: May-08Today's data are not yet available.Latest Date: April-07Earliest Date: May-08trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
-Content type 'text/csv' length 77337 bytes (75 KB)
+Latest Date: April-08Earliest Date: January-22Latest Date: April-08Earliest Date: May-08Latest Date: April-08Earliest Date: May-08trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
+Content type 'text/csv' length 77529 bytes (75 KB)
 ==================================================
 downloaded 75 KB
 
@@ -2375,5 +2375,5 @@ $`/mnt/resource/covid-data-store/covid-data/src/99-validation_tests.R`$visible
 There were 50 or more warnings (use warnings() to see the first 50)
 > 
 > proc.time()
-    user   system  elapsed 
- 401.357  518.039 1034.994 
+   user  system elapsed 
+383.695 503.051 963.914 
