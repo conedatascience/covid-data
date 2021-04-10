@@ -2140,7 +2140,6 @@ processing...
 sed worked
 processing:  229  out of  266 
 processing...
-sed worked
 processing:  230  out of  266 
 processing...
 sed worked
@@ -2391,5 +2390,7 @@ $`/mnt/resource/covid-data-store/covid-data/src/99-validation_tests.R`$visible
 There were 50 or more warnings (use warnings() to see the first 50)
 > 
 > proc.time()
-    user   system  elapsed 
- 390.978  505.828 1146.740 
+   user  system elapsed 
+390.582 510.582 928.157 
+Warning message:
+system call failed: Cannot allocate memory 
