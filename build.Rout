@@ -2392,4 +2392,6 @@ There were 50 or more warnings (use warnings() to see the first 50)
 > 
 > proc.time()
     user   system  elapsed 
- 391.272  523.499 1071.690 
+ 391.413  517.402 1002.035 
+Warning message:
+system call failed: Cannot allocate memory 
