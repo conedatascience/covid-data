@@ -2399,7 +2399,7 @@ $`/mnt/resource/covid-data-store/covid-data/src/99-validation_tests.R`$visible
 There were 50 or more warnings (use warnings() to see the first 50)
 > 
 > proc.time()
-   user  system elapsed 
-390.417 509.499 996.254 
+    user   system  elapsed 
+ 392.536  509.586 1047.296 
 Warning message:
 system call failed: Cannot allocate memory 
