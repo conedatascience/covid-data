@@ -63,4 +63,21 @@ dat_raw_final[,county_demo_pop:=ifelse(county_demo_pop==0,as.numeric(NA),
                                        county_demo_pop)]
 
 # save data ------------------------------------------------------------
-data.table::fwrite(dat_raw_final, here::here("data", "timeseries", "vax-demos.csv"))
+#chunk <- 50000
+#n <- nrow(dat_raw_final)
+#r  <- rep(1:ceiling(n/chunk),each=chunk)[1:n]
+#d <- split(dat_raw_final,r)
+
+## Write as chunks
+#
+#for(i in 1:length(d)){
+#  data.table::fwrite(d[[i]], here::here("data", "timeseries", sprintf("vax-demos-%s.csv", i)))
+#}
+
+#n_files <- length(d)
+
+#cat(n_files, file = here::here("data","timeseries","vax-demos-length.txt"))
+
+dat_raw_out = dat_raw_final[date_pulled==max(date_pulled)]
+
+data.table::fwrite(dat_raw_out, here::here("data", "timeseries", "vax-demos.csv"))
