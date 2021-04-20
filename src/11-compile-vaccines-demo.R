@@ -24,6 +24,10 @@ dat_raw[, update_date:= as.Date(format(update_date,'%Y-%m-%d'))]
 
 dat_raw <- dat_raw[!is.na(County) & Demographic!='Age Group K-12']
 
+#updated verbiage
+dat_raw$`People at Least Partially Vaccinated`[is.na(dat_raw$`People at Least Partially Vaccinated`)] <- 
+  dat_raw$`People Vaccinated with at Least One Dose`[is.na(dat_raw$`People at Least Partially Vaccinated`)]
+
 # long format
 dat_raw_long <- melt(dat_raw, id.vars = c('update_date','Week of',
                                           'Aggregation Level',
