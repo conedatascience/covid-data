@@ -1,4 +1,8 @@
 #setwd("C:/Users/54011/Documents/pandemic/covid-data")
 src_files <-  fs::dir_ls(path = here::here("src"), glob = "*.R")
 
-lapply(X = src_files, try(expr = source))
+cmd <- glue::glue("Rscript --vanilla {src_files}")
+
+for(i in seq_along(cmd)){
+    system(cmd[i])
+}
