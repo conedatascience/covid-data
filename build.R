@@ -8,5 +8,6 @@ for(i in seq_along(cmd)){
 }
 
 system("git add --all")
-
-gert::git_commit(glue::glue("Lastest update at {Sys.time()}"))
+msg = glue::glue("Lastest update at {Sys.time()}")
+gert::git_commit(  msg)
+gert::git_push()
