@@ -85,8 +85,8 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
-Latest Date: April-29Earliest Date: May-08Today's data are not yet available.Latest Date: April-28Earliest Date: May-08trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
-Content type 'text/csv' length 81417 bytes (79 KB)
+Latest Date: April-29Earliest Date: May-08Latest Date: April-29Earliest Date: May-08trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
+Content type 'text/csv' length 81612 bytes (79 KB)
 ==================================================
 downloaded 79 KB
 
@@ -2616,13 +2616,23 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "5530624877877136f7c8f026dd40dfcc905bfc9e"
-> gert::git_push()
-> 
-> proc.time()
-   user  system elapsed 
-446.491 481.722 984.786 
