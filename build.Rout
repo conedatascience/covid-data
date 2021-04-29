@@ -2600,3 +2600,11 @@ The following objects are masked from ‘package:dplyr’:
 
 > 
 > system("git add --all")
+> msg = glue::glue("Lastest update at {Sys.time()}")
+> gert::git_commit(  msg)
+[1] "216ed8b47c6dc4867b939ab4117a19518490c1fd"
+> gert::git_push()
+> 
+> proc.time()
+   user  system elapsed 
+445.077 481.532 944.096 
