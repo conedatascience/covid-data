@@ -63,7 +63,7 @@ The following objects are masked from ‘package:dplyr’:
 
 Latest Date: May-05 
 Earliest Date: January-22 
-Latest Date: May-05Earliest Date: January-22
+Today's data are not yet available.Latest Date: May-04Earliest Date: January-22
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -86,8 +86,13 @@ Content type 'text/csv' length 82561 bytes (80 KB)
 ==================================================
 downloaded 80 KB
 
-Error in data.table::fwrite(metrics, here::here("data", "daily-testing",  : 
-  Column 1's type is 'externalptr' - not yet implemented in fwrite.
+No encoding supplied: defaulting to UTF-8.
+Parsed with column specification:
+cols(
+  Date = col_character(),
+  `Measure Names` = col_character(),
+  `Measure Values` = col_number()
+)
 trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/Demographics.csv?%3Aembed=y&%3AshowVizHome=no&%3Ahost_url=https%3A%2F%2Fpublic.tableau.com%2F&%3Aembed_code_version=3&%3Aembed_code_version=3&%3Atabs=yes&%3Atabs=yes&%3Atoolbar=no&%3Atoolbar=no&%3Aanimate_transition=yes&%3Aanimate_transition=yes&%3Adisplay_static_image=no&%3Adisplay_static_image=no&%3Adisplay_spinner=no&%3Adisplay_spinner=no&%3Adisplay_overlay=yes&%3Adisplay_overlay=yes&%3Adisplay_count=no&%3Adisplay_count=no&publish=yes&publish=yes&%3AloadOrderID=0u.com%2F&%3AloadOrderID=0'
 Content type 'text/csv' length 673 bytes
 ==================================================
@@ -2669,11 +2674,3 @@ The following objects are masked from ‘package:dplyr’:
 
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "0287721c9d9a497a96d815c7d4b14b0979e1e455"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
- 469.032  523.833 1030.056 
