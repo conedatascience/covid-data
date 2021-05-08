@@ -87,8 +87,12 @@ Content type 'text/csv' length 83133 bytes (81 KB)
 downloaded 81 KB
 
 No encoding supplied: defaulting to UTF-8.
-Error in data.table::fwrite(metrics, here::here("data", "daily-testing",  : 
-  Column 1's type is 'externalptr' - not yet implemented in fwrite.
+Parsed with column specification:
+cols(
+  Date = col_character(),
+  `Measure Names` = col_character(),
+  `Measure Values` = col_number()
+)
 trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/Demographics.csv?%3Aembed=y&%3AshowVizHome=no&%3Ahost_url=https%3A%2F%2Fpublic.tableau.com%2F&%3Aembed_code_version=3&%3Aembed_code_version=3&%3Atabs=yes&%3Atabs=yes&%3Atoolbar=no&%3Atoolbar=no&%3Aanimate_transition=yes&%3Aanimate_transition=yes&%3Adisplay_static_image=no&%3Adisplay_static_image=no&%3Adisplay_spinner=no&%3Adisplay_spinner=no&%3Adisplay_overlay=yes&%3Adisplay_overlay=yes&%3Adisplay_count=no&%3Adisplay_count=no&publish=yes&publish=yes&%3AloadOrderID=0u.com%2F&%3AloadOrderID=0'
 Content type 'text/csv' length 673 bytes
 ==================================================
