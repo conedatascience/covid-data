@@ -32,6 +32,10 @@ if(!is.null(out$features$attributes)){
   collected_feature <- out$features$attributes
   collected_location <- out$features$geometry
   
+  any_missing <- which(is.na(collected_location[,1]))
+
+collected_feature <- collected_feature[-any_missing,]
+collected_location <- collected_location[-any_missing,]
   # Need to Reproject to align with other stuff we do
   collected_location <- dplyr::mutate_all(collected_location,
                                    as.numeric) 
