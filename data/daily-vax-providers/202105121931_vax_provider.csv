@@ -1,0 +1,75 @@
+OBJECTID,loc_vfc_pin,OrganizationName,LocationName,VaccineAdministrationStreetAddr,VaccineAdministrationCity,VaccineAdministrationCounty,VaccineAdministrationState,VaccineAdministrationZipCode,SysKey,V1,V2,UpdateDTS
+120,11C036,"Range Urgent Care, PLLC",Range Urgent Care - Black Mountain,674 Merrimon Ave,Asheville,Buncombe,North Carolina,28804,CVMS,-82.5547593982507,35.6219648030383,202105121931
+121,11C035,"Range Urgent Care, PLLC",Range Urgent Care - North Asheville,674 Merrimon Ave,Asheville,Buncombe,North Carolina,28804,CVMS,-82.5547593982507,35.6219648030383,202105121931
+136,110002,"Asheville Children's Medical Center, P.A.","Asheville Children's Medical Center, P.A.",7 Vanderbilt Park Drive Suite 100-A,Asheville,Buncombe,North Carolina,28803,CVMS,-82.5410860429685,35.5569693847177,202105121931
+169,11C038,"Ingles Markets, Inc",Ingles Pharmacy #31,151 Smokey Park Hwy,Asheville,Buncombe,North Carolina,28806,CVMS,-82.6293180893828,35.56534062852,202105121931
+170,11C040,"Ingles Markets, Inc",Ingles Pharmacy #8,500 North Carolina Hwy 9,Black Mountain,Buncombe,North Carolina,28711,CVMS,-82.3192939895852,35.6100232363186,202105121931
+171,11C039,"Ingles Markets, Inc",Ingles Pharmacy #137,352 Airport Road,Arden,Buncombe,North Carolina,28704,CVMS,-82.5311690896831,35.4487534962526,202105121931
+186,110044,North Buncombe Family Medicine,North Buncombe Family Medicine,201 Flat Creek Village Drive,Weaverville,Buncombe,North Carolina,28787,CVMS,-82.5534633166887,35.7240101295827,202105121931
+364,11C005,"Western NC Community Health Services, Inc","Western NC Community Health Services, Inc",257 Biltmore Ave,Asheville,Buncombe,North Carolina,28801,CVMS,-82.5519239394027,35.5857406855676,202105121931
+371,110061,Julian F. Keith Alcohol & Drug Abuse Treatment Center,Julian F. Keith Alcohol & Drug Abuse Treatment Center,201 Tabernacle Road,Black Mountain,Buncombe,North Carolina,28711,CVMS,-82.3517216243252,35.6132994956784,202105121931
+411,11C001,"MH Mission Health, LLLP","MH Mission Health, LLLP",509 Biltmore Ave,Asheville,Buncombe,North Carolina,28801,CVMS,-82.5492994634667,35.5768794858019,202105121931
+416,11C002,Black Mountain Neuro-Medical Center,Black Mountain Neuro-Medical Center,932 Old US Hwy 70,Black Mountain,Buncombe,North Carolina,28711,CVMS,-82.356960912236,35.6098216838446,202105121931
+421,110057,"Blue Ridge Community Health Services, Inc",Blue Ridge Health - Arden,142 Airport Road,Arden,Buncombe,North Carolina,28704,CVMS,-82.5251854497244,35.4530051640828,202105121931
+422,11C006,"Blue Ridge Community Health Services, Inc",Blue Ridge Health - Givens Gerber,40 Gerber Road #100,Asheville,Buncombe,North Carolina,28803,CVMS,-82.5210187990643,35.5025535677319,202105121931
+489,110051,Appalachian Mountain Community Health Centers,Leicester Community Health Center,711 New Leicester Hwy,Asheville,Buncombe,North Carolina,28806,CVMS,-82.6374230687327,35.6138410840828,202105121931
+499,110001,Buncombe County Health and Human Services,Buncombe County Health and Human Services,168 Erwin Hills Rd,Asheville,Buncombe,North Carolina,28806,CVMS,-82.6210875921942,35.6199960037495,202105121931
+599,11C004,Appalachian Mountain Community Health Centers,Dale Fell Health Center,7 McDowell St,Asheville,Buncombe,North Carolina,28801,CVMS,-82.5556564103939,35.5834053792778,202105121931
+784,11C022,Mercy Urgent Care,Mercy Urgent Care West,1201 Patton Avenue,Asheville,Buncombe,North Carolina,28806,CVMS,-82.6012451762559,35.5862035346431,202105121931
+847,NS1473,Publix Super Market,Publix Pharmacy #1473,1830 Hendersonville Rd.,Asheville,Buncombe,North Carolina,28803,CVMS,-82.5244947787944,35.5053953891061,202105121931
+860,NS1546,Publix Super Market,Publix Pharmacy #1546,165 Weaver Blvd.,Weaverville,Buncombe,North Carolina,28787,CVMS,-82.5683139171432,35.705181829779,202105121931
+926,11C028,Carolina Mountain Pharmacy,Carolina Mountain Pharmacy,7 Pisgah Hwy,Candler,Buncombe,North Carolina,28715,CVMS,-82.6835904219453,35.5440415042026,202105121931
+928,11C024,"Ashewell Medical Group, P.A.","Ashewell Medical Group, P.A.",408 DEPOT ST,ASHEVILLE,Buncombe,North Carolina,28801,CVMS,-82.5640221172417,35.5798997479219,202105121931
+935,11C009,Blue Ridge Pharmacy Inc.,Blue Ridge Pharmacy,1070 TUNNEL RD,Asheville,Buncombe,North Carolina,28805,CVMS,-82.492312056793,35.5878135759087,202105121931
+1154,11C018,"Raleigh Durham Medical Group, PA",Family Care of Black Mountain/Old Fort,3164 US HWY 70,BLACK MOUNTAIN,Buncombe,North Carolina,28711,CVMS,-82.3384384206752,35.6105525254571,202105121931
+1159,110033,"Raleigh Durham Medical Group, PA",Biltmore Family Medicine,1 Saint Dunstans Rd,Asheville,Buncombe,North Carolina,28803,CVMS,-82.5467890425673,35.5736416955265,202105121931
+1223,11C011,DaVita,Weaverville Dialysis,329 Merrimon Ave,Weaverville,Buncombe,North Carolina,28787,CVMS,-82.5751337292051,35.6789441701597,202105121931
+1315,110055,"The Family Health Centers, PA","The Family Health Centers, Asheville",206 Asheland Ave,Asheville,Buncombe,North Carolina,28801,CVMS,-82.5561445410534,35.5869792755869,202105121931
+1316,110054,"The Family Health Centers, PA",The Family Health Centers Hominy Valley,1219 SMOKEY PARK HWY,CANDLER,Buncombe,North Carolina,28715,CVMS,-82.6711832555906,35.545592815351,202105121931
+1317,110024,"The Family Health Centers, PA","The Family Health Centers,  Arden",2161 Hendersonville Rd,Arden,Buncombe,North Carolina,28704,CVMS,-82.5259038614403,35.480099206404,202105121931
+1319,NS2003,"Ingles Markets, Inc",Ingles Pharmacy #3,915 Merrimon Ave,Asheville,Buncombe,North Carolina,28804,CVMS,-82.552510769714,35.629607211331,202105121931
+1320,11C021,Asheville Discount Pharmacy,Asheville discount pharmacy,76 Patton Ave,Asheville,Buncombe,North Carolina,28801,CVMS,-82.5547576441403,35.5942383529767,202105121931
+1321,NS2004,"Ingles Markets, Inc",Ingles Pharmacy #4,1141 Tunnel Rd,Asheville,Buncombe,North Carolina,28805,CVMS,-82.4882510174444,35.5864104251811,202105121931
+1364,11C012,Cold Mountain Pharmacy Services L.L.C.,HealthRidge Pharmacy,3130 US 70 HWY,Black Mountain,Buncombe,North Carolina,28711,CVMS,-82.3411888520964,35.6098570185831,202105121931
+1481,11C015,Southeastern Occupational Services,Industries for the Blind Asheville,240 Sardis Road,Asheville,Buncombe,North Carolina,28806,CVMS,-82.6320573430084,35.5393626879783,202105121931
+1491,11C030,"Sunshine Pharmacy, Inc",Sunshine Pharmacy and Health,206 East State St,Black Mountain,Buncombe,North Carolina,28711,CVMS,-82.3194364161576,35.6189904896072,202105121931
+1530,11C010,"MH Mission Health, LLLP","MH Mission Health, LLLP - S AVL",980 Hendersonville Road,Asheville,Buncombe,North Carolina,28803,CVMS,-82.5309572943485,35.5392850460264,202105121931
+1610,11C013,"Genoa Healthcare, LLC","Genoa Healthcare, 10930",119 Tunnel Rd,Asheville,Buncombe,North Carolina,28805,CVMS,-82.5333260249456,35.5922384507926,202105121931
+1614,11C014,"Genoa Healthcare, LLC","Genoa Healthcare, 00151",1314 PATTON AVENUE SUITE E,Asheville,Buncombe,North Carolina,28806,CVMS,-82.6022647270958,35.58254689053,202105121931
+1698,110007,"Community Family Practice, PA",Community Family Practice,260 Merrimon Avenue,Asheville,Buncombe,North Carolina,28801,CVMS,-82.5542136628611,35.6077680251899,202105121931
+1704,11C016,"Brookshire Pharmacy Inc, DBA B&B Pharmacy","Brookshire Pharmacy Inc, DBA B&B Pharmacy",462 Haywood Road,Asheville,Buncombe,North Carolina,28806,CVMS,-82.5821447654459,35.5775222475284,202105121931
+1751,110013,Mountain Area Health Education Center (MAHEC),Mountain Area Health Education Center (MAHEC),123 Hendersonville rd,Asheville,Buncombe,North Carolina,28803,CVMS,-82.5435567061787,35.5615478402526,202105121931
+1760,11C041,Trillium Family Medicine,Trillium Family Medicine,3 Doctors Park Suite A,Asheville,Buncombe,North Carolina,28801,CVMS,-82.5522811619598,35.5812721731843,202105121931
+1781,11C029,LifeWay Health,LifeWay Health,7 Yorkshire Street,Asheville,Buncombe,North Carolina,28803,CVMS,-82.5359430848296,35.5570315800684,202105121931
+1863,11C017,Blue Ridge Pharmacy Inc DBA Sona Pharmacy + Clinic,Sona Pharmacy + Clinic,805 Fairview Rd,Asheville,Buncombe,North Carolina,28803,CVMS,-82.5024452916762,35.5713958530236,202105121931
+1904,110017,UNC Asheville,UNC Asheville,One University Heights,Asheville,Buncombe,North Carolina,28804,CVMS,-82.5633025088302,35.6190537733806,202105121931
+1911,NS2007,"Ingles Markets, Inc",Ingles Pharmacy #7,29 Tunnel Rd,Asheville,Buncombe,North Carolina,28805,CVMS,-82.5354855753655,35.5953977835631,202105121931
+1914,11C045,"Ingles Markets, Inc",Ingles Pharmacy #34,2299 Hwy 70 E,Swannanoa,Buncombe,North Carolina,28778,CVMS,-82.4077371190957,35.5993230579838,202105121931
+1916,11C033,"Ingles Markets, Inc",Ingles Pharmacy #79,780 Hendersonville Rd,Asheville,Buncombe,North Carolina,28803,CVMS,-82.5330682572316,35.5438613820799,202105121931
+1919,NS2024,"Ingles Markets, Inc",Ingles Pharmacy #24,863 Brevard Rd,Asheville,Buncombe,North Carolina,28806,CVMS,-82.6073753296283,35.5305578399902,202105121931
+1920,NS2030,"Ingles Markets, Inc",Ingles Pharmacy #30,1865 Hendersonville Rd,Asheville,Buncombe,North Carolina,28803,CVMS,-82.5239605755474,35.5002354695681,202105121931
+1923,11C042,"Ingles Markets, Inc",Ingles Pharmacy #62,575 New Leicester Hwy,Asheville,Buncombe,North Carolina,28806,CVMS,-82.6316345694007,35.614549087383,202105121931
+1928,NS2031,"Ingles Markets, Inc",Ingles Pharmacy #31,151 Smokey Park Hwy,Asheville,Buncombe,North Carolina,28806,CVMS,-82.6293180893828,35.56534062852,202105121931
+1936,11C044,"Ingles Markets, Inc",Ingles Pharmacy #134,1572 Sand Hill Rd,Candler,Buncombe,North Carolina,28715,CVMS,-82.6576333437186,35.5434179257186,202105121931
+1939,11C034,"Ingles Markets, Inc",Ingles Pharmacy #130,301 Long Shoals Rd,Arden,Buncombe,North Carolina,28704,CVMS,-82.5496324378988,35.4795245080864,202105121931
+1945,11C043,"Ingles Markets, Inc",Ingles Pharmacy #180,140 Weaver Blvd,Weaverville,Buncombe,North Carolina,28787,CVMS,-82.5669998656222,35.7025566018697,202105121931
+1950,11C019,"MH Mission Health, LLLP","CarePartners Rehabilitation Hospital, LLLP",400 Ridgefield Court,Asheville,Buncombe,North Carolina,28806,CVMS,-82.597656573274,35.5221896440708,202105121931
+1951,11C020,"MH Mission Health, LLLP","MH Asheville Specialty Hospital, LLC",428 Biltmore Ave,Asheville,Buncombe,North Carolina,28801,CVMS,-82.5501243147021,35.5812380172159,202105121931
+1957,11C037,"Lantern Health, PLLC",Lantern Health,84 Coxe Ave,Asheville,Buncombe,North Carolina,28801,CVMS,-82.554808977301,35.591335830758,202105121931
+2012,11C023,Mountain Area Health Education Center (MAHEC),MAHEC at UNCA,"One University Heights, Reuter Center",Asheville,Buncombe,North Carolina,28804,CVMS,-82.5633025088302,35.6190537733806,202105121931
+2030,"",Parameter Generation & Control,Parameter Generation & Control,1054 Old US Highway 70 West,Black Mountain,Buncombe,North Carolina,28711,CVMS,-82.3477143264923,35.6092686870754,202105121931
+2071,11C026,Americare Pharmacy,AMERICARE PHARMACY,1185 Charlotte Hwy,Fairview,Buncombe,North Carolina,28730,CVMS,-82.4250265239376,35.5255187064634,202105121931
+2074,11C027,Americare Pharmacy,AMERICARE PHARMACY CONSULTANTS,1185 Charlotte Highway,FAIRVIEW,Buncombe,North Carolina,28730,CVMS,-82.4250265239376,35.5255187064634,202105121931
+2081,11C031,"PruittHealth, Inc.",North Carolina State Veterans Home - Black Mountain,62 lake eden rd,black mountain,Buncombe,North Carolina,28711,CVMS,-82.3712828455028,35.6138967308259,202105121931
+2220,,WM1,WAL-MART PHARMACY,125 BLEACHERY BLVD,ASHEVILLE,Buncombe,North Carolina,28805,Fed,-82.3855438401801,35.4429609520139,202105121931
+2298,,WM1,WAL-MART PHARMACY,1636 HENDERSONVILLE RD,ASHEVILLE,Buncombe,North Carolina,28803,Fed,-82.5219671197338,35.4053857246681,202105121931
+2424,,WM1,WAL-MART PHARMACY,25 NORTHRIDGE COM. PKY.,WEAVERVILLE,Buncombe,North Carolina,28787,Fed,-82.6821256648753,35.764375277844,202105121931
+2526,,CVS Health,5586,320 NEW LEICESTER HWY,ASHEVILLE,Buncombe,North Carolina,28806,Fed,-82.5201820736491,35.4948420600478,202105121931
+2624,,CVS Health,3860,425 W STATE ST,BLACK MOUNTAIN,Buncombe,North Carolina,28711,Fed,-82.4376873256004,35.5330810955006,202105121931
+2731,,WM1,WAL-MART PHARMACY,60 AIRPORT RD,ARDEN,Buncombe,North Carolina,28704,Fed,-82.4648366581717,35.4405028618469,202105121931
+2757,,WM1,SAM'S PHARMACY,645 PATTON AVE,ASHEVILLE,Buncombe,North Carolina,28806,Fed,-82.7560067592436,35.655057855595,202105121931
+2889,,CVS Health,4176,11 RIVER RIDGE DR,ASHEVILLE,Buncombe,North Carolina,28803,Fed,-82.50545585132,35.5704843997217,202105121931
+2919,,CVS Health,4116,24 WESTGATE PKWY,ASHEVILLE,Buncombe,North Carolina,28806,Fed,-82.5754126295093,35.5911768293435,202105121931
+2994,,CVS Health,4105,1080 HENDERSONVILLE RD,ASHEVILLE,Buncombe,North Carolina,28803,Fed,-82.52870616483,35.5360091899868,202105121931
+2995,,CVS Health,3847,505 SMOKEY PARK HWY,ASHEVILLE,Buncombe,North Carolina,28806,Fed,-82.6421199141092,35.5542896531251,202105121931
+3000,,CVS Health,2538,2351 US 70 HWY,SWANNANOA,Buncombe,North Carolina,28778,Fed,-82.4029121934867,35.6000746165636,202105121931
