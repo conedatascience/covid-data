@@ -2752,13 +2752,22 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
+Error: Can't combine `/mnt/resource/covid-data-store/covid-data/data/daily-vax-providers/202104291515_vax_provider.csv$loc_vfc_pin` <character> and `/mnt/resource/covid-data-store/covid-data/data/daily-vax-providers/202105151931_vax_provider.csv$loc_vfc_pin` <logical>.
+Backtrace:
+     █
+  1. └─purrr::map_dfr(data_dir, data.table::fread, .id = "date_pulled")
+  2.   └─dplyr::bind_rows(res, .id = .id)
+  3.     └─vctrs::vec_rbind(!!!dots, .names_to = .id)
+  4.       └─(function () ...
+  5.         └─vctrs:::vec_ptype2.data.table.data.table(...)
+  6.           └─vctrs:::dt_ptype2(x, y, ...)
+  7.             ├─data.table::as.data.table(df_ptype2(x, y, ...))
+  8.             └─vctrs::df_ptype2(x, y, ...)
+  9.               └─(function () ...
+ 10.                 └─vctrs::vec_default_ptype2(...)
+ 11.                   └─vctrs::stop_incompatible_type(...)
+ 12.                     └─vctrs:::stop_incompatible(...)
+ 13.                       └─vctrs:::stop_vctrs(...)
+Execution halted
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "0601861b4aae46f80d116996cec262c9da0b7d06"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
- 488.988  522.672 1170.218 
