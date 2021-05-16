@@ -2779,9 +2779,3 @@ Backtrace:
 Execution halted
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "4813508052496396db40cf463c5dd8f840fe0777"
-> gert::git_push()
-Error in gert::git_push() : ignoring SIGPIPE signal
-Execution halted
