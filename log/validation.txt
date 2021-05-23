@@ -50043,3 +50043,9 @@ Confrontation: 3, Failures: 0, Time 202105230100
 Confrontation: 4, Failures: 0, Time 202105230100
 Confrontation: 5, Failures: 0, Time 202105230100
 Confrontation: 6, Failures: 8, Time 202105230100
+Confrontation: 1, Failures: 0, Time 202105230200
+Confrontation: 2, Failures: 0, Time 202105230200
+Confrontation: 3, Failures: 0, Time 202105230200
+Confrontation: 4, Failures: 0, Time 202105230200
+Confrontation: 5, Failures: 0, Time 202105230200
+Confrontation: 6, Failures: 8, Time 202105230200
