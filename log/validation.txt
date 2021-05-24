@@ -50223,3 +50223,9 @@ Confrontation: 3, Failures: 0, Time 202105240658
 Confrontation: 4, Failures: 0, Time 202105240658
 Confrontation: 5, Failures: 0, Time 202105240658
 Confrontation: 6, Failures: 8, Time 202105240658
+Confrontation: 1, Failures: 0, Time 202105240759
+Confrontation: 2, Failures: 0, Time 202105240759
+Confrontation: 3, Failures: 0, Time 202105240759
+Confrontation: 4, Failures: 0, Time 202105240759
+Confrontation: 5, Failures: 0, Time 202105240759
+Confrontation: 6, Failures: 8, Time 202105240759
