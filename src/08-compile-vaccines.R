@@ -14,6 +14,23 @@ dat_raw2 <- purrr::map_dfr(data_dir2, data.table::fread, .id = "date_pulled")
 
 setDT(dat_raw2)
 
+# new names in latest files:
+#Dose 2 Administered - NC Providers
+#Dose 1 Administered - NC Providers
+#Dose 1 Administered - Federal
+#Dose 2 Administered - Federal
+if(any(grepl("Federal|Providers", colnames(dat_raw2)))){
+dat_raw2[,`First Doses Administered`:=ifelse(is.na(`First Doses Administered`),
+`Dose 1 Administered - Federal` + `Dose 1 Administered - NC Providers`,
+`First Doses Administered`)]
+
+dat_raw2[,`Second Doses Administered`:=ifelse(is.na(`Second Doses Administered`),
+`Dose 2 Administered - Federal` + `Dose 2 Administered - NC Providers`,
+`First Doses Administered`)]
+
+dat_raw2[, grep("Federal|Providers", colnames(dat_raw2)):=NULL]
+}
+
 dat_raw2 <- melt(dat_raw2, id.vars = c('date_pulled', 'County'),
                  variable.name = 'vaccine_status',
                  value.name = 'total_doses')
