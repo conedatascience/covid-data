@@ -102,10 +102,44 @@ dat_raw3 <- purrr::map_dfr(data_dir3, data.table::fread, .id = "date_pulled")
 
 setDT(dat_raw3)
 
-cols <- c('date_pulled','County', 'People at Least Partially Vaccinated',
-          'People Fully Vaccinated')
+# new col names:
+#People Vaccinated with at Least One Dose - Federal
+#People Fully Vaccinated - Federal
+#People Fully Vaccinated - NC
+#People Vaccinated with at Least One Dose - NC
+
+#People Vaccinated with at Least One Dose
+
+  cols <- c('date_pulled','County', 'People at Least Partially Vaccinated',
+          'People Fully Vaccinated',
+          'People Vaccinated with at Least One Dose',
+          'People Vaccinated with at Least One Dose - Federal',
+          'People Fully Vaccinated - Federal',
+          'People Fully Vaccinated - NC',
+          'People Vaccinated with at Least One Dose - NC')
+
+  cols <- intersect(cols, names(dat_raw3))
 
 dat_raw3 <- dat_raw3[!is.na(County),..cols]
+
+dat_raw3[,`People at Least Partially Vaccinated` := ifelse(is.na(`People at Least Partially Vaccinated`),
+                                                          `People Vaccinated with at Least One Dose`,
+                                                          `People at Least Partially Vaccinated`)]
+
+if(any(grepl('Federal', cols))){
+dat_raw3[,`People at Least Partially Vaccinated`:=ifelse(is.na(`People at Least Partially Vaccinated`),
+               `People Vaccinated with at Least One Dose - Federal` +  `People Vaccinated with at Least One Dose - NC`,
+               `People at Least Partially Vaccinated`)]
+
+dat_raw3[,`People Fully Vaccinated`:=ifelse(is.na(`People Fully Vaccinated`),
+               `People Fully Vaccinated - Federal` +  `People Fully Vaccinated - NC`,
+               `People Fully Vaccinated`)]
+
+}
+
+cols <- c('date_pulled','County', 'People at Least Partially Vaccinated',
+                          'People Fully Vaccinated')
+dat_raw3 <- dat_raw3[,..cols]
 
 setnames(dat_raw3, 'County', 'county')
 
