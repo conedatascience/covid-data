@@ -2773,10 +2773,9 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
-Error in ifelse(is.na(`First Doses Administered`), `Dose 1 Administered - Federal` +  : 
-  object 'Dose 1 Administered - Federal' not found
-Calls: [ -> [.data.table -> eval -> eval -> ifelse
-Execution halted
+Warning message:
+In melt.data.table(dat_raw2, id.vars = c("date_pulled", "County"),  :
+  'measure.vars' [Second Doses Administered, First Doses Administered, Total Doses Administered, Facility_Type, ...] are not all of the same type. By order of hierarchy, the molten data value column will be of type 'character'. All measure variables not of type 'character' will be coerced too. Check DETAILS in ?melt.data.table for more on coercion.
 
 Attaching package: ‘dplyr’
 

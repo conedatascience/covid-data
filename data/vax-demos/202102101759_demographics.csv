@@ -1,0 +1,77 @@
+Demographic,Race,Value,calc.ValueComma,Age Group,Gender,Hispanic,Name
+Gender,,4851,"4,851",,Female,,Deaths
+Gender,,34,34,,Missing,,Deaths
+Gender,,5296,"5,296",,Male,,Deaths
+Gender,,48%,48%,,Female,,Percent of Deaths
+Gender,,,,,Missing,,Percent of Deaths
+Gender,,52%,52%,,Male,,Percent of Deaths
+Gender,,53%,53%,,Female,,Percent of Cases
+Gender,,,,,Missing,,Percent of Cases
+Gender,,47%,47%,,Male,,Percent of Cases
+Gender,,427008,"427,008",,Female,,Cases
+Gender,,4636,"4,636",,Missing,,Cases
+Gender,,374254,"374,254",,Male,,Cases
+Ethnicity,,78%,78%,,,Non-Hispanic,Percent of Cases
+Ethnicity,,,,,,Missing,Percent of Cases
+Ethnicity,,22%,22%,,,Hispanic,Percent of Cases
+Ethnicity,,92%,92%,,,Non-Hispanic,Percent of Deaths
+Ethnicity,,,,,,Missing,Percent of Deaths
+Ethnicity,,8%,8%,,,Hispanic,Percent of Deaths
+Ethnicity,,7894,"7,894",,,Non-Hispanic,Deaths
+Ethnicity,,1565,"1,565",,,Missing,Deaths
+Ethnicity,,722,722,,,Hispanic,Deaths
+Ethnicity,,398883,"398,883",,,Non-Hispanic,Cases
+Ethnicity,,295047,"295,047",,,Missing,Cases
+Ethnicity,,111968,"111,968",,,Hispanic,Cases
+Age Group,,6077,"6,077",75+,,,Deaths
+Age Group,,355,355,25-49,,,Deaths
+Age Group,,1366,"1,366",50-64,,,Deaths
+Age Group,,0,0,Missing,,,Deaths
+Age Group,,12,12,18-24,,,Deaths
+Age Group,,3,3,0-17,,,Deaths
+Age Group,,2368,"2,368",65-74,,,Deaths
+Age Group,,7%,7%,75+,,,Percent of Cases
+Age Group,,39%,39%,25-49,,,Percent of Cases
+Age Group,,20%,20%,50-64,,,Percent of Cases
+Age Group,,,,Missing,,,Percent of Cases
+Age Group,,14%,14%,18-24,,,Percent of Cases
+Age Group,,12%,12%,0-17,,,Percent of Cases
+Age Group,,8%,8%,65-74,,,Percent of Cases
+Age Group,,60%,60%,75+,,,Percent of Deaths
+Age Group,,3%,3%,25-49,,,Percent of Deaths
+Age Group,,13%,13%,50-64,,,Percent of Deaths
+Age Group,,,,Missing,,,Percent of Deaths
+Age Group,,0%,0%,18-24,,,Percent of Deaths
+Age Group,,0%,0%,0-17,,,Percent of Deaths
+Age Group,,23%,23%,65-74,,,Percent of Deaths
+Age Group,,55238,"55,238",75+,,,Cases
+Age Group,,316273,"316,273",25-49,,,Cases
+Age Group,,164752,"164,752",50-64,,,Cases
+Age Group,,187,187,Missing,,,Cases
+Age Group,,109270,"109,270",18-24,,,Cases
+Age Group,,93153,"93,153",0-17,,,Cases
+Age Group,,67025,"67,025",65-74,,,Cases
+Race,Missing,627,627,,,,Deaths
+Race,Black or African American,2378,"2,378",,,,Deaths
+Race,Asian or Pacific Islander,105,105,,,,Deaths
+Race,American Indian Alaskan Native,105,105,,,,Deaths
+Race,Other,639,639,,,,Deaths
+Race,White,6327,"6,327",,,,Deaths
+Race,Missing,,,,,,Percent of Cases
+Race,Black or African American,21%,21%,,,,Percent of Cases
+Race,Asian or Pacific Islander,2%,2%,,,,Percent of Cases
+Race,American Indian Alaskan Native,2%,2%,,,,Percent of Cases
+Race,Other,14%,14%,,,,Percent of Cases
+Race,White,62%,62%,,,,Percent of Cases
+Race,Missing,,,,,,Percent of Deaths
+Race,Black or African American,25%,25%,,,,Percent of Deaths
+Race,Asian or Pacific Islander,1%,1%,,,,Percent of Deaths
+Race,American Indian Alaskan Native,1%,1%,,,,Percent of Deaths
+Race,Other,7%,7%,,,,Percent of Deaths
+Race,White,66%,66%,,,,Percent of Deaths
+Race,Missing,152410,"152,410",,,,Cases
+Race,Black or African American,134169,"134,169",,,,Cases
+Race,Asian or Pacific Islander,12453,"12,453",,,,Cases
+Race,American Indian Alaskan Native,10316,"10,316",,,,Cases
+Race,Other,90812,"90,812",,,,Cases
+Race,White,405738,"405,738",,,,Cases

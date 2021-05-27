@@ -1,0 +1,220 @@
+Facility_Type,Category,County,Outbreak Count
+Nursing Home,Ongoing Outbreaks,Caldwell,4
+Residential Care Facility,Ongoing Outbreaks,Caldwell,1
+Nursing Home,Ongoing Outbreaks,Davie,2
+Nursing Home,Ongoing Outbreaks,Montgomery,1
+Correctional Facility,Ongoing Outbreaks,Montgomery,1
+Residential Care Facility,Ongoing Outbreaks,Montgomery,2
+Residential Care Facility,Ongoing Outbreaks,Robeson,1
+Child Care,,Robeson,1
+Nursing Home,Ongoing Outbreaks,Robeson,3
+Correctional Facility,Ongoing Outbreaks,Robeson,3
+K-12 School,,Robeson,3
+Nursing Home,Ongoing Outbreaks,Washington,1
+K-12 School,,Greene,1
+Correctional Facility,Ongoing Outbreaks,Greene,1
+Nursing Home,Ongoing Outbreaks,Greene,1
+Nursing Home,Ongoing Outbreaks,Perquimans,1
+Nursing Home,Ongoing Outbreaks,Transylvania,1
+K-12 School,,Transylvania,1
+Nursing Home,Ongoing Outbreaks,Harnett,1
+Child Care,,Harnett,1
+Correctional Facility,Ongoing Outbreaks,Harnett,2
+Residential Care Facility,Ongoing Outbreaks,McDowell,4
+Correctional Facility,Ongoing Outbreaks,McDowell,1
+Nursing Home,Ongoing Outbreaks,McDowell,1
+Residential Care Facility,Ongoing Outbreaks,Polk,1
+Nursing Home,Ongoing Outbreaks,Polk,2
+K-12 School,,Alamance,1
+Residential Care Facility,Ongoing Outbreaks,Alamance,3
+Correctional Facility,Ongoing Outbreaks,Alamance,1
+Nursing Home,Ongoing Outbreaks,Alamance,4
+Child Care,,Alamance,2
+Correctional Facility,Ongoing Outbreaks,Caswell,1
+Nursing Home,Ongoing Outbreaks,Caswell,1
+Residential Care Facility,Ongoing Outbreaks,Caswell,1
+Correctional Facility,Ongoing Outbreaks,Edgecombe,1
+K-12 School,,Martin,1
+Nursing Home,Ongoing Outbreaks,Orange,2
+Residential Care Facility,Ongoing Outbreaks,Orange,1
+Child Care,,Orange,1
+Correctional Facility,Ongoing Outbreaks,Beaufort,1
+Nursing Home,Ongoing Outbreaks,Beaufort,1
+Nursing Home,Ongoing Outbreaks,Cleveland,1
+Correctional Facility,Ongoing Outbreaks,Cleveland,1
+Residential Care Facility,Ongoing Outbreaks,Mitchell,1
+Correctional Facility,Ongoing Outbreaks,Alexander,1
+Residential Care Facility,Ongoing Outbreaks,Alexander,1
+Nursing Home,Ongoing Outbreaks,Alexander,1
+Nursing Home,Ongoing Outbreaks,Catawba,2
+Nursing Home,Ongoing Outbreaks,Wilson,2
+Residential Care Facility,Ongoing Outbreaks,Wilson,2
+Residential Care Facility,Ongoing Outbreaks,Hoke,4
+Nursing Home,Ongoing Outbreaks,Haywood,3
+Residential Care Facility,Ongoing Outbreaks,Haywood,1
+Correctional Facility,Ongoing Outbreaks,Haywood,1
+Nursing Home,Ongoing Outbreaks,Ashe,1
+Residential Care Facility,Ongoing Outbreaks,Ashe,1
+Nursing Home,Ongoing Outbreaks,Gates,1
+Nursing Home,Ongoing Outbreaks,Lee,2
+Correctional Facility,Ongoing Outbreaks,Pamlico,1
+K-12 School,,Pamlico,2
+Nursing Home,Ongoing Outbreaks,Pamlico,1
+Correctional Facility,Ongoing Outbreaks,Avery,1
+K-12 School,,Avery,1
+,,Graham,0
+Correctional Facility,Ongoing Outbreaks,Surry,1
+Nursing Home,Ongoing Outbreaks,Surry,2
+K-12 School,,Alleghany,1
+Other,Ongoing Outbreaks,Durham,1
+Residential Care Facility,Ongoing Outbreaks,Durham,2
+Nursing Home,Ongoing Outbreaks,Durham,4
+Nursing Home,Ongoing Outbreaks,Person,1
+Child Care,,Person,2
+K-12 School,,Person,1
+,,Jackson,0
+,,Camden,0
+Child Care,,Watauga,1
+Residential Care Facility,Ongoing Outbreaks,Watauga,1
+Nursing Home,Ongoing Outbreaks,Watauga,1
+Residential Care Facility,Ongoing Outbreaks,Burke,1
+Nursing Home,Ongoing Outbreaks,Burke,2
+Correctional Facility,Ongoing Outbreaks,Burke,1
+Nursing Home,Ongoing Outbreaks,Stokes,2
+Residential Care Facility,Ongoing Outbreaks,Stokes,1
+Nursing Home,Ongoing Outbreaks,Hertford,1
+Residential Care Facility,Ongoing Outbreaks,Hertford,1
+Correctional Facility,Ongoing Outbreaks,Columbus,1
+Residential Care Facility,Ongoing Outbreaks,Macon,1
+Nursing Home,Ongoing Outbreaks,Macon,2
+,,Rutherford,0
+Child Care,,Wilkes,1
+Residential Care Facility,Ongoing Outbreaks,Wilkes,2
+Nursing Home,Ongoing Outbreaks,Wilkes,1
+Correctional Facility,Ongoing Outbreaks,Wilkes,1
+Correctional Facility,Ongoing Outbreaks,Anson,1
+Nursing Home,Ongoing Outbreaks,Anson,1
+Child Care,,Anson,1
+Correctional Facility,Ongoing Outbreaks,Cherokee,1
+Correctional Facility,Ongoing Outbreaks,Gaston,1
+Correctional Facility,Ongoing Outbreaks,Stanly,1
+Nursing Home,Ongoing Outbreaks,Stanly,2
+,,Lincoln,0
+Residential Care Facility,Ongoing Outbreaks,Pender,1
+Correctional Facility,Ongoing Outbreaks,Pender,2
+Nursing Home,Ongoing Outbreaks,Pender,2
+Correctional Facility,Ongoing Outbreaks,Swain,1
+Nursing Home,Ongoing Outbreaks,Swain,1
+Nursing Home,Ongoing Outbreaks,Cabarrus,4
+K-12 School,,Cabarrus,1
+Residential Care Facility,Ongoing Outbreaks,Cabarrus,1
+Nursing Home,Ongoing Outbreaks,Davidson,1
+Residential Care Facility,Ongoing Outbreaks,Davidson,1
+Child Care,,Henderson,2
+K-12 School,,Henderson,2
+K-12 School,,Pasquotank,1
+Residential Care Facility,Ongoing Outbreaks,Pasquotank,1
+Nursing Home,Ongoing Outbreaks,Chatham,1
+Child Care,,Franklin,1
+Nursing Home,Ongoing Outbreaks,Franklin,2
+Correctional Facility,Ongoing Outbreaks,Franklin,1
+K-12 School,,Johnston,1
+Residential Care Facility,Ongoing Outbreaks,Johnston,1
+Nursing Home,Ongoing Outbreaks,Johnston,1
+Correctional Facility,Ongoing Outbreaks,Johnston,1
+Child Care,,Johnston,1
+Residential Care Facility,Ongoing Outbreaks,Rowan,2
+Child Care,,Rowan,1
+Correctional Facility,Ongoing Outbreaks,Rowan,2
+Nursing Home,Ongoing Outbreaks,Rowan,1
+Nursing Home,Ongoing Outbreaks,Bladen,1
+Child Care,,Guilford,1
+K-12 School,,Guilford,3
+Residential Care Facility,Ongoing Outbreaks,Guilford,8
+Nursing Home,Ongoing Outbreaks,Guilford,11
+Child Care,,Buncombe,1
+Correctional Facility,Ongoing Outbreaks,Buncombe,2
+K-12 School,,Buncombe,2
+Residential Care Facility,Ongoing Outbreaks,Buncombe,2
+Nursing Home,Ongoing Outbreaks,Buncombe,7
+Nursing Home,Ongoing Outbreaks,Currituck,1
+Correctional Facility,Ongoing Outbreaks,Vance,1
+Nursing Home,Ongoing Outbreaks,Cumberland,6
+Residential Care Facility,Ongoing Outbreaks,Cumberland,3
+K-12 School,,Cumberland,2
+Correctional Facility,Ongoing Outbreaks,Cumberland,1
+Correctional Facility,Ongoing Outbreaks,Halifax,1
+Nursing Home,Ongoing Outbreaks,Halifax,2
+Residential Care Facility,Ongoing Outbreaks,Pitt,3
+Nursing Home,Ongoing Outbreaks,Pitt,3
+K-12 School,,Pitt,1
+Nursing Home,Ongoing Outbreaks,Union,2
+K-12 School,,Union,3
+,,Jones,0
+Nursing Home,Ongoing Outbreaks,Yancey,1
+Residential Care Facility,Ongoing Outbreaks,Yancey,2
+K-12 School,,Yancey,1
+K-12 School,,Richmond,1
+Other,Ongoing Outbreaks,Richmond,1
+Correctional Facility,Ongoing Outbreaks,Richmond,1
+,,Warren,0
+Residential Care Facility,Ongoing Outbreaks,Forsyth,1
+Correctional Facility,Ongoing Outbreaks,Forsyth,1
+Nursing Home,Ongoing Outbreaks,Forsyth,5
+Child Care,,Forsyth,1
+K-12 School,,Forsyth,1
+Residential Care Facility,Ongoing Outbreaks,Duplin,1
+Nursing Home,Ongoing Outbreaks,Duplin,1
+Child Care,,Duplin,1
+Residential Care Facility,Ongoing Outbreaks,Rockingham,1
+Nursing Home,Ongoing Outbreaks,Rockingham,4
+Correctional Facility,Ongoing Outbreaks,Wake,5
+Child Care,,Wake,4
+Nursing Home,Ongoing Outbreaks,Wake,3
+Residential Care Facility,Ongoing Outbreaks,Wake,3
+K-12 School,,Wake,3
+Residential Care Facility,Ongoing Outbreaks,Chowan,1
+Nursing Home,Ongoing Outbreaks,Chowan,1
+Correctional Facility,Ongoing Outbreaks,Scotland,1
+Correctional Facility,Ongoing Outbreaks,Hyde,1
+Nursing Home,Ongoing Outbreaks,Nash,3
+Correctional Facility,Ongoing Outbreaks,Nash,2
+Nursing Home,Ongoing Outbreaks,Wayne,2
+,,Madison,0
+,,Tyrrell,0
+Nursing Home,Ongoing Outbreaks,Northampton,2
+Residential Care Facility,Ongoing Outbreaks,Northampton,2
+Correctional Facility,Ongoing Outbreaks,Sampson,1
+Residential Care Facility,Ongoing Outbreaks,Sampson,1
+Residential Care Facility,Ongoing Outbreaks,Moore,1
+Nursing Home,Ongoing Outbreaks,Moore,3
+,,Dare,0
+Correctional Facility,Ongoing Outbreaks,Mecklenburg,1
+Nursing Home,Ongoing Outbreaks,Mecklenburg,7
+Child Care,,Mecklenburg,3
+Residential Care Facility,Ongoing Outbreaks,Mecklenburg,3
+Correctional Facility,Ongoing Outbreaks,Randolph,1
+Nursing Home,Ongoing Outbreaks,Randolph,2
+Residential Care Facility,Ongoing Outbreaks,Randolph,1
+Correctional Facility,Ongoing Outbreaks,Bertie,1
+Nursing Home,Ongoing Outbreaks,Iredell,1
+K-12 School,,Iredell,2
+Other,Ongoing Outbreaks,New Hanover,1
+K-12 School,,New Hanover,1
+Residential Care Facility,Ongoing Outbreaks,New Hanover,2
+Nursing Home,Ongoing Outbreaks,New Hanover,1
+Correctional Facility,Ongoing Outbreaks,New Hanover,2
+Residential Care Facility,Ongoing Outbreaks,Brunswick,1
+Residential Care Facility,Ongoing Outbreaks,Granville,1
+Correctional Facility,Ongoing Outbreaks,Granville,2
+,,Clay,0
+Residential Care Facility,Ongoing Outbreaks,Lenoir,2
+Nursing Home,Ongoing Outbreaks,Lenoir,2
+Correctional Facility,Ongoing Outbreaks,Onslow,1
+K-12 School,,Yadkin,3
+Nursing Home,Ongoing Outbreaks,Yadkin,2
+Correctional Facility,Ongoing Outbreaks,Carteret,1
+Residential Care Facility,Ongoing Outbreaks,Carteret,1
+Nursing Home,Ongoing Outbreaks,Carteret,3
+Residential Care Facility,Ongoing Outbreaks,Craven,1
+Correctional Facility,Ongoing Outbreaks,Craven,2

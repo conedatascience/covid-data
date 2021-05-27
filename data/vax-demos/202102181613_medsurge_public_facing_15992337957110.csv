@@ -1,0 +1,13 @@
+Table Name,Date,PPE Type,PPE Requested,PPE Received,Ordered,Received,Average Requests per Day,Estimated Days of Supplies on Hand,Critical Supplies
+PPE,,Gowns,688170.0,688170.0,,,,,
+PPE,,Face Shields,114217.0,114217.0,,,,,
+PPE,,Medical N95 Respirators,1251000.0,2317270.0,,,,,
+PPE,,Medical Procedural Masks,598000.0,598000.0,,,,,
+PPE,,Coveralls,414.0,414.0,,,,,
+PPE,,Gloves,501000.0,1232000.0,,,,,
+PPE Private,2021-02-12,,,,6342000.0,7741000.0,10041.0,434.0,Gowns
+PPE Private,2021-02-12,,,,5811000.0,2156000.0,1994.0,693.0,Face Shields
+PPE Private,2021-02-12,,,,16661000.0,12572000.0,7525.0,1802.0,Medical N95 Respirators
+PPE Private,2021-02-12,,,,180000.0,8000.0,1317.0,337.0,Medical KN95 Respirators
+PPE Private,2021-02-12,,,,29799000.0,26520000.0,33654.0,131.0,Medical Procedural Masks
+PPE Private,2021-02-12,,,,65850000.0,45998000.0,63006.0,379.0,Gloves
