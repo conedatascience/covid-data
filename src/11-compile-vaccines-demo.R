@@ -33,6 +33,7 @@ dat_raw_long <- melt(dat_raw, id.vars = c('update_date','Week of',
                                           'Aggregation Level',
                                           'County', 'County Population',
                                           'Demographic', 'County Demographic Population',
+                                          'Fully Vax NC Population','One Dose NC Population',
                                           'Ethnicity', 'Race', 'Age Group', 'Gender'),
                      measure.vars = c('People at Least Partially Vaccinated',
                                       'People Fully Vaccinated'),
@@ -45,6 +46,12 @@ dat_raw_long[,DemographicIdentity:=case_when(Demographic=='Race'~Race,
                                              Demographic=='Ethnicity'~Ethnicity,
                                              Demographic=='Sex'~Gender,
                                              TRUE~'Unknown')]
+
+## population estimates for full and partial may change if suppressed population is different? 
+dat_raw_long[,`County Demographic Population` := case_when(!is.na(`County Demographic Population`)~`County Demographic Population`,
+                                                          status=='partial'~`One Dose NC Population`,
+                                                          TRUE~`Fully Vax NC Population`)]
+
 cols <- c('update_date','Week of', 'Aggregation Level',
           'County','County Population',
           'Demographic','County Demographic Population',
