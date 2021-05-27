@@ -14,6 +14,7 @@ dat_raw2 <- purrr::map_dfr(data_dir2, data.table::fread, .id = "date_pulled")
 
 setDT(dat_raw2)
 
+
 # new names in latest files:
 #Dose 2 Administered - NC Providers
 #Dose 1 Administered - NC Providers

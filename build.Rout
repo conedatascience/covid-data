@@ -2773,9 +2773,6 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
-Warning message:
-In melt.data.table(dat_raw2, id.vars = c("date_pulled", "County"),  :
-  'measure.vars' [Second Doses Administered, First Doses Administered, Total Doses Administered, Facility_Type, ...] are not all of the same type. By order of hierarchy, the molten data value column will be of type 'character'. All measure variables not of type 'character' will be coerced too. Check DETAILS in ?melt.data.table for more on coercion.
 
 Attaching package: ‘dplyr’
 
@@ -2867,9 +2864,3 @@ Backtrace:
 Execution halted
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "d7d30d61e1247bdfdc17bb0e7410342e131d06e7"
-> gert::git_push()
-Error in gert::git_push() : ignoring SIGPIPE signal
-Execution halted
