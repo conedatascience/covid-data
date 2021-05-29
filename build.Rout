@@ -2882,3 +2882,11 @@ Backtrace:
 Execution halted
 > 
 > system("git add --all")
+> msg = glue::glue("Lastest update at {Sys.time()}")
+> gert::git_commit(  msg)
+[1] "417807c088f8a28d67219814872fc0a9e13842d3"
+> gert::git_push()
+> 
+> proc.time()
+    user   system  elapsed 
+ 534.685  584.095 1141.914 
