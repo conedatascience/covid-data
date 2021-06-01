@@ -26,11 +26,11 @@ dat_latest <- dat_latest[order(update_date_date),delta_vaccinated:=TotalVax-dply
 
 dat_latest_out = dat_latest[,c("NAME10", "OBJECTID", "COUNTYFP10", "GEOID10",
 
-                      "TotalVax", "delta_vaccinated","TotalPop", "PctTotal", "Pop18Up", "Pop16Up",
+                      "TotalVax", "delta_vaccinated","TotalPop", "PctTotal", "Pop18Up", "Pop16Up", "Pop12Up",
                       "update_date_date")]
 
 names(dat_latest_out) <- c("county", "objectid","county_fips", "geoid",
-"total_vax", "new_vax","total_population", "percent_total", "pop_18_up", "pop_16_up",
+"total_vax", "new_vax","total_population", "percent_total", "pop_18_up", "pop_16_up", "pop_12_up",
 "update_dts")
 
 # Write Outputs
