@@ -43,10 +43,6 @@ In readLines("https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/
 Warning message:
 In readLines("https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json") :
   incomplete final line found on 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json'
-Error in data.table::fwrite(attribute_out, here::here("data", "daily",  : 
-  is.list(x) is not TRUE
-Calls: <Anonymous> -> stopifnot
-Execution halted
 
 Attaching package: ‘dplyr’
 
@@ -65,7 +61,7 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
-Latest Date: June-13 
+Latest Date: June-14 
 Earliest Date: January-22 
 Today's data are not yet available.Latest Date: June-13Earliest Date: January-22
 Attaching package: ‘dplyr’
