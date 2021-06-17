@@ -6,10 +6,29 @@ library(data.table)
 
 data_dir <- fs::dir_ls(here::here("data", "vax-demos"), glob = "*csv")
 
+#identify date of file
+dir_dates <- gsub(pattern = "([0-9]+).*$", "\\1",basename(data_dir))
+dir_dates <- as.Date(as.POSIXct(dir_dates, format = "%Y%m%d%H%M"))
+
+#identify type of file
+dd_fed <- grepl('dd_federal.csv',  data_dir, fixed = F)
+dd_nc <- grepl('dd_nc.csv',  data_dir, fixed = F)
+
+#only keep 1 file of each type per day
+file_def <- data.frame(filename = data_dir,
+                       filedate = dir_dates,
+                       filetype = ifelse(dd_fed,'federal',
+                                         ifelse(dd_nc,'nc',
+                                                'old')))
+file_keep <- file_def %>% group_by(filedate, filetype) %>% slice(1)
+
+if(any(table(file_keep$filedate)>2)) stop('extra files found')
+files_pull <- file_keep$filename
+names(files_pull) <- files_pull
 
 # import data -------------------------------------------------------------
 
-dat_raw <- purrr::map_dfr(data_dir, data.table::fread, .id = "date_pulled")
+dat_raw <- purrr::map_dfr(files_pull, data.table::fread, .id = "date_pulled")
 
 # clean data -------------------------------------------------------------
 setDT(dat_raw)
