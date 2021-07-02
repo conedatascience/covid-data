@@ -55803,3 +55803,9 @@ Confrontation: 3, Failures: 0, Time 202107020306
 Confrontation: 4, Failures: 0, Time 202107020306
 Confrontation: 5, Failures: 0, Time 202107020306
 Confrontation: 6, Failures: 8, Time 202107020306
+Confrontation: 1, Failures: 0, Time 202107020406
+Confrontation: 2, Failures: 0, Time 202107020406
+Confrontation: 3, Failures: 0, Time 202107020406
+Confrontation: 4, Failures: 0, Time 202107020406
+Confrontation: 5, Failures: 0, Time 202107020406
+Confrontation: 6, Failures: 8, Time 202107020406
