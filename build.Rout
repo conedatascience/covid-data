@@ -63,7 +63,7 @@ The following objects are masked from ‘package:dplyr’:
 
 Latest Date: July-07 
 Earliest Date: January-22 
-Today's data are not yet available.Latest Date: July-06Earliest Date: January-22
+Latest Date: July-07Earliest Date: January-22
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -81,7 +81,7 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
-Latest Date: July-07Earliest Date: May-08Today's data are not yet available.Latest Date: July-06Earliest Date: May-08trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
+Latest Date: July-07Earliest Date: May-08Latest Date: July-07Earliest Date: May-08trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
 Error in download.file(url = url, destfile = here::here("data", "daily-metrics",  : 
   cannot open URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
 In addition: Warning message:
@@ -3173,22 +3173,27 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
-Error: Can't combine `/mnt/resource/covid-data-store/covid-data/data/daily-vax-providers/202104291515_vax_provider.csv$loc_vfc_pin` <character> and `/mnt/resource/covid-data-store/covid-data/data/daily-vax-providers/202105151931_vax_provider.csv$loc_vfc_pin` <logical>.
-Backtrace:
-     █
-  1. └─purrr::map_dfr(data_dir, data.table::fread, .id = "date_pulled")
-  2.   └─dplyr::bind_rows(res, .id = .id)
-  3.     └─vctrs::vec_rbind(!!!dots, .names_to = .id)
-  4.       └─(function () ...
-  5.         └─vctrs:::vec_ptype2.data.table.data.table(...)
-  6.           └─vctrs:::dt_ptype2(x, y, ...)
-  7.             ├─data.table::as.data.table(df_ptype2(x, y, ...))
-  8.             └─vctrs::df_ptype2(x, y, ...)
-  9.               └─(function () ...
- 10.                 └─vctrs::vec_default_ptype2(...)
- 11.                   └─vctrs::stop_incompatible_type(...)
- 12.                     └─vctrs:::stop_incompatible(...)
- 13.                       └─vctrs:::stop_vctrs(...)
-Execution halted
+             state   county       date cases_daily deaths_daily pct_pos
+ 1: North Carolina Guilford 2021-06-28          53            0   0.027
+ 2: North Carolina Guilford 2021-06-29           0            0   0.027
+ 3: North Carolina Guilford 2021-06-30          41            0   0.029
+ 4: North Carolina Guilford 2021-07-01           2            0   0.020
+ 5: North Carolina Guilford 2021-07-02          20            1   0.025
+ 6: North Carolina Guilford 2021-07-03           0            0   0.025
+ 7: North Carolina Guilford 2021-07-04           0            0   0.025
+ 8: North Carolina Guilford 2021-07-05           0            0   0.025
+ 9: North Carolina Guilford 2021-07-06          51            1   0.040
+10: North Carolina Guilford 2021-07-07           6            0   0.048
+    cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
+ 1:               48690                  749      144         1
+ 2:               48690                  749      164         1
+ 3:               48731                  749      164         1
+ 4:               48733                  749      159         0
+ 5:               48753                  750      122         0
+ 6:               48753                  750      116         1
+ 7:               48753                  750      116         1
+ 8:               48753                  750      116         1
+ 9:               48804                  751       63         1
+10:               48810                  751      114         2
 > 
 > system("git add --all")
