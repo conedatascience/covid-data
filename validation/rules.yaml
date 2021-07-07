@@ -1,0 +1,6 @@
+rules:
+-
+   expr: if(deaths_daily > death_lag*20) deaths_daily <- dplyr::lag(deaths_daily,1)
+   name: DeathCheck
+   label: Check upperbounds on deaths
+   description: Validate that a single county's reported deaths makes sense. 
