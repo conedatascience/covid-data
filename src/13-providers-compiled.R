@@ -14,9 +14,10 @@ read_valid <- function(x){
 
     search_for_these <- c( "COVID_19VaccinationProviderType", "V1", "V2")
     replace_with_these <- c("ProviderType", "X", "Y")
-    i1 <- match(colnames(o), search_for_these, nomatch = 0)
-    
-    colnames(o)[i1] <- replace_with_these[i1]
+   v <- colnames(o) %in% search_for_these
+  w <- search_for_these %in% colnames(o)
+  colnames(o)[v] <- replace_with_these[w]
+
 
     if(rcnt>1){
         o
