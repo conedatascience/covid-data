@@ -3145,44 +3145,48 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
 Warning message:
-system call failed: Cannot allocate memory 
-
-Attaching package: ‘dplyr’
-
-The following objects are masked from ‘package:stats’:
-
-    filter, lag
-
-The following objects are masked from ‘package:base’:
-
-    intersect, setdiff, setequal, union
-
-
-Attaching package: ‘data.table’
-
-The following objects are masked from ‘package:dplyr’:
-
-    between, first, last
-
-
-Attaching package: ‘dplyr’
-
-The following objects are masked from ‘package:stats’:
-
-    filter, lag
-
-The following objects are masked from ‘package:base’:
-
-    intersect, setdiff, setequal, union
-
-
-Attaching package: ‘data.table’
-
-The following objects are masked from ‘package:dplyr’:
-
-    between, first, last
-
+In `[.data.table`(dat_latest, , `:=`(V1, NULL)) :
+  Column 'V1' does not exist to remove
+Warning message:
+In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
+  Column 'V2' does not exist to remove
             state   county       date cases_daily deaths_daily pct_pos
 1: North Carolina Guilford 2021-06-29           0            0   0.027
 2: North Carolina Guilford 2021-06-30          41            0   0.029
@@ -3205,11 +3209,3 @@ The following objects are masked from ‘package:dplyr’:
 9:               48810                  751      114         2
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "7c37cd05c00aa18ff3f175066c6ee23c44440eb8"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
- 710.101  776.106 1444.236 
