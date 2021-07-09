@@ -3187,27 +3187,25 @@ In `[.data.table`(dat_latest, , `:=`(V1, NULL)) :
 Warning message:
 In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
   Column 'V2' does not exist to remove
-             state   county       date cases_daily deaths_daily pct_pos
- 1: North Carolina Guilford 2021-06-29           0            0   0.027
- 2: North Carolina Guilford 2021-06-30          41            0   0.029
- 3: North Carolina Guilford 2021-07-01           2            0   0.020
- 4: North Carolina Guilford 2021-07-02          20            1   0.025
- 5: North Carolina Guilford 2021-07-03           0            0   0.025
- 6: North Carolina Guilford 2021-07-04           0            0   0.025
- 7: North Carolina Guilford 2021-07-05           0            0   0.025
- 8: North Carolina Guilford 2021-07-06          51            1   0.040
- 9: North Carolina Guilford 2021-07-07           6            0   0.048
-10: North Carolina Guilford 2021-07-08          12            2   0.034
-    cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
- 1:               48690                  749      164         1
- 2:               48731                  749      164         1
- 3:               48733                  749      159         0
- 4:               48753                  750      122         0
- 5:               48753                  750      116         1
- 6:               48753                  750      116         1
- 7:               48753                  750      116         1
- 8:               48804                  751       63         1
- 9:               48810                  751      114         2
-10:               48822                  753       79         2
+            state   county       date cases_daily deaths_daily pct_pos
+1: North Carolina Guilford 2021-06-30          41            0   0.029
+2: North Carolina Guilford 2021-07-01           2            0   0.020
+3: North Carolina Guilford 2021-07-02          20            1   0.025
+4: North Carolina Guilford 2021-07-03           0            0   0.025
+5: North Carolina Guilford 2021-07-04           0            0   0.025
+6: North Carolina Guilford 2021-07-05           0            0   0.025
+7: North Carolina Guilford 2021-07-06          51            1   0.040
+8: North Carolina Guilford 2021-07-07           6            0   0.048
+9: North Carolina Guilford 2021-07-08          12            2   0.034
+   cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
+1:               48731                  749      164         1
+2:               48733                  749      159         0
+3:               48753                  750      122         0
+4:               48753                  750      116         1
+5:               48753                  750      116         1
+6:               48753                  750      116         1
+7:               48804                  751       63         1
+8:               48810                  751      114         2
+9:               48822                  753       79         2
 > 
 > system("git add --all")
