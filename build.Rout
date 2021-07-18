@@ -3260,24 +3260,22 @@ Warning message:
 In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
   Column 'V2' does not exist to remove
             state   county       date cases_daily deaths_daily pct_pos
-1: North Carolina Guilford 2021-07-08          12            2   0.034
-2: North Carolina Guilford 2021-07-09           0            0   0.034
-3: North Carolina Guilford 2021-07-10           0            2   0.031
-4: North Carolina Guilford 2021-07-11           0            0   0.031
-5: North Carolina Guilford 2021-07-12          59            0   0.045
-6: North Carolina Guilford 2021-07-13          16            0   0.053
-7: North Carolina Guilford 2021-07-14          33            0   0.055
-8: North Carolina Guilford 2021-07-15          36            0   0.043
-9: North Carolina Guilford 2021-07-16          38            0   0.041
+1: North Carolina Guilford 2021-07-09           0            0   0.034
+2: North Carolina Guilford 2021-07-10           0            2   0.031
+3: North Carolina Guilford 2021-07-11           0            0   0.031
+4: North Carolina Guilford 2021-07-12          59            0   0.045
+5: North Carolina Guilford 2021-07-13          16            0   0.053
+6: North Carolina Guilford 2021-07-14          33            0   0.055
+7: North Carolina Guilford 2021-07-15          36            0   0.043
+8: North Carolina Guilford 2021-07-16          38            0   0.041
    cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
-1:               48822                  753       79         2
-2:               48822                  753       89         4
-3:               48822                  755       69         3
-4:               48822                  755       69         5
-5:               48881                  755       69         5
-6:               48897                  755      128         5
-7:               48930                  755       93         4
-8:               48966                  755      120         4
-9:               49004                  755      144         2
+1:               48822                  753       89         4
+2:               48822                  755       69         3
+3:               48822                  755       69         5
+4:               48881                  755       69         5
+5:               48897                  755      128         5
+6:               48930                  755       93         4
+7:               48966                  755      120         4
+8:               49004                  755      144         2
 > 
 > system("git add --all")
