@@ -112,5 +112,5 @@ out_data_combined <-  merge(out_data_long[,-c("positive_tests", "daily_tests")],
 
 # write output ------------------------------------------------------------
 
-data.table::fwrite(out_data_combined, here::here("data", "timeseries", "nc-summary-stats.csv"))
+#data.table::fwrite(out_data_combined, here::here("data", "timeseries", "nc-summary-stats.csv"))
 
