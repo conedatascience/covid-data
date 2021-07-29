@@ -63,7 +63,7 @@ The following objects are masked from ‘package:dplyr’:
 
 Latest Date: July-29 
 Earliest Date: January-22 
-Today's data are not yet available.Latest Date: July-28Earliest Date: January-22
+Latest Date: July-29Earliest Date: January-22
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -81,7 +81,7 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
-Latest Date: July-29Earliest Date: May-08Today's data are not yet available.Latest Date: July-28Earliest Date: May-08trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
+Latest Date: July-29Earliest Date: May-08Latest Date: July-29Earliest Date: May-08trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
 Error in download.file(url = url, destfile = here::here("data", "daily-metrics",  : 
   cannot open URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
 In addition: Warning message:
@@ -3355,25 +3355,27 @@ In `[.data.table`(dat_latest, , `:=`(V1, NULL)) :
 Warning message:
 In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
   Column 'V2' does not exist to remove
-            state   county       date cases_daily deaths_daily pct_pos
-1: North Carolina Guilford 2021-07-20          42            0   0.073
-2: North Carolina Guilford 2021-07-21          24            0   0.079
-3: North Carolina Guilford 2021-07-22          55            0   0.067
-4: North Carolina Guilford 2021-07-23          58            0   0.067
-5: North Carolina Guilford 2021-07-24           0            0   0.067
-6: North Carolina Guilford 2021-07-25           0            0   0.067
-7: North Carolina Guilford 2021-07-26         172            0   0.087
-8: North Carolina Guilford 2021-07-27          87            0   0.104
-9: North Carolina Guilford 2021-07-28          88            3   0.108
-   cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
-1:               49145                  755      222         0
-2:               49169                  755      248         0
-3:               49224                  755      239         0
-4:               49282                  755      258         0
-5:               49282                  755      278         0
-6:               49282                  755      278         0
-7:               49454                  755      278         0
-8:               49541                  755      351         0
-9:               49629                  758      396         0
+             state   county       date cases_daily deaths_daily pct_pos
+ 1: North Carolina Guilford 2021-07-20          42            0   0.073
+ 2: North Carolina Guilford 2021-07-21          24            0   0.079
+ 3: North Carolina Guilford 2021-07-22          55            0   0.067
+ 4: North Carolina Guilford 2021-07-23          58            0   0.067
+ 5: North Carolina Guilford 2021-07-24           0            0   0.067
+ 6: North Carolina Guilford 2021-07-25           0            0   0.067
+ 7: North Carolina Guilford 2021-07-26         172            0   0.087
+ 8: North Carolina Guilford 2021-07-27          87            0   0.104
+ 9: North Carolina Guilford 2021-07-28          88            3   0.108
+10: North Carolina Guilford 2021-07-29          94            2   0.093
+    cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
+ 1:               49145                  755      222         0
+ 2:               49169                  755      248         0
+ 3:               49224                  755      239         0
+ 4:               49282                  755      258         0
+ 5:               49282                  755      278         0
+ 6:               49282                  755      278         0
+ 7:               49454                  755      278         0
+ 8:               49541                  755      351         0
+ 9:               49629                  758      396         0
+10:               49723                  760      460         3
 > 
 > system("git add --all")
