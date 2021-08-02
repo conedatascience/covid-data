@@ -3345,6 +3345,8 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
+Warning message:
+system call failed: Cannot allocate memory 
 
 Attaching package: ‘dplyr’
 
@@ -3411,11 +3413,3 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 10:               50174                  763      566         5
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "3e055342651405fb11c1db745b28182282907739"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
- 832.701  926.280 1694.590 
