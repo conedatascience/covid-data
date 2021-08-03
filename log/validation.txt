@@ -60501,3 +60501,9 @@ Confrontation: 3, Failures: 0, Time 202108032006
 Confrontation: 4, Failures: 0, Time 202108032006
 Confrontation: 5, Failures: 0, Time 202108032006
 Confrontation: 6, Failures: 36, Time 202108032006
+Confrontation: 1, Failures: 0, Time 202108032112
+Confrontation: 2, Failures: 0, Time 202108032112
+Confrontation: 3, Failures: 0, Time 202108032112
+Confrontation: 4, Failures: 0, Time 202108032112
+Confrontation: 5, Failures: 0, Time 202108032112
+Confrontation: 6, Failures: 36, Time 202108032112
