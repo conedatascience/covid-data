@@ -3511,22 +3511,15 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
  9: North Carolina Guilford 2021-08-15           0            0   0.116
 10: North Carolina Guilford 2021-08-16         560            0   0.128
     cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
- 1:               50631                  734      783         7
- 2:               50631                  734      783         7
- 3:               51227                  734      783         7
- 4:               51351                  734     1053         4
- 5:               51548                  734     1093         4
- 6:               51718                  734     1191         4
- 7:               52002                  734     1224         0
- 8:               52002                  734     1371         0
- 9:               52002                  734     1371         0
-10:               52562                  734     1371         0
+ 1:               50631                  767      783         7
+ 2:               50631                  767      783         7
+ 3:               51227                  767      783         7
+ 4:               51351                  767     1053         4
+ 5:               51548                  767     1093         4
+ 6:               51718                  767     1191         4
+ 7:               52002                  767     1224         0
+ 8:               52002                  767     1371         0
+ 9:               52002                  767     1371         0
+10:               52562                  767     1371         0
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "b569409167c8c27de8a46f4e045ed2959632b18e"
-> gert::git_push()
-Error in libgit2::git_remote_push : unexpected http status code: 403
-Calls: <Anonymous> -> raise_libgit2_error
-Execution halted
