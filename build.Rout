@@ -37,18 +37,12 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-Error in file(con, "r") : 
-  cannot open the connection to 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json'
-In addition: Warning message:
-In file(con, "r") :
-  URL 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json': status was 'Couldn't resolve host name'
-Error in file(con, "r") : 
-  cannot open the connection to 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json'
-Calls: <Anonymous> -> readLines -> file
-In addition: Warning message:
-In file(con, "r") :
-  URL 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json': status was 'Couldn't resolve host name'
-Execution halted
+Warning message:
+In readLines("https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json") :
+  incomplete final line found on 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json'
+Warning message:
+In readLines("https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json") :
+  incomplete final line found on 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json'
 
 Attaching package: ‘dplyr’
 
