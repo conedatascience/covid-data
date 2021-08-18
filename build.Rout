@@ -63,7 +63,7 @@ The following objects are masked from ‘package:dplyr’:
 
 Latest Date: August-18 
 Earliest Date: January-22 
-Today's data are not yet available.Latest Date: August-17Earliest Date: January-22
+Latest Date: August-18Earliest Date: January-22
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -3515,25 +3515,27 @@ In `[.data.table`(dat_latest, , `:=`(V1, NULL)) :
 Warning message:
 In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
   Column 'V2' does not exist to remove
-            state   county       date cases_daily deaths_daily pct_pos
-1: North Carolina Guilford 2021-08-09         596            0   0.111
-2: North Carolina Guilford 2021-08-10         124            0   0.140
-3: North Carolina Guilford 2021-08-11         197            0   0.128
-4: North Carolina Guilford 2021-08-12         170            0   0.113
-5: North Carolina Guilford 2021-08-13         284            0   0.116
-6: North Carolina Guilford 2021-08-14           0            0   0.116
-7: North Carolina Guilford 2021-08-15           0            0   0.116
-8: North Carolina Guilford 2021-08-16         560            0   0.128
-9: North Carolina Guilford 2021-08-17         125            0   0.135
-   cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
-1:               51227                  767      783         7
-2:               51351                  767     1053         4
-3:               51548                  767     1093         4
-4:               51718                  767     1191         4
-5:               52002                  767     1224         0
-6:               52002                  767     1371         0
-7:               52002                  767     1371         0
-8:               52562                  767     1371         0
-9:               52687                  767     1335         0
+             state   county       date cases_daily deaths_daily pct_pos
+ 1: North Carolina Guilford 2021-08-09         596            0   0.111
+ 2: North Carolina Guilford 2021-08-10         124            0   0.140
+ 3: North Carolina Guilford 2021-08-11         197            0   0.128
+ 4: North Carolina Guilford 2021-08-12         170            0   0.113
+ 5: North Carolina Guilford 2021-08-13         284            0   0.116
+ 6: North Carolina Guilford 2021-08-14           0            0   0.116
+ 7: North Carolina Guilford 2021-08-15           0            0   0.116
+ 8: North Carolina Guilford 2021-08-16         560            0   0.128
+ 9: North Carolina Guilford 2021-08-17         125            0   0.135
+10: North Carolina Guilford 2021-08-18         184            7   0.132
+    cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
+ 1:               51227                  767      783         7
+ 2:               51351                  767     1053         4
+ 3:               51548                  767     1093         4
+ 4:               51718                  767     1191         4
+ 5:               52002                  767     1224         0
+ 6:               52002                  767     1371         0
+ 7:               52002                  767     1371         0
+ 8:               52562                  767     1371         0
+ 9:               52687                  767     1335         0
+10:               52871                  774     1336         0
 > 
 > system("git add --all")
