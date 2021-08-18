@@ -3539,10 +3539,3 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 10:               52871                  774     1336         0
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "0b5cdae26c4bb17b91eb235adc93af61a3be4901"
-> gert::git_push()
-Error in libgit2::git_remote_push : unexpected http status code: 403
-Calls: <Anonymous> -> raise_libgit2_error
-Execution halted
