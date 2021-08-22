@@ -3569,3 +3569,10 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 9:               53399                  778     1397        11
 > 
 > system("git add --all")
+> msg = glue::glue("Lastest update at {Sys.time()}")
+> gert::git_commit(  msg)
+[1] "ae84f6fb8b3b60b87032f89aca6f9f4ff28c7db3"
+> gert::git_push()
+Error in libgit2::git_remote_push : Authentication failure
+Calls: <Anonymous> -> raise_libgit2_error
+Execution halted
