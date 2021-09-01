@@ -64539,3 +64539,15 @@ Confrontation: 3, Failures: 0, Time 202109012114
 Confrontation: 4, Failures: 0, Time 202109012114
 Confrontation: 5, Failures: 0, Time 202109012114
 Confrontation: 6, Failures: 36, Time 202109012114
+Confrontation: 1, Failures: 0, Time 202109012234
+Confrontation: 2, Failures: 0, Time 202109012234
+Confrontation: 3, Failures: 0, Time 202109012234
+Confrontation: 4, Failures: 0, Time 202109012234
+Confrontation: 5, Failures: 0, Time 202109012234
+Confrontation: 6, Failures: 36, Time 202109012234
+Confrontation: 1, Failures: 0, Time 202109012310
+Confrontation: 2, Failures: 0, Time 202109012310
+Confrontation: 3, Failures: 0, Time 202109012310
+Confrontation: 4, Failures: 0, Time 202109012310
+Confrontation: 5, Failures: 0, Time 202109012310
+Confrontation: 6, Failures: 36, Time 202109012310
