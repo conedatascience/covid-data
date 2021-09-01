@@ -1,4 +1,4 @@
-cd /mnt/resource/covid-data-store/covid-data
+cd /datadisk/covid-data-store/covid-data
 
 git pull origin master
 
