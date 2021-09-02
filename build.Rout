@@ -416,17 +416,15 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 9:               56360                  761     1805        20
 > 
 > system("git add --all")
-ad lines
-final combo and write out results
-processing:  115  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  116  out of  417 
-processing...
-sed worked
-remove dead lines
+> msg = glue::glue("Lastest update at {Sys.time()}")
+> gert::git_commit(  msg)
+[1] "f59be240b17ddc94cb629be7dc458e5f1cecbc11"
+> gert::git_push()
+> 
+> proc.time()
+    user   system  elapsed 
+ 839.574  943.212 1824.033 
+ lines
 final combo and write out results
 processing:  117  out of  417 
 processing...
