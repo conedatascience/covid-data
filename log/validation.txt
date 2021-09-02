@@ -64563,3 +64563,9 @@ Confrontation: 3, Failures: 0, Time 202109020110
 Confrontation: 4, Failures: 0, Time 202109020110
 Confrontation: 5, Failures: 0, Time 202109020110
 Confrontation: 6, Failures: 36, Time 202109020110
+Confrontation: 1, Failures: 0, Time 202109021336
+Confrontation: 2, Failures: 0, Time 202109021336
+Confrontation: 3, Failures: 0, Time 202109021336
+Confrontation: 4, Failures: 0, Time 202109021336
+Confrontation: 5, Failures: 0, Time 202109021336
+Confrontation: 6, Failures: 36, Time 202109021336

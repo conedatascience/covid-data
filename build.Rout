@@ -121,468 +121,238 @@ Starting Pdf Scrapes
 2020-07-13 2020-07-14 2020-07-15 2020-07-16 2020-07-17 2020-07-18 2020-07-19 2020-07-20 2020-07-21 2020-07-22 2020-07-23 2020-07-24 2020-07-25 2020-07-26 2020-07-27 2020-07-28 2020-07-29 2020-07-30 2020-07-31 2020-08-01 2020-08-02 2020-08-03 2020-08-04 2020-08-05 2020-08-06 2020-08-07 2020-08-08 2020-08-09 2020-08-10 2020-08-11 2020-08-12 2020-08-13 2020-08-14 2020-08-15 2020-08-16 2020-08-17 2020-08-18 2020-08-19 2020-08-20 2020-08-21 2020-08-22 2020-08-23 2020-08-24 2020-08-25 2020-08-26 2020-08-27 2020-08-28 2020-08-29 2020-08-30 2020-08-31 2020-09-01 2020-09-02 2020-09-03 2020-09-04 2020-09-05 2020-09-06 2020-09-07 2020-09-08 2020-09-09 2020-09-10 2020-09-11 2020-09-12 2020-09-13 2020-09-14 2020-09-15 2020-09-16 2020-09-17 2020-09-18 2020-09-19 2020-09-20 2020-09-21 2020-09-22 2020-09-23 2020-09-24 2020-09-25 2020-09-26 2020-09-27 2020-09-28 2020-09-29 2020-09-30 2020-10-01 2020-10-02 2020-10-03 2020-10-04 2020-10-05 2020-10-06 2020-10-07 2020-10-08 2020-10-09 2020-10-10 2020-10-11 2020-10-12 2020-10-13 2020-10-14 2020-10-15 2020-10-16 2020-10-17 2020-10-18 2020-10-19 2020-10-20 2020-10-21 2020-10-22 2020-10-23 2020-10-24 2020-10-25 2020-10-26 2020-10-27 2020-10-28 2020-10-29 2020-10-30 2020-10-31 2020-11-01 2020-11-02 2020-11-03 2020-11-04 2020-11-05 2020-11-06 2020-11-07 2020-11-08 2020-11-09 2020-11-10 2020-11-11 2020-11-12 2020-11-13 2020-11-14 2020-11-15 2020-11-16 2020-11-17 2020-11-18 2020-11-19 2020-11-20 2020-11-21 2020-11-22 2020-11-23 2020-11-24 2020-11-25 2020-11-26 2020-11-27 2020-11-28 2020-11-29 2020-11-30 2020-12-01 2020-12-02 2020-12-03 2020-12-04 2020-12-05 2020-12-06 2020-12-07 2020-12-08 2020-12-09 2020-12-10 2020-12-11 2020-12-12 2020-12-13 2020-12-14 2020-12-15 2020-12-16 2020-12-17 2020-12-18 2020-12-19 2020-12-20 2020-12-21 2020-12-22 2020-12-23 2020-12-24 2020-12-25 2020-12-26 2020-12-27 2020-12-28 2020-12-29 2020-12-30 2020-12-31 2021-01-01 2021-01-02 2021-01-03 2021-01-04 2021-01-05 2021-01-06 2021-01-07 2021-01-08 2021-01-09 2021-01-10 2021-01-11 2021-01-12 2021-01-13 2021-01-14 2021-01-15 2021-01-16 2021-01-17 2021-01-18 2021-01-19 2021-01-20 2021-01-21 2021-01-22 2021-01-23 2021-01-24 2021-01-25 2021-01-26 2021-01-27 2021-01-28 2021-01-29 2021-01-30 2021-01-31 2021-02-01 2021-02-02 2021-02-03 2021-02-04 2021-02-05 2021-02-06 2021-02-07 2021-02-08 2021-02-09 2021-02-10 2021-02-11 2021-02-12 2021-02-13 2021-02-14 2021-02-15 2021-02-16 2021-02-17 2021-02-18 2021-02-19 2021-02-20 2021-02-21 2021-02-22 2021-02-23 2021-02-24 2021-02-25 2021-02-26 2021-02-27 2021-02-28 2021-03-01 2021-03-02 2021-03-03 2021-03-04 2021-03-05 2021-03-06 2021-03-07 2021-03-08 2021-03-09 2021-03-10 2021-03-11 2021-03-12 2021-03-13 2021-03-14 2021-03-15 2021-03-16 2021-03-17 2021-03-18 2021-03-19 2021-03-20 2021-03-21 2021-03-22 2021-03-23 2021-03-24 2021-03-25 2021-03-26 2021-03-27 2021-03-28 2021-03-29 2021-03-30 2021-03-31 2021-04-01 2021-04-02 2021-04-03 2021-04-04 2021-04-05 2021-04-06 2021-04-07 2021-04-08 2021-04-09 2021-04-10 2021-04-11 2021-04-12 2021-04-13 2021-04-14 2021-04-15 2021-04-16 2021-04-17 2021-04-18 2021-04-19 2021-04-20 2021-04-21 2021-04-22 2021-04-23 2021-04-24 2021-04-25 2021-04-26 2021-04-27 2021-04-28 2021-04-29 2021-04-30 2021-05-01 2021-05-02 2021-05-03 2021-05-04 2021-05-05 2021-05-06 2021-05-07 2021-05-08 2021-05-09 2021-05-10 2021-05-11 2021-05-12 2021-05-13 2021-05-14 2021-05-15 2021-05-16 2021-05-17 2021-05-18 2021-05-19 2021-05-20 2021-05-21 2021-05-22 2021-05-23 2021-05-24 2021-05-25 2021-05-26 2021-05-27 2021-05-28 2021-05-29 2021-05-30 2021-05-31 2021-06-01 2021-06-02 2021-06-03 2021-06-04 2021-06-05 2021-06-06 2021-06-07 2021-06-08 2021-06-09 2021-06-10 2021-06-11 2021-06-12 2021-06-13 2021-06-14 2021-06-15 2021-06-16 2021-06-17 2021-06-18 2021-06-19 2021-06-20 2021-06-21 2021-06-22 2021-06-23 2021-06-24 2021-06-25 2021-06-26 2021-06-27 2021-06-28 2021-06-29 2021-06-30 2021-07-01 2021-07-02 2021-07-03 2021-07-04 2021-07-05 2021-07-06 2021-07-07 2021-07-08 2021-07-09 2021-07-10 2021-07-11 2021-07-12 2021-07-13 2021-07-14 2021-07-15 2021-07-16 2021-07-17 2021-07-18 2021-07-19 2021-07-20 2021-07-21 2021-07-22 2021-07-23 2021-07-24 2021-07-25 2021-07-26 2021-07-27 2021-07-28 2021-07-29 2021-07-30 2021-07-31 2021-08-01 2021-08-02 2021-08-03 2021-08-04 2021-08-05 2021-08-06 2021-08-07 2021-08-08 2021-08-09 2021-08-10 2021-08-11 2021-08-12 2021-08-13 2021-08-14 2021-08-15 2021-08-16 2021-08-17 2021-08-18 2021-08-19 2021-08-20 2021-08-21 2021-08-22 2021-08-23 2021-08-24 2021-08-25 2021-08-26 2021-08-27 2021-08-28 2021-08-29 2021-08-30 2021-08-31 2021-09-01 2021-09-02/datadisk/covid-data-store/covid-dataprocessing:  1  out of  417 
 processing...
 sed worked
+awk: fatal: cannot open file `test.txt' for reading (No such file or directory)
 remove dead lines
 final combo and write out results
-processing:  2  out of  417 
+Error in data.table::fread(here::here("demos_final.txt"), fill = TRUE,  : 
+  File '/datadisk/covid-data-store/covid-data/demos_final.txt' does not exist or is non-readable. getwd()=='/datadisk/covid-data-store/covid-data'
+Calls: process_pdfs -> <Anonymous>
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:data.table’:
+
+    between, first, last
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Starting Daily Metrics Scrapes
+
+ [1] "date"                                           
+ [2] "Antigen Positive Cases by Specimen Date"        
+ [3] "Cases by Report Date"                           
+ [4] "Deaths by Date of Death"                        
+ [5] "Hospitalizations"                               
+ [6] "Molecular (PCR) Positive Cases by Specimen Date"
+ [7] "NC Daily Tests"                                 
+ [8] "NC Deaths"                                      
+ [9] "New Cases by Report Date"                       
+[10] "New Cases by Specimen Date"                     
+[11] "Positive Test Percentage"                       
+[12] "Sum of Hospitalizations"                        
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:data.table’:
+
+    between, first, last
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Using poppler version 0.26.5
+Starting Outbreak Pdf Scrapes
+
+2020-07-19 2020-07-20 2020-07-21 2020-07-22 2020-07-23 2020-07-24 2020-07-25 2020-07-26 2020-07-27 2020-07-28 2020-07-29 2020-07-30 2020-07-31 2020-08-01 2020-08-02 2020-08-03 2020-08-04 2020-08-05 2020-08-06 2020-08-07 2020-08-08 2020-08-09 2020-08-10 2020-08-11 2020-08-12 2020-08-13 2020-08-14 2020-08-15 2020-08-16 2020-08-17 2020-08-18 2020-08-19 2020-08-20 2020-08-21 2020-08-22 2020-08-23 2020-08-24 2020-08-25 2020-08-26 2020-08-27 2020-08-28 2020-08-29 2020-08-30 2020-08-31 2020-09-01 2020-09-02 2020-09-03 2020-09-04 2020-09-05 2020-09-06 2020-09-07 2020-09-08 2020-09-09 2020-09-10 2020-09-11 2020-09-12 2020-09-13 2020-09-14 2020-09-15 2020-09-16 2020-09-17 2020-09-18 2020-09-19 2020-09-20 2020-09-21 2020-09-22 2020-09-23 2020-09-24 2020-09-25 2020-09-26 2020-09-27 2020-09-28 2020-09-29 2020-09-30 2020-10-01 2020-10-02 2020-10-03 2020-10-04 2020-10-05 2020-10-06 2020-10-07 2020-10-08 2020-10-09 2020-10-10 2020-10-11 2020-10-12 2020-10-13 2020-10-14 2020-10-15 2020-10-16 2020-10-17 2020-10-18 2020-10-19 2020-10-20 2020-10-21 2020-10-22 2020-10-23 2020-10-24 2020-10-25 2020-10-26 2020-10-27 2020-10-28 2020-10-29 2020-10-30 2020-10-31 2020-11-01 2020-11-02 2020-11-03 2020-11-04 2020-11-05 2020-11-06 2020-11-07 2020-11-08 2020-11-09 2020-11-10 2020-11-11 2020-11-12 2020-11-13 2020-11-14 2020-11-15 2020-11-16 2020-11-17 2020-11-18 2020-11-19 2020-11-20 2020-11-21 2020-11-22 2020-11-23 2020-11-24 2020-11-25 2020-11-26 2020-11-27 2020-11-28 2020-11-29 2020-11-30 2020-12-01 2020-12-02 2020-12-03 2020-12-04 2020-12-05 2020-12-06 2020-12-07 2020-12-08 2020-12-09 2020-12-10 2020-12-11 2020-12-12 2020-12-13 2020-12-14 2020-12-15 2020-12-16 2020-12-17 2020-12-18 2020-12-19 2020-12-20 2020-12-21 2020-12-22 2020-12-23 2020-12-24 2020-12-25 2020-12-26 2020-12-27 2020-12-28 2020-12-29 2020-12-30 2020-12-31 2021-01-01 2021-01-02 2021-01-03 2021-01-04 2021-01-05 2021-01-06 2021-01-07 2021-01-08 2021-01-09 2021-01-10 2021-01-11 2021-01-12 2021-01-13 2021-01-14 2021-01-15 2021-01-16 2021-01-17 2021-01-18 2021-01-19 2021-01-20 2021-01-21 2021-01-22 2021-01-23 2021-01-24 2021-01-25 2021-01-26 2021-01-27 2021-01-28 2021-01-29 2021-01-30 2021-01-31 2021-02-01 2021-02-02 2021-02-03 2021-02-04 2021-02-05 2021-02-06 2021-02-07 2021-02-08 2021-02-09 2021-02-10 2021-02-11 2021-02-12 2021-02-13 2021-02-14 2021-02-15 2021-02-16 2021-02-17 2021-02-18 2021-02-19 2021-02-20 2021-02-21 2021-02-22 2021-02-23 2021-02-24 2021-02-25 2021-02-26 2021-02-27 2021-02-28 2021-03-01 2021-03-02 2021-03-03 2021-03-04 2021-03-05 2021-03-06 2021-03-07 2021-03-08 2021-03-09 2021-03-10 2021-03-11 2021-03-12 2021-03-13 2021-03-14 2021-03-15 2021-03-16 2021-03-17 2021-03-18 2021-03-19 2021-03-20 2021-03-21 2021-03-22 2021-03-23 2021-03-24 2021-03-25 2021-03-26 2021-03-27 2021-03-28 2021-03-29 2021-03-30 2021-03-31 2021-04-01 2021-04-02 2021-04-03 2021-04-04 2021-04-05 2021-04-06 2021-04-07 2021-04-08 2021-04-09 2021-04-10 2021-04-11 2021-04-12 2021-04-13 2021-04-14 2021-04-15 2021-04-16 2021-04-17 2021-04-18 2021-04-19 2021-04-20 2021-04-21 2021-04-22 2021-04-23 2021-04-24 2021-04-25 2021-04-26 2021-04-27 2021-04-28 2021-04-29 2021-04-30 2021-05-01 2021-05-02 2021-05-03 2021-05-04 2021-05-05 2021-05-06 2021-05-07 2021-05-08 2021-05-09 2021-05-10 2021-05-11 2021-05-12 2021-05-13 2021-05-14 2021-05-15 2021-05-16 2021-05-17 2021-05-18 2021-05-19 2021-05-20 2021-05-21 2021-05-22 2021-05-23 2021-05-24 2021-05-25 2021-05-26 2021-05-27 2021-05-28 2021-05-29 2021-05-30 2021-05-31 2021-06-01 2021-06-02 2021-06-03 2021-06-04 2021-06-05 2021-06-06 2021-06-07 2021-06-08 2021-06-09 2021-06-10 2021-06-11 2021-06-12 2021-06-13 2021-06-14 2021-06-15 2021-06-16 2021-06-17 2021-06-18 2021-06-19 2021-06-20 2021-06-21 2021-06-22 2021-06-23 2021-06-24 2021-06-25 2021-06-26 2021-06-27 2021-06-28 2021-06-29 2021-06-30 2021-07-01 2021-07-02 2021-07-03 2021-07-04 2021-07-05 2021-07-06 2021-07-07 2021-07-08 2021-07-09 2021-07-10 2021-07-11 2021-07-12 2021-07-13 2021-07-14 2021-07-15 2021-07-16 2021-07-17 2021-07-18 2021-07-19 2021-07-20 2021-07-21 2021-07-22 2021-07-23 2021-07-24 2021-07-25 2021-07-26 2021-07-27 2021-07-28 2021-07-29 2021-07-30 2021-07-31 2021-08-01 2021-08-02 2021-08-03 2021-08-04 2021-08-05 2021-08-06 2021-08-07 2021-08-08 2021-08-09 2021-08-10 2021-08-11 2021-08-12 2021-08-13 2021-08-14 2021-08-15 2021-08-16 2021-08-17 2021-08-18 2021-08-19 2021-08-20 2021-08-21 2021-08-22 2021-08-23 2021-08-24 2021-08-25 2021-08-26 2021-08-27 2021-08-28 2021-08-29 2021-08-30 2021-08-31 2021-09-01 2021-09-02processing:  1  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  3  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  4  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  5  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  6  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  7  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  8  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  9  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  10  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  11  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  12  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  13  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  14  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  15  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  16  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  17  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  18  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  19  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  20  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  21  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  22  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  23  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  24  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  25  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  26  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  27  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  28  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  29  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  30  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  31  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  32  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  33  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  34  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  35  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  36  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  37  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  38  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  39  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  40  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  41  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  42  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  43  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  44  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  45  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  46  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  47  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  48  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  49  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  50  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  51  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  52  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  53  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  54  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  55  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  56  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  57  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  58  out of  417 
+awk: fatal: cannot open file `test.txt' for reading (No such file or directory)
+processing:  2  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  59  out of  417 
+awk: fatal: cannot open file `test.txt' for reading (No such file or directory)
+processing:  3  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  60  out of  417 
+awk: fatal: cannot open file `test.txt' for reading (No such file or directory)
+processing:  4  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  61  out of  417 
+awk: fatal: cannot open file `test.txt' for reading (No such file or directory)
+processing:  5  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  62  out of  417 
+processing:  6  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  63  out of  417 
+processing:  7  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  64  out of  417 
+processing:  8  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  65  out of  417 
+processing:  9  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  66  out of  417 
+processing:  10  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  67  out of  417 
+processing:  11  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  68  out of  417 
+processing:  12  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  69  out of  417 
+processing:  13  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  70  out of  417 
+processing:  14  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  71  out of  417 
+processing:  15  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  72  out of  417 
+processing:  16  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  73  out of  417 
+processing:  17  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  74  out of  417 
+processing:  18  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  75  out of  417 
+processing:  19  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  76  out of  417 
+processing:  20  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  77  out of  417 
+processing:  21  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  78  out of  417 
+processing:  22  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  79  out of  417 
+processing:  23  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  80  out of  417 
+processing:  24  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  81  out of  417 
+processing:  25  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  82  out of  417 
+processing:  26  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  83  out of  417 
+processing:  27  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  84  out of  417 
+processing:  28  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  85  out of  417 
+processing:  29  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  86  out of  417 
+processing:  30  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  87  out of  417 
+processing:  31  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  88  out of  417 
+processing:  32  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  89  out of  417 
+processing:  33  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  90  out of  417 
+processing:  34  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  91  out of  417 
+processing:  35  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  92  out of  417 
+processing:  36  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
-processing:  93  out of  417 
+processing:  37  out of  411 
 processing...
 sed worked
-remove dead lines
-final combo and write out results
+
+ *** caught bus error ***
+address 0x7f1b8490b000, cause 'non-existent physical address'
+
+Traceback:
+ 1: data.table::fread("test3.txt")
+ 2: process_outbreaks(in_pdf[[i]])
+An irrecoverable exception occurred. R is aborting now ...
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+l combo and write out results
 processing:  94  out of  417 
 processing...
 sed worked
@@ -1911,315 +1681,15 @@ final combo and write out results
 processing:  359  out of  417 
 processing...
 sed worked
+awk: fatal: cannot open file `test.txt' for reading (No such file or directory)
 remove dead lines
 final combo and write out results
-processing:  360  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  361  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  362  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  363  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  364  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  365  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  366  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  367  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  368  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  369  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  370  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  371  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  372  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  373  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  374  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  375  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  376  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  377  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  378  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  379  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  380  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  381  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  382  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  383  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  384  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  385  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  386  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  387  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  388  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  389  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  390  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  391  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  392  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  393  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  394  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  395  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  396  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  397  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  398  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  399  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  400  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  401  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  402  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  403  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  404  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  405  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  406  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  407  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  408  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  409  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  410  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  411  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  412  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  413  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  414  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  415  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  416  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-processing:  417  out of  417 
-processing...
-sed worked
-remove dead lines
-final combo and write out results
-6405
-                               0-17                               18-24 
-                                416                                 416 
-                              25-49                               50-64 
-                                416                                 416 
-                              65-74                                 75+ 
-                                416                                 416 
-  American Indian and Alaska Native                               Asian 
-                                438                                 416 
-          Black or African American                              Female 
-                                416                                 416 
-                           Hispanic                                Male 
-                                416                                 416 
-Native Hawaiian or Pacific Islander                        Non-Hispanic 
-                                143                                 416 
-                              Other                               White 
-                                416                                 416 
+Error in stopifnot(is.character(x)) : object 'cases' not found
+Calls: process_pdfs ... eval -> eval -> <Anonymous> -> parse_vector -> stopifnot
+In addition: Warning message:
+In data.table::fread(here::here("demos_final.txt"), fill = TRUE,  :
+  File '/datadisk/covid-data-store/covid-data/demos_final.txt' has size 0. Returning a NULL data.table.
+Execution halted
 
 Attaching package: ‘dplyr’
 
@@ -2288,6 +1758,7 @@ sed worked
 processing:  7  out of  411 
 processing...
 sed worked
+awk: fatal: cannot open file `test.txt' for reading (No such file or directory)
 processing:  8  out of  411 
 processing...
 sed worked
@@ -2297,6 +1768,7 @@ sed worked
 processing:  10  out of  411 
 processing...
 sed worked
+awk: fatal: cannot open file `test.txt' for reading (No such file or directory)
 processing:  11  out of  411 
 processing...
 sed worked
@@ -2309,9 +1781,11 @@ sed worked
 processing:  14  out of  411 
 processing...
 sed worked
+awk: fatal: cannot open file `test.txt' for reading (No such file or directory)
 processing:  15  out of  411 
 processing...
 sed worked
+awk: fatal: cannot open file `test.txt' for reading (No such file or directory)
 processing:  16  out of  411 
 processing...
 sed worked
@@ -3539,7 +3013,10 @@ sed worked
 162:            0
 163:            0
 164:            0
-53480
+Error in rbindlist(combined_data, idcol = TRUE) : 
+  Item 7 of input is not a data.frame, data.table or list
+Execution halted
+
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
