@@ -95,8 +95,6 @@ Error in download.file(url = url, destfile = here::here("data", "daily-age",  :
 In addition: Warning message:
 In download.file(url = url, destfile = here::here("data", "daily-age",  :
   cannot open URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/Demographics.csv?%3Aembed=y&%3AshowVizHome=no&%3Ahost_url=https%3A%2F%2Fpublic.tableau.com%2F&%3Aembed_code_version=3&%3Aembed_code_version=3&%3Atabs=yes&%3Atabs=yes&%3Atoolbar=no&%3Atoolbar=no&%3Aanimate_transition=yes&%3Aanimate_transition=yes&%3Adisplay_static_image=no&%3Adisplay_static_image=no&%3Adisplay_spinner=no&%3Adisplay_spinner=no&%3Adisplay_overlay=yes&%3Adisplay_overlay=yes&%3Adisplay_count=no&%3Adisplay_count=no&publish=yes&publish=yes&%3AloadOrderID=0u.com%2F&%3AloadOrderID=0': HTTP status was '404 Not Found'
-Warning message:
-In request_GET(session, url) : Internal Server Error (HTTP 500).
 trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/HospitalBeds.csv?%3Aembed=y&%3AshowVizHome=no&%3Ahost_url=https%3A%2F%2Fpublic.tableau.com%2F&%3Aembed_code_version=3&%3Aembed_code_version=3&%3Atabs=yes&%3Atabs=yes&%3Atoolbar=no&%3Atoolbar=no&%3Aanimate_transition=yes&%3Aanimate_transition=yes&%3Adisplay_static_image=no&%3Adisplay_static_image=no&%3Adisplay_spinner=no&%3Adisplay_spinner=no&%3Adisplay_overlay=yes&%3Adisplay_overlay=yes&%3Adisplay_count=no&%3Adisplay_count=no&publish=yes&publish=yes&%3AloadOrderID=0u.com%2F&%3AloadOrderID=0'
 Error in download.file(url = url, destfile = here::here("data", "daily-beds",  : 
   cannot open URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/HospitalBeds.csv?%3Aembed=y&%3AshowVizHome=no&%3Ahost_url=https%3A%2F%2Fpublic.tableau.com%2F&%3Aembed_code_version=3&%3Aembed_code_version=3&%3Atabs=yes&%3Atabs=yes&%3Atoolbar=no&%3Atoolbar=no&%3Aanimate_transition=yes&%3Aanimate_transition=yes&%3Adisplay_static_image=no&%3Adisplay_static_image=no&%3Adisplay_spinner=no&%3Adisplay_spinner=no&%3Adisplay_overlay=yes&%3Adisplay_overlay=yes&%3Adisplay_count=no&%3Adisplay_count=no&publish=yes&publish=yes&%3AloadOrderID=0u.com%2F&%3AloadOrderID=0'
@@ -2225,10 +2223,23 @@ processing...
 sed worked
 remove dead lines
 final combo and write out results
-Error in setnames(ans, col.names) : 
-  Can't assign 5 names to a 1 column data.table
-Calls: process_pdfs -> <Anonymous> -> setnames
-Execution halted
+6465
+                               0-17                               18-24 
+                                420                                 420 
+                              25-49                               50-64 
+                                420                                 420 
+                              65-74                                 75+ 
+                                420                                 420 
+  American Indian and Alaska Native                               Asian 
+                                442                                 420 
+          Black or African American                              Female 
+                                420                                 420 
+                           Hispanic                                Male 
+                                420                                 420 
+Native Hawaiian or Pacific Islander                        Non-Hispanic 
+                                143                                 420 
+                              Other                               White 
+                                420                                 420 
 
 Attaching package: ‘dplyr’
 
@@ -3678,11 +3689,3 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 9:               56906                  807     1830        18
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "64781d48f1fc0820c1deb2ff59330b8efe2ac410"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
- 814.626  863.830 1774.709 
