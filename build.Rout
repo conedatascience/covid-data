@@ -3635,7 +3635,7 @@ sed worked
 162:            0
 163:            0
 164:            0
-55232
+55226
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -3689,6 +3689,8 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
+Error: extra files found
+Execution halted
 
 Attaching package: ‘dplyr’
 
@@ -3755,11 +3757,3 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 10:               59415                  818     2364         6
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "aca3b6719b7cebdf7b1a5db9ea62b2c440e681ba"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
- 898.309  988.491 2006.286 
