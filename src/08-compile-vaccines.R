@@ -50,6 +50,9 @@ dat_raw2[, reported_date := as.Date(format(update_date,'%Y-%m-%d'))]
 
 setnames(dat_raw2, "County", "county")
 
+#something is messed up with 8/4 onward?
+dat_raw2 <- dat_raw2[reported_date<=as.Date('2021-08-03')]
+
 #old xlsx files
 dat_raw <- purrr::map_dfr(data_dir,
                           ~readxl::read_excel(.x, skip = 3, sheet = 2,range = "A4:C205",
@@ -102,6 +105,9 @@ data_dir3 <- fs::dir_ls(here::here("data", "daily-vax-status"), glob = "*csv")
 dat_raw3 <- purrr::map_dfr(data_dir3, data.table::fread, .id = "date_pulled")
 
 setDT(dat_raw3)
+
+# lots of other files in here - make sure the demographic data gets removed!
+dat_raw3 <- dat_raw3[is.na(Demographic)]
 
 # new col names:
 #People Vaccinated with at Least One Dose - Federal
@@ -170,7 +176,7 @@ if(debug){
 dat_raw[ ,date:= lubridate::date(reported_date)]
 
 dat_latest <- dat_raw[,.(county,vaccine_status,total_doses,date)] %>%
-  .[order(county,date)] %>%
+  .[order(county,date,-total_doses)] %>% #take highest reported each day
   .[,head(.SD,1), by = c("county", "date", "vaccine_status")]
 
 dat_latest <- dcast(formula = date+county~vaccine_status, value.var = "total_doses", data = dat_latest)
@@ -182,12 +188,19 @@ setnames(dat_latest,
 
 dat_latest[,`:=` (
   dose_1 = as.numeric(dose_1),
-  dose_2 = as.numeric(dose_2),
-  people_partial_vax = case_when(is.na(people_partial_vax)~as.numeric(dose_1),
-                                 TRUE~as.numeric(people_partial_vax)),
-  people_full_vax = case_when(is.na(people_full_vax)~as.numeric(dose_2),
-                              TRUE~as.numeric(people_full_vax))
+  dose_2 = as.numeric(dose_2) #,
+  ## this is causing some weird negative values
+  #people_partial_vax = case_when(is.na(people_partial_vax)~as.numeric(dose_1),
+   #                              TRUE~as.numeric(people_partial_vax)),
+  #people_full_vax = case_when(is.na(people_full_vax)~as.numeric(dose_2),
+   #                           TRUE~as.numeric(people_full_vax))
   )]
+
+#just fill with last known instead
+dat_latest[, `:=` (
+  people_partial_vax = zoo::na.fill(as.numeric(people_partial_vax), fill = 'extend'),
+  people_full_vax = zoo::na.fill(as.numeric(people_full_vax), fill = 'extend') ), 
+                 by = 'county']
 
 
 dat_latest[order(date),`:=` (daily_dose_1 = dose_1 - data.table::shift(dose_1,1, fill = 0),
