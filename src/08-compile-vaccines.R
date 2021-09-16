@@ -27,7 +27,7 @@ dat_raw2[,`First Doses Administered`:=ifelse(is.na(`First Doses Administered`),
 
 dat_raw2[,`Second Doses Administered`:=ifelse(is.na(`Second Doses Administered`),
 `Dose 2 Administered - Federal` + `Dose 2 Administered - NC Providers`,
-`First Doses Administered`)]
+`Second Doses Administered`)]
 
 dat_raw2[, grep("Federal|Providers", colnames(dat_raw2)):=NULL]
 }
@@ -37,7 +37,9 @@ dat_raw2 <- melt(dat_raw2, id.vars = c('date_pulled', 'County'),
                  value.name = 'total_doses')
 
 dat_raw2[, vaccine_status := case_when(vaccine_status=='First Doses Administered'~'Dose 1 Administered',
+                                       vaccine_status=='First Dose Administered'~'Dose 1 Administered',
                                        vaccine_status=='Second Doses Administered'~'Dose 2 Administered',
+                                       vaccine_status=='Second Dose Administered'~'Dose 2 Administered',
                                        TRUE~as.character(NA))]
 
 dat_raw2 <- dat_raw2[!is.na(vaccine_status)]
@@ -50,8 +52,8 @@ dat_raw2[, reported_date := as.Date(format(update_date,'%Y-%m-%d'))]
 
 setnames(dat_raw2, "County", "county")
 
-#something is messed up with 8/4 onward?
-dat_raw2 <- dat_raw2[reported_date<=as.Date('2021-08-03')]
+#something is messed up with 8/4?
+dat_raw2 <- dat_raw2[reported_date!=as.Date('2021-08-04') & !is.na(total_doses)]
 
 #old xlsx files
 dat_raw <- purrr::map_dfr(data_dir,
@@ -187,11 +189,16 @@ setnames(dat_latest,
          c('dose_1', 'dose_2', 'people_partial_vax', 'people_full_vax'))
 
 dat_latest[,`:=` (
-  dose_1 = as.numeric(dose_1),
-  dose_2 = as.numeric(dose_2) #,
+  #dose_1 = as.numeric(dose_1),
+  dose_2 = as.numeric(dose_2),
+
+# dose 1 and partial should always be the same...
+    people_partial_vax = case_when(is.na(people_partial_vax)~as.numeric(dose_1),
+                                 TRUE~as.numeric(people_partial_vax)),
+    dose_1 = case_when(is.na(dose_1)~as.numeric(people_partial_vax),
+                                 TRUE~as.numeric(dose_1))
+
   ## this is causing some weird negative values
-  #people_partial_vax = case_when(is.na(people_partial_vax)~as.numeric(dose_1),
-   #                              TRUE~as.numeric(people_partial_vax)),
   #people_full_vax = case_when(is.na(people_full_vax)~as.numeric(dose_2),
    #                           TRUE~as.numeric(people_full_vax))
   )]
