@@ -196,17 +196,17 @@ dat_latest[,`:=` (
     people_partial_vax = case_when(is.na(people_partial_vax)~as.numeric(dose_1),
                                  TRUE~as.numeric(people_partial_vax)),
     dose_1 = case_when(is.na(dose_1)~as.numeric(people_partial_vax),
-                                 TRUE~as.numeric(dose_1))
-
-  ## this is causing some weird negative values
-  #people_full_vax = case_when(is.na(people_full_vax)~as.numeric(dose_2),
-   #                           TRUE~as.numeric(people_full_vax))
+                                 TRUE~as.numeric(dose_1)),
+    people_full_vax = case_when(is.na(people_full_vax)~as.numeric(dose_2),
+                                TRUE~as.numeric(people_full_vax))
   )]
 
 #just fill with last known instead
 dat_latest[, `:=` (
-  people_partial_vax = zoo::na.fill(as.numeric(people_partial_vax), fill = 'extend'),
-  people_full_vax = zoo::na.fill(as.numeric(people_full_vax), fill = 'extend') ), 
+  dose_1 = zoo::na.locf(as.numeric(dose_1), na.rm = F),
+  dose_2= zoo::na.locf(as.numeric(dose_2), na.rm = F),
+  people_partial_vax = zoo::na.locf(as.numeric(people_partial_vax), na.rm = F),
+  people_full_vax = zoo::na.locf(as.numeric(people_full_vax), na.rm = F) ), 
                  by = 'county']
 
 
