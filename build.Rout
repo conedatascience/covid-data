@@ -3755,3 +3755,51 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+Warning message:
+In `[.data.table`(dat_latest, , `:=`(V1, NULL)) :
+  Column 'V1' does not exist to remove
+Warning message:
+In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
+  Column 'V2' does not exist to remove
+             state   county       date cases_daily deaths_daily pct_pos
+ 1: North Carolina Guilford 2021-09-11           0            0   0.121
+ 2: North Carolina Guilford 2021-09-12           0            0   0.121
+ 3: North Carolina Guilford 2021-09-13         917            6   0.118
+ 4: North Carolina Guilford 2021-09-14         145            5   0.130
+ 5: North Carolina Guilford 2021-09-15         367            1   0.119
+ 6: North Carolina Guilford 2021-09-16         172           10   0.110
+ 7: North Carolina Guilford 2021-09-17         393            6   0.097
+ 8: North Carolina Guilford 2021-09-18           0            0   0.097
+ 9: North Carolina Guilford 2021-09-19           0            0   0.097
+10: North Carolina Guilford 2021-09-20         811            8   0.103
+    cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
+ 1:               58353                  807     1447         0
+ 2:               58353                  807     1447         0
+ 3:               59270                  813     1447         0
+ 4:               59415                  818     2364         6
+ 5:               59782                  819     1530        11
+ 6:               59954                  829     1734        12
+ 7:               60347                  835     1739        22
+ 8:               60347                  835     1994        28
+ 9:               60347                  835     1994        28
+10:               61158                  843     1994        28
+> 
+> system("git add --all")
