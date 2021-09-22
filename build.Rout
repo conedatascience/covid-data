@@ -81,7 +81,11 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
-Latest Date: September-22Earliest Date: May-08Today's data are not yet available.Latest Date: September-21Earliest Date: May-08trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
+Error: lazy-load database '/opt/R/4.0.2/lib/R/library/magrittr/R/magrittr.rdb' is corrupt
+In addition: Warning message:
+internal error -3 in R_decompress1 
+Execution halted
+trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
 Error in download.file(url = url, destfile = here::here("data", "daily-metrics",  : 
   cannot open URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
 In addition: Warning message:
@@ -3817,11 +3821,3 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 9:               61348                  844     1888        30
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "54e016a36339da2e79a22684b870bac332f694a9"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
- 776.982  908.774 1741.829 
