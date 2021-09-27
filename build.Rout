@@ -40,6 +40,10 @@ The following objects are masked from ‘package:base’:
 Warning message:
 In readLines("https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json") :
   incomplete final line found on 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json'
+Error in UseMethod("mutate") : 
+  no applicable method for 'mutate' applied to an object of class "NULL"
+Calls: %>% -> mutate
+Execution halted
 Warning message:
 In readLines("https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json") :
   incomplete final line found on 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json'
@@ -3859,11 +3863,3 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 10:               63041                  856     1916        21
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "36184dfb23e8df0f3f95170bed037862ad8ff289"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
- 805.144  935.193 1718.419 
