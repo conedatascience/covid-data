@@ -69213,3 +69213,9 @@ Confrontation: 3, Failures: 0, Time 202110050010
 Confrontation: 4, Failures: 0, Time 202110050010
 Confrontation: 5, Failures: 0, Time 202110050010
 Confrontation: 6, Failures: 36, Time 202110050010
+Confrontation: 1, Failures: 0, Time 202110050110
+Confrontation: 2, Failures: 0, Time 202110050110
+Confrontation: 3, Failures: 0, Time 202110050110
+Confrontation: 4, Failures: 0, Time 202110050110
+Confrontation: 5, Failures: 0, Time 202110050110
+Confrontation: 6, Failures: 36, Time 202110050110
