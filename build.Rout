@@ -37,9 +37,11 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-Warning message:
+Error in readLines("https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json") : 
+  cannot read from connection
+In addition: Warning message:
 In readLines("https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json") :
-  incomplete final line found on 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json'
+  URL 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json': status was 'Transferred a partial file'
 Warning message:
 In readLines("https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json") :
   incomplete final line found on 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json'
@@ -4107,11 +4109,3 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 10:               67854                  900      741         8
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "fec867aabe56a3ed69dbc427c9aeec69eebed84f"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
- 906.828 1063.911 1940.373 
