@@ -4127,23 +4127,15 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
  9: North Carolina Guilford 2021-10-31           0            0   0.044
 10: North Carolina Guilford 2021-11-01         238            9   0.050
     cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
- 1:               67312                  852      835        11
- 2:               67312                  852      835        11
- 3:               67601                  853      835        11
- 4:               67671                  853      770         9
- 5:               67741                  854      766         9
- 6:               67854                  854      741         8
- 7:               67935                  855      682         8
- 8:               67935                  855      623         3
- 9:               67935                  855      623         3
-10:               68173                  864      623         3
+ 1:               67312                  898      835        11
+ 2:               67312                  898      835        11
+ 3:               67601                  899      835        11
+ 4:               67671                  899      770         9
+ 5:               67741                  900      766         9
+ 6:               67854                  900      741         8
+ 7:               67935                  901      682         8
+ 8:               67935                  901      623         3
+ 9:               67935                  901      623         3
+10:               68173                  910      623         3
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "8afc790e3ebb58fc415d5bbc6e8fdeda8debea61"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
- 908.499 1081.823 1959.909 
