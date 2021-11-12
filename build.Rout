@@ -4227,3 +4227,11 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 10:               69128                  931      488         7
 > 
 > system("git add --all")
+> msg = glue::glue("Lastest update at {Sys.time()}")
+> gert::git_commit(  msg)
+[1] "35bf57c199b324f06dfa324c0233cc042349e0aa"
+> gert::git_push()
+> 
+> proc.time()
+    user   system  elapsed 
+1035.701 1203.035 2213.509 
