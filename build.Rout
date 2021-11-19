@@ -37,12 +37,18 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-Warning message:
+Error in readLines("https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json") : 
+  cannot read from connection
+In addition: Warning message:
 In readLines("https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json") :
-  incomplete final line found on 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json'
-Warning message:
-In readLines("https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json") :
-  incomplete final line found on 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json'
+  URL 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/Covid19byZIPnew/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json': status was 'Transferred a partial file'
+Error in file(con, "r") : 
+  cannot open the connection to 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json'
+Calls: <Anonymous> -> readLines -> file
+In addition: Warning message:
+In file(con, "r") :
+  cannot open URL 'https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=0%3D0&outFields=%2A&f=json': HTTP status was '504 Gateway Timeout'
+Execution halted
 
 Attaching package: ‘dplyr’
 
@@ -63,7 +69,7 @@ The following objects are masked from ‘package:dplyr’:
 
 Latest Date: November-18 
 Earliest Date: January-22 
-Latest Date: November-18Earliest Date: January-22
+Today's data are not yet available.Latest Date: November-18Earliest Date: January-22
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -4281,11 +4287,3 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 9:               69658                  940      615        14
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "54392bc4b0a0ac5cf171f2d64cef78b7aacfa6b9"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
-1059.281 1236.226 2267.881 
