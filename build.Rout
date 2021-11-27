@@ -4345,10 +4345,3 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 9:               70162                  946      504         6
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "2f4fb104891d4954b2f5148fbd7feda1da48f685"
-> gert::git_push()
-Error in libgit2::git_remote_push : unexpected http status code: 504
-Calls: <Anonymous> -> raise_libgit2_error
-Execution halted
