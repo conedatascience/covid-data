@@ -63,7 +63,7 @@ The following objects are masked from ‘package:dplyr’:
 
 Latest Date: December-07 
 Earliest Date: January-22 
-Today's data are not yet available.Latest Date: December-06Earliest Date: January-22
+Latest Date: December-07Earliest Date: January-22
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -4403,33 +4403,27 @@ In `[.data.table`(dat_latest, , `:=`(V1, NULL)) :
 Warning message:
 In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
   Column 'V2' does not exist to remove
-            state   county       date cases_daily deaths_daily pct_pos
-1: North Carolina Guilford 2021-11-28           0            0   0.059
-2: North Carolina Guilford 2021-11-29         371            4   0.083
-3: North Carolina Guilford 2021-11-30          63            3   0.094
-4: North Carolina Guilford 2021-12-01         149            1   0.073
-5: North Carolina Guilford 2021-12-02         193            1   0.074
-6: North Carolina Guilford 2021-12-03         160            0   0.072
-7: North Carolina Guilford 2021-12-04           0            0   0.072
-8: North Carolina Guilford 2021-12-05           0            0   0.072
-9: North Carolina Guilford 2021-12-06         400            0   0.077
-   cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
-1:               70162                  946      396         3
-2:               70533                  950      396         3
-3:               70596                  953      506         6
-4:               70745                  954      502         8
-5:               70938                  955      583         8
-6:               71098                  955      776         9
-7:               71098                  955      936         9
-8:               71098                  955      936         9
-9:               71498                  955      936         9
+             state   county       date cases_daily deaths_daily pct_pos
+ 1: North Carolina Guilford 2021-11-28           0            0   0.059
+ 2: North Carolina Guilford 2021-11-29         371            4   0.083
+ 3: North Carolina Guilford 2021-11-30          63            3   0.094
+ 4: North Carolina Guilford 2021-12-01         149            1   0.073
+ 5: North Carolina Guilford 2021-12-02         193            1   0.074
+ 6: North Carolina Guilford 2021-12-03         160            0   0.072
+ 7: North Carolina Guilford 2021-12-04           0            0   0.072
+ 8: North Carolina Guilford 2021-12-05           0            0   0.072
+ 9: North Carolina Guilford 2021-12-06         400            0   0.077
+10: North Carolina Guilford 2021-12-07         125            0   0.091
+    cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
+ 1:               70162                  946      396         3
+ 2:               70533                  950      396         3
+ 3:               70596                  953      506         6
+ 4:               70745                  954      502         8
+ 5:               70938                  955      583         8
+ 6:               71098                  955      776         9
+ 7:               71098                  955      936         9
+ 8:               71098                  955      936         9
+ 9:               71498                  955      936         9
+10:               71623                  955      965         5
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "3551c7ae7c6720e049583f664758f25a7e7810d3"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
-1057.379 1285.576 2305.698 
