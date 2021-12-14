@@ -63,7 +63,7 @@ The following objects are masked from ‘package:dplyr’:
 
 Latest Date: December-14 
 Earliest Date: January-22 
-Today's data are not yet available.Latest Date: December-13Earliest Date: January-22
+Latest Date: December-14Earliest Date: January-22
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -81,7 +81,7 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
-Latest Date: December-14Earliest Date: May-08Today's data are not yet available.Latest Date: December-13Earliest Date: May-08trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
+Latest Date: December-14Earliest Date: May-08Latest Date: December-14Earliest Date: May-08trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
 Error in download.file(url = url, destfile = here::here("data", "daily-metrics",  : 
   cannot open URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
 In addition: Warning message:
@@ -4459,33 +4459,27 @@ In `[.data.table`(dat_latest, , `:=`(V1, NULL)) :
 Warning message:
 In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
   Column 'V2' does not exist to remove
-            state   county       date cases_daily deaths_daily pct_pos
-1: North Carolina Guilford 2021-12-05           0            0   0.072
-2: North Carolina Guilford 2021-12-06         400            0   0.077
-3: North Carolina Guilford 2021-12-07         125            0   0.091
-4: North Carolina Guilford 2021-12-08         125            4   0.080
-5: North Carolina Guilford 2021-12-09         166            0   0.071
-6: North Carolina Guilford 2021-12-10         153            0   0.074
-7: North Carolina Guilford 2021-12-11           0            0   0.074
-8: North Carolina Guilford 2021-12-12           0            0   0.074
-9: North Carolina Guilford 2021-12-13         426            0   0.086
-   cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
-1:               71098                  955      936         9
-2:               71498                  955      936         9
-3:               71623                  955      965         5
-4:               71748                  959     1027         2
-5:               71914                  959     1003         5
-6:               72067                  959      976         4
-7:               72067                  959      969         4
-8:               72067                  959      969         4
-9:               72493                  959      969         4
+             state   county       date cases_daily deaths_daily pct_pos
+ 1: North Carolina Guilford 2021-12-05           0            0   0.072
+ 2: North Carolina Guilford 2021-12-06         400            0   0.077
+ 3: North Carolina Guilford 2021-12-07         125            0   0.091
+ 4: North Carolina Guilford 2021-12-08         125            4   0.080
+ 5: North Carolina Guilford 2021-12-09         166            0   0.071
+ 6: North Carolina Guilford 2021-12-10         153            0   0.074
+ 7: North Carolina Guilford 2021-12-11           0            0   0.074
+ 8: North Carolina Guilford 2021-12-12           0            0   0.074
+ 9: North Carolina Guilford 2021-12-13         426            0   0.086
+10: North Carolina Guilford 2021-12-14          95            3   0.092
+    cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
+ 1:               71098                  955      936         9
+ 2:               71498                  955      936         9
+ 3:               71623                  955      965         5
+ 4:               71748                  959     1027         2
+ 5:               71914                  959     1003         5
+ 6:               72067                  959      976         4
+ 7:               72067                  959      969         4
+ 8:               72067                  959      969         4
+ 9:               72493                  959      969         4
+10:               72588                  962      995         4
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "790713c579d09912bf15a6ead283be25ea8c554c"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
-1051.697 1266.846 2279.255 
