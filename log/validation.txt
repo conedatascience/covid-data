@@ -80121,3 +80121,9 @@ Confrontation: 3, Failures: 0, Time 202112191617
 Confrontation: 4, Failures: 0, Time 202112191617
 Confrontation: 5, Failures: 0, Time 202112191617
 Confrontation: 6, Failures: 36, Time 202112191617
+Confrontation: 1, Failures: 0, Time 202112191718
+Confrontation: 2, Failures: 0, Time 202112191718
+Confrontation: 3, Failures: 0, Time 202112191718
+Confrontation: 4, Failures: 0, Time 202112191718
+Confrontation: 5, Failures: 0, Time 202112191718
+Confrontation: 6, Failures: 36, Time 202112191718
