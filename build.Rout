@@ -61,9 +61,9 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
-Latest Date: December-19 
+Latest Date: December-20 
 Earliest Date: January-22 
-Today's data are not yet available.Latest Date: December-18Earliest Date: January-22
+Today's data are not yet available.Latest Date: December-19Earliest Date: January-22
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -81,7 +81,7 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
-Latest Date: December-19Earliest Date: May-08Today's data are not yet available.Latest Date: December-19Earliest Date: May-08trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
+Latest Date: December-20Earliest Date: May-08Today's data are not yet available.Latest Date: December-19Earliest Date: May-08trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
 Error in download.file(url = url, destfile = here::here("data", "daily-metrics",  : 
   cannot open URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
 In addition: Warning message:
@@ -4516,6 +4516,7 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 6: North Carolina Guilford 2021-12-16         194            0   0.075
 7: North Carolina Guilford 2021-12-17         157            0   0.078
 8: North Carolina Guilford 2021-12-18           0            0   0.078
+9: North Carolina Guilford 2021-12-19           0            0   0.078
    cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
 1:               72067                  959      969         4
 2:               72067                  959      969         4
@@ -4525,13 +4526,6 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 6:               73003                  962     1061         3
 7:               73160                  962     1089         3
 8:               73160                  962     1093         3
+9:               73160                  962     1093         3
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "b5829b574cd0e9acd2415e87d443b449fe124e6b"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
-1042.884 1244.263 2247.254 
