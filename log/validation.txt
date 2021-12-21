@@ -80403,3 +80403,9 @@ Confrontation: 3, Failures: 0, Time 202112211518
 Confrontation: 4, Failures: 0, Time 202112211518
 Confrontation: 5, Failures: 0, Time 202112211518
 Confrontation: 6, Failures: 36, Time 202112211518
+Confrontation: 1, Failures: 0, Time 202112211616
+Confrontation: 2, Failures: 0, Time 202112211616
+Confrontation: 3, Failures: 0, Time 202112211616
+Confrontation: 4, Failures: 0, Time 202112211616
+Confrontation: 5, Failures: 0, Time 202112211616
+Confrontation: 6, Failures: 36, Time 202112211616
