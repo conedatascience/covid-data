@@ -82047,3 +82047,9 @@ Confrontation: 3, Failures: 0, Time 202201020120
 Confrontation: 4, Failures: 0, Time 202201020120
 Confrontation: 5, Failures: 0, Time 202201020120
 Confrontation: 6, Failures: 36, Time 202201020120
+Confrontation: 1, Failures: 0, Time 202201020218
+Confrontation: 2, Failures: 0, Time 202201020218
+Confrontation: 3, Failures: 0, Time 202201020218
+Confrontation: 4, Failures: 0, Time 202201020218
+Confrontation: 5, Failures: 0, Time 202201020218
+Confrontation: 6, Failures: 36, Time 202201020218
