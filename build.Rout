@@ -4531,7 +4531,7 @@ sed worked
 162:            0
 163:            0
 164:            0
-69958
+70027
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -4651,11 +4651,3 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 10:               80027                  977     5614        11
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "ecf7afccb1262c436eb9ecea1848b75f9d4c2a9d"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
-1175.950 1386.309 2531.399 
