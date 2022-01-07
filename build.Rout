@@ -4673,3 +4673,11 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 9:               81598                  980     4582        10
 > 
 > system("git add --all")
+> msg = glue::glue("Lastest update at {Sys.time()}")
+> gert::git_commit(  msg)
+[1] "de41a81ac19249f0f4ff667112bdd9ebb3b4d25d"
+> gert::git_push()
+Error in libgit2::git_remote_push : 
+  failed to resolve address for github.com: Name or service not known
+Calls: <Anonymous> -> raise_libgit2_error
+Execution halted
