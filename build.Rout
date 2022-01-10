@@ -4697,11 +4697,3 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 9:               82690                  980     5111         3
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "34ac686c513a7873728fc216ecdcfb4ca75c5745"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
-1132.333 1359.158 2453.957 
