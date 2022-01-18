@@ -4643,7 +4643,7 @@ sed worked
 162:            0
 163:            0
 164:            0
-72337
+72328
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -4767,9 +4767,3 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 10:               96691                 1005     4535         9
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "4d9f5b5baa21079e6c8086ab4565700f98f6d6d5"
-> gert::git_push()
-Error in gert::git_push() : ignoring SIGPIPE signal
-Execution halted
