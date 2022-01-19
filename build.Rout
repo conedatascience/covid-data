@@ -4773,3 +4773,9 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 9:               96691                 1005     4535         9
 > 
 > system("git add --all")
+> msg = glue::glue("Lastest update at {Sys.time()}")
+> gert::git_commit(  msg)
+[1] "22eab6d1aadf18988d72aaddc8ae5f61edee728e"
+> gert::git_push()
+Error in gert::git_push() : ignoring SIGPIPE signal
+Execution halted
