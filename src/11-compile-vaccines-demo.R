@@ -22,6 +22,18 @@ dat_raw$update_date <- as.Date(file.info(file_loc)$mtime)
 #updated verbiage
 dat_raw <- dat_raw %>% rename(`People at Least Partially Vaccinated`=`People Vaccinated with at Least One Dose`)
 
+#dat_raw$`People Vaccinated with at Least One Dose` = dat_raw$`People at Least Partially Vaccinated`
+
+# Fixing Some Additional Naming Irregularities
+
+setnames(dat_raw, "Two Doses or One Dose JJ Population", 'Fully Vaccinated Population')
+
+setnames(dat_raw, "People Vaccinated with Two Doses or One Dose JJ", 'People Fully Vaccinated')
+
+setnames(dat_raw, "Percent of Population Vaccinated with Two Doses or One Dose JJ", 'Percent of Population Fully Vaccinated')
+
+setnames(dat_raw, )
+
 # long format
 dat_raw_long <- melt(dat_raw, id.vars = c('update_date','Week of',
                                           'Aggregation Level',
