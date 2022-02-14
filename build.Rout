@@ -61,23 +61,3 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
-Latest Date: February-14 
-Earliest Date: January-22 
-Latest Date: February-14Earliest Date: January-22
-Attaching package: ‘dplyr’
-
-The following objects are masked from ‘package:stats’:
-
-    filter, lag
-
-The following objects are masked from ‘package:base’:
-
-    intersect, setdiff, setequal, union
-
-
-Attaching package: ‘data.table’
-
-The following objects are masked from ‘package:dplyr’:
-
-    between, first, last
-
