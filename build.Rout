@@ -81,7 +81,7 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
-Latest Date: February-21Earliest Date: May-08Today's data are not yet available.Latest Date: February-20Earliest Date: May-08trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
+Latest Date: February-21Earliest Date: May-08Today's data are not yet available.Latest Date: February-21Earliest Date: May-08trying URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
 Error in download.file(url = url, destfile = here::here("data", "daily-metrics",  : 
   cannot open URL 'https://public.tableau.com/views/NCDHHS_COVID-19_DataDownload/DailyCasesandDeathsMetrics.csv?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=yes&:toolbar=no&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=no&publish=yes&:loadOrderID=0'
 In addition: Warning message:
@@ -118,2968 +118,2973 @@ The following objects are masked from ‘package:base’:
 
 Starting Pdf Scrapes
 
-2020-07-13 2020-07-14 2020-07-15 2020-07-16 2020-07-17 2020-07-18 2020-07-19 2020-07-20 2020-07-21 2020-07-22 2020-07-23 2020-07-24 2020-07-25 2020-07-26 2020-07-27 2020-07-28 2020-07-29 2020-07-30 2020-07-31 2020-08-01 2020-08-02 2020-08-03 2020-08-04 2020-08-05 2020-08-06 2020-08-07 2020-08-08 2020-08-09 2020-08-10 2020-08-11 2020-08-12 2020-08-13 2020-08-14 2020-08-15 2020-08-16 2020-08-17 2020-08-18 2020-08-19 2020-08-20 2020-08-21 2020-08-22 2020-08-23 2020-08-24 2020-08-25 2020-08-26 2020-08-27 2020-08-28 2020-08-29 2020-08-30 2020-08-31 2020-09-01 2020-09-02 2020-09-03 2020-09-04 2020-09-05 2020-09-06 2020-09-07 2020-09-08 2020-09-09 2020-09-10 2020-09-11 2020-09-12 2020-09-13 2020-09-14 2020-09-15 2020-09-16 2020-09-17 2020-09-18 2020-09-19 2020-09-20 2020-09-21 2020-09-22 2020-09-23 2020-09-24 2020-09-25 2020-09-26 2020-09-27 2020-09-28 2020-09-29 2020-09-30 2020-10-01 2020-10-02 2020-10-03 2020-10-04 2020-10-05 2020-10-06 2020-10-07 2020-10-08 2020-10-09 2020-10-10 2020-10-11 2020-10-12 2020-10-13 2020-10-14 2020-10-15 2020-10-16 2020-10-17 2020-10-18 2020-10-19 2020-10-20 2020-10-21 2020-10-22 2020-10-23 2020-10-24 2020-10-25 2020-10-26 2020-10-27 2020-10-28 2020-10-29 2020-10-30 2020-10-31 2020-11-01 2020-11-02 2020-11-03 2020-11-04 2020-11-05 2020-11-06 2020-11-07 2020-11-08 2020-11-09 2020-11-10 2020-11-11 2020-11-12 2020-11-13 2020-11-14 2020-11-15 2020-11-16 2020-11-17 2020-11-18 2020-11-19 2020-11-20 2020-11-21 2020-11-22 2020-11-23 2020-11-24 2020-11-25 2020-11-26 2020-11-27 2020-11-28 2020-11-29 2020-11-30 2020-12-01 2020-12-02 2020-12-03 2020-12-04 2020-12-05 2020-12-06 2020-12-07 2020-12-08 2020-12-09 2020-12-10 2020-12-11 2020-12-12 2020-12-13 2020-12-14 2020-12-15 2020-12-16 2020-12-17 2020-12-18 2020-12-19 2020-12-20 2020-12-21 2020-12-22 2020-12-23 2020-12-24 2020-12-25 2020-12-26 2020-12-27 2020-12-28 2020-12-29 2020-12-30 2020-12-31 2021-01-01 2021-01-02 2021-01-03 2021-01-04 2021-01-05 2021-01-06 2021-01-07 2021-01-08 2021-01-09 2021-01-10 2021-01-11 2021-01-12 2021-01-13 2021-01-14 2021-01-15 2021-01-16 2021-01-17 2021-01-18 2021-01-19 2021-01-20 2021-01-21 2021-01-22 2021-01-23 2021-01-24 2021-01-25 2021-01-26 2021-01-27 2021-01-28 2021-01-29 2021-01-30 2021-01-31 2021-02-01 2021-02-02 2021-02-03 2021-02-04 2021-02-05 2021-02-06 2021-02-07 2021-02-08 2021-02-09 2021-02-10 2021-02-11 2021-02-12 2021-02-13 2021-02-14 2021-02-15 2021-02-16 2021-02-17 2021-02-18 2021-02-19 2021-02-20 2021-02-21 2021-02-22 2021-02-23 2021-02-24 2021-02-25 2021-02-26 2021-02-27 2021-02-28 2021-03-01 2021-03-02 2021-03-03 2021-03-04 2021-03-05 2021-03-06 2021-03-07 2021-03-08 2021-03-09 2021-03-10 2021-03-11 2021-03-12 2021-03-13 2021-03-14 2021-03-15 2021-03-16 2021-03-17 2021-03-18 2021-03-19 2021-03-20 2021-03-21 2021-03-22 2021-03-23 2021-03-24 2021-03-25 2021-03-26 2021-03-27 2021-03-28 2021-03-29 2021-03-30 2021-03-31 2021-04-01 2021-04-02 2021-04-03 2021-04-04 2021-04-05 2021-04-06 2021-04-07 2021-04-08 2021-04-09 2021-04-10 2021-04-11 2021-04-12 2021-04-13 2021-04-14 2021-04-15 2021-04-16 2021-04-17 2021-04-18 2021-04-19 2021-04-20 2021-04-21 2021-04-22 2021-04-23 2021-04-24 2021-04-25 2021-04-26 2021-04-27 2021-04-28 2021-04-29 2021-04-30 2021-05-01 2021-05-02 2021-05-03 2021-05-04 2021-05-05 2021-05-06 2021-05-07 2021-05-08 2021-05-09 2021-05-10 2021-05-11 2021-05-12 2021-05-13 2021-05-14 2021-05-15 2021-05-16 2021-05-17 2021-05-18 2021-05-19 2021-05-20 2021-05-21 2021-05-22 2021-05-23 2021-05-24 2021-05-25 2021-05-26 2021-05-27 2021-05-28 2021-05-29 2021-05-30 2021-05-31 2021-06-01 2021-06-02 2021-06-03 2021-06-04 2021-06-05 2021-06-06 2021-06-07 2021-06-08 2021-06-09 2021-06-10 2021-06-11 2021-06-12 2021-06-13 2021-06-14 2021-06-15 2021-06-16 2021-06-17 2021-06-18 2021-06-19 2021-06-20 2021-06-21 2021-06-22 2021-06-23 2021-06-24 2021-06-25 2021-06-26 2021-06-27 2021-06-28 2021-06-29 2021-06-30 2021-07-01 2021-07-02 2021-07-03 2021-07-04 2021-07-05 2021-07-06 2021-07-07 2021-07-08 2021-07-09 2021-07-10 2021-07-11 2021-07-12 2021-07-13 2021-07-14 2021-07-15 2021-07-16 2021-07-17 2021-07-18 2021-07-19 2021-07-20 2021-07-21 2021-07-22 2021-07-23 2021-07-24 2021-07-25 2021-07-26 2021-07-27 2021-07-28 2021-07-29 2021-07-30 2021-07-31 2021-08-01 2021-08-02 2021-08-03 2021-08-04 2021-08-05 2021-08-06 2021-08-07 2021-08-08 2021-08-09 2021-08-10 2021-08-11 2021-08-12 2021-08-13 2021-08-14 2021-08-15 2021-08-16 2021-08-17 2021-08-18 2021-08-19 2021-08-20 2021-08-21 2021-08-22 2021-08-23 2021-08-24 2021-08-25 2021-08-26 2021-08-27 2021-08-28 2021-08-29 2021-08-30 2021-08-31 2021-09-01 2021-09-02 2021-09-03 2021-09-04 2021-09-05 2021-09-06 2021-09-07 2021-09-08 2021-09-09 2021-09-10 2021-09-11 2021-09-12 2021-09-13 2021-09-14 2021-09-15 2021-09-16 2021-09-17 2021-09-18 2021-09-19 2021-09-20 2021-09-21 2021-09-22 2021-09-23 2021-09-24 2021-09-25 2021-09-26 2021-09-27 2021-09-28 2021-09-29 2021-09-30 2021-10-01 2021-10-02 2021-10-03 2021-10-04 2021-10-05 2021-10-06 2021-10-07 2021-10-08 2021-10-09 2021-10-10 2021-10-11 2021-10-12 2021-10-13 2021-10-14 2021-10-15 2021-10-16 2021-10-17 2021-10-18 2021-10-19 2021-10-20 2021-10-21 2021-10-22 2021-10-23 2021-10-24 2021-10-25 2021-10-26 2021-10-27 2021-10-28 2021-10-29 2021-10-30 2021-10-31 2021-11-01 2021-11-02 2021-11-03 2021-11-04 2021-11-05 2021-11-06 2021-11-07 2021-11-08 2021-11-09 2021-11-10 2021-11-11 2021-11-12 2021-11-13 2021-11-14 2021-11-15 2021-11-16 2021-11-17 2021-11-18 2021-11-19 2021-11-20 2021-11-21 2021-11-22 2021-11-23 2021-11-24 2021-11-25 2021-11-26 2021-11-27 2021-11-28 2021-11-29 2021-11-30 2021-12-01 2021-12-02 2021-12-03 2021-12-04 2021-12-05 2021-12-06 2021-12-07 2021-12-08 2021-12-09 2021-12-10 2021-12-11 2021-12-12 2021-12-13 2021-12-14 2021-12-15 2021-12-16 2021-12-17 2021-12-18 2021-12-19 2021-12-20 2021-12-21 2021-12-22 2021-12-23 2021-12-24 2021-12-25 2021-12-26 2021-12-27 2021-12-28 2021-12-29 2021-12-30 2021-12-31 2022-01-01 2022-01-02 2022-01-03 2022-01-04 2022-01-05 2022-01-06 2022-01-07 2022-01-08 2022-01-09 2022-01-10 2022-01-11 2022-01-12 2022-01-13 2022-01-14 2022-01-15 2022-01-16 2022-01-17 2022-01-18 2022-01-19 2022-01-20 2022-01-21 2022-01-22 2022-01-23 2022-01-24 2022-01-25 2022-01-26 2022-01-27 2022-01-28 2022-01-29 2022-01-30 2022-01-31 2022-02-01 2022-02-02 2022-02-03 2022-02-04 2022-02-05 2022-02-06 2022-02-07 2022-02-08 2022-02-09 2022-02-10 2022-02-11 2022-02-12 2022-02-13 2022-02-14 2022-02-15 2022-02-16 2022-02-17 2022-02-18 2022-02-19 2022-02-20 2022-02-21/datadisk/covid-data-store/covid-dataprocessing:  1  out of  589 
+2020-07-13 2020-07-14 2020-07-15 2020-07-16 2020-07-17 2020-07-18 2020-07-19 2020-07-20 2020-07-21 2020-07-22 2020-07-23 2020-07-24 2020-07-25 2020-07-26 2020-07-27 2020-07-28 2020-07-29 2020-07-30 2020-07-31 2020-08-01 2020-08-02 2020-08-03 2020-08-04 2020-08-05 2020-08-06 2020-08-07 2020-08-08 2020-08-09 2020-08-10 2020-08-11 2020-08-12 2020-08-13 2020-08-14 2020-08-15 2020-08-16 2020-08-17 2020-08-18 2020-08-19 2020-08-20 2020-08-21 2020-08-22 2020-08-23 2020-08-24 2020-08-25 2020-08-26 2020-08-27 2020-08-28 2020-08-29 2020-08-30 2020-08-31 2020-09-01 2020-09-02 2020-09-03 2020-09-04 2020-09-05 2020-09-06 2020-09-07 2020-09-08 2020-09-09 2020-09-10 2020-09-11 2020-09-12 2020-09-13 2020-09-14 2020-09-15 2020-09-16 2020-09-17 2020-09-18 2020-09-19 2020-09-20 2020-09-21 2020-09-22 2020-09-23 2020-09-24 2020-09-25 2020-09-26 2020-09-27 2020-09-28 2020-09-29 2020-09-30 2020-10-01 2020-10-02 2020-10-03 2020-10-04 2020-10-05 2020-10-06 2020-10-07 2020-10-08 2020-10-09 2020-10-10 2020-10-11 2020-10-12 2020-10-13 2020-10-14 2020-10-15 2020-10-16 2020-10-17 2020-10-18 2020-10-19 2020-10-20 2020-10-21 2020-10-22 2020-10-23 2020-10-24 2020-10-25 2020-10-26 2020-10-27 2020-10-28 2020-10-29 2020-10-30 2020-10-31 2020-11-01 2020-11-02 2020-11-03 2020-11-04 2020-11-05 2020-11-06 2020-11-07 2020-11-08 2020-11-09 2020-11-10 2020-11-11 2020-11-12 2020-11-13 2020-11-14 2020-11-15 2020-11-16 2020-11-17 2020-11-18 2020-11-19 2020-11-20 2020-11-21 2020-11-22 2020-11-23 2020-11-24 2020-11-25 2020-11-26 2020-11-27 2020-11-28 2020-11-29 2020-11-30 2020-12-01 2020-12-02 2020-12-03 2020-12-04 2020-12-05 2020-12-06 2020-12-07 2020-12-08 2020-12-09 2020-12-10 2020-12-11 2020-12-12 2020-12-13 2020-12-14 2020-12-15 2020-12-16 2020-12-17 2020-12-18 2020-12-19 2020-12-20 2020-12-21 2020-12-22 2020-12-23 2020-12-24 2020-12-25 2020-12-26 2020-12-27 2020-12-28 2020-12-29 2020-12-30 2020-12-31 2021-01-01 2021-01-02 2021-01-03 2021-01-04 2021-01-05 2021-01-06 2021-01-07 2021-01-08 2021-01-09 2021-01-10 2021-01-11 2021-01-12 2021-01-13 2021-01-14 2021-01-15 2021-01-16 2021-01-17 2021-01-18 2021-01-19 2021-01-20 2021-01-21 2021-01-22 2021-01-23 2021-01-24 2021-01-25 2021-01-26 2021-01-27 2021-01-28 2021-01-29 2021-01-30 2021-01-31 2021-02-01 2021-02-02 2021-02-03 2021-02-04 2021-02-05 2021-02-06 2021-02-07 2021-02-08 2021-02-09 2021-02-10 2021-02-11 2021-02-12 2021-02-13 2021-02-14 2021-02-15 2021-02-16 2021-02-17 2021-02-18 2021-02-19 2021-02-20 2021-02-21 2021-02-22 2021-02-23 2021-02-24 2021-02-25 2021-02-26 2021-02-27 2021-02-28 2021-03-01 2021-03-02 2021-03-03 2021-03-04 2021-03-05 2021-03-06 2021-03-07 2021-03-08 2021-03-09 2021-03-10 2021-03-11 2021-03-12 2021-03-13 2021-03-14 2021-03-15 2021-03-16 2021-03-17 2021-03-18 2021-03-19 2021-03-20 2021-03-21 2021-03-22 2021-03-23 2021-03-24 2021-03-25 2021-03-26 2021-03-27 2021-03-28 2021-03-29 2021-03-30 2021-03-31 2021-04-01 2021-04-02 2021-04-03 2021-04-04 2021-04-05 2021-04-06 2021-04-07 2021-04-08 2021-04-09 2021-04-10 2021-04-11 2021-04-12 2021-04-13 2021-04-14 2021-04-15 2021-04-16 2021-04-17 2021-04-18 2021-04-19 2021-04-20 2021-04-21 2021-04-22 2021-04-23 2021-04-24 2021-04-25 2021-04-26 2021-04-27 2021-04-28 2021-04-29 2021-04-30 2021-05-01 2021-05-02 2021-05-03 2021-05-04 2021-05-05 2021-05-06 2021-05-07 2021-05-08 2021-05-09 2021-05-10 2021-05-11 2021-05-12 2021-05-13 2021-05-14 2021-05-15 2021-05-16 2021-05-17 2021-05-18 2021-05-19 2021-05-20 2021-05-21 2021-05-22 2021-05-23 2021-05-24 2021-05-25 2021-05-26 2021-05-27 2021-05-28 2021-05-29 2021-05-30 2021-05-31 2021-06-01 2021-06-02 2021-06-03 2021-06-04 2021-06-05 2021-06-06 2021-06-07 2021-06-08 2021-06-09 2021-06-10 2021-06-11 2021-06-12 2021-06-13 2021-06-14 2021-06-15 2021-06-16 2021-06-17 2021-06-18 2021-06-19 2021-06-20 2021-06-21 2021-06-22 2021-06-23 2021-06-24 2021-06-25 2021-06-26 2021-06-27 2021-06-28 2021-06-29 2021-06-30 2021-07-01 2021-07-02 2021-07-03 2021-07-04 2021-07-05 2021-07-06 2021-07-07 2021-07-08 2021-07-09 2021-07-10 2021-07-11 2021-07-12 2021-07-13 2021-07-14 2021-07-15 2021-07-16 2021-07-17 2021-07-18 2021-07-19 2021-07-20 2021-07-21 2021-07-22 2021-07-23 2021-07-24 2021-07-25 2021-07-26 2021-07-27 2021-07-28 2021-07-29 2021-07-30 2021-07-31 2021-08-01 2021-08-02 2021-08-03 2021-08-04 2021-08-05 2021-08-06 2021-08-07 2021-08-08 2021-08-09 2021-08-10 2021-08-11 2021-08-12 2021-08-13 2021-08-14 2021-08-15 2021-08-16 2021-08-17 2021-08-18 2021-08-19 2021-08-20 2021-08-21 2021-08-22 2021-08-23 2021-08-24 2021-08-25 2021-08-26 2021-08-27 2021-08-28 2021-08-29 2021-08-30 2021-08-31 2021-09-01 2021-09-02 2021-09-03 2021-09-04 2021-09-05 2021-09-06 2021-09-07 2021-09-08 2021-09-09 2021-09-10 2021-09-11 2021-09-12 2021-09-13 2021-09-14 2021-09-15 2021-09-16 2021-09-17 2021-09-18 2021-09-19 2021-09-20 2021-09-21 2021-09-22 2021-09-23 2021-09-24 2021-09-25 2021-09-26 2021-09-27 2021-09-28 2021-09-29 2021-09-30 2021-10-01 2021-10-02 2021-10-03 2021-10-04 2021-10-05 2021-10-06 2021-10-07 2021-10-08 2021-10-09 2021-10-10 2021-10-11 2021-10-12 2021-10-13 2021-10-14 2021-10-15 2021-10-16 2021-10-17 2021-10-18 2021-10-19 2021-10-20 2021-10-21 2021-10-22 2021-10-23 2021-10-24 2021-10-25 2021-10-26 2021-10-27 2021-10-28 2021-10-29 2021-10-30 2021-10-31 2021-11-01 2021-11-02 2021-11-03 2021-11-04 2021-11-05 2021-11-06 2021-11-07 2021-11-08 2021-11-09 2021-11-10 2021-11-11 2021-11-12 2021-11-13 2021-11-14 2021-11-15 2021-11-16 2021-11-17 2021-11-18 2021-11-19 2021-11-20 2021-11-21 2021-11-22 2021-11-23 2021-11-24 2021-11-25 2021-11-26 2021-11-27 2021-11-28 2021-11-29 2021-11-30 2021-12-01 2021-12-02 2021-12-03 2021-12-04 2021-12-05 2021-12-06 2021-12-07 2021-12-08 2021-12-09 2021-12-10 2021-12-11 2021-12-12 2021-12-13 2021-12-14 2021-12-15 2021-12-16 2021-12-17 2021-12-18 2021-12-19 2021-12-20 2021-12-21 2021-12-22 2021-12-23 2021-12-24 2021-12-25 2021-12-26 2021-12-27 2021-12-28 2021-12-29 2021-12-30 2021-12-31 2022-01-01 2022-01-02 2022-01-03 2022-01-04 2022-01-05 2022-01-06 2022-01-07 2022-01-08 2022-01-09 2022-01-10 2022-01-11 2022-01-12 2022-01-13 2022-01-14 2022-01-15 2022-01-16 2022-01-17 2022-01-18 2022-01-19 2022-01-20 2022-01-21 2022-01-22 2022-01-23 2022-01-24 2022-01-25 2022-01-26 2022-01-27 2022-01-28 2022-01-29 2022-01-30 2022-01-31 2022-02-01 2022-02-02 2022-02-03 2022-02-04 2022-02-05 2022-02-06 2022-02-07 2022-02-08 2022-02-09 2022-02-10 2022-02-11 2022-02-12 2022-02-13 2022-02-14 2022-02-15 2022-02-16 2022-02-17 2022-02-18 2022-02-19 2022-02-20 2022-02-21 2022-02-22/datadisk/covid-data-store/covid-dataprocessing:  1  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  2  out of  589 
+processing:  2  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  3  out of  589 
+processing:  3  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  4  out of  589 
+processing:  4  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  5  out of  589 
+processing:  5  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  6  out of  589 
+processing:  6  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  7  out of  589 
+processing:  7  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  8  out of  589 
+processing:  8  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  9  out of  589 
+processing:  9  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  10  out of  589 
+processing:  10  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  11  out of  589 
+processing:  11  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  12  out of  589 
+processing:  12  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  13  out of  589 
+processing:  13  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  14  out of  589 
+processing:  14  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  15  out of  589 
+processing:  15  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  16  out of  589 
+processing:  16  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  17  out of  589 
+processing:  17  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  18  out of  589 
+processing:  18  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  19  out of  589 
+processing:  19  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  20  out of  589 
+processing:  20  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  21  out of  589 
+processing:  21  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  22  out of  589 
+processing:  22  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  23  out of  589 
+processing:  23  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  24  out of  589 
+processing:  24  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  25  out of  589 
+processing:  25  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  26  out of  589 
+processing:  26  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  27  out of  589 
+processing:  27  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  28  out of  589 
+processing:  28  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  29  out of  589 
+processing:  29  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  30  out of  589 
+processing:  30  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  31  out of  589 
+processing:  31  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  32  out of  589 
+processing:  32  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  33  out of  589 
+processing:  33  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  34  out of  589 
+processing:  34  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  35  out of  589 
+processing:  35  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  36  out of  589 
+processing:  36  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  37  out of  589 
+processing:  37  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  38  out of  589 
+processing:  38  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  39  out of  589 
+processing:  39  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  40  out of  589 
+processing:  40  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  41  out of  589 
+processing:  41  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  42  out of  589 
+processing:  42  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  43  out of  589 
+processing:  43  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  44  out of  589 
+processing:  44  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  45  out of  589 
+processing:  45  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  46  out of  589 
+processing:  46  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  47  out of  589 
+processing:  47  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  48  out of  589 
+processing:  48  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  49  out of  589 
+processing:  49  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  50  out of  589 
+processing:  50  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  51  out of  589 
+processing:  51  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  52  out of  589 
+processing:  52  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  53  out of  589 
+processing:  53  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  54  out of  589 
+processing:  54  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  55  out of  589 
+processing:  55  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  56  out of  589 
+processing:  56  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  57  out of  589 
+processing:  57  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  58  out of  589 
+processing:  58  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  59  out of  589 
+processing:  59  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  60  out of  589 
+processing:  60  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  61  out of  589 
+processing:  61  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  62  out of  589 
+processing:  62  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  63  out of  589 
+processing:  63  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  64  out of  589 
+processing:  64  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  65  out of  589 
+processing:  65  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  66  out of  589 
+processing:  66  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  67  out of  589 
+processing:  67  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  68  out of  589 
+processing:  68  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  69  out of  589 
+processing:  69  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  70  out of  589 
+processing:  70  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  71  out of  589 
+processing:  71  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  72  out of  589 
+processing:  72  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  73  out of  589 
+processing:  73  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  74  out of  589 
+processing:  74  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  75  out of  589 
+processing:  75  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  76  out of  589 
+processing:  76  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  77  out of  589 
+processing:  77  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  78  out of  589 
+processing:  78  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  79  out of  589 
+processing:  79  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  80  out of  589 
+processing:  80  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  81  out of  589 
+processing:  81  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  82  out of  589 
+processing:  82  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  83  out of  589 
+processing:  83  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  84  out of  589 
+processing:  84  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  85  out of  589 
+processing:  85  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  86  out of  589 
+processing:  86  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  87  out of  589 
+processing:  87  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  88  out of  589 
+processing:  88  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  89  out of  589 
+processing:  89  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  90  out of  589 
+processing:  90  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  91  out of  589 
+processing:  91  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  92  out of  589 
+processing:  92  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  93  out of  589 
+processing:  93  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  94  out of  589 
+processing:  94  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  95  out of  589 
+processing:  95  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  96  out of  589 
+processing:  96  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  97  out of  589 
+processing:  97  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  98  out of  589 
+processing:  98  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  99  out of  589 
+processing:  99  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  100  out of  589 
+processing:  100  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  101  out of  589 
+processing:  101  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  102  out of  589 
+processing:  102  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  103  out of  589 
+processing:  103  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  104  out of  589 
+processing:  104  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  105  out of  589 
+processing:  105  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  106  out of  589 
+processing:  106  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  107  out of  589 
+processing:  107  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  108  out of  589 
+processing:  108  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  109  out of  589 
+processing:  109  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  110  out of  589 
+processing:  110  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  111  out of  589 
+processing:  111  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  112  out of  589 
+processing:  112  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  113  out of  589 
+processing:  113  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  114  out of  589 
+processing:  114  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  115  out of  589 
+processing:  115  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  116  out of  589 
+processing:  116  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  117  out of  589 
+processing:  117  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  118  out of  589 
+processing:  118  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  119  out of  589 
+processing:  119  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  120  out of  589 
+processing:  120  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  121  out of  589 
+processing:  121  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  122  out of  589 
+processing:  122  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  123  out of  589 
+processing:  123  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  124  out of  589 
+processing:  124  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  125  out of  589 
+processing:  125  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  126  out of  589 
+processing:  126  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  127  out of  589 
+processing:  127  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  128  out of  589 
+processing:  128  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  129  out of  589 
+processing:  129  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  130  out of  589 
+processing:  130  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  131  out of  589 
+processing:  131  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  132  out of  589 
+processing:  132  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  133  out of  589 
+processing:  133  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  134  out of  589 
+processing:  134  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  135  out of  589 
+processing:  135  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  136  out of  589 
+processing:  136  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  137  out of  589 
+processing:  137  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  138  out of  589 
+processing:  138  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  139  out of  589 
+processing:  139  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  140  out of  589 
+processing:  140  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  141  out of  589 
+processing:  141  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  142  out of  589 
+processing:  142  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  143  out of  589 
+processing:  143  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  144  out of  589 
+processing:  144  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  145  out of  589 
+processing:  145  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  146  out of  589 
+processing:  146  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  147  out of  589 
+processing:  147  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  148  out of  589 
+processing:  148  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  149  out of  589 
+processing:  149  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  150  out of  589 
+processing:  150  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  151  out of  589 
+processing:  151  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  152  out of  589 
+processing:  152  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  153  out of  589 
+processing:  153  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  154  out of  589 
+processing:  154  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  155  out of  589 
+processing:  155  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  156  out of  589 
+processing:  156  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  157  out of  589 
+processing:  157  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  158  out of  589 
+processing:  158  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  159  out of  589 
+processing:  159  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  160  out of  589 
+processing:  160  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  161  out of  589 
+processing:  161  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  162  out of  589 
+processing:  162  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  163  out of  589 
+processing:  163  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  164  out of  589 
+processing:  164  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  165  out of  589 
+processing:  165  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  166  out of  589 
+processing:  166  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  167  out of  589 
+processing:  167  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  168  out of  589 
+processing:  168  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  169  out of  589 
+processing:  169  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  170  out of  589 
+processing:  170  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  171  out of  589 
+processing:  171  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  172  out of  589 
+processing:  172  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  173  out of  589 
+processing:  173  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  174  out of  589 
+processing:  174  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  175  out of  589 
+processing:  175  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  176  out of  589 
+processing:  176  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  177  out of  589 
+processing:  177  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  178  out of  589 
+processing:  178  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  179  out of  589 
+processing:  179  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  180  out of  589 
+processing:  180  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  181  out of  589 
+processing:  181  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  182  out of  589 
+processing:  182  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  183  out of  589 
+processing:  183  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  184  out of  589 
+processing:  184  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  185  out of  589 
+processing:  185  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  186  out of  589 
+processing:  186  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  187  out of  589 
+processing:  187  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  188  out of  589 
+processing:  188  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  189  out of  589 
+processing:  189  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  190  out of  589 
+processing:  190  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  191  out of  589 
+processing:  191  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  192  out of  589 
+processing:  192  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  193  out of  589 
+processing:  193  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  194  out of  589 
+processing:  194  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  195  out of  589 
+processing:  195  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  196  out of  589 
+processing:  196  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  197  out of  589 
+processing:  197  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  198  out of  589 
+processing:  198  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  199  out of  589 
+processing:  199  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  200  out of  589 
+processing:  200  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  201  out of  589 
+processing:  201  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  202  out of  589 
+processing:  202  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  203  out of  589 
+processing:  203  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  204  out of  589 
+processing:  204  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  205  out of  589 
+processing:  205  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  206  out of  589 
+processing:  206  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  207  out of  589 
+processing:  207  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  208  out of  589 
+processing:  208  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  209  out of  589 
+processing:  209  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  210  out of  589 
+processing:  210  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  211  out of  589 
+processing:  211  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  212  out of  589 
+processing:  212  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  213  out of  589 
+processing:  213  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  214  out of  589 
+processing:  214  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  215  out of  589 
+processing:  215  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  216  out of  589 
+processing:  216  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  217  out of  589 
+processing:  217  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  218  out of  589 
+processing:  218  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  219  out of  589 
+processing:  219  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  220  out of  589 
+processing:  220  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  221  out of  589 
+processing:  221  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  222  out of  589 
+processing:  222  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  223  out of  589 
+processing:  223  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  224  out of  589 
+processing:  224  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  225  out of  589 
+processing:  225  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  226  out of  589 
+processing:  226  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  227  out of  589 
+processing:  227  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  228  out of  589 
+processing:  228  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  229  out of  589 
+processing:  229  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  230  out of  589 
+processing:  230  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  231  out of  589 
+processing:  231  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  232  out of  589 
+processing:  232  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  233  out of  589 
+processing:  233  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  234  out of  589 
+processing:  234  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  235  out of  589 
+processing:  235  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  236  out of  589 
+processing:  236  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  237  out of  589 
+processing:  237  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  238  out of  589 
+processing:  238  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  239  out of  589 
+processing:  239  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  240  out of  589 
+processing:  240  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  241  out of  589 
+processing:  241  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  242  out of  589 
+processing:  242  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  243  out of  589 
+processing:  243  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  244  out of  589 
+processing:  244  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  245  out of  589 
+processing:  245  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  246  out of  589 
+processing:  246  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  247  out of  589 
+processing:  247  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  248  out of  589 
+processing:  248  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  249  out of  589 
+processing:  249  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  250  out of  589 
+processing:  250  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  251  out of  589 
+processing:  251  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  252  out of  589 
+processing:  252  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  253  out of  589 
+processing:  253  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  254  out of  589 
+processing:  254  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  255  out of  589 
+processing:  255  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  256  out of  589 
+processing:  256  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  257  out of  589 
+processing:  257  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  258  out of  589 
+processing:  258  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  259  out of  589 
+processing:  259  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  260  out of  589 
+processing:  260  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  261  out of  589 
+processing:  261  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  262  out of  589 
+processing:  262  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  263  out of  589 
+processing:  263  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  264  out of  589 
+processing:  264  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  265  out of  589 
+processing:  265  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  266  out of  589 
+processing:  266  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  267  out of  589 
+processing:  267  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  268  out of  589 
+processing:  268  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  269  out of  589 
+processing:  269  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  270  out of  589 
+processing:  270  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  271  out of  589 
+processing:  271  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  272  out of  589 
+processing:  272  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  273  out of  589 
+processing:  273  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  274  out of  589 
+processing:  274  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  275  out of  589 
+processing:  275  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  276  out of  589 
+processing:  276  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  277  out of  589 
+processing:  277  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  278  out of  589 
+processing:  278  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  279  out of  589 
+processing:  279  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  280  out of  589 
+processing:  280  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  281  out of  589 
+processing:  281  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  282  out of  589 
+processing:  282  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  283  out of  589 
+processing:  283  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  284  out of  589 
+processing:  284  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  285  out of  589 
+processing:  285  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  286  out of  589 
+processing:  286  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  287  out of  589 
+processing:  287  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  288  out of  589 
+processing:  288  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  289  out of  589 
+processing:  289  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  290  out of  589 
+processing:  290  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  291  out of  589 
+processing:  291  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  292  out of  589 
+processing:  292  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  293  out of  589 
+processing:  293  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  294  out of  589 
+processing:  294  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  295  out of  589 
+processing:  295  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  296  out of  589 
+processing:  296  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  297  out of  589 
+processing:  297  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  298  out of  589 
+processing:  298  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  299  out of  589 
+processing:  299  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  300  out of  589 
+processing:  300  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  301  out of  589 
+processing:  301  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  302  out of  589 
+processing:  302  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  303  out of  589 
+processing:  303  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  304  out of  589 
+processing:  304  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  305  out of  589 
+processing:  305  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  306  out of  589 
+processing:  306  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  307  out of  589 
+processing:  307  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  308  out of  589 
+processing:  308  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  309  out of  589 
+processing:  309  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  310  out of  589 
+processing:  310  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  311  out of  589 
+processing:  311  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  312  out of  589 
+processing:  312  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  313  out of  589 
+processing:  313  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  314  out of  589 
+processing:  314  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  315  out of  589 
+processing:  315  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  316  out of  589 
+processing:  316  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  317  out of  589 
+processing:  317  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  318  out of  589 
+processing:  318  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  319  out of  589 
+processing:  319  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  320  out of  589 
+processing:  320  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  321  out of  589 
+processing:  321  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  322  out of  589 
+processing:  322  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  323  out of  589 
+processing:  323  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  324  out of  589 
+processing:  324  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  325  out of  589 
+processing:  325  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  326  out of  589 
+processing:  326  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  327  out of  589 
+processing:  327  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  328  out of  589 
+processing:  328  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  329  out of  589 
+processing:  329  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  330  out of  589 
+processing:  330  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  331  out of  589 
+processing:  331  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  332  out of  589 
+processing:  332  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  333  out of  589 
+processing:  333  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  334  out of  589 
+processing:  334  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  335  out of  589 
+processing:  335  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  336  out of  589 
+processing:  336  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  337  out of  589 
+processing:  337  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  338  out of  589 
+processing:  338  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  339  out of  589 
+processing:  339  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  340  out of  589 
+processing:  340  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  341  out of  589 
+processing:  341  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  342  out of  589 
+processing:  342  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  343  out of  589 
+processing:  343  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  344  out of  589 
+processing:  344  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  345  out of  589 
+processing:  345  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  346  out of  589 
+processing:  346  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  347  out of  589 
+processing:  347  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  348  out of  589 
+processing:  348  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  349  out of  589 
+processing:  349  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  350  out of  589 
+processing:  350  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  351  out of  589 
+processing:  351  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  352  out of  589 
+processing:  352  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  353  out of  589 
+processing:  353  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  354  out of  589 
+processing:  354  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  355  out of  589 
+processing:  355  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  356  out of  589 
+processing:  356  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  357  out of  589 
+processing:  357  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  358  out of  589 
+processing:  358  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  359  out of  589 
+processing:  359  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  360  out of  589 
+processing:  360  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  361  out of  589 
+processing:  361  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  362  out of  589 
+processing:  362  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  363  out of  589 
+processing:  363  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  364  out of  589 
+processing:  364  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  365  out of  589 
+processing:  365  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  366  out of  589 
+processing:  366  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  367  out of  589 
+processing:  367  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  368  out of  589 
+processing:  368  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  369  out of  589 
+processing:  369  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  370  out of  589 
+processing:  370  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  371  out of  589 
+processing:  371  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  372  out of  589 
+processing:  372  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  373  out of  589 
+processing:  373  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  374  out of  589 
+processing:  374  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  375  out of  589 
+processing:  375  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  376  out of  589 
+processing:  376  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  377  out of  589 
+processing:  377  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  378  out of  589 
+processing:  378  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  379  out of  589 
+processing:  379  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  380  out of  589 
+processing:  380  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  381  out of  589 
+processing:  381  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  382  out of  589 
+processing:  382  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  383  out of  589 
+processing:  383  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  384  out of  589 
+processing:  384  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  385  out of  589 
+processing:  385  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  386  out of  589 
+processing:  386  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  387  out of  589 
+processing:  387  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  388  out of  589 
+processing:  388  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  389  out of  589 
+processing:  389  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  390  out of  589 
+processing:  390  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  391  out of  589 
+processing:  391  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  392  out of  589 
+processing:  392  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  393  out of  589 
+processing:  393  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  394  out of  589 
+processing:  394  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  395  out of  589 
+processing:  395  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  396  out of  589 
+processing:  396  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  397  out of  589 
+processing:  397  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  398  out of  589 
+processing:  398  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  399  out of  589 
+processing:  399  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  400  out of  589 
+processing:  400  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  401  out of  589 
+processing:  401  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  402  out of  589 
+processing:  402  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  403  out of  589 
+processing:  403  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  404  out of  589 
+processing:  404  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  405  out of  589 
+processing:  405  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  406  out of  589 
+processing:  406  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  407  out of  589 
+processing:  407  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  408  out of  589 
+processing:  408  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  409  out of  589 
+processing:  409  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  410  out of  589 
+processing:  410  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  411  out of  589 
+processing:  411  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  412  out of  589 
+processing:  412  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  413  out of  589 
+processing:  413  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  414  out of  589 
+processing:  414  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  415  out of  589 
+processing:  415  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  416  out of  589 
+processing:  416  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  417  out of  589 
+processing:  417  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  418  out of  589 
+processing:  418  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  419  out of  589 
+processing:  419  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  420  out of  589 
+processing:  420  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  421  out of  589 
+processing:  421  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  422  out of  589 
+processing:  422  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  423  out of  589 
+processing:  423  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  424  out of  589 
+processing:  424  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  425  out of  589 
+processing:  425  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  426  out of  589 
+processing:  426  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  427  out of  589 
+processing:  427  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  428  out of  589 
+processing:  428  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  429  out of  589 
+processing:  429  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  430  out of  589 
+processing:  430  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  431  out of  589 
+processing:  431  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  432  out of  589 
+processing:  432  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  433  out of  589 
+processing:  433  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  434  out of  589 
+processing:  434  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  435  out of  589 
+processing:  435  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  436  out of  589 
+processing:  436  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  437  out of  589 
+processing:  437  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  438  out of  589 
+processing:  438  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  439  out of  589 
+processing:  439  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  440  out of  589 
+processing:  440  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  441  out of  589 
+processing:  441  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  442  out of  589 
+processing:  442  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  443  out of  589 
+processing:  443  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  444  out of  589 
+processing:  444  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  445  out of  589 
+processing:  445  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  446  out of  589 
+processing:  446  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  447  out of  589 
+processing:  447  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  448  out of  589 
+processing:  448  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  449  out of  589 
+processing:  449  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  450  out of  589 
+processing:  450  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  451  out of  589 
+processing:  451  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  452  out of  589 
+processing:  452  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  453  out of  589 
+processing:  453  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  454  out of  589 
+processing:  454  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  455  out of  589 
+processing:  455  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  456  out of  589 
+processing:  456  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  457  out of  589 
+processing:  457  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  458  out of  589 
+processing:  458  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  459  out of  589 
+processing:  459  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  460  out of  589 
+processing:  460  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  461  out of  589 
+processing:  461  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  462  out of  589 
+processing:  462  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  463  out of  589 
+processing:  463  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  464  out of  589 
+processing:  464  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  465  out of  589 
+processing:  465  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  466  out of  589 
+processing:  466  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  467  out of  589 
+processing:  467  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  468  out of  589 
+processing:  468  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  469  out of  589 
+processing:  469  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  470  out of  589 
+processing:  470  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  471  out of  589 
+processing:  471  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  472  out of  589 
+processing:  472  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  473  out of  589 
+processing:  473  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  474  out of  589 
+processing:  474  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  475  out of  589 
+processing:  475  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  476  out of  589 
+processing:  476  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  477  out of  589 
+processing:  477  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  478  out of  589 
+processing:  478  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  479  out of  589 
+processing:  479  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  480  out of  589 
+processing:  480  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  481  out of  589 
+processing:  481  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  482  out of  589 
+processing:  482  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  483  out of  589 
+processing:  483  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  484  out of  589 
+processing:  484  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  485  out of  589 
+processing:  485  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  486  out of  589 
+processing:  486  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  487  out of  589 
+processing:  487  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  488  out of  589 
+processing:  488  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  489  out of  589 
+processing:  489  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  490  out of  589 
+processing:  490  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  491  out of  589 
+processing:  491  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  492  out of  589 
+processing:  492  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  493  out of  589 
+processing:  493  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  494  out of  589 
+processing:  494  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  495  out of  589 
+processing:  495  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  496  out of  589 
+processing:  496  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  497  out of  589 
+processing:  497  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  498  out of  589 
+processing:  498  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  499  out of  589 
+processing:  499  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  500  out of  589 
+processing:  500  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  501  out of  589 
+processing:  501  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  502  out of  589 
+processing:  502  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  503  out of  589 
+processing:  503  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  504  out of  589 
+processing:  504  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  505  out of  589 
+processing:  505  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  506  out of  589 
+processing:  506  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  507  out of  589 
+processing:  507  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  508  out of  589 
+processing:  508  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  509  out of  589 
+processing:  509  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  510  out of  589 
+processing:  510  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  511  out of  589 
+processing:  511  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  512  out of  589 
+processing:  512  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  513  out of  589 
+processing:  513  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  514  out of  589 
+processing:  514  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  515  out of  589 
+processing:  515  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  516  out of  589 
+processing:  516  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  517  out of  589 
+processing:  517  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  518  out of  589 
+processing:  518  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  519  out of  589 
+processing:  519  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  520  out of  589 
+processing:  520  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  521  out of  589 
+processing:  521  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  522  out of  589 
+processing:  522  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  523  out of  589 
+processing:  523  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  524  out of  589 
+processing:  524  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  525  out of  589 
+processing:  525  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  526  out of  589 
+processing:  526  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  527  out of  589 
+processing:  527  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  528  out of  589 
+processing:  528  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  529  out of  589 
+processing:  529  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  530  out of  589 
+processing:  530  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  531  out of  589 
+processing:  531  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  532  out of  589 
+processing:  532  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  533  out of  589 
+processing:  533  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  534  out of  589 
+processing:  534  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  535  out of  589 
+processing:  535  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  536  out of  589 
+processing:  536  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  537  out of  589 
+processing:  537  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  538  out of  589 
+processing:  538  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  539  out of  589 
+processing:  539  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  540  out of  589 
+processing:  540  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  541  out of  589 
+processing:  541  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  542  out of  589 
+processing:  542  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  543  out of  589 
+processing:  543  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  544  out of  589 
+processing:  544  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  545  out of  589 
+processing:  545  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  546  out of  589 
+processing:  546  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  547  out of  589 
+processing:  547  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  548  out of  589 
+processing:  548  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  549  out of  589 
+processing:  549  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  550  out of  589 
+processing:  550  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  551  out of  589 
+processing:  551  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  552  out of  589 
+processing:  552  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  553  out of  589 
+processing:  553  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  554  out of  589 
+processing:  554  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  555  out of  589 
+processing:  555  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  556  out of  589 
+processing:  556  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  557  out of  589 
+processing:  557  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  558  out of  589 
+processing:  558  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  559  out of  589 
+processing:  559  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  560  out of  589 
+processing:  560  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  561  out of  589 
+processing:  561  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  562  out of  589 
+processing:  562  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  563  out of  589 
+processing:  563  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  564  out of  589 
+processing:  564  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  565  out of  589 
+processing:  565  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  566  out of  589 
+processing:  566  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  567  out of  589 
+processing:  567  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  568  out of  589 
+processing:  568  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  569  out of  589 
+processing:  569  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  570  out of  589 
+processing:  570  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  571  out of  589 
+processing:  571  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  572  out of  589 
+processing:  572  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  573  out of  589 
+processing:  573  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  574  out of  589 
+processing:  574  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  575  out of  589 
+processing:  575  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  576  out of  589 
+processing:  576  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  577  out of  589 
+processing:  577  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  578  out of  589 
+processing:  578  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  579  out of  589 
+processing:  579  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  580  out of  589 
+processing:  580  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  581  out of  589 
+processing:  581  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  582  out of  589 
+processing:  582  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  583  out of  589 
+processing:  583  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  584  out of  589 
+processing:  584  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  585  out of  589 
+processing:  585  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  586  out of  589 
+processing:  586  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  587  out of  589 
+processing:  587  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  588  out of  589 
+processing:  588  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-processing:  589  out of  589 
+processing:  589  out of  590 
 processing...
 sed worked
 remove dead lines
 final combo and write out results
-8985
+processing:  590  out of  590 
+processing...
+sed worked
+remove dead lines
+final combo and write out results
+9000
                                0-17                               18-24 
-                                588                                 588 
+                                589                                 589 
                               25-49                               50-64 
-                                588                                 588 
+                                589                                 589 
                               65-74                                 75+ 
-                                588                                 588 
+                                589                                 589 
   American Indian and Alaska Native                               Asian 
-                                610                                 588 
+                                611                                 589 
           Black or African American                              Female 
-                                588                                 588 
+                                589                                 589 
                            Hispanic                                Male 
-                                588                                 588 
+                                589                                 589 
 Native Hawaiian or Pacific Islander                        Non-Hispanic 
-                                143                                 588 
+                                143                                 589 
                               Other                               White 
-                                588                                 588 
+                                589                                 589 
 
 Attaching package: ‘dplyr’
 
@@ -3127,1753 +3132,1756 @@ The following objects are masked from ‘package:base’:
 Using poppler version 0.26.5
 Starting Outbreak Pdf Scrapes
 
-2020-07-19 2020-07-20 2020-07-21 2020-07-22 2020-07-23 2020-07-24 2020-07-25 2020-07-26 2020-07-27 2020-07-28 2020-07-29 2020-07-30 2020-07-31 2020-08-01 2020-08-02 2020-08-03 2020-08-04 2020-08-05 2020-08-06 2020-08-07 2020-08-08 2020-08-09 2020-08-10 2020-08-11 2020-08-12 2020-08-13 2020-08-14 2020-08-15 2020-08-16 2020-08-17 2020-08-18 2020-08-19 2020-08-20 2020-08-21 2020-08-22 2020-08-23 2020-08-24 2020-08-25 2020-08-26 2020-08-27 2020-08-28 2020-08-29 2020-08-30 2020-08-31 2020-09-01 2020-09-02 2020-09-03 2020-09-04 2020-09-05 2020-09-06 2020-09-07 2020-09-08 2020-09-09 2020-09-10 2020-09-11 2020-09-12 2020-09-13 2020-09-14 2020-09-15 2020-09-16 2020-09-17 2020-09-18 2020-09-19 2020-09-20 2020-09-21 2020-09-22 2020-09-23 2020-09-24 2020-09-25 2020-09-26 2020-09-27 2020-09-28 2020-09-29 2020-09-30 2020-10-01 2020-10-02 2020-10-03 2020-10-04 2020-10-05 2020-10-06 2020-10-07 2020-10-08 2020-10-09 2020-10-10 2020-10-11 2020-10-12 2020-10-13 2020-10-14 2020-10-15 2020-10-16 2020-10-17 2020-10-18 2020-10-19 2020-10-20 2020-10-21 2020-10-22 2020-10-23 2020-10-24 2020-10-25 2020-10-26 2020-10-27 2020-10-28 2020-10-29 2020-10-30 2020-10-31 2020-11-01 2020-11-02 2020-11-03 2020-11-04 2020-11-05 2020-11-06 2020-11-07 2020-11-08 2020-11-09 2020-11-10 2020-11-11 2020-11-12 2020-11-13 2020-11-14 2020-11-15 2020-11-16 2020-11-17 2020-11-18 2020-11-19 2020-11-20 2020-11-21 2020-11-22 2020-11-23 2020-11-24 2020-11-25 2020-11-26 2020-11-27 2020-11-28 2020-11-29 2020-11-30 2020-12-01 2020-12-02 2020-12-03 2020-12-04 2020-12-05 2020-12-06 2020-12-07 2020-12-08 2020-12-09 2020-12-10 2020-12-11 2020-12-12 2020-12-13 2020-12-14 2020-12-15 2020-12-16 2020-12-17 2020-12-18 2020-12-19 2020-12-20 2020-12-21 2020-12-22 2020-12-23 2020-12-24 2020-12-25 2020-12-26 2020-12-27 2020-12-28 2020-12-29 2020-12-30 2020-12-31 2021-01-01 2021-01-02 2021-01-03 2021-01-04 2021-01-05 2021-01-06 2021-01-07 2021-01-08 2021-01-09 2021-01-10 2021-01-11 2021-01-12 2021-01-13 2021-01-14 2021-01-15 2021-01-16 2021-01-17 2021-01-18 2021-01-19 2021-01-20 2021-01-21 2021-01-22 2021-01-23 2021-01-24 2021-01-25 2021-01-26 2021-01-27 2021-01-28 2021-01-29 2021-01-30 2021-01-31 2021-02-01 2021-02-02 2021-02-03 2021-02-04 2021-02-05 2021-02-06 2021-02-07 2021-02-08 2021-02-09 2021-02-10 2021-02-11 2021-02-12 2021-02-13 2021-02-14 2021-02-15 2021-02-16 2021-02-17 2021-02-18 2021-02-19 2021-02-20 2021-02-21 2021-02-22 2021-02-23 2021-02-24 2021-02-25 2021-02-26 2021-02-27 2021-02-28 2021-03-01 2021-03-02 2021-03-03 2021-03-04 2021-03-05 2021-03-06 2021-03-07 2021-03-08 2021-03-09 2021-03-10 2021-03-11 2021-03-12 2021-03-13 2021-03-14 2021-03-15 2021-03-16 2021-03-17 2021-03-18 2021-03-19 2021-03-20 2021-03-21 2021-03-22 2021-03-23 2021-03-24 2021-03-25 2021-03-26 2021-03-27 2021-03-28 2021-03-29 2021-03-30 2021-03-31 2021-04-01 2021-04-02 2021-04-03 2021-04-04 2021-04-05 2021-04-06 2021-04-07 2021-04-08 2021-04-09 2021-04-10 2021-04-11 2021-04-12 2021-04-13 2021-04-14 2021-04-15 2021-04-16 2021-04-17 2021-04-18 2021-04-19 2021-04-20 2021-04-21 2021-04-22 2021-04-23 2021-04-24 2021-04-25 2021-04-26 2021-04-27 2021-04-28 2021-04-29 2021-04-30 2021-05-01 2021-05-02 2021-05-03 2021-05-04 2021-05-05 2021-05-06 2021-05-07 2021-05-08 2021-05-09 2021-05-10 2021-05-11 2021-05-12 2021-05-13 2021-05-14 2021-05-15 2021-05-16 2021-05-17 2021-05-18 2021-05-19 2021-05-20 2021-05-21 2021-05-22 2021-05-23 2021-05-24 2021-05-25 2021-05-26 2021-05-27 2021-05-28 2021-05-29 2021-05-30 2021-05-31 2021-06-01 2021-06-02 2021-06-03 2021-06-04 2021-06-05 2021-06-06 2021-06-07 2021-06-08 2021-06-09 2021-06-10 2021-06-11 2021-06-12 2021-06-13 2021-06-14 2021-06-15 2021-06-16 2021-06-17 2021-06-18 2021-06-19 2021-06-20 2021-06-21 2021-06-22 2021-06-23 2021-06-24 2021-06-25 2021-06-26 2021-06-27 2021-06-28 2021-06-29 2021-06-30 2021-07-01 2021-07-02 2021-07-03 2021-07-04 2021-07-05 2021-07-06 2021-07-07 2021-07-08 2021-07-09 2021-07-10 2021-07-11 2021-07-12 2021-07-13 2021-07-14 2021-07-15 2021-07-16 2021-07-17 2021-07-18 2021-07-19 2021-07-20 2021-07-21 2021-07-22 2021-07-23 2021-07-24 2021-07-25 2021-07-26 2021-07-27 2021-07-28 2021-07-29 2021-07-30 2021-07-31 2021-08-01 2021-08-02 2021-08-03 2021-08-04 2021-08-05 2021-08-06 2021-08-07 2021-08-08 2021-08-09 2021-08-10 2021-08-11 2021-08-12 2021-08-13 2021-08-14 2021-08-15 2021-08-16 2021-08-17 2021-08-18 2021-08-19 2021-08-20 2021-08-21 2021-08-22 2021-08-23 2021-08-24 2021-08-25 2021-08-26 2021-08-27 2021-08-28 2021-08-29 2021-08-30 2021-08-31 2021-09-01 2021-09-02 2021-09-03 2021-09-04 2021-09-05 2021-09-06 2021-09-07 2021-09-08 2021-09-09 2021-09-10 2021-09-11 2021-09-12 2021-09-13 2021-09-14 2021-09-15 2021-09-16 2021-09-17 2021-09-18 2021-09-19 2021-09-20 2021-09-21 2021-09-22 2021-09-23 2021-09-24 2021-09-25 2021-09-26 2021-09-27 2021-09-28 2021-09-29 2021-09-30 2021-10-01 2021-10-02 2021-10-03 2021-10-04 2021-10-05 2021-10-06 2021-10-07 2021-10-08 2021-10-09 2021-10-10 2021-10-11 2021-10-12 2021-10-13 2021-10-14 2021-10-15 2021-10-16 2021-10-17 2021-10-18 2021-10-19 2021-10-20 2021-10-21 2021-10-22 2021-10-23 2021-10-24 2021-10-25 2021-10-26 2021-10-27 2021-10-28 2021-10-29 2021-10-30 2021-10-31 2021-11-01 2021-11-02 2021-11-03 2021-11-04 2021-11-05 2021-11-06 2021-11-07 2021-11-08 2021-11-09 2021-11-10 2021-11-11 2021-11-12 2021-11-13 2021-11-14 2021-11-15 2021-11-16 2021-11-17 2021-11-18 2021-11-19 2021-11-20 2021-11-21 2021-11-22 2021-11-23 2021-11-24 2021-11-25 2021-11-26 2021-11-27 2021-11-28 2021-11-29 2021-11-30 2021-12-01 2021-12-02 2021-12-03 2021-12-04 2021-12-05 2021-12-06 2021-12-07 2021-12-08 2021-12-09 2021-12-10 2021-12-11 2021-12-12 2021-12-13 2021-12-14 2021-12-15 2021-12-16 2021-12-17 2021-12-18 2021-12-19 2021-12-20 2021-12-21 2021-12-22 2021-12-23 2021-12-24 2021-12-25 2021-12-26 2021-12-27 2021-12-28 2021-12-29 2021-12-30 2021-12-31 2022-01-01 2022-01-02 2022-01-03 2022-01-04 2022-01-05 2022-01-06 2022-01-07 2022-01-08 2022-01-09 2022-01-10 2022-01-11 2022-01-12 2022-01-13 2022-01-14 2022-01-15 2022-01-16 2022-01-17 2022-01-18 2022-01-19 2022-01-20 2022-01-21 2022-01-22 2022-01-23 2022-01-24 2022-01-25 2022-01-26 2022-01-27 2022-01-28 2022-01-29 2022-01-30 2022-01-31 2022-02-01 2022-02-02 2022-02-03 2022-02-04 2022-02-05 2022-02-06 2022-02-07 2022-02-08 2022-02-09 2022-02-10 2022-02-11 2022-02-12 2022-02-13 2022-02-14 2022-02-15 2022-02-16 2022-02-17 2022-02-18 2022-02-19 2022-02-20 2022-02-21processing:  1  out of  583 
+2020-07-19 2020-07-20 2020-07-21 2020-07-22 2020-07-23 2020-07-24 2020-07-25 2020-07-26 2020-07-27 2020-07-28 2020-07-29 2020-07-30 2020-07-31 2020-08-01 2020-08-02 2020-08-03 2020-08-04 2020-08-05 2020-08-06 2020-08-07 2020-08-08 2020-08-09 2020-08-10 2020-08-11 2020-08-12 2020-08-13 2020-08-14 2020-08-15 2020-08-16 2020-08-17 2020-08-18 2020-08-19 2020-08-20 2020-08-21 2020-08-22 2020-08-23 2020-08-24 2020-08-25 2020-08-26 2020-08-27 2020-08-28 2020-08-29 2020-08-30 2020-08-31 2020-09-01 2020-09-02 2020-09-03 2020-09-04 2020-09-05 2020-09-06 2020-09-07 2020-09-08 2020-09-09 2020-09-10 2020-09-11 2020-09-12 2020-09-13 2020-09-14 2020-09-15 2020-09-16 2020-09-17 2020-09-18 2020-09-19 2020-09-20 2020-09-21 2020-09-22 2020-09-23 2020-09-24 2020-09-25 2020-09-26 2020-09-27 2020-09-28 2020-09-29 2020-09-30 2020-10-01 2020-10-02 2020-10-03 2020-10-04 2020-10-05 2020-10-06 2020-10-07 2020-10-08 2020-10-09 2020-10-10 2020-10-11 2020-10-12 2020-10-13 2020-10-14 2020-10-15 2020-10-16 2020-10-17 2020-10-18 2020-10-19 2020-10-20 2020-10-21 2020-10-22 2020-10-23 2020-10-24 2020-10-25 2020-10-26 2020-10-27 2020-10-28 2020-10-29 2020-10-30 2020-10-31 2020-11-01 2020-11-02 2020-11-03 2020-11-04 2020-11-05 2020-11-06 2020-11-07 2020-11-08 2020-11-09 2020-11-10 2020-11-11 2020-11-12 2020-11-13 2020-11-14 2020-11-15 2020-11-16 2020-11-17 2020-11-18 2020-11-19 2020-11-20 2020-11-21 2020-11-22 2020-11-23 2020-11-24 2020-11-25 2020-11-26 2020-11-27 2020-11-28 2020-11-29 2020-11-30 2020-12-01 2020-12-02 2020-12-03 2020-12-04 2020-12-05 2020-12-06 2020-12-07 2020-12-08 2020-12-09 2020-12-10 2020-12-11 2020-12-12 2020-12-13 2020-12-14 2020-12-15 2020-12-16 2020-12-17 2020-12-18 2020-12-19 2020-12-20 2020-12-21 2020-12-22 2020-12-23 2020-12-24 2020-12-25 2020-12-26 2020-12-27 2020-12-28 2020-12-29 2020-12-30 2020-12-31 2021-01-01 2021-01-02 2021-01-03 2021-01-04 2021-01-05 2021-01-06 2021-01-07 2021-01-08 2021-01-09 2021-01-10 2021-01-11 2021-01-12 2021-01-13 2021-01-14 2021-01-15 2021-01-16 2021-01-17 2021-01-18 2021-01-19 2021-01-20 2021-01-21 2021-01-22 2021-01-23 2021-01-24 2021-01-25 2021-01-26 2021-01-27 2021-01-28 2021-01-29 2021-01-30 2021-01-31 2021-02-01 2021-02-02 2021-02-03 2021-02-04 2021-02-05 2021-02-06 2021-02-07 2021-02-08 2021-02-09 2021-02-10 2021-02-11 2021-02-12 2021-02-13 2021-02-14 2021-02-15 2021-02-16 2021-02-17 2021-02-18 2021-02-19 2021-02-20 2021-02-21 2021-02-22 2021-02-23 2021-02-24 2021-02-25 2021-02-26 2021-02-27 2021-02-28 2021-03-01 2021-03-02 2021-03-03 2021-03-04 2021-03-05 2021-03-06 2021-03-07 2021-03-08 2021-03-09 2021-03-10 2021-03-11 2021-03-12 2021-03-13 2021-03-14 2021-03-15 2021-03-16 2021-03-17 2021-03-18 2021-03-19 2021-03-20 2021-03-21 2021-03-22 2021-03-23 2021-03-24 2021-03-25 2021-03-26 2021-03-27 2021-03-28 2021-03-29 2021-03-30 2021-03-31 2021-04-01 2021-04-02 2021-04-03 2021-04-04 2021-04-05 2021-04-06 2021-04-07 2021-04-08 2021-04-09 2021-04-10 2021-04-11 2021-04-12 2021-04-13 2021-04-14 2021-04-15 2021-04-16 2021-04-17 2021-04-18 2021-04-19 2021-04-20 2021-04-21 2021-04-22 2021-04-23 2021-04-24 2021-04-25 2021-04-26 2021-04-27 2021-04-28 2021-04-29 2021-04-30 2021-05-01 2021-05-02 2021-05-03 2021-05-04 2021-05-05 2021-05-06 2021-05-07 2021-05-08 2021-05-09 2021-05-10 2021-05-11 2021-05-12 2021-05-13 2021-05-14 2021-05-15 2021-05-16 2021-05-17 2021-05-18 2021-05-19 2021-05-20 2021-05-21 2021-05-22 2021-05-23 2021-05-24 2021-05-25 2021-05-26 2021-05-27 2021-05-28 2021-05-29 2021-05-30 2021-05-31 2021-06-01 2021-06-02 2021-06-03 2021-06-04 2021-06-05 2021-06-06 2021-06-07 2021-06-08 2021-06-09 2021-06-10 2021-06-11 2021-06-12 2021-06-13 2021-06-14 2021-06-15 2021-06-16 2021-06-17 2021-06-18 2021-06-19 2021-06-20 2021-06-21 2021-06-22 2021-06-23 2021-06-24 2021-06-25 2021-06-26 2021-06-27 2021-06-28 2021-06-29 2021-06-30 2021-07-01 2021-07-02 2021-07-03 2021-07-04 2021-07-05 2021-07-06 2021-07-07 2021-07-08 2021-07-09 2021-07-10 2021-07-11 2021-07-12 2021-07-13 2021-07-14 2021-07-15 2021-07-16 2021-07-17 2021-07-18 2021-07-19 2021-07-20 2021-07-21 2021-07-22 2021-07-23 2021-07-24 2021-07-25 2021-07-26 2021-07-27 2021-07-28 2021-07-29 2021-07-30 2021-07-31 2021-08-01 2021-08-02 2021-08-03 2021-08-04 2021-08-05 2021-08-06 2021-08-07 2021-08-08 2021-08-09 2021-08-10 2021-08-11 2021-08-12 2021-08-13 2021-08-14 2021-08-15 2021-08-16 2021-08-17 2021-08-18 2021-08-19 2021-08-20 2021-08-21 2021-08-22 2021-08-23 2021-08-24 2021-08-25 2021-08-26 2021-08-27 2021-08-28 2021-08-29 2021-08-30 2021-08-31 2021-09-01 2021-09-02 2021-09-03 2021-09-04 2021-09-05 2021-09-06 2021-09-07 2021-09-08 2021-09-09 2021-09-10 2021-09-11 2021-09-12 2021-09-13 2021-09-14 2021-09-15 2021-09-16 2021-09-17 2021-09-18 2021-09-19 2021-09-20 2021-09-21 2021-09-22 2021-09-23 2021-09-24 2021-09-25 2021-09-26 2021-09-27 2021-09-28 2021-09-29 2021-09-30 2021-10-01 2021-10-02 2021-10-03 2021-10-04 2021-10-05 2021-10-06 2021-10-07 2021-10-08 2021-10-09 2021-10-10 2021-10-11 2021-10-12 2021-10-13 2021-10-14 2021-10-15 2021-10-16 2021-10-17 2021-10-18 2021-10-19 2021-10-20 2021-10-21 2021-10-22 2021-10-23 2021-10-24 2021-10-25 2021-10-26 2021-10-27 2021-10-28 2021-10-29 2021-10-30 2021-10-31 2021-11-01 2021-11-02 2021-11-03 2021-11-04 2021-11-05 2021-11-06 2021-11-07 2021-11-08 2021-11-09 2021-11-10 2021-11-11 2021-11-12 2021-11-13 2021-11-14 2021-11-15 2021-11-16 2021-11-17 2021-11-18 2021-11-19 2021-11-20 2021-11-21 2021-11-22 2021-11-23 2021-11-24 2021-11-25 2021-11-26 2021-11-27 2021-11-28 2021-11-29 2021-11-30 2021-12-01 2021-12-02 2021-12-03 2021-12-04 2021-12-05 2021-12-06 2021-12-07 2021-12-08 2021-12-09 2021-12-10 2021-12-11 2021-12-12 2021-12-13 2021-12-14 2021-12-15 2021-12-16 2021-12-17 2021-12-18 2021-12-19 2021-12-20 2021-12-21 2021-12-22 2021-12-23 2021-12-24 2021-12-25 2021-12-26 2021-12-27 2021-12-28 2021-12-29 2021-12-30 2021-12-31 2022-01-01 2022-01-02 2022-01-03 2022-01-04 2022-01-05 2022-01-06 2022-01-07 2022-01-08 2022-01-09 2022-01-10 2022-01-11 2022-01-12 2022-01-13 2022-01-14 2022-01-15 2022-01-16 2022-01-17 2022-01-18 2022-01-19 2022-01-20 2022-01-21 2022-01-22 2022-01-23 2022-01-24 2022-01-25 2022-01-26 2022-01-27 2022-01-28 2022-01-29 2022-01-30 2022-01-31 2022-02-01 2022-02-02 2022-02-03 2022-02-04 2022-02-05 2022-02-06 2022-02-07 2022-02-08 2022-02-09 2022-02-10 2022-02-11 2022-02-12 2022-02-13 2022-02-14 2022-02-15 2022-02-16 2022-02-17 2022-02-18 2022-02-19 2022-02-20 2022-02-21 2022-02-22processing:  1  out of  584 
 processing...
 sed worked
-processing:  2  out of  583 
+processing:  2  out of  584 
 processing...
 sed worked
-processing:  3  out of  583 
+processing:  3  out of  584 
 processing...
 sed worked
-processing:  4  out of  583 
+processing:  4  out of  584 
 processing...
 sed worked
-processing:  5  out of  583 
+processing:  5  out of  584 
 processing...
 sed worked
-processing:  6  out of  583 
+processing:  6  out of  584 
 processing...
 sed worked
-processing:  7  out of  583 
+processing:  7  out of  584 
 processing...
 sed worked
-processing:  8  out of  583 
+processing:  8  out of  584 
 processing...
 sed worked
-processing:  9  out of  583 
+processing:  9  out of  584 
 processing...
 sed worked
-processing:  10  out of  583 
+processing:  10  out of  584 
 processing...
 sed worked
-processing:  11  out of  583 
+processing:  11  out of  584 
 processing...
 sed worked
-processing:  12  out of  583 
+processing:  12  out of  584 
 processing...
 sed worked
-processing:  13  out of  583 
+processing:  13  out of  584 
 processing...
 sed worked
-processing:  14  out of  583 
+processing:  14  out of  584 
 processing...
 sed worked
-processing:  15  out of  583 
+processing:  15  out of  584 
 processing...
 sed worked
-processing:  16  out of  583 
+processing:  16  out of  584 
 processing...
 sed worked
-processing:  17  out of  583 
+processing:  17  out of  584 
 processing...
 sed worked
-processing:  18  out of  583 
+processing:  18  out of  584 
 processing...
 sed worked
-processing:  19  out of  583 
+processing:  19  out of  584 
 processing...
 sed worked
-processing:  20  out of  583 
+processing:  20  out of  584 
 processing...
 sed worked
-processing:  21  out of  583 
+processing:  21  out of  584 
 processing...
 sed worked
-processing:  22  out of  583 
+processing:  22  out of  584 
 processing...
 sed worked
-processing:  23  out of  583 
+processing:  23  out of  584 
 processing...
 sed worked
-processing:  24  out of  583 
+processing:  24  out of  584 
 processing...
 sed worked
-processing:  25  out of  583 
+processing:  25  out of  584 
 processing...
 sed worked
-processing:  26  out of  583 
+processing:  26  out of  584 
 processing...
 sed worked
-processing:  27  out of  583 
+processing:  27  out of  584 
 processing...
 sed worked
-processing:  28  out of  583 
+processing:  28  out of  584 
 processing...
 sed worked
-processing:  29  out of  583 
+processing:  29  out of  584 
 processing...
 sed worked
-processing:  30  out of  583 
+processing:  30  out of  584 
 processing...
 sed worked
-processing:  31  out of  583 
+processing:  31  out of  584 
 processing...
 sed worked
-processing:  32  out of  583 
+processing:  32  out of  584 
 processing...
 sed worked
-processing:  33  out of  583 
+processing:  33  out of  584 
 processing...
 sed worked
-processing:  34  out of  583 
+processing:  34  out of  584 
 processing...
 sed worked
-processing:  35  out of  583 
+processing:  35  out of  584 
 processing...
 sed worked
-processing:  36  out of  583 
+processing:  36  out of  584 
 processing...
 sed worked
-processing:  37  out of  583 
+processing:  37  out of  584 
 processing...
 sed worked
-processing:  38  out of  583 
+processing:  38  out of  584 
 processing...
 sed worked
-processing:  39  out of  583 
+processing:  39  out of  584 
 processing...
 sed worked
-processing:  40  out of  583 
+processing:  40  out of  584 
 processing...
 sed worked
-processing:  41  out of  583 
+processing:  41  out of  584 
 processing...
 sed worked
-processing:  42  out of  583 
+processing:  42  out of  584 
 processing...
 sed worked
-processing:  43  out of  583 
+processing:  43  out of  584 
 processing...
 sed worked
-processing:  44  out of  583 
+processing:  44  out of  584 
 processing...
 sed worked
-processing:  45  out of  583 
+processing:  45  out of  584 
 processing...
 sed worked
-processing:  46  out of  583 
+processing:  46  out of  584 
 processing...
 sed worked
-processing:  47  out of  583 
+processing:  47  out of  584 
 processing...
 sed worked
-processing:  48  out of  583 
+processing:  48  out of  584 
 processing...
 sed worked
-processing:  49  out of  583 
+processing:  49  out of  584 
 processing...
 sed worked
-processing:  50  out of  583 
+processing:  50  out of  584 
 processing...
 sed worked
-processing:  51  out of  583 
+processing:  51  out of  584 
 processing...
 sed worked
-processing:  52  out of  583 
+processing:  52  out of  584 
 processing...
 sed worked
-processing:  53  out of  583 
+processing:  53  out of  584 
 processing...
 sed worked
-processing:  54  out of  583 
+processing:  54  out of  584 
 processing...
 sed worked
-processing:  55  out of  583 
+processing:  55  out of  584 
 processing...
 sed worked
-processing:  56  out of  583 
+processing:  56  out of  584 
 processing...
 sed worked
-processing:  57  out of  583 
+processing:  57  out of  584 
 processing...
 sed worked
-processing:  58  out of  583 
+processing:  58  out of  584 
 processing...
 sed worked
-processing:  59  out of  583 
+processing:  59  out of  584 
 processing...
 sed worked
-processing:  60  out of  583 
+processing:  60  out of  584 
 processing...
 sed worked
-processing:  61  out of  583 
+processing:  61  out of  584 
 processing...
 sed worked
-processing:  62  out of  583 
+processing:  62  out of  584 
 processing...
 sed worked
-processing:  63  out of  583 
+processing:  63  out of  584 
 processing...
 sed worked
-processing:  64  out of  583 
+processing:  64  out of  584 
 processing...
 sed worked
-processing:  65  out of  583 
+processing:  65  out of  584 
 processing...
 sed worked
-processing:  66  out of  583 
+processing:  66  out of  584 
 processing...
 sed worked
-processing:  67  out of  583 
+processing:  67  out of  584 
 processing...
 sed worked
-processing:  68  out of  583 
+processing:  68  out of  584 
 processing...
 sed worked
-processing:  69  out of  583 
+processing:  69  out of  584 
 processing...
 sed worked
-processing:  70  out of  583 
+processing:  70  out of  584 
 processing...
 sed worked
-processing:  71  out of  583 
+processing:  71  out of  584 
 processing...
 sed worked
-processing:  72  out of  583 
+processing:  72  out of  584 
 processing...
 sed worked
-processing:  73  out of  583 
+processing:  73  out of  584 
 processing...
 sed worked
-processing:  74  out of  583 
+processing:  74  out of  584 
 processing...
 sed worked
-processing:  75  out of  583 
+processing:  75  out of  584 
 processing...
 sed worked
-processing:  76  out of  583 
+processing:  76  out of  584 
 processing...
 sed worked
-processing:  77  out of  583 
+processing:  77  out of  584 
 processing...
 sed worked
-processing:  78  out of  583 
+processing:  78  out of  584 
 processing...
 sed worked
-processing:  79  out of  583 
+processing:  79  out of  584 
 processing...
 sed worked
-processing:  80  out of  583 
+processing:  80  out of  584 
 processing...
 sed worked
-processing:  81  out of  583 
+processing:  81  out of  584 
 processing...
 sed worked
-processing:  82  out of  583 
+processing:  82  out of  584 
 processing...
 sed worked
-processing:  83  out of  583 
+processing:  83  out of  584 
 processing...
 sed worked
-processing:  84  out of  583 
+processing:  84  out of  584 
 processing...
 sed worked
-processing:  85  out of  583 
+processing:  85  out of  584 
 processing...
 sed worked
-processing:  86  out of  583 
+processing:  86  out of  584 
 processing...
 sed worked
-processing:  87  out of  583 
+processing:  87  out of  584 
 processing...
 sed worked
-processing:  88  out of  583 
+processing:  88  out of  584 
 processing...
 sed worked
-processing:  89  out of  583 
+processing:  89  out of  584 
 processing...
 sed worked
-processing:  90  out of  583 
+processing:  90  out of  584 
 processing...
 sed worked
-processing:  91  out of  583 
+processing:  91  out of  584 
 processing...
 sed worked
-processing:  92  out of  583 
+processing:  92  out of  584 
 processing...
 sed worked
-processing:  93  out of  583 
+processing:  93  out of  584 
 processing...
 sed worked
-processing:  94  out of  583 
+processing:  94  out of  584 
 processing...
 sed worked
-processing:  95  out of  583 
+processing:  95  out of  584 
 processing...
 sed worked
-processing:  96  out of  583 
+processing:  96  out of  584 
 processing...
 sed worked
-processing:  97  out of  583 
+processing:  97  out of  584 
 processing...
 sed worked
-processing:  98  out of  583 
+processing:  98  out of  584 
 processing...
 sed worked
-processing:  99  out of  583 
+processing:  99  out of  584 
 processing...
 sed worked
-processing:  100  out of  583 
+processing:  100  out of  584 
 processing...
 sed worked
-processing:  101  out of  583 
+processing:  101  out of  584 
 processing...
 sed worked
-processing:  102  out of  583 
+processing:  102  out of  584 
 processing...
 sed worked
-processing:  103  out of  583 
+processing:  103  out of  584 
 processing...
 sed worked
-processing:  104  out of  583 
+processing:  104  out of  584 
 processing...
 sed worked
-processing:  105  out of  583 
+processing:  105  out of  584 
 processing...
 sed worked
-processing:  106  out of  583 
+processing:  106  out of  584 
 processing...
 sed worked
-processing:  107  out of  583 
+processing:  107  out of  584 
 processing...
 sed worked
-processing:  108  out of  583 
+processing:  108  out of  584 
 processing...
 sed worked
-processing:  109  out of  583 
+processing:  109  out of  584 
 processing...
 sed worked
-processing:  110  out of  583 
+processing:  110  out of  584 
 processing...
 sed worked
-processing:  111  out of  583 
+processing:  111  out of  584 
 processing...
 sed worked
-processing:  112  out of  583 
+processing:  112  out of  584 
 processing...
 sed worked
-processing:  113  out of  583 
+processing:  113  out of  584 
 processing...
 sed worked
-processing:  114  out of  583 
+processing:  114  out of  584 
 processing...
 sed worked
-processing:  115  out of  583 
+processing:  115  out of  584 
 processing...
 sed worked
-processing:  116  out of  583 
+processing:  116  out of  584 
 processing...
 sed worked
-processing:  117  out of  583 
+processing:  117  out of  584 
 processing...
 sed worked
-processing:  118  out of  583 
+processing:  118  out of  584 
 processing...
 sed worked
-processing:  119  out of  583 
+processing:  119  out of  584 
 processing...
 sed worked
-processing:  120  out of  583 
+processing:  120  out of  584 
 processing...
 sed worked
-processing:  121  out of  583 
+processing:  121  out of  584 
 processing...
 sed worked
-processing:  122  out of  583 
+processing:  122  out of  584 
 processing...
 sed worked
-processing:  123  out of  583 
+processing:  123  out of  584 
 processing...
 sed worked
-processing:  124  out of  583 
+processing:  124  out of  584 
 processing...
 sed worked
-processing:  125  out of  583 
+processing:  125  out of  584 
 processing...
 sed worked
-processing:  126  out of  583 
+processing:  126  out of  584 
 processing...
 sed worked
-processing:  127  out of  583 
+processing:  127  out of  584 
 processing...
 sed worked
-processing:  128  out of  583 
+processing:  128  out of  584 
 processing...
 sed worked
-processing:  129  out of  583 
+processing:  129  out of  584 
 processing...
 sed worked
-processing:  130  out of  583 
+processing:  130  out of  584 
 processing...
 sed worked
-processing:  131  out of  583 
+processing:  131  out of  584 
 processing...
 sed worked
-processing:  132  out of  583 
+processing:  132  out of  584 
 processing...
 sed worked
-processing:  133  out of  583 
+processing:  133  out of  584 
 processing...
 sed worked
-processing:  134  out of  583 
+processing:  134  out of  584 
 processing...
 sed worked
-processing:  135  out of  583 
+processing:  135  out of  584 
 processing...
 sed worked
-processing:  136  out of  583 
+processing:  136  out of  584 
 processing...
 sed worked
-processing:  137  out of  583 
+processing:  137  out of  584 
 processing...
 sed worked
-processing:  138  out of  583 
+processing:  138  out of  584 
 processing...
 sed worked
-processing:  139  out of  583 
+processing:  139  out of  584 
 processing...
 sed worked
-processing:  140  out of  583 
+processing:  140  out of  584 
 processing...
 sed worked
-processing:  141  out of  583 
+processing:  141  out of  584 
 processing...
 sed worked
-processing:  142  out of  583 
+processing:  142  out of  584 
 processing...
 sed worked
-processing:  143  out of  583 
+processing:  143  out of  584 
 processing...
 sed worked
-processing:  144  out of  583 
+processing:  144  out of  584 
 processing...
 sed worked
-processing:  145  out of  583 
+processing:  145  out of  584 
 processing...
 sed worked
-processing:  146  out of  583 
+processing:  146  out of  584 
 processing...
 sed worked
-processing:  147  out of  583 
+processing:  147  out of  584 
 processing...
 sed worked
-processing:  148  out of  583 
+processing:  148  out of  584 
 processing...
 sed worked
-processing:  149  out of  583 
+processing:  149  out of  584 
 processing...
 sed worked
-processing:  150  out of  583 
+processing:  150  out of  584 
 processing...
 sed worked
-processing:  151  out of  583 
+processing:  151  out of  584 
 processing...
 sed worked
-processing:  152  out of  583 
+processing:  152  out of  584 
 processing...
 sed worked
-processing:  153  out of  583 
+processing:  153  out of  584 
 processing...
 sed worked
-processing:  154  out of  583 
+processing:  154  out of  584 
 processing...
 sed worked
-processing:  155  out of  583 
+processing:  155  out of  584 
 processing...
 sed worked
-processing:  156  out of  583 
+processing:  156  out of  584 
 processing...
 sed worked
-processing:  157  out of  583 
+processing:  157  out of  584 
 processing...
 sed worked
-processing:  158  out of  583 
+processing:  158  out of  584 
 processing...
 sed worked
-processing:  159  out of  583 
+processing:  159  out of  584 
 processing...
 sed worked
-processing:  160  out of  583 
+processing:  160  out of  584 
 processing...
 sed worked
-processing:  161  out of  583 
+processing:  161  out of  584 
 processing...
 sed worked
-processing:  162  out of  583 
+processing:  162  out of  584 
 processing...
 sed worked
-processing:  163  out of  583 
+processing:  163  out of  584 
 processing...
 sed worked
-processing:  164  out of  583 
+processing:  164  out of  584 
 processing...
 sed worked
-processing:  165  out of  583 
+processing:  165  out of  584 
 processing...
 sed worked
-processing:  166  out of  583 
+processing:  166  out of  584 
 processing...
 sed worked
-processing:  167  out of  583 
+processing:  167  out of  584 
 processing...
 sed worked
-processing:  168  out of  583 
+processing:  168  out of  584 
 processing...
 sed worked
-processing:  169  out of  583 
+processing:  169  out of  584 
 processing...
 sed worked
-processing:  170  out of  583 
+processing:  170  out of  584 
 processing...
 sed worked
-processing:  171  out of  583 
+processing:  171  out of  584 
 processing...
 sed worked
-processing:  172  out of  583 
+processing:  172  out of  584 
 processing...
 sed worked
-processing:  173  out of  583 
+processing:  173  out of  584 
 processing...
 sed worked
-processing:  174  out of  583 
+processing:  174  out of  584 
 processing...
 sed worked
-processing:  175  out of  583 
+processing:  175  out of  584 
 processing...
 sed worked
-processing:  176  out of  583 
+processing:  176  out of  584 
 processing...
 sed worked
-processing:  177  out of  583 
+processing:  177  out of  584 
 processing...
 sed worked
-processing:  178  out of  583 
+processing:  178  out of  584 
 processing...
 sed worked
-processing:  179  out of  583 
+processing:  179  out of  584 
 processing...
 sed worked
-processing:  180  out of  583 
+processing:  180  out of  584 
 processing...
 sed worked
-processing:  181  out of  583 
+processing:  181  out of  584 
 processing...
 sed worked
-processing:  182  out of  583 
+processing:  182  out of  584 
 processing...
 sed worked
-processing:  183  out of  583 
+processing:  183  out of  584 
 processing...
 sed worked
-processing:  184  out of  583 
+processing:  184  out of  584 
 processing...
 sed worked
-processing:  185  out of  583 
+processing:  185  out of  584 
 processing...
 sed worked
-processing:  186  out of  583 
+processing:  186  out of  584 
 processing...
 sed worked
-processing:  187  out of  583 
+processing:  187  out of  584 
 processing...
 sed worked
-processing:  188  out of  583 
+processing:  188  out of  584 
 processing...
 sed worked
-processing:  189  out of  583 
+processing:  189  out of  584 
 processing...
 sed worked
-processing:  190  out of  583 
+processing:  190  out of  584 
 processing...
 sed worked
-processing:  191  out of  583 
+processing:  191  out of  584 
 processing...
 sed worked
-processing:  192  out of  583 
+processing:  192  out of  584 
 processing...
 sed worked
-processing:  193  out of  583 
+processing:  193  out of  584 
 processing...
 sed worked
-processing:  194  out of  583 
+processing:  194  out of  584 
 processing...
 sed worked
-processing:  195  out of  583 
+processing:  195  out of  584 
 processing...
 sed worked
-processing:  196  out of  583 
+processing:  196  out of  584 
 processing...
 sed worked
-processing:  197  out of  583 
+processing:  197  out of  584 
 processing...
 sed worked
-processing:  198  out of  583 
+processing:  198  out of  584 
 processing...
 sed worked
-processing:  199  out of  583 
+processing:  199  out of  584 
 processing...
 sed worked
-processing:  200  out of  583 
+processing:  200  out of  584 
 processing...
 sed worked
-processing:  201  out of  583 
+processing:  201  out of  584 
 processing...
 sed worked
-processing:  202  out of  583 
+processing:  202  out of  584 
 processing...
 sed worked
-processing:  203  out of  583 
+processing:  203  out of  584 
 processing...
 sed worked
-processing:  204  out of  583 
+processing:  204  out of  584 
 processing...
 sed worked
-processing:  205  out of  583 
+processing:  205  out of  584 
 processing...
 sed worked
-processing:  206  out of  583 
+processing:  206  out of  584 
 processing...
 sed worked
-processing:  207  out of  583 
+processing:  207  out of  584 
 processing...
 sed worked
-processing:  208  out of  583 
+processing:  208  out of  584 
 processing...
 sed worked
-processing:  209  out of  583 
+processing:  209  out of  584 
 processing...
 sed worked
-processing:  210  out of  583 
+processing:  210  out of  584 
 processing...
 sed worked
-processing:  211  out of  583 
+processing:  211  out of  584 
 processing...
 sed worked
-processing:  212  out of  583 
+processing:  212  out of  584 
 processing...
 sed worked
-processing:  213  out of  583 
+processing:  213  out of  584 
 processing...
 sed worked
-processing:  214  out of  583 
+processing:  214  out of  584 
 processing...
 sed worked
-processing:  215  out of  583 
+processing:  215  out of  584 
 processing...
 sed worked
-processing:  216  out of  583 
+processing:  216  out of  584 
 processing...
 sed worked
-processing:  217  out of  583 
+processing:  217  out of  584 
 processing...
 sed worked
-processing:  218  out of  583 
+processing:  218  out of  584 
 processing...
 sed worked
-processing:  219  out of  583 
+processing:  219  out of  584 
 processing...
 sed worked
-processing:  220  out of  583 
+processing:  220  out of  584 
 processing...
 sed worked
-processing:  221  out of  583 
+processing:  221  out of  584 
 processing...
 sed worked
-processing:  222  out of  583 
+processing:  222  out of  584 
 processing...
 sed worked
-processing:  223  out of  583 
+processing:  223  out of  584 
 processing...
 sed worked
-processing:  224  out of  583 
+processing:  224  out of  584 
 processing...
 sed worked
-processing:  225  out of  583 
+processing:  225  out of  584 
 processing...
 sed worked
-processing:  226  out of  583 
+processing:  226  out of  584 
 processing...
 sed worked
-processing:  227  out of  583 
+processing:  227  out of  584 
 processing...
 sed worked
-processing:  228  out of  583 
+processing:  228  out of  584 
 processing...
 sed worked
-processing:  229  out of  583 
+processing:  229  out of  584 
 processing...
 sed worked
-processing:  230  out of  583 
+processing:  230  out of  584 
 processing...
 sed worked
-processing:  231  out of  583 
+processing:  231  out of  584 
 processing...
 sed worked
-processing:  232  out of  583 
+processing:  232  out of  584 
 processing...
 sed worked
-processing:  233  out of  583 
+processing:  233  out of  584 
 processing...
 sed worked
-processing:  234  out of  583 
+processing:  234  out of  584 
 processing...
 sed worked
-processing:  235  out of  583 
+processing:  235  out of  584 
 processing...
 sed worked
-processing:  236  out of  583 
+processing:  236  out of  584 
 processing...
 sed worked
-processing:  237  out of  583 
+processing:  237  out of  584 
 processing...
 sed worked
-processing:  238  out of  583 
+processing:  238  out of  584 
 processing...
 sed worked
-processing:  239  out of  583 
+processing:  239  out of  584 
 processing...
 sed worked
-processing:  240  out of  583 
+processing:  240  out of  584 
 processing...
 sed worked
-processing:  241  out of  583 
+processing:  241  out of  584 
 processing...
 sed worked
-processing:  242  out of  583 
+processing:  242  out of  584 
 processing...
 sed worked
-processing:  243  out of  583 
+processing:  243  out of  584 
 processing...
 sed worked
-processing:  244  out of  583 
+processing:  244  out of  584 
 processing...
 sed worked
-processing:  245  out of  583 
+processing:  245  out of  584 
 processing...
 sed worked
-processing:  246  out of  583 
+processing:  246  out of  584 
 processing...
 sed worked
-processing:  247  out of  583 
+processing:  247  out of  584 
 processing...
 sed worked
-processing:  248  out of  583 
+processing:  248  out of  584 
 processing...
 sed worked
-processing:  249  out of  583 
+processing:  249  out of  584 
 processing...
 sed worked
-processing:  250  out of  583 
+processing:  250  out of  584 
 processing...
 sed worked
-processing:  251  out of  583 
+processing:  251  out of  584 
 processing...
 sed worked
-processing:  252  out of  583 
+processing:  252  out of  584 
 processing...
 sed worked
-processing:  253  out of  583 
+processing:  253  out of  584 
 processing...
 sed worked
-processing:  254  out of  583 
+processing:  254  out of  584 
 processing...
 sed worked
-processing:  255  out of  583 
+processing:  255  out of  584 
 processing...
 sed worked
-processing:  256  out of  583 
+processing:  256  out of  584 
 processing...
 sed worked
-processing:  257  out of  583 
+processing:  257  out of  584 
 processing...
 sed worked
-processing:  258  out of  583 
+processing:  258  out of  584 
 processing...
 sed worked
-processing:  259  out of  583 
+processing:  259  out of  584 
 processing...
 sed worked
-processing:  260  out of  583 
+processing:  260  out of  584 
 processing...
 sed worked
-processing:  261  out of  583 
+processing:  261  out of  584 
 processing...
 sed worked
-processing:  262  out of  583 
+processing:  262  out of  584 
 processing...
 sed worked
-processing:  263  out of  583 
+processing:  263  out of  584 
 processing...
 sed worked
-processing:  264  out of  583 
+processing:  264  out of  584 
 processing...
 sed worked
-processing:  265  out of  583 
+processing:  265  out of  584 
 processing...
 sed worked
-processing:  266  out of  583 
+processing:  266  out of  584 
 processing...
 sed worked
-processing:  267  out of  583 
+processing:  267  out of  584 
 processing...
 sed worked
-processing:  268  out of  583 
+processing:  268  out of  584 
 processing...
 sed worked
-processing:  269  out of  583 
+processing:  269  out of  584 
 processing...
 sed worked
-processing:  270  out of  583 
+processing:  270  out of  584 
 processing...
 sed worked
-processing:  271  out of  583 
+processing:  271  out of  584 
 processing...
 sed worked
-processing:  272  out of  583 
+processing:  272  out of  584 
 processing...
 sed worked
-processing:  273  out of  583 
+processing:  273  out of  584 
 processing...
 sed worked
-processing:  274  out of  583 
+processing:  274  out of  584 
 processing...
 sed worked
-processing:  275  out of  583 
+processing:  275  out of  584 
 processing...
 sed worked
-processing:  276  out of  583 
+processing:  276  out of  584 
 processing...
 sed worked
-processing:  277  out of  583 
+processing:  277  out of  584 
 processing...
 sed worked
-processing:  278  out of  583 
+processing:  278  out of  584 
 processing...
 sed worked
-processing:  279  out of  583 
+processing:  279  out of  584 
 processing...
 sed worked
-processing:  280  out of  583 
+processing:  280  out of  584 
 processing...
 sed worked
-processing:  281  out of  583 
+processing:  281  out of  584 
 processing...
 sed worked
-processing:  282  out of  583 
+processing:  282  out of  584 
 processing...
 sed worked
-processing:  283  out of  583 
+processing:  283  out of  584 
 processing...
 sed worked
-processing:  284  out of  583 
+processing:  284  out of  584 
 processing...
 sed worked
-processing:  285  out of  583 
+processing:  285  out of  584 
 processing...
 sed worked
-processing:  286  out of  583 
+processing:  286  out of  584 
 processing...
 sed worked
-processing:  287  out of  583 
+processing:  287  out of  584 
 processing...
 sed worked
-processing:  288  out of  583 
+processing:  288  out of  584 
 processing...
 sed worked
-processing:  289  out of  583 
+processing:  289  out of  584 
 processing...
 sed worked
-processing:  290  out of  583 
+processing:  290  out of  584 
 processing...
 sed worked
-processing:  291  out of  583 
+processing:  291  out of  584 
 processing...
 sed worked
-processing:  292  out of  583 
+processing:  292  out of  584 
 processing...
 sed worked
-processing:  293  out of  583 
+processing:  293  out of  584 
 processing...
 sed worked
-processing:  294  out of  583 
+processing:  294  out of  584 
 processing...
 sed worked
-processing:  295  out of  583 
+processing:  295  out of  584 
 processing...
 sed worked
-processing:  296  out of  583 
+processing:  296  out of  584 
 processing...
 sed worked
-processing:  297  out of  583 
+processing:  297  out of  584 
 processing...
 sed worked
-processing:  298  out of  583 
+processing:  298  out of  584 
 processing...
 sed worked
-processing:  299  out of  583 
+processing:  299  out of  584 
 processing...
 sed worked
-processing:  300  out of  583 
+processing:  300  out of  584 
 processing...
 sed worked
-processing:  301  out of  583 
+processing:  301  out of  584 
 processing...
 sed worked
-processing:  302  out of  583 
+processing:  302  out of  584 
 processing...
 sed worked
-processing:  303  out of  583 
+processing:  303  out of  584 
 processing...
 sed worked
-processing:  304  out of  583 
+processing:  304  out of  584 
 processing...
 sed worked
-processing:  305  out of  583 
+processing:  305  out of  584 
 processing...
 sed worked
-processing:  306  out of  583 
+processing:  306  out of  584 
 processing...
 sed worked
-processing:  307  out of  583 
+processing:  307  out of  584 
 processing...
 sed worked
-processing:  308  out of  583 
+processing:  308  out of  584 
 processing...
 sed worked
-processing:  309  out of  583 
+processing:  309  out of  584 
 processing...
 sed worked
-processing:  310  out of  583 
+processing:  310  out of  584 
 processing...
 sed worked
-processing:  311  out of  583 
+processing:  311  out of  584 
 processing...
 sed worked
-processing:  312  out of  583 
+processing:  312  out of  584 
 processing...
 sed worked
-processing:  313  out of  583 
+processing:  313  out of  584 
 processing...
 sed worked
-processing:  314  out of  583 
+processing:  314  out of  584 
 processing...
 sed worked
-processing:  315  out of  583 
+processing:  315  out of  584 
 processing...
 sed worked
-processing:  316  out of  583 
+processing:  316  out of  584 
 processing...
 sed worked
-processing:  317  out of  583 
+processing:  317  out of  584 
 processing...
 sed worked
-processing:  318  out of  583 
+processing:  318  out of  584 
 processing...
 sed worked
-processing:  319  out of  583 
+processing:  319  out of  584 
 processing...
 sed worked
-processing:  320  out of  583 
+processing:  320  out of  584 
 processing...
 sed worked
-processing:  321  out of  583 
+processing:  321  out of  584 
 processing...
 sed worked
-processing:  322  out of  583 
+processing:  322  out of  584 
 processing...
 sed worked
-processing:  323  out of  583 
+processing:  323  out of  584 
 processing...
 sed worked
-processing:  324  out of  583 
+processing:  324  out of  584 
 processing...
 sed worked
-processing:  325  out of  583 
+processing:  325  out of  584 
 processing...
 sed worked
-processing:  326  out of  583 
+processing:  326  out of  584 
 processing...
 sed worked
-processing:  327  out of  583 
+processing:  327  out of  584 
 processing...
 sed worked
-processing:  328  out of  583 
+processing:  328  out of  584 
 processing...
 sed worked
-processing:  329  out of  583 
+processing:  329  out of  584 
 processing...
 sed worked
-processing:  330  out of  583 
+processing:  330  out of  584 
 processing...
 sed worked
-processing:  331  out of  583 
+processing:  331  out of  584 
 processing...
 sed worked
-processing:  332  out of  583 
+processing:  332  out of  584 
 processing...
 sed worked
-processing:  333  out of  583 
+processing:  333  out of  584 
 processing...
 sed worked
-processing:  334  out of  583 
+processing:  334  out of  584 
 processing...
 sed worked
-processing:  335  out of  583 
+processing:  335  out of  584 
 processing...
 sed worked
-processing:  336  out of  583 
+processing:  336  out of  584 
 processing...
 sed worked
-processing:  337  out of  583 
+processing:  337  out of  584 
 processing...
 sed worked
-processing:  338  out of  583 
+processing:  338  out of  584 
 processing...
 sed worked
-processing:  339  out of  583 
+processing:  339  out of  584 
 processing...
 sed worked
-processing:  340  out of  583 
+processing:  340  out of  584 
 processing...
 sed worked
-processing:  341  out of  583 
+processing:  341  out of  584 
 processing...
 sed worked
-processing:  342  out of  583 
+processing:  342  out of  584 
 processing...
 sed worked
-processing:  343  out of  583 
+processing:  343  out of  584 
 processing...
 sed worked
-processing:  344  out of  583 
+processing:  344  out of  584 
 processing...
 sed worked
-processing:  345  out of  583 
+processing:  345  out of  584 
 processing...
 sed worked
-processing:  346  out of  583 
+processing:  346  out of  584 
 processing...
 sed worked
-processing:  347  out of  583 
+processing:  347  out of  584 
 processing...
 sed worked
-processing:  348  out of  583 
+processing:  348  out of  584 
 processing...
 sed worked
-processing:  349  out of  583 
+processing:  349  out of  584 
 processing...
 sed worked
-processing:  350  out of  583 
+processing:  350  out of  584 
 processing...
 sed worked
-processing:  351  out of  583 
+processing:  351  out of  584 
 processing...
 sed worked
-processing:  352  out of  583 
+processing:  352  out of  584 
 processing...
 sed worked
-processing:  353  out of  583 
+processing:  353  out of  584 
 processing...
 sed worked
-processing:  354  out of  583 
+processing:  354  out of  584 
 processing...
 sed worked
-processing:  355  out of  583 
+processing:  355  out of  584 
 processing...
 sed worked
-processing:  356  out of  583 
+processing:  356  out of  584 
 processing...
 sed worked
-processing:  357  out of  583 
+processing:  357  out of  584 
 processing...
 sed worked
-processing:  358  out of  583 
+processing:  358  out of  584 
 processing...
 sed worked
-processing:  359  out of  583 
+processing:  359  out of  584 
 processing...
 sed worked
-processing:  360  out of  583 
+processing:  360  out of  584 
 processing...
 sed worked
-processing:  361  out of  583 
+processing:  361  out of  584 
 processing...
 sed worked
-processing:  362  out of  583 
+processing:  362  out of  584 
 processing...
 sed worked
-processing:  363  out of  583 
+processing:  363  out of  584 
 processing...
 sed worked
-processing:  364  out of  583 
+processing:  364  out of  584 
 processing...
 sed worked
-processing:  365  out of  583 
+processing:  365  out of  584 
 processing...
 sed worked
-processing:  366  out of  583 
+processing:  366  out of  584 
 processing...
 sed worked
-processing:  367  out of  583 
+processing:  367  out of  584 
 processing...
 sed worked
-processing:  368  out of  583 
+processing:  368  out of  584 
 processing...
 sed worked
-processing:  369  out of  583 
+processing:  369  out of  584 
 processing...
 sed worked
-processing:  370  out of  583 
+processing:  370  out of  584 
 processing...
 sed worked
-processing:  371  out of  583 
+processing:  371  out of  584 
 processing...
 sed worked
-processing:  372  out of  583 
+processing:  372  out of  584 
 processing...
 sed worked
-processing:  373  out of  583 
+processing:  373  out of  584 
 processing...
 sed worked
-processing:  374  out of  583 
+processing:  374  out of  584 
 processing...
 sed worked
-processing:  375  out of  583 
+processing:  375  out of  584 
 processing...
 sed worked
-processing:  376  out of  583 
+processing:  376  out of  584 
 processing...
 sed worked
-processing:  377  out of  583 
+processing:  377  out of  584 
 processing...
 sed worked
-processing:  378  out of  583 
+processing:  378  out of  584 
 processing...
 sed worked
-processing:  379  out of  583 
+processing:  379  out of  584 
 processing...
 sed worked
-processing:  380  out of  583 
+processing:  380  out of  584 
 processing...
 sed worked
-processing:  381  out of  583 
+processing:  381  out of  584 
 processing...
 sed worked
-processing:  382  out of  583 
+processing:  382  out of  584 
 processing...
 sed worked
-processing:  383  out of  583 
+processing:  383  out of  584 
 processing...
 sed worked
-processing:  384  out of  583 
+processing:  384  out of  584 
 processing...
 sed worked
-processing:  385  out of  583 
+processing:  385  out of  584 
 processing...
 sed worked
-processing:  386  out of  583 
+processing:  386  out of  584 
 processing...
 sed worked
-processing:  387  out of  583 
+processing:  387  out of  584 
 processing...
 sed worked
-processing:  388  out of  583 
+processing:  388  out of  584 
 processing...
 sed worked
-processing:  389  out of  583 
+processing:  389  out of  584 
 processing...
 sed worked
-processing:  390  out of  583 
+processing:  390  out of  584 
 processing...
 sed worked
-processing:  391  out of  583 
+processing:  391  out of  584 
 processing...
 sed worked
-processing:  392  out of  583 
+processing:  392  out of  584 
 processing...
 sed worked
-processing:  393  out of  583 
+processing:  393  out of  584 
 processing...
 sed worked
-processing:  394  out of  583 
+processing:  394  out of  584 
 processing...
 sed worked
-processing:  395  out of  583 
+processing:  395  out of  584 
 processing...
 sed worked
-processing:  396  out of  583 
+processing:  396  out of  584 
 processing...
 sed worked
-processing:  397  out of  583 
+processing:  397  out of  584 
 processing...
 sed worked
-processing:  398  out of  583 
+processing:  398  out of  584 
 processing...
 sed worked
-processing:  399  out of  583 
+processing:  399  out of  584 
 processing...
 sed worked
-processing:  400  out of  583 
+processing:  400  out of  584 
 processing...
 sed worked
-processing:  401  out of  583 
+processing:  401  out of  584 
 processing...
 sed worked
-processing:  402  out of  583 
+processing:  402  out of  584 
 processing...
 sed worked
-processing:  403  out of  583 
+processing:  403  out of  584 
 processing...
 sed worked
-processing:  404  out of  583 
+processing:  404  out of  584 
 processing...
 sed worked
-processing:  405  out of  583 
+processing:  405  out of  584 
 processing...
 sed worked
-processing:  406  out of  583 
+processing:  406  out of  584 
 processing...
 sed worked
-processing:  407  out of  583 
+processing:  407  out of  584 
 processing...
 sed worked
-processing:  408  out of  583 
+processing:  408  out of  584 
 processing...
 sed worked
-processing:  409  out of  583 
+processing:  409  out of  584 
 processing...
 sed worked
-processing:  410  out of  583 
+processing:  410  out of  584 
 processing...
 sed worked
-processing:  411  out of  583 
+processing:  411  out of  584 
 processing...
 sed worked
-processing:  412  out of  583 
+processing:  412  out of  584 
 processing...
 sed worked
-processing:  413  out of  583 
+processing:  413  out of  584 
 processing...
 sed worked
-processing:  414  out of  583 
+processing:  414  out of  584 
 processing...
 sed worked
-processing:  415  out of  583 
+processing:  415  out of  584 
 processing...
 sed worked
-processing:  416  out of  583 
+processing:  416  out of  584 
 processing...
 sed worked
-processing:  417  out of  583 
+processing:  417  out of  584 
 processing...
 sed worked
-processing:  418  out of  583 
+processing:  418  out of  584 
 processing...
 sed worked
-processing:  419  out of  583 
+processing:  419  out of  584 
 processing...
 sed worked
-processing:  420  out of  583 
+processing:  420  out of  584 
 processing...
 sed worked
-processing:  421  out of  583 
+processing:  421  out of  584 
 processing...
 sed worked
-processing:  422  out of  583 
+processing:  422  out of  584 
 processing...
 sed worked
-processing:  423  out of  583 
+processing:  423  out of  584 
 processing...
 sed worked
-processing:  424  out of  583 
+processing:  424  out of  584 
 processing...
 sed worked
-processing:  425  out of  583 
+processing:  425  out of  584 
 processing...
 sed worked
-processing:  426  out of  583 
+processing:  426  out of  584 
 processing...
 sed worked
-processing:  427  out of  583 
+processing:  427  out of  584 
 processing...
 sed worked
-processing:  428  out of  583 
+processing:  428  out of  584 
 processing...
 sed worked
-processing:  429  out of  583 
+processing:  429  out of  584 
 processing...
 sed worked
-processing:  430  out of  583 
+processing:  430  out of  584 
 processing...
 sed worked
-processing:  431  out of  583 
+processing:  431  out of  584 
 processing...
 sed worked
-processing:  432  out of  583 
+processing:  432  out of  584 
 processing...
 sed worked
-processing:  433  out of  583 
+processing:  433  out of  584 
 processing...
 sed worked
-processing:  434  out of  583 
+processing:  434  out of  584 
 processing...
 sed worked
-processing:  435  out of  583 
+processing:  435  out of  584 
 processing...
 sed worked
-processing:  436  out of  583 
+processing:  436  out of  584 
 processing...
 sed worked
-processing:  437  out of  583 
+processing:  437  out of  584 
 processing...
 sed worked
-processing:  438  out of  583 
+processing:  438  out of  584 
 processing...
 sed worked
-processing:  439  out of  583 
+processing:  439  out of  584 
 processing...
 sed worked
-processing:  440  out of  583 
+processing:  440  out of  584 
 processing...
 sed worked
-processing:  441  out of  583 
+processing:  441  out of  584 
 processing...
 sed worked
-processing:  442  out of  583 
+processing:  442  out of  584 
 processing...
 sed worked
-processing:  443  out of  583 
+processing:  443  out of  584 
 processing...
 sed worked
-processing:  444  out of  583 
+processing:  444  out of  584 
 processing...
 sed worked
-processing:  445  out of  583 
+processing:  445  out of  584 
 processing...
 sed worked
-processing:  446  out of  583 
+processing:  446  out of  584 
 processing...
 sed worked
-processing:  447  out of  583 
+processing:  447  out of  584 
 processing...
 sed worked
-processing:  448  out of  583 
+processing:  448  out of  584 
 processing...
 sed worked
-processing:  449  out of  583 
+processing:  449  out of  584 
 processing...
 sed worked
-processing:  450  out of  583 
+processing:  450  out of  584 
 processing...
 sed worked
-processing:  451  out of  583 
+processing:  451  out of  584 
 processing...
 sed worked
-processing:  452  out of  583 
+processing:  452  out of  584 
 processing...
 sed worked
-processing:  453  out of  583 
+processing:  453  out of  584 
 processing...
 sed worked
-processing:  454  out of  583 
+processing:  454  out of  584 
 processing...
 sed worked
-processing:  455  out of  583 
+processing:  455  out of  584 
 processing...
 sed worked
-processing:  456  out of  583 
+processing:  456  out of  584 
 processing...
 sed worked
-processing:  457  out of  583 
+processing:  457  out of  584 
 processing...
 sed worked
-processing:  458  out of  583 
+processing:  458  out of  584 
 processing...
 sed worked
-processing:  459  out of  583 
+processing:  459  out of  584 
 processing...
 sed worked
-processing:  460  out of  583 
+processing:  460  out of  584 
 processing...
 sed worked
-processing:  461  out of  583 
+processing:  461  out of  584 
 processing...
 sed worked
-processing:  462  out of  583 
+processing:  462  out of  584 
 processing...
 sed worked
-processing:  463  out of  583 
+processing:  463  out of  584 
 processing...
 sed worked
-processing:  464  out of  583 
+processing:  464  out of  584 
 processing...
 sed worked
-processing:  465  out of  583 
+processing:  465  out of  584 
 processing...
 sed worked
-processing:  466  out of  583 
+processing:  466  out of  584 
 processing...
 sed worked
-processing:  467  out of  583 
+processing:  467  out of  584 
 processing...
 sed worked
-processing:  468  out of  583 
+processing:  468  out of  584 
 processing...
 sed worked
-processing:  469  out of  583 
+processing:  469  out of  584 
 processing...
 sed worked
-processing:  470  out of  583 
+processing:  470  out of  584 
 processing...
 sed worked
-processing:  471  out of  583 
+processing:  471  out of  584 
 processing...
 sed worked
-processing:  472  out of  583 
+processing:  472  out of  584 
 processing...
 sed worked
-processing:  473  out of  583 
+processing:  473  out of  584 
 processing...
 sed worked
-processing:  474  out of  583 
+processing:  474  out of  584 
 processing...
 sed worked
-processing:  475  out of  583 
+processing:  475  out of  584 
 processing...
 sed worked
-processing:  476  out of  583 
+processing:  476  out of  584 
 processing...
 sed worked
-processing:  477  out of  583 
+processing:  477  out of  584 
 processing...
 sed worked
-processing:  478  out of  583 
+processing:  478  out of  584 
 processing...
 sed worked
-processing:  479  out of  583 
+processing:  479  out of  584 
 processing...
 sed worked
-processing:  480  out of  583 
+processing:  480  out of  584 
 processing...
 sed worked
-processing:  481  out of  583 
+processing:  481  out of  584 
 processing...
 sed worked
-processing:  482  out of  583 
+processing:  482  out of  584 
 processing...
 sed worked
-processing:  483  out of  583 
+processing:  483  out of  584 
 processing...
 sed worked
-processing:  484  out of  583 
+processing:  484  out of  584 
 processing...
 sed worked
-processing:  485  out of  583 
+processing:  485  out of  584 
 processing...
 sed worked
-processing:  486  out of  583 
+processing:  486  out of  584 
 processing...
 sed worked
-processing:  487  out of  583 
+processing:  487  out of  584 
 processing...
 sed worked
-processing:  488  out of  583 
+processing:  488  out of  584 
 processing...
 sed worked
-processing:  489  out of  583 
+processing:  489  out of  584 
 processing...
 sed worked
-processing:  490  out of  583 
+processing:  490  out of  584 
 processing...
 sed worked
-processing:  491  out of  583 
+processing:  491  out of  584 
 processing...
 sed worked
-processing:  492  out of  583 
+processing:  492  out of  584 
 processing...
 sed worked
-processing:  493  out of  583 
+processing:  493  out of  584 
 processing...
 sed worked
-processing:  494  out of  583 
+processing:  494  out of  584 
 processing...
 sed worked
-processing:  495  out of  583 
+processing:  495  out of  584 
 processing...
 sed worked
-processing:  496  out of  583 
+processing:  496  out of  584 
 processing...
 sed worked
-processing:  497  out of  583 
+processing:  497  out of  584 
 processing...
 sed worked
-processing:  498  out of  583 
+processing:  498  out of  584 
 processing...
 sed worked
-processing:  499  out of  583 
+processing:  499  out of  584 
 processing...
 sed worked
-processing:  500  out of  583 
+processing:  500  out of  584 
 processing...
 sed worked
-processing:  501  out of  583 
+processing:  501  out of  584 
 processing...
 sed worked
-processing:  502  out of  583 
+processing:  502  out of  584 
 processing...
 sed worked
-processing:  503  out of  583 
+processing:  503  out of  584 
 processing...
 sed worked
-processing:  504  out of  583 
+processing:  504  out of  584 
 processing...
 sed worked
-processing:  505  out of  583 
+processing:  505  out of  584 
 processing...
 sed worked
-processing:  506  out of  583 
+processing:  506  out of  584 
 processing...
 sed worked
-processing:  507  out of  583 
+processing:  507  out of  584 
 processing...
 sed worked
-processing:  508  out of  583 
+processing:  508  out of  584 
 processing...
 sed worked
-processing:  509  out of  583 
+processing:  509  out of  584 
 processing...
 sed worked
-processing:  510  out of  583 
+processing:  510  out of  584 
 processing...
 sed worked
-processing:  511  out of  583 
+processing:  511  out of  584 
 processing...
 sed worked
-processing:  512  out of  583 
+processing:  512  out of  584 
 processing...
 sed worked
-processing:  513  out of  583 
+processing:  513  out of  584 
 processing...
 sed worked
-processing:  514  out of  583 
+processing:  514  out of  584 
 processing...
 sed worked
-processing:  515  out of  583 
+processing:  515  out of  584 
 processing...
 sed worked
-processing:  516  out of  583 
+processing:  516  out of  584 
 processing...
 sed worked
-processing:  517  out of  583 
+processing:  517  out of  584 
 processing...
 sed worked
-processing:  518  out of  583 
+processing:  518  out of  584 
 processing...
 sed worked
-processing:  519  out of  583 
+processing:  519  out of  584 
 processing...
 sed worked
-processing:  520  out of  583 
+processing:  520  out of  584 
 processing...
 sed worked
-processing:  521  out of  583 
+processing:  521  out of  584 
 processing...
 sed worked
-processing:  522  out of  583 
+processing:  522  out of  584 
 processing...
 sed worked
-processing:  523  out of  583 
+processing:  523  out of  584 
 processing...
 sed worked
-processing:  524  out of  583 
+processing:  524  out of  584 
 processing...
 sed worked
-processing:  525  out of  583 
+processing:  525  out of  584 
 processing...
 sed worked
-processing:  526  out of  583 
+processing:  526  out of  584 
 processing...
 sed worked
-processing:  527  out of  583 
+processing:  527  out of  584 
 processing...
 sed worked
-processing:  528  out of  583 
+processing:  528  out of  584 
 processing...
 sed worked
-processing:  529  out of  583 
+processing:  529  out of  584 
 processing...
 sed worked
-processing:  530  out of  583 
+processing:  530  out of  584 
 processing...
 sed worked
-processing:  531  out of  583 
+processing:  531  out of  584 
 processing...
 sed worked
-processing:  532  out of  583 
+processing:  532  out of  584 
 processing...
 sed worked
-processing:  533  out of  583 
+processing:  533  out of  584 
 processing...
 sed worked
-processing:  534  out of  583 
+processing:  534  out of  584 
 processing...
 sed worked
-processing:  535  out of  583 
+processing:  535  out of  584 
 processing...
 sed worked
-processing:  536  out of  583 
+processing:  536  out of  584 
 processing...
 sed worked
-processing:  537  out of  583 
+processing:  537  out of  584 
 processing...
 sed worked
-processing:  538  out of  583 
+processing:  538  out of  584 
 processing...
 sed worked
-processing:  539  out of  583 
+processing:  539  out of  584 
 processing...
 sed worked
-processing:  540  out of  583 
+processing:  540  out of  584 
 processing...
 sed worked
-processing:  541  out of  583 
+processing:  541  out of  584 
 processing...
 sed worked
-processing:  542  out of  583 
+processing:  542  out of  584 
 processing...
 sed worked
-processing:  543  out of  583 
+processing:  543  out of  584 
 processing...
 sed worked
-processing:  544  out of  583 
+processing:  544  out of  584 
 processing...
 sed worked
-processing:  545  out of  583 
+processing:  545  out of  584 
 processing...
 sed worked
-processing:  546  out of  583 
+processing:  546  out of  584 
 processing...
 sed worked
-processing:  547  out of  583 
+processing:  547  out of  584 
 processing...
 sed worked
-processing:  548  out of  583 
+processing:  548  out of  584 
 processing...
 sed worked
-processing:  549  out of  583 
+processing:  549  out of  584 
 processing...
 sed worked
-processing:  550  out of  583 
+processing:  550  out of  584 
 processing...
 sed worked
-processing:  551  out of  583 
+processing:  551  out of  584 
 processing...
 sed worked
-processing:  552  out of  583 
+processing:  552  out of  584 
 processing...
 sed worked
-processing:  553  out of  583 
+processing:  553  out of  584 
 processing...
 sed worked
-processing:  554  out of  583 
+processing:  554  out of  584 
 processing...
 sed worked
-processing:  555  out of  583 
+processing:  555  out of  584 
 processing...
 sed worked
-processing:  556  out of  583 
+processing:  556  out of  584 
 processing...
 sed worked
-processing:  557  out of  583 
+processing:  557  out of  584 
 processing...
 sed worked
-processing:  558  out of  583 
+processing:  558  out of  584 
 processing...
 sed worked
-processing:  559  out of  583 
+processing:  559  out of  584 
 processing...
 sed worked
-processing:  560  out of  583 
+processing:  560  out of  584 
 processing...
 sed worked
-processing:  561  out of  583 
+processing:  561  out of  584 
 processing...
 sed worked
-processing:  562  out of  583 
+processing:  562  out of  584 
 processing...
 sed worked
-processing:  563  out of  583 
+processing:  563  out of  584 
 processing...
 sed worked
-processing:  564  out of  583 
+processing:  564  out of  584 
 processing...
 sed worked
-processing:  565  out of  583 
+processing:  565  out of  584 
 processing...
 sed worked
-processing:  566  out of  583 
+processing:  566  out of  584 
 processing...
 sed worked
-processing:  567  out of  583 
+processing:  567  out of  584 
 processing...
 sed worked
-processing:  568  out of  583 
+processing:  568  out of  584 
 processing...
 sed worked
-processing:  569  out of  583 
+processing:  569  out of  584 
 processing...
 sed worked
-processing:  570  out of  583 
+processing:  570  out of  584 
 processing...
 sed worked
-processing:  571  out of  583 
+processing:  571  out of  584 
 processing...
 sed worked
-processing:  572  out of  583 
+processing:  572  out of  584 
 processing...
 sed worked
-processing:  573  out of  583 
+processing:  573  out of  584 
 processing...
 sed worked
-processing:  574  out of  583 
+processing:  574  out of  584 
 processing...
 sed worked
-processing:  575  out of  583 
+processing:  575  out of  584 
 processing...
 sed worked
-processing:  576  out of  583 
+processing:  576  out of  584 
 processing...
 sed worked
-processing:  577  out of  583 
+processing:  577  out of  584 
 processing...
 sed worked
-processing:  578  out of  583 
+processing:  578  out of  584 
 processing...
 sed worked
-processing:  579  out of  583 
+processing:  579  out of  584 
 processing...
 sed worked
-processing:  580  out of  583 
+processing:  580  out of  584 
 processing...
 sed worked
-processing:  581  out of  583 
+processing:  581  out of  584 
 processing...
 sed worked
-processing:  582  out of  583 
+processing:  582  out of  584 
 processing...
 sed worked
-processing:  583  out of  583 
+processing:  583  out of  584 
+processing...
+sed worked
+processing:  584  out of  584 
 processing...
 sed worked
 There were 50 or more warnings (use warnings() to see the first 50)
@@ -4915,7 +4923,7 @@ sed worked
 162:            0
 163:            0
 164:            0
-79285
+79466
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -5013,35 +5021,25 @@ In `[.data.table`(dat_latest, , `:=`(V1, NULL)) :
 Warning message:
 In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
   Column 'V2' does not exist to remove
-             state   county       date cases_daily deaths_daily pct_pos
- 1: North Carolina Guilford 2022-02-12           0            0   0.154
- 2: North Carolina Guilford 2022-02-13           0            0   0.154
- 3: North Carolina Guilford 2022-02-14         611           14   0.144
- 4: North Carolina Guilford 2022-02-15         135            2   0.178
- 5: North Carolina Guilford 2022-02-16         216            6   0.125
- 6: North Carolina Guilford 2022-02-17         180            6   0.106
- 7: North Carolina Guilford 2022-02-18         298            0   0.103
- 8: North Carolina Guilford 2022-02-19           0          964   0.103
- 9: North Carolina Guilford 2022-02-20           0            0   0.103
-10: North Carolina Guilford 2022-02-21         433            3   0.107
-    cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
- 1:              111570                 1062     1938        20
- 2:              111570                 1062     1938        20
- 3:              112181                 1076     1938        20
- 4:              112316                 1078     1647        34
- 5:              112532                 1084     1614        35
- 6:              112712                 1090     1523        29
- 7:              113010                 1090     1440        34
- 8:              113010                 2054     1440        28
- 9:              113010                 2054     1440       992
-10:              113443                 2057     1440       992
+            state   county       date cases_daily deaths_daily pct_pos
+1: North Carolina Guilford 2022-02-13           0            0   0.154
+2: North Carolina Guilford 2022-02-14         611           14   0.144
+3: North Carolina Guilford 2022-02-15         135            2   0.178
+4: North Carolina Guilford 2022-02-16         216            6   0.125
+5: North Carolina Guilford 2022-02-17         180            6   0.106
+6: North Carolina Guilford 2022-02-18         298            0   0.103
+7: North Carolina Guilford 2022-02-19           0          964   0.103
+8: North Carolina Guilford 2022-02-20           0            0   0.103
+9: North Carolina Guilford 2022-02-21         433            3   0.107
+   cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
+1:              111570                 1062     1938        20
+2:              112181                 1076     1938        20
+3:              112316                 1078     1647        34
+4:              112532                 1084     1614        35
+5:              112712                 1090     1523        29
+6:              113010                 1090     1440        34
+7:              113010                 2054     1440        28
+8:              113010                 2054     1440       992
+9:              113443                 2057     1440       992
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "a2ecacfee5a41694c8045517fcf43e4012939bcb"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
-1348.782 1617.327 2930.178 
