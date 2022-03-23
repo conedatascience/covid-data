@@ -81,7 +81,7 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
-Latest Date: March-23Earliest Date: May-08Today's data are not yet available.Latest Date: March-22Earliest Date: May-08Warning message:
+Latest Date: March-23Earliest Date: May-08Latest Date: March-23Earliest Date: May-08Warning message:
 `html_session()` was deprecated in rvest 1.0.0.
 Please use `session()` instead.
 This warning is displayed once every 8 hours.
@@ -5192,11 +5192,3 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 10:              116057                 3162      293      1039
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "c637f75f49432c14be6341ffcaeefc34d8204ea6"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
- 898.621 1106.383 1965.525 
