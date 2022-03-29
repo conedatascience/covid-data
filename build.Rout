@@ -63,7 +63,7 @@ The following objects are masked from ‘package:dplyr’:
 
 Latest Date: March-29 
 Earliest Date: January-22 
-Today's data are not yet available.Latest Date: March-28Earliest Date: January-22
+Latest Date: March-29Earliest Date: January-22
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -81,7 +81,7 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
-Latest Date: March-29Earliest Date: May-08Today's data are not yet available.Latest Date: March-28Earliest Date: May-08Warning message:
+Latest Date: March-29Earliest Date: May-08Latest Date: March-29Earliest Date: May-08Warning message:
 `html_session()` was deprecated in rvest 1.0.0.
 Please use `session()` instead.
 This warning is displayed once every 8 hours.
@@ -5088,7 +5088,7 @@ sed worked
 162:            0
 163:            0
 164:            0
-81003
+81114
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -5186,33 +5186,27 @@ In `[.data.table`(dat_latest, , `:=`(V1, NULL)) :
 Warning message:
 In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
   Column 'V2' does not exist to remove
-            state   county       date cases_daily deaths_daily pct_pos
-1: North Carolina Guilford 2022-03-20           0            0   0.023
-2: North Carolina Guilford 2022-03-21          95            5   0.026
-3: North Carolina Guilford 2022-03-22          27            0   0.029
-4: North Carolina Guilford 2022-03-23          56            4      NA
-5: North Carolina Guilford 2022-03-24          92            1      NA
-6: North Carolina Guilford 2022-03-25          63            2      NA
-7: North Carolina Guilford 2022-03-26           0            0      NA
-8: North Carolina Guilford 2022-03-27           0            0      NA
-9: North Carolina Guilford 2022-03-28          61            1      NA
-   cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
-1:              115879                 3153      390      1038
-2:              115974                 3158      390      1038
-3:              116001                 3158      307      1039
-4:              116057                 3162      293      1039
-5:              116149                 3163      293      1043
-6:              116212                 3165      357        20
-7:              116212                 3165      333        12
-8:              116212                 3165      333        12
-9:              116273                 3166      333        12
+             state   county       date cases_daily deaths_daily pct_pos
+ 1: North Carolina Guilford 2022-03-20           0            0   0.023
+ 2: North Carolina Guilford 2022-03-21          95            5   0.026
+ 3: North Carolina Guilford 2022-03-22          27            0   0.029
+ 4: North Carolina Guilford 2022-03-23          56            4      NA
+ 5: North Carolina Guilford 2022-03-24          92            1      NA
+ 6: North Carolina Guilford 2022-03-25          63            2      NA
+ 7: North Carolina Guilford 2022-03-26           0            0      NA
+ 8: North Carolina Guilford 2022-03-27           0            0      NA
+ 9: North Carolina Guilford 2022-03-28          61            1      NA
+10: North Carolina Guilford 2022-03-29          24            0      NA
+    cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
+ 1:              115879                 3153      390      1038
+ 2:              115974                 3158      390      1038
+ 3:              116001                 3158      307      1039
+ 4:              116057                 3162      293      1039
+ 5:              116149                 3163      293      1043
+ 6:              116212                 3165      357        20
+ 7:              116212                 3165      333        12
+ 8:              116212                 3165      333        12
+ 9:              116273                 3166      333        12
+10:              116297                 3166      299         8
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "413896cd80313491f1fe47a9cf943090e464a187"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
- 962.878 1206.575 2140.631 
