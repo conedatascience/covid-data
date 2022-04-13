@@ -63,7 +63,7 @@ The following objects are masked from ‘package:dplyr’:
 
 Latest Date: April-13 
 Earliest Date: January-22 
-Today's data are not yet available.Latest Date: April-12Earliest Date: January-22
+Latest Date: April-13Earliest Date: January-22
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -81,7 +81,7 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
-Latest Date: April-13Earliest Date: May-08Today's data are not yet available.Latest Date: April-12Earliest Date: May-08Warning message:
+Latest Date: April-13Earliest Date: May-08Latest Date: April-13Earliest Date: May-08Warning message:
 `html_session()` was deprecated in rvest 1.0.0.
 Please use `session()` instead.
 This warning is displayed once every 8 hours.
@@ -5231,33 +5231,27 @@ In `[.data.table`(dat_latest, , `:=`(V1, NULL)) :
 Warning message:
 In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
   Column 'V2' does not exist to remove
-            state   county       date cases_daily deaths_daily pct_pos
-1: North Carolina Guilford 2022-04-04         191            2      NA
-2: North Carolina Guilford 2022-04-05          74            0      NA
-3: North Carolina Guilford 2022-04-06          96            0      NA
-4: North Carolina Guilford 2022-04-07           0            0      NA
-5: North Carolina Guilford 2022-04-08           0            0      NA
-6: North Carolina Guilford 2022-04-09           0            0      NA
-7: North Carolina Guilford 2022-04-10           0            0      NA
-8: North Carolina Guilford 2022-04-11           0            0      NA
-9: North Carolina Guilford 2022-04-12           0            0      NA
-   cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
-1:              116740                 3168      337         1
-2:              116814                 3168      467         2
-3:              116910                 3168      517         2
-4:              116910                 3168      571         2
-5:              116910                 3168      505         2
-6:              116910                 3168      361         2
-7:              116910                 3168      361         2
-8:              116910                 3168      361         2
-9:              116910                 3168      170         0
+             state   county       date cases_daily deaths_daily pct_pos
+ 1: North Carolina Guilford 2022-04-04         191            2      NA
+ 2: North Carolina Guilford 2022-04-05          74            0      NA
+ 3: North Carolina Guilford 2022-04-06          96            0      NA
+ 4: North Carolina Guilford 2022-04-07           0            0      NA
+ 5: North Carolina Guilford 2022-04-08           0            0      NA
+ 6: North Carolina Guilford 2022-04-09           0            0      NA
+ 7: North Carolina Guilford 2022-04-10           0            0      NA
+ 8: North Carolina Guilford 2022-04-11           0            0      NA
+ 9: North Carolina Guilford 2022-04-12           0            0      NA
+10: North Carolina Guilford 2022-04-13         494            0      NA
+    cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
+ 1:              116740                 3168      337         1
+ 2:              116814                 3168      467         2
+ 3:              116910                 3168      517         2
+ 4:              116910                 3168      571         2
+ 5:              116910                 3168      505         2
+ 6:              116910                 3168      361         2
+ 7:              116910                 3168      361         2
+ 8:              116910                 3168      361         2
+ 9:              116910                 3168      170         0
+10:              117404                 3168       96         0
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "1cd27e8930d26e4ea5d963aba03fbcf96fa9b4e1"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
- 988.951 1249.996 2329.130 
