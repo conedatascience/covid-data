@@ -99,7 +99,28 @@ if(new_daily_cases==0){
 cat("Latest Date:", format(max(dat_complete$date), "%B-%d"))
 cat("Earliest Date:", format(min(dat_complete$date), "%B-%d"))
 
+# with new weekly update, use the latest time series data in place of attempt at daily calculations
+# that are no longer valid...
+
+dat_new <- data.table::fread(here::here('data', 'timeseries', 'nc-cases-by-county-new.csv'))
+
+dat_new <- dat_new %>%
+  transmute(state = 'North Carolina',
+            county = County,
+            date = Date,
+            cases_daily = `Total Cases by Date of Specimen collection`,
+            deaths_daily = `Death by Date of Death`,
+            pct_pos = NA) %>%
+  filter(!is.na(county), !is.na(date))
+
+dat_complete2 <- dat_complete %>% ungroup() %>%
+  filter(date < min(dat_new$date)) %>%
+  bind_rows(dat_new) %>%
+  group_by(state, county) %>% arrange(date) %>%
+  mutate(cases_confirmed_cum = cumsum(cases_daily),
+         deaths_confirmed_cum = cumsum(deaths_daily))
+
 # write output ------------------------------------------------------------
 
-data.table::fwrite(dat_complete, here::here("data", "timeseries","nc-cases-by-county.csv"))
+data.table::fwrite(dat_complete2, here::here("data", "timeseries","nc-cases-by-county.csv"))
 
