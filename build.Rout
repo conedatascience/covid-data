@@ -5235,32 +5235,16 @@ Warning message:
 In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
   Column 'V2' does not exist to remove
             state   county       date cases_daily deaths_daily pct_pos
-1: North Carolina Guilford 2022-04-05          74            0      NA
-2: North Carolina Guilford 2022-04-06          96            0      NA
-3: North Carolina Guilford 2022-04-07           0            0      NA
-4: North Carolina Guilford 2022-04-08           0            0      NA
-5: North Carolina Guilford 2022-04-09           0            0      NA
-6: North Carolina Guilford 2022-04-10           0            0      NA
-7: North Carolina Guilford 2022-04-11           0            0      NA
-8: North Carolina Guilford 2022-04-12           0            0      NA
-9: North Carolina Guilford 2022-04-13         494            0      NA
+1: North Carolina Guilford 2022-04-05          24            0      NA
+2: North Carolina Guilford 2022-04-06          22            0      NA
+3: North Carolina Guilford 2022-04-07          50            0      NA
+4: North Carolina Guilford 2022-04-08          41            0      NA
+5: North Carolina Guilford 2022-04-09          40            0      NA
    cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
-1:              116814                 3168      467         2
-2:              116910                 3168      517         2
-3:              116910                 3168      571         2
-4:              116910                 3168      505         2
-5:              116910                 3168      361         2
-6:              116910                 3168      361         2
-7:              116910                 3168      361         2
-8:              116910                 3168      170         0
-9:              117404                 3168       96         0
+1:              116764                 1175      161         1
+2:              116786                 1175      163         0
+3:              116836                 1175      159         0
+4:              116877                 1175      177         0
+5:              116917                 1175      196         0
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "a5c1ec4089c509175c1b82feda9847f2bfadfd27"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
- 990.363 1236.071 2185.774 
