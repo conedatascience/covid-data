@@ -5252,14 +5252,19 @@ In `[.data.table`(dat_latest, , `:=`(V1, NULL)) :
 Warning message:
 In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
   Column 'V2' does not exist to remove
-Empty data.table (0 rows and 10 cols): state,county,date,cases_daily,deaths_daily,pct_pos...
+            state   county       date cases_daily deaths_daily pct_pos
+1: North Carolina Guilford 2022-04-11          79            0      NA
+2: North Carolina Guilford 2022-04-12          77            0      NA
+3: North Carolina Guilford 2022-04-13          79            0      NA
+4: North Carolina Guilford 2022-04-14          96            0      NA
+5: North Carolina Guilford 2022-04-15          81            0      NA
+6: North Carolina Guilford 2022-04-16          59            0      NA
+   cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
+1:              117439                 1183      262         0
+2:              117516                 1183      309         0
+3:              117595                 1183      360         0
+4:              117691                 1183      413         0
+5:              117772                 1183      457         0
+6:              117831                 1183      495         0
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "847d4c499722283a31abebc5306f35bd8443c34e"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
- 989.407 1259.484 2206.735 
