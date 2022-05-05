@@ -1,5 +1,3 @@
-WARNING: unknown option '-vanilla'
-
 
 R version 4.0.2 (2020-06-22) -- "Taking Off Again"
 Copyright (C) 2020 The R Foundation for Statistical Computing
@@ -25,15 +23,9 @@ Type 'q()' to quit R.
 > src_files <-  fs::dir_ls(path = here::here("src"), glob = "*.R")
 > 
 > print(Sys.getenv('edw_dsn_default'))
-[1] "CBIEDW1"
-> print(Sys.getenv('EDW_DSN_DEFAULT'))
-[1] ""
-> print(Sys.getenv('R_HOME'))
-[1] "/opt/R/4.0.2/lib/R"
-> print(Sys.getenv('R_USER'))
-[1] ""
+[1] "SOMETHING_ELSE"
 > 
 > 
 > proc.time()
    user  system elapsed 
-  0.264   0.552   0.249 
+  0.249   0.522   0.227 
