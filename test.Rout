@@ -1,0 +1,39 @@
+WARNING: unknown option '-vanilla'
+
+
+R version 4.0.2 (2020-06-22) -- "Taking Off Again"
+Copyright (C) 2020 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> 
+> src_files <-  fs::dir_ls(path = here::here("src"), glob = "*.R")
+> 
+> print(Sys.getenv('edw_dsn_default'))
+[1] "CBIEDW1"
+> print(Sys.getenv('EDW_DSN_DEFAULT'))
+[1] ""
+> print(Sys.getenv('R_HOME'))
+[1] "/opt/R/4.0.2/lib/R"
+> print(Sys.getenv('R_USER'))
+[1] ""
+> 
+> 
+> proc.time()
+   user  system elapsed 
+  0.264   0.552   0.249 
