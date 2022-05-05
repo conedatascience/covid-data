@@ -81,15 +81,13 @@ The following objects are masked from ‘package:dplyr’:
 
     between, first, last
 
-Latest Date: May-05Earliest Date: May-08Today's data are not yet available.Latest Date: May-04Earliest Date: May-08Error in curl::curl_fetch_memory(url, handle = handle) : 
-  Timeout was reached: [public.tableau.com] Operation timed out after 10001 milliseconds with 0 out of 0 bytes received
-Calls: <Anonymous> ... request_fetch -> request_fetch.write_memory -> <Anonymous>
-In addition: Warning message:
+Latest Date: May-05Earliest Date: May-08Today's data are not yet available.Latest Date: May-04Earliest Date: May-08Warning message:
 `html_session()` was deprecated in rvest 1.0.0.
 Please use `session()` instead.
 This warning is displayed once every 8 hours.
 Call `lifecycle::last_warnings()` to see where this warning was generated. 
-Execution halted
+Warning message:
+In session_set_response(x, resp) : Not Found (HTTP 404).
 
 Attaching package: ‘dplyr’
 
@@ -5315,11 +5313,3 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 5:              119985                 1221      708         2
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "0f9e8c53ce04132bbeaeecc9dfdd310fa29ed552"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
-1060.288 1361.506 2391.952 
