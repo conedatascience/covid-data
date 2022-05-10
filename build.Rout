@@ -5317,3 +5317,11 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 Empty data.table (0 rows and 10 cols): state,county,date,cases_daily,deaths_daily,pct_pos...
 > 
 > system("git add --all")
+> msg = glue::glue("Lastest update at {Sys.time()}")
+> gert::git_commit(  msg)
+[1] "33ce705cf1c03382aa866dd255e05701e9cabdaf"
+> gert::git_push()
+> 
+> proc.time()
+    user   system  elapsed 
+ 936.465 1203.419 2097.703 
