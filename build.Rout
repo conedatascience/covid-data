@@ -63,7 +63,7 @@ The following objects are masked from ‘package:dplyr’:
 
 Latest Date: May-11 
 Earliest Date: January-22 
-Today's data are not yet available.Latest Date: May-10Earliest Date: January-22
+Latest Date: May-11Earliest Date: January-22
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -5318,11 +5318,3 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 Empty data.table (0 rows and 10 cols): state,county,date,cases_daily,deaths_daily,pct_pos...
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "9edf35937c445ce4c11da7887f96b23de59c6f83"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
- 934.461 1223.417 2122.237 
