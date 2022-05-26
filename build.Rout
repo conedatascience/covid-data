@@ -63,7 +63,24 @@ The following objects are masked from ‘package:dplyr’:
 
 Latest Date: May-26 
 Earliest Date: January-22 
-Today's data are not yet available.Latest Date: May-25Earliest Date: January-22
+Today's data are not yet available.Latest Date: May-25Earliest Date: January-22Error: Problem with `mutate()` column `county`.
+ℹ `county = County`.
+✖ object 'County' not found
+Backtrace:
+     █
+  1. ├─`%>%`(...)
+  2. ├─dplyr::filter(., !is.na(county), !is.na(date))
+  3. ├─dplyr::transmute(...)
+  4. ├─dplyr:::transmute.data.frame(...)
+  5. │ ├─dplyr::mutate(.data, !!!dots, .keep = "none")
+  6. │ └─dplyr:::mutate.data.frame(.data, !!!dots, .keep = "none")
+  7. │   └─dplyr:::mutate_cols(.data, ..., caller_env = caller_env())
+  8. │     ├─base::withCallingHandlers(...)
+  9. │     └─mask$eval_all_mutate(quo)
+ 10. └─base::.handleSimpleError(...)
+ 11.   └─dplyr:::h(simpleError(msg, call))
+Execution halted
+
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -5369,18 +5386,10 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 4: North Carolina Guilford 2022-05-20         195            0      NA
 5: North Carolina Guilford 2022-05-21          97            0      NA
    cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
-1:              123913                 1234     1393         2
-2:              124162                 1234     1376         1
-3:              124390                 1234     1395         1
-4:              124585                 1234     1396         1
-5:              124682                 1234     1394         1
+1:              123913                 1187     1393         2
+2:              124162                 1187     1376         1
+3:              124390                 1187     1395         1
+4:              124585                 1187     1396         1
+5:              124682                 1187     1394         1
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "31e42d1389d1ba7f9cbbb66689afd0f064c1de7f"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
-1073.378 1359.972 2397.875 
