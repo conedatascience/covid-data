@@ -5390,16 +5390,8 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 2: North Carolina Guilford 2022-05-20         195            0      NA
 3: North Carolina Guilford 2022-05-21          97            0      NA
    cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
-1:              124390                 1042     1395         0
-2:              124585                 1042     1396         0
-3:              124682                 1042     1394         0
+1:              124390                 1034     1395         0
+2:              124585                 1034     1396         0
+3:              124682                 1034     1394         0
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "61ba11b71ef974e1884294da396ef3927b8468cd"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
- 945.880 1204.963 2114.263 
