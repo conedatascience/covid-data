@@ -5394,14 +5394,6 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
             state   county       date cases_daily deaths_daily pct_pos
 1: North Carolina Guilford 2022-05-21          97            0      NA
    cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
-1:              124682                  953     1394         0
+1:              124682                  940     1394         0
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "554704d7618e6ae7b449385c0fb95d1abe8185d3"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
-1030.343 1270.002 2265.504 
