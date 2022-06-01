@@ -63,24 +63,7 @@ The following objects are masked from ‘package:dplyr’:
 
 Latest Date: June-01 
 Earliest Date: January-22 
-Latest Date: June-01Earliest Date: January-22Error: Problem with `mutate()` column `county`.
-ℹ `county = County`.
-✖ object 'County' not found
-Backtrace:
-     █
-  1. ├─`%>%`(...)
-  2. ├─dplyr::filter(., !is.na(county), !is.na(date))
-  3. ├─dplyr::transmute(...)
-  4. ├─dplyr:::transmute.data.frame(...)
-  5. │ ├─dplyr::mutate(.data, !!!dots, .keep = "none")
-  6. │ └─dplyr:::mutate.data.frame(.data, !!!dots, .keep = "none")
-  7. │   └─dplyr:::mutate_cols(.data, ..., caller_env = caller_env())
-  8. │     ├─base::withCallingHandlers(...)
-  9. │     └─mask$eval_all_mutate(quo)
- 10. └─base::.handleSimpleError(...)
- 11.   └─dplyr:::h(simpleError(msg, call))
-Execution halted
-
+Latest Date: June-01Earliest Date: January-22
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -5397,14 +5380,19 @@ In `[.data.table`(dat_latest, , `:=`(V1, NULL)) :
 Warning message:
 In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
   Column 'V2' does not exist to remove
-Empty data.table (0 rows and 10 cols): state,county,date,cases_daily,deaths_daily,pct_pos...
+            state   county       date cases_daily deaths_daily pct_pos
+1: North Carolina Guilford 2022-05-23         252            0      NA
+2: North Carolina Guilford 2022-05-24         202            0      NA
+3: North Carolina Guilford 2022-05-25         200            0      NA
+4: North Carolina Guilford 2022-05-26         197            0      NA
+5: North Carolina Guilford 2022-05-27         155            0      NA
+6: North Carolina Guilford 2022-05-28         116            0      NA
+   cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
+1:              125129                 1237     1435         0
+2:              125331                 1237     1434         0
+3:              125531                 1237     1412         0
+4:              125728                 1237     1359         0
+5:              125883                 1237     1319         0
+6:              125999                 1237     1266         0
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "fb1219bc41977d8218dd09b2fe8681e2f8193abe"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
-1016.709 1246.968 2234.828 
