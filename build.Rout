@@ -5409,17 +5409,11 @@ In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
 5: North Carolina Guilford 2022-06-03         143            0      NA
 6: North Carolina Guilford 2022-06-04          82            1      NA
    cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
-1:              126347                 1197     1273         1
-2:              126621                 1199     1106         2
-3:              126824                 1200     1174         4
-4:              127010                 1200     1172         5
-5:              127153                 1200     1157         5
-6:              127235                 1201     1137         5
+1:              126347                 1245     1273         2
+2:              126621                 1247     1106         3
+3:              126824                 1248     1174         4
+4:              127010                 1248     1172         5
+5:              127153                 1248     1157         5
+6:              127235                 1249     1137         5
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-Error in libgit2::git_signature_default : 
-  config value 'user.name' was not found
-Calls: <Anonymous> -> git_signature_default -> raise_libgit2_error
-Execution halted
