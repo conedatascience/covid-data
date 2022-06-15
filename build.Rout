@@ -63,7 +63,7 @@ The following objects are masked from ‘package:dplyr’:
 
 Latest Date: June-15 
 Earliest Date: January-22 
-Today's data are not yet available.Latest Date: June-14Earliest Date: January-22
+Latest Date: June-15Earliest Date: January-22
 Attaching package: ‘dplyr’
 
 The following objects are masked from ‘package:stats’:
@@ -5422,14 +5422,19 @@ In `[.data.table`(dat_latest, , `:=`(V1, NULL)) :
 Warning message:
 In `[.data.table`(dat_latest, , `:=`(V2, NULL)) :
   Column 'V2' does not exist to remove
-Empty data.table (0 rows and 10 cols): state,county,date,cases_daily,deaths_daily,pct_pos...
+            state   county       date cases_daily deaths_daily pct_pos
+1: North Carolina Guilford 2022-06-06         177            0      NA
+2: North Carolina Guilford 2022-06-07         181            1      NA
+3: North Carolina Guilford 2022-06-08         185            0      NA
+4: North Carolina Guilford 2022-06-09         191            0      NA
+5: North Carolina Guilford 2022-06-10         156            3      NA
+6: North Carolina Guilford 2022-06-11          94            1      NA
+   cases_confirmed_cum deaths_confirmed_cum case_lag death_lag
+1:              127704                 1251     1135         5
+2:              127885                 1252     1223         4
+3:              128070                 1252     1122         3
+4:              128261                 1252     1099         2
+5:              128417                 1255     1085         2
+6:              128511                 1256     1091         5
 > 
 > system("git add --all")
-> msg = glue::glue("Lastest update at {Sys.time()}")
-> gert::git_commit(  msg)
-[1] "2a543a1e9d679f712d007153cc7af3b1c6f0730c"
-> gert::git_push()
-> 
-> proc.time()
-    user   system  elapsed 
- 930.459 1125.225 2020.695 
