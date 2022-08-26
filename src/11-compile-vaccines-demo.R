@@ -17,6 +17,9 @@ cols <- sapply(dat_raw, function(x)!all(is.na(x)))
 cols <- names(cols)[cols]
 dat_raw <- dat_raw[,..cols]
 
+# reduce original file size (hitting some size issues)
+data.table::fwrite(dat_raw, file_loc)
+
 dat_raw$update_date <- as.Date(file.info(file_loc)$mtime)
 
 #updated verbiage
@@ -37,7 +40,7 @@ setnames(dat_raw, )
 # long format
 dat_raw_long <- melt(dat_raw, id.vars = c('update_date','Week of',
                                           'Aggregation Level',
-                                          'County', 
+                                          'County',
                                           'Demographic',
                                           'Fully Vaccinated Population','One Dose Population',
                                           'Ethnicity', 'Race', 'Age Group', 'Gender',
@@ -57,7 +60,7 @@ dat_raw_long[,DemographicIdentity:=case_when(Demographic=='Race'~Race,
                                              Demographic=='Sex'~Gender,
                                              TRUE~'Unknown')]
 
-## population estimates for full and partial may change if suppressed population is different? 
+## population estimates for full and partial may change if suppressed population is different?
 dat_raw_long[,`County Demographic Population` := case_when(status=='partial'~`One Dose Population`,
                                                           TRUE~`Fully Vaccinated Population`)]
 
@@ -68,7 +71,7 @@ cols <- c('update_date','Week of', 'Aggregation Level',
           'status','variable', 'value')
 dat_raw_long <- dat_raw_long[,..cols]
 setnames(dat_raw_long, cols, c('date_pulled', 'week_of', 'aggregation_level',
-                               'county', 
+                               'county',
                                'demographic', 'county_demo_pop',
                                'demographic_identity',
                                'status', 'variable', 'vax_n'))
