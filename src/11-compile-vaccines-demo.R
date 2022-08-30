@@ -17,8 +17,9 @@ cols <- sapply(dat_raw, function(x)!all(is.na(x)))
 cols <- names(cols)[cols]
 dat_raw <- dat_raw[,..cols]
 
+# **needed to move this upstream for push after UpdateNCDHHSDashboard dag**
 # reduce original file size (hitting some size issues)
-data.table::fwrite(dat_raw, file_loc)
+# data.table::fwrite(dat_raw, file_loc)
 
 dat_raw$update_date <- as.Date(file.info(file_loc)$mtime)
 
