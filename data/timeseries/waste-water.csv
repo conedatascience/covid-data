@@ -6,13 +6,13 @@ Carteret,Newport (Data available until - 8/18/21),4774,4.19,2021-01-03,,0,
 Carteret,Town of Beaufort,3500,5.71,2021-01-03,,0,
 Jackson,Tuckaseigee,13296,1.5,2021-01-03,,0,
 Mecklenburg,Charlotte 1,68685,6.84,2021-01-04,,0,
-Mecklenburg,Charlotte 2,182501,4.22,2021-01-04,119582.607431014,0,48863072.76528
+Mecklenburg,Charlotte 2,182501,4.27,2021-01-04,119582.607431014,0,48863072.76528
 Pitt,Greenville,89616,4.46,2021-01-04,,0,
 Carteret,Newport (Data available until - 8/18/21),4774,4.19,2021-01-04,,0,
 Carteret,Town of Beaufort,3500,14.29,2021-01-04,,0,
 Jackson,Tuckaseigee,13296,1.5,2021-01-04,42988.496600835,0,8934410.21163842
 Mecklenburg,Charlotte 1,68685,13.1,2021-01-05,59966.6574022598,0,16458454.8147915
-Mecklenburg,Charlotte 2,182501,10.19,2021-01-05,,0,
+Mecklenburg,Charlotte 2,182501,10.14,2021-01-05,,0,
 Pitt,Greenville,89616,16.4,2021-01-05,23048.6767516055,0,16258807.5599369
 Carteret,Newport (Data available until - 8/18/21),4774,12.57,2021-01-05,,0,
 Chatham,Pittsboro (Data available until - 5/25/21),4234,4.72,2021-01-05,17375.8453031788,0,16932978.7538053
@@ -64,7 +64,7 @@ Carteret,Town of Beaufort,3500,5.71,2021-01-09,,0,
 Jackson,Tuckaseigee,13296,1.5,2021-01-09,,0,
 New Hanover,Wilmington City,58361,4.8,2021-01-09,,0,
 Orange,Chapel Hill - Carrboro,78141,2.94,2021-01-10,,0,
-Mecklenburg,Charlotte 1,68685,4.51,2021-01-10,,0,
+Mecklenburg,Charlotte 1,68685,4.37,2021-01-10,,0,
 Mecklenburg,Charlotte 2,182501,3.67,2021-01-10,,0,
 Pitt,Greenville,89616,3.91,2021-01-10,,0,
 Carteret,Newport (Data available until - 8/18/21),4774,4.19,2021-01-10,,0,
@@ -75,7 +75,7 @@ Carteret,Town of Beaufort,3500,,2021-01-10,,0,
 Jackson,Tuckaseigee,13296,1.5,2021-01-10,,0,
 New Hanover,Wilmington City,58361,4.63,2021-01-10,,0,
 Orange,Chapel Hill - Carrboro,78141,2.56,2021-01-11,,0,
-Mecklenburg,Charlotte 1,68685,4.51,2021-01-11,41109.609582189,0,11486856.2668698
+Mecklenburg,Charlotte 1,68685,4.37,2021-01-11,41109.609582189,0,11486856.2668698
 Mecklenburg,Charlotte 2,182501,3.29,2021-01-11,,0,
 Pitt,Greenville,89616,3.68,2021-01-11,,0,
 Carteret,Newport (Data available until - 8/18/21),4774,4.19,2021-01-11,,0,
@@ -124,7 +124,7 @@ Mecklenburg,Charlotte 2,182501,6.03,2021-01-15,,0,
 Pitt,Greenville,89616,5.58,2021-01-15,29055.1200307278,0,15181636.7543362
 Carteret,Newport (Data available until - 8/18/21),4774,4.19,2021-01-15,6229.96789718856,0,3260311.5868227
 Chatham,Pittsboro (Data available until - 5/25/21),4234,4.72,2021-01-15,0,0,840619.359247536
-Wake,Raleigh,550000,7.33,2021-01-15,,0,
+Wake,Raleigh,550000,7.31,2021-01-15,,0,
 Durham,South Durham,108105,3.33,2021-01-15,,0,
 Carteret,Town of Beaufort,3500,5.71,2021-01-15,3929.05841137543,0,4461917.31312615
 Jackson,Tuckaseigee,13296,4.51,2021-01-15,,0,
@@ -146,7 +146,7 @@ Mecklenburg,Charlotte 2,182501,3.62,2021-01-17,,0,
 Pitt,Greenville,89616,4.8,2021-01-17,,0,
 Carteret,Newport (Data available until - 8/18/21),4774,4.19,2021-01-17,,0,
 Chatham,Pittsboro (Data available until - 5/25/21),4234,4.72,2021-01-17,,0,
-Wake,Raleigh,550000,4.76,2021-01-17,,0,
+Wake,Raleigh,550000,4.75,2021-01-17,,0,
 Durham,South Durham,108105,2.22,2021-01-17,,0,
 Carteret,Town of Beaufort,3500,,2021-01-17,,0,
 Jackson,Tuckaseigee,13296,1.5,2021-01-17,,0,
@@ -619,7 +619,7 @@ Orange,Chapel Hill - Carrboro,78141,1.02,2021-02-26,0,0,578043.086286511
 Mecklenburg,Charlotte 1,68685,2.77,2021-02-26,,0,
 Mecklenburg,Charlotte 2,182501,1.92,2021-02-26,,0,
 Pitt,Greenville,89616,3.24,2021-02-26,5921.35964116351,0,4091956.05576463
-New Hanover,New Hanover County (North),67743,1.18,2021-02-26,1870.82869338697,0,742232.083687229
+New Hanover,New Hanover County (North),67743,1.03,2021-02-26,1870.82869338697,0,742232.083687229
 Carteret,Newport (Data available until - 8/18/21),4774,4.19,2021-02-26,3491.06001094224,0,2076098.43403132
 Chatham,Pittsboro (Data available until - 5/25/21),4234,,2021-02-26,0,0,247037.415885453
 Wake,Raleigh,550000,1.67,2021-02-26,,0,
@@ -1205,21 +1205,21 @@ New Hanover,Wilmington City,58361,2.4,2021-03-29,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,22.37,2022-01-08,212661.703181367,0,94041874.235906
 "Buncombe,henderson",MSD of Buncombe County,173000,13.47,2022-01-09,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,14.91,2022-01-10,,0,
-"Buncombe,henderson",MSD of Buncombe County,173000,34.22,2022-01-11,,0,
+"Buncombe,henderson",MSD of Buncombe County,173000,34.28,2022-01-11,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,33.12,2022-01-12,174982.141945971,0,78681246.0838894
 "Buncombe,henderson",MSD of Buncombe County,173000,30.81,2022-01-13,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,29.19,2022-01-14,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,25.9,2022-01-15,124096.736459909,0,51075759.1811231
 "Buncombe,henderson",MSD of Buncombe County,173000,12.02,2022-01-16,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,4.86,2022-01-17,,0,
-"Buncombe,henderson",MSD of Buncombe County,173000,10.52,2022-01-18,,0,
+"Buncombe,henderson",MSD of Buncombe County,173000,10.46,2022-01-18,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,24.57,2022-01-19,105652.733045577,0,42606096.4162515
 "Buncombe,henderson",MSD of Buncombe County,173000,23.18,2022-01-20,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,24.86,2022-01-21,,0,
-"Buncombe,henderson",MSD of Buncombe County,173000,19.08,2022-01-22,76157.731058639,0,41160119.2843323
+"Buncombe,henderson",MSD of Buncombe County,173000,19.13,2022-01-22,76157.731058639,0,41160119.2843323
 "Buncombe,henderson",MSD of Buncombe County,173000,11.97,2022-01-23,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,10.52,2022-01-24,,0,
-"Buncombe,henderson",MSD of Buncombe County,173000,23.41,2022-01-25,,0,
+"Buncombe,henderson",MSD of Buncombe County,173000,23.35,2022-01-25,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,16.36,2022-01-26,83666.0026534077,0,36192731.7514567
 "Buncombe,henderson",MSD of Buncombe County,173000,16.71,2022-01-27,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,16.42,2022-01-28,,0,
@@ -1461,7 +1461,7 @@ New Hanover,Wilmington City,58361,2.4,2021-03-29,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,2.95,2022-09-21,39057.6496988747,0,15417299.6656009
 "Buncombe,henderson",MSD of Buncombe County,173000,2.08,2022-09-22,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,2.66,2022-09-23,,0,
-"Buncombe,henderson",MSD of Buncombe County,173000,1.45,2022-09-24,29283.1009286927,0,13180049.177775
+"Buncombe,henderson",MSD of Buncombe County,173000,1.5,2022-09-24,29283.1009286927,0,13180049.177775
 "Buncombe,henderson",MSD of Buncombe County,173000,1.16,2022-09-25,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,0.92,2022-09-26,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,2.37,2022-09-27,,0,
@@ -1471,22 +1471,29 @@ New Hanover,Wilmington City,58361,2.4,2021-03-29,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,1.21,2022-10-01,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,0.98,2022-10-02,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,0.75,2022-10-03,,0,
-"Buncombe,henderson",MSD of Buncombe County,173000,2.02,2022-10-04,,0,
-"Buncombe,henderson",MSD of Buncombe County,173000,1.68,2022-10-05,26117.5228534407,0,10223697.6783724
+"Buncombe,henderson",MSD of Buncombe County,173000,2.08,2022-10-04,,0,
+"Buncombe,henderson",MSD of Buncombe County,173000,1.73,2022-10-05,26117.5228534407,0,10223697.6783724
 "Buncombe,henderson",MSD of Buncombe County,173000,1.5,2022-10-06,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,1.33,2022-10-07,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,1.56,2022-10-08,34703.9646924773,0,14913729.1287698
 "Buncombe,henderson",MSD of Buncombe County,173000,0.58,2022-10-09,,0,
-"Buncombe,henderson",MSD of Buncombe County,173000,0.64,2022-10-10,,0,
+"Buncombe,henderson",MSD of Buncombe County,173000,0.69,2022-10-10,,0,
 "Buncombe,henderson",MSD of Buncombe County,173000,1.33,2022-10-11,21399.4721574649,0,8287852.28737665
-"Buncombe,henderson",MSD of Buncombe County,173000,1.5,2022-10-12,,0,
-"Buncombe,henderson",MSD of Buncombe County,173000,1.39,2022-10-13,,0,
-"Buncombe,henderson",MSD of Buncombe County,173000,1.5,2022-10-14,,0,
-"Buncombe,henderson",MSD of Buncombe County,173000,1.16,2022-10-15,21650.635094611,0,9285224.02374537
+"Buncombe,henderson",MSD of Buncombe County,173000,1.56,2022-10-12,,0,
+"Buncombe,henderson",MSD of Buncombe County,173000,1.5,2022-10-13,,0,
+"Buncombe,henderson",MSD of Buncombe County,173000,1.68,2022-10-14,,0,
+"Buncombe,henderson",MSD of Buncombe County,173000,1.45,2022-10-15,21650.635094611,0,9285224.02374537
 "Buncombe,henderson",MSD of Buncombe County,173000,0.52,2022-10-16,,0,
-"Buncombe,henderson",MSD of Buncombe County,173000,0.69,2022-10-17,,0,
-"Buncombe,henderson",MSD of Buncombe County,173000,0.64,2022-10-18,,0,
-"Buncombe,henderson",MSD of Buncombe County,173000,,2022-10-19,25034.9755342401,0,10906467.4108173
+"Buncombe,henderson",MSD of Buncombe County,173000,0.81,2022-10-17,,0,
+"Buncombe,henderson",MSD of Buncombe County,173000,1.79,2022-10-18,,0,
+"Buncombe,henderson",MSD of Buncombe County,173000,0.46,2022-10-19,25034.9755342401,0,10906467.4108173
+"Buncombe,henderson",MSD of Buncombe County,173000,,2022-10-20,,0,
+"Buncombe,henderson",MSD of Buncombe County,173000,,2022-10-21,,0,
+"Buncombe,henderson",MSD of Buncombe County,173000,,2022-10-22,13795.3796613214,0,5327752.49999942
+"Buncombe,henderson",MSD of Buncombe County,173000,,2022-10-23,,0,
+"Buncombe,henderson",MSD of Buncombe County,173000,,2022-10-24,,0,
+"Buncombe,henderson",MSD of Buncombe County,173000,,2022-10-25,,0,
+"Buncombe,henderson",MSD of Buncombe County,173000,,2022-10-26,67082.0393249937,0,26244569.0618246
 Carteret,Town of Beaufort,3500,5.71,2021-03-30,0,0,273137.620900202
 Carteret,Town of Beaufort,3500,5.71,2021-03-31,,0,
 Carteret,Town of Beaufort,3500,5.71,2021-04-01,0,0,212083.329169568
@@ -2020,7 +2027,7 @@ Carteret,Town of Beaufort,3500,5.71,2022-09-10,16363.0681719536,0,13273019.62673
 Carteret,Town of Beaufort,3500,,2022-09-11,,0,
 Carteret,Town of Beaufort,3500,,2022-09-12,,0,
 Carteret,Town of Beaufort,3500,5.71,2022-09-13,,0,
-Carteret,Town of Beaufort,3500,14.29,2022-09-14,14031.2152004023,0,17906925.4808946
+Carteret,Town of Beaufort,3500,17.14,2022-09-14,14031.2152004023,0,17906925.4808946
 Carteret,Town of Beaufort,3500,5.71,2022-09-15,,0,
 Carteret,Town of Beaufort,3500,,2022-09-16,,0,
 Carteret,Town of Beaufort,3500,5.71,2022-09-17,6010.40764008566,0,5915467.24100287
@@ -2056,6 +2063,13 @@ Carteret,Town of Beaufort,3500,,2022-10-16,,0,
 Carteret,Town of Beaufort,3500,,2022-10-17,,0,
 Carteret,Town of Beaufort,3500,5.71,2022-10-18,,0,
 Carteret,Town of Beaufort,3500,,2022-10-19,9746.79434480897,0,10119912.7715217
+Carteret,Town of Beaufort,3500,,2022-10-20,,0,
+Carteret,Town of Beaufort,3500,,2022-10-21,,0,
+Carteret,Town of Beaufort,3500,,2022-10-22,68647.6510887299,0,64593477.7243463
+Carteret,Town of Beaufort,3500,,2022-10-23,,0,
+Carteret,Town of Beaufort,3500,,2022-10-24,,0,
+Carteret,Town of Beaufort,3500,,2022-10-25,,0,
+Carteret,Town of Beaufort,3500,,2022-10-26,24384.9338731931,0,22153614.8840604
 Carteret,Newport (Data available until - 8/18/21),4774,,2021-03-30,0,0,134283.632838636
 Carteret,Newport (Data available until - 8/18/21),4774,,2021-03-31,,0,
 Carteret,Newport (Data available until - 8/18/21),4774,4.19,2021-04-01,,0,
@@ -2354,7 +2368,7 @@ Cumberland,Fayetteville - Rockfish,151589,6.53,2021-09-22,7648.52927038918,0,315
 Cumberland,Fayetteville - Rockfish,151589,5.01,2021-09-23,,0,
 Cumberland,Fayetteville - Rockfish,151589,5.28,2021-09-24,,0,
 Cumberland,Fayetteville - Rockfish,151589,3.83,2021-09-25,20621.5906273013,0,9269125.36457495
-Cumberland,Fayetteville - Rockfish,151589,2.18,2021-09-26,,0,
+Cumberland,Fayetteville - Rockfish,151589,2.11,2021-09-26,,0,
 Cumberland,Fayetteville - Rockfish,151589,2.31,2021-09-27,,0,
 Cumberland,Fayetteville - Rockfish,151589,4.55,2021-09-28,,0,
 Cumberland,Fayetteville - Rockfish,151589,4.49,2021-09-29,19421.315609402,0,7905154.09533431
@@ -2694,7 +2708,7 @@ Cumberland,Fayetteville - Rockfish,151589,2.05,2022-08-28,,0,
 Cumberland,Fayetteville - Rockfish,151589,1.78,2022-08-29,,0,
 Cumberland,Fayetteville - Rockfish,151589,3.83,2022-08-30,,0,
 Cumberland,Fayetteville - Rockfish,151589,3.56,2022-08-31,32524.9903920047,0,10152459.8280461
-Cumberland,Fayetteville - Rockfish,151589,4.09,2022-09-01,,0,
+Cumberland,Fayetteville - Rockfish,151589,4.16,2022-09-01,,0,
 Cumberland,Fayetteville - Rockfish,151589,2.84,2022-09-02,,0,
 Cumberland,Fayetteville - Rockfish,151589,2.57,2022-09-03,23048.8611432322,0,7424774.55972086
 Cumberland,Fayetteville - Rockfish,151589,1.58,2022-09-04,,0,
@@ -2706,7 +2720,7 @@ Cumberland,Fayetteville - Rockfish,151589,4.49,2022-09-09,,0,
 Cumberland,Fayetteville - Rockfish,151589,3.03,2022-09-10,55520.2665699652,0,16637071.3236933
 Cumberland,Fayetteville - Rockfish,151589,1.65,2022-09-11,,0,
 Cumberland,Fayetteville - Rockfish,151589,1.58,2022-09-12,,0,
-Cumberland,Fayetteville - Rockfish,151589,4.82,2022-09-13,,0,
+Cumberland,Fayetteville - Rockfish,151589,4.75,2022-09-13,,0,
 Cumberland,Fayetteville - Rockfish,151589,3.56,2022-09-14,23115.2006264277,0,8427419.50002093
 Cumberland,Fayetteville - Rockfish,151589,2.9,2022-09-15,,0,
 Cumberland,Fayetteville - Rockfish,151589,4.02,2022-09-16,,0,
@@ -2717,7 +2731,7 @@ Cumberland,Fayetteville - Rockfish,151589,5.08,2022-09-20,,0,
 Cumberland,Fayetteville - Rockfish,151589,4.55,2022-09-21,38369.9100858994,0,12743435.1212876
 Cumberland,Fayetteville - Rockfish,151589,2.37,2022-09-22,,0,
 Cumberland,Fayetteville - Rockfish,151589,3.23,2022-09-23,,0,
-Cumberland,Fayetteville - Rockfish,151589,2.77,2022-09-24,35942.6626726513,0,11578279.9749691
+Cumberland,Fayetteville - Rockfish,151589,2.7,2022-09-24,35942.6626726513,0,11578279.9749691
 Cumberland,Fayetteville - Rockfish,151589,1.25,2022-09-25,,0,
 Cumberland,Fayetteville - Rockfish,151589,1.72,2022-09-26,,0,
 Cumberland,Fayetteville - Rockfish,151589,3.23,2022-09-27,,0,
@@ -2731,18 +2745,25 @@ Cumberland,Fayetteville - Rockfish,151589,2.18,2022-10-04,,0,
 Cumberland,Fayetteville - Rockfish,151589,1.45,2022-10-05,8620.46982478334,0,3336619.80987004
 Cumberland,Fayetteville - Rockfish,151589,2.05,2022-10-06,,0,
 Cumberland,Fayetteville - Rockfish,151589,1.32,2022-10-07,,0,
-Cumberland,Fayetteville - Rockfish,151589,0.99,2022-10-08,17919.4356747844,0,6443634.68304384
+Cumberland,Fayetteville - Rockfish,151589,1.06,2022-10-08,17919.4356747844,0,6443634.68304384
 Cumberland,Fayetteville - Rockfish,151589,1.25,2022-10-09,,0,
-Cumberland,Fayetteville - Rockfish,151589,0.73,2022-10-10,,0,
-Cumberland,Fayetteville - Rockfish,151589,1.52,2022-10-11,,0,
+Cumberland,Fayetteville - Rockfish,151589,0.66,2022-10-10,,0,
+Cumberland,Fayetteville - Rockfish,151589,1.45,2022-10-11,,0,
 Cumberland,Fayetteville - Rockfish,151589,2.31,2022-10-12,17385.9404360771,0,6251795.58242918
 Cumberland,Fayetteville - Rockfish,151589,1.12,2022-10-13,,0,
 Cumberland,Fayetteville - Rockfish,151589,0.92,2022-10-14,,0,
-Cumberland,Fayetteville - Rockfish,151589,0.66,2022-10-15,25690.4651573303,0,8788942.5304596
+Cumberland,Fayetteville - Rockfish,151589,0.73,2022-10-15,25690.4651573303,0,8788942.5304596
 Cumberland,Fayetteville - Rockfish,151589,0.66,2022-10-16,,0,
-Cumberland,Fayetteville - Rockfish,151589,0.4,2022-10-17,,0,
-Cumberland,Fayetteville - Rockfish,151589,1.12,2022-10-18,,0,
-Cumberland,Fayetteville - Rockfish,151589,,2022-10-19,13520.81728299,0,4659358.42345959
+Cumberland,Fayetteville - Rockfish,151589,0.46,2022-10-17,,0,
+Cumberland,Fayetteville - Rockfish,151589,1.72,2022-10-18,,0,
+Cumberland,Fayetteville - Rockfish,151589,0.53,2022-10-19,13520.81728299,0,4659358.42345959
+Cumberland,Fayetteville - Rockfish,151589,,2022-10-20,,0,
+Cumberland,Fayetteville - Rockfish,151589,,2022-10-21,,0,
+Cumberland,Fayetteville - Rockfish,151589,,2022-10-22,23116.5525111337,0,7388854.68476115
+Cumberland,Fayetteville - Rockfish,151589,,2022-10-23,,0,
+Cumberland,Fayetteville - Rockfish,151589,,2022-10-24,,0,
+Cumberland,Fayetteville - Rockfish,151589,,2022-10-25,,0,
+Cumberland,Fayetteville - Rockfish,151589,,2022-10-26,20856.6536146142,0,6770676.60388212
 Durham,South Durham,108105,1.48,2021-03-30,,0,
 Durham,South Durham,108105,1.57,2021-03-31,6637.95902367588,0,1843205.47245368
 Durham,South Durham,108105,0.93,2021-04-01,,0,
@@ -2893,7 +2914,7 @@ Durham,South Durham,108105,3.42,2021-08-23,,0,
 Durham,South Durham,108105,7.12,2021-08-24,,0,
 Durham,South Durham,108105,6.75,2021-08-25,64807.4069840786,0,19142750.188882
 Durham,South Durham,108105,7.77,2021-08-26,,0,
-Durham,South Durham,108105,7.59,2021-08-27,,0,
+Durham,South Durham,108105,7.49,2021-08-27,,0,
 Durham,South Durham,108105,5.55,2021-08-28,49371.0441453288,0,15213214.2312381
 Durham,South Durham,108105,3.24,2021-08-29,,0,
 Durham,South Durham,108105,2.13,2021-08-30,,0,
@@ -3213,7 +3234,7 @@ Durham,South Durham,108105,4.53,2022-07-09,83740.6711222211,0,24213949.1120168
 Durham,South Durham,108105,2.96,2022-07-10,,0,
 Durham,South Durham,108105,2.78,2022-07-11,,0,
 Durham,South Durham,108105,5.74,2022-07-12,,0,
-Durham,South Durham,108105,4.9,2022-07-13,75000,0,24044290.2745125
+Durham,South Durham,108105,4.81,2022-07-13,75000,0,24044290.2745125
 Durham,South Durham,108105,4.44,2022-07-14,,0,
 Durham,South Durham,108105,5.09,2022-07-15,,0,
 Durham,South Durham,108105,3.89,2022-07-16,12278.0291578087,0,4264875.21958996
@@ -3223,7 +3244,7 @@ Durham,South Durham,108105,3.15,2022-07-19,,0,
 Durham,South Durham,108105,5.64,2022-07-20,64865.244931319,0,19301160.7973713
 Durham,South Durham,108105,5.09,2022-07-21,,0,
 Durham,South Durham,108105,4.53,2022-07-22,,0,
-Durham,South Durham,108105,4.07,2022-07-23,58736.7006223537,0,19196069.8172507
+Durham,South Durham,108105,3.98,2022-07-23,58736.7006223537,0,19196069.8172507
 Durham,South Durham,108105,2.96,2022-07-24,,0,
 Durham,South Durham,108105,2.5,2022-07-25,,0,
 Durham,South Durham,108105,5.27,2022-07-26,,0,
@@ -3246,10 +3267,10 @@ Durham,South Durham,108105,3.24,2022-08-11,,0,
 Durham,South Durham,108105,3.98,2022-08-12,,0,
 Durham,South Durham,108105,3.24,2022-08-13,45055.5213042753,0,13238338.6772111
 Durham,South Durham,108105,3.33,2022-08-14,,0,
-Durham,South Durham,108105,1.48,2022-08-15,,0,
+Durham,South Durham,108105,1.39,2022-08-15,,0,
 Durham,South Durham,108105,4.26,2022-08-16,,0,
 Durham,South Durham,108105,3.7,2022-08-17,67823.2998312527,0,19885810.3312384
-Durham,South Durham,108105,3.15,2022-08-18,,0,
+Durham,South Durham,108105,3.24,2022-08-18,,0,
 Durham,South Durham,108105,3.33,2022-08-19,,0,
 Durham,South Durham,108105,2.68,2022-08-20,45249.3093869951,0,12619246.9442034
 Durham,South Durham,108105,2.13,2022-08-21,,0,
@@ -3258,7 +3279,7 @@ Durham,South Durham,108105,4.72,2022-08-23,,0,
 Durham,South Durham,108105,3.7,2022-08-24,56623.7582645307,0,17747681.8980408
 Durham,South Durham,108105,3.79,2022-08-25,,0,
 Durham,South Durham,108105,3.61,2022-08-26,,0,
-Durham,South Durham,108105,2.78,2022-08-27,40515.4291597658,0,12043072.1813819
+Durham,South Durham,108105,2.87,2022-08-27,40515.4291597658,0,12043072.1813819
 Durham,South Durham,108105,2.13,2022-08-28,,0,
 Durham,South Durham,108105,1.94,2022-08-29,,0,
 Durham,South Durham,108105,3.15,2022-08-30,,0,
@@ -3295,7 +3316,7 @@ Durham,South Durham,108105,2.68,2022-09-29,,0,
 Durham,South Durham,108105,1.57,2022-09-30,,0,
 Durham,South Durham,108105,1.2,2022-10-01,0,0,81656.9286666309
 Durham,South Durham,108105,0.93,2022-10-02,,0,
-Durham,South Durham,108105,0.93,2022-10-03,,0,
+Durham,South Durham,108105,1.02,2022-10-03,,0,
 Durham,South Durham,108105,1.57,2022-10-04,,0,
 Durham,South Durham,108105,1.67,2022-10-05,4373.21392113398,0,1184222.88284923
 Durham,South Durham,108105,1.76,2022-10-06,,0,
@@ -3306,12 +3327,19 @@ Durham,South Durham,108105,0.74,2022-10-10,,0,
 Durham,South Durham,108105,1.57,2022-10-11,,0,
 Durham,South Durham,108105,1.57,2022-10-12,9651.50694395162,0,2646576.85466597
 Durham,South Durham,108105,1.11,2022-10-13,,0,
-Durham,South Durham,108105,1.57,2022-10-14,,0,
+Durham,South Durham,108105,2.13,2022-10-14,,0,
 Durham,South Durham,108105,1.02,2022-10-15,11489.1252930761,0,3325702.434907
 Durham,South Durham,108105,0.19,2022-10-16,,0,
 Durham,South Durham,108105,0.19,2022-10-17,,0,
-Durham,South Durham,108105,1.11,2022-10-18,,0,
-Durham,South Durham,108105,,2022-10-19,27543.1479682334,0,8384282.524009
+Durham,South Durham,108105,1.3,2022-10-18,,0,
+Durham,South Durham,108105,0.46,2022-10-19,27543.1479682334,0,8384282.524009
+Durham,South Durham,108105,,2022-10-20,,0,
+Durham,South Durham,108105,,2022-10-21,,0,
+Durham,South Durham,108105,,2022-10-22,31819.8051533947,0,8844279.30087819
+Durham,South Durham,108105,,2022-10-23,,0,
+Durham,South Durham,108105,,2022-10-24,,0,
+Durham,South Durham,108105,,2022-10-25,,0,
+Durham,South Durham,108105,,2022-10-26,39591.6657896584,0,11287888.8056604
 Forsyth,Winston Salem - Salem,178000,0.11,2021-06-19,0,0,240667.062501914
 Forsyth,Winston Salem - Salem,178000,0.11,2021-06-20,,0,
 Forsyth,Winston Salem - Salem,178000,0.11,2021-06-21,,0,
@@ -3674,20 +3702,20 @@ Forsyth,Winston Salem - Salem,178000,1.63,2022-06-12,,0,
 Forsyth,Winston Salem - Salem,178000,1.91,2022-06-13,,0,
 Forsyth,Winston Salem - Salem,178000,3.43,2022-06-14,,0,
 Forsyth,Winston Salem - Salem,178000,2.98,2022-06-15,20986.6028694499,0,4922768.71975972
-Forsyth,Winston Salem - Salem,178000,3.37,2022-06-16,,0,
+Forsyth,Winston Salem - Salem,178000,3.31,2022-06-16,,0,
 Forsyth,Winston Salem - Salem,178000,2.64,2022-06-17,,0,
-Forsyth,Winston Salem - Salem,178000,2.19,2022-06-18,31052.3751104485,0,7343301.95204033
+Forsyth,Winston Salem - Salem,178000,2.13,2022-06-18,31052.3751104485,0,7343301.95204033
 Forsyth,Winston Salem - Salem,178000,2.19,2022-06-19,,0,
-Forsyth,Winston Salem - Salem,178000,1.63,2022-06-20,,0,
-Forsyth,Winston Salem - Salem,178000,3.37,2022-06-21,,0,
-Forsyth,Winston Salem - Salem,178000,4.72,2022-06-22,39187.0514328394,0,7658608.57695881
-Forsyth,Winston Salem - Salem,178000,3.99,2022-06-23,,0,
-Forsyth,Winston Salem - Salem,178000,4.94,2022-06-24,,0,
-Forsyth,Winston Salem - Salem,178000,5,2022-06-25,30233.4665561196,0,5992328.78252981
-Forsyth,Winston Salem - Salem,178000,2.64,2022-06-26,,0,
-Forsyth,Winston Salem - Salem,178000,3.2,2022-06-27,,0,
-Forsyth,Winston Salem - Salem,178000,5.56,2022-06-28,,0,
-Forsyth,Winston Salem - Salem,178000,5.62,2022-06-29,27602.083254711,0,4531593.4177101
+Forsyth,Winston Salem - Salem,178000,1.35,2022-06-20,,0,
+Forsyth,Winston Salem - Salem,178000,3.31,2022-06-21,,0,
+Forsyth,Winston Salem - Salem,178000,4.49,2022-06-22,39187.0514328394,0,7658608.57695881
+Forsyth,Winston Salem - Salem,178000,3.31,2022-06-23,,0,
+Forsyth,Winston Salem - Salem,178000,3.93,2022-06-24,,0,
+Forsyth,Winston Salem - Salem,178000,4.04,2022-06-25,30233.4665561196,0,5992328.78252981
+Forsyth,Winston Salem - Salem,178000,1.97,2022-06-26,,0,
+Forsyth,Winston Salem - Salem,178000,2.58,2022-06-27,,0,
+Forsyth,Winston Salem - Salem,178000,4.72,2022-06-28,,0,
+Forsyth,Winston Salem - Salem,178000,4.72,2022-06-29,27602.083254711,0,4531593.4177101
 Forsyth,Winston Salem - Salem,178000,4.49,2022-06-30,,0,
 Forsyth,Winston Salem - Salem,178000,4.49,2022-07-01,,0,
 Forsyth,Winston Salem - Salem,178000,3.26,2022-07-02,33726.8439080801,0,8004453.25513963
@@ -3722,16 +3750,16 @@ Forsyth,Winston Salem - Salem,178000,5.96,2022-07-30,62249.4979899437,0,16110840
 Forsyth,Winston Salem - Salem,178000,3.82,2022-07-31,,0,
 Forsyth,Winston Salem - Salem,178000,4.27,2022-08-01,,0,
 Forsyth,Winston Salem - Salem,178000,5.56,2022-08-02,,0,
-Forsyth,Winston Salem - Salem,178000,5.45,2022-08-03,56899.0333837052,0,11773606.1654196
-Forsyth,Winston Salem - Salem,178000,5.22,2022-08-04,,0,
+Forsyth,Winston Salem - Salem,178000,5.56,2022-08-03,56899.0333837052,0,11773606.1654196
+Forsyth,Winston Salem - Salem,178000,5.28,2022-08-04,,0,
 Forsyth,Winston Salem - Salem,178000,6.01,2022-08-05,,0,
 Forsyth,Winston Salem - Salem,178000,4.78,2022-08-06,39280.6409061767,0,7877384.30423179
 Forsyth,Winston Salem - Salem,178000,4.1,2022-08-07,,0,
 Forsyth,Winston Salem - Salem,178000,2.25,2022-08-08,,0,
-Forsyth,Winston Salem - Salem,178000,7.87,2022-08-09,,0,
+Forsyth,Winston Salem - Salem,178000,7.92,2022-08-09,,0,
 Forsyth,Winston Salem - Salem,178000,7.02,2022-08-10,49652.1100382451,0,12290865.4664231
 Forsyth,Winston Salem - Salem,178000,6.46,2022-08-11,,0,
-Forsyth,Winston Salem - Salem,178000,4.83,2022-08-12,,0,
+Forsyth,Winston Salem - Salem,178000,4.78,2022-08-12,,0,
 Forsyth,Winston Salem - Salem,178000,5.39,2022-08-13,60621.7782649107,0,16540441.7262159
 Forsyth,Winston Salem - Salem,178000,2.87,2022-08-14,,0,
 Forsyth,Winston Salem - Salem,178000,2.42,2022-08-15,,0,
@@ -3759,7 +3787,7 @@ Forsyth,Winston Salem - Salem,178000,3.48,2022-09-05,,0,
 Forsyth,Winston Salem - Salem,178000,2.08,2022-09-06,,0,
 Forsyth,Winston Salem - Salem,178000,6.01,2022-09-07,29537.0530012728,0,6714855.06184035
 Forsyth,Winston Salem - Salem,178000,5.45,2022-09-08,,0,
-Forsyth,Winston Salem - Salem,178000,4.44,2022-09-09,,0,
+Forsyth,Winston Salem - Salem,178000,4.49,2022-09-09,,0,
 Forsyth,Winston Salem - Salem,178000,5.06,2022-09-10,26818.8366638078,0,6741385.88376877
 Forsyth,Winston Salem - Salem,178000,2.3,2022-09-11,,0,
 Forsyth,Winston Salem - Salem,178000,3.65,2022-09-12,,0,
@@ -3784,22 +3812,29 @@ Forsyth,Winston Salem - Salem,178000,2.25,2022-09-30,,0,
 Forsyth,Winston Salem - Salem,178000,1.29,2022-10-01,28628.0020259885,0,6496018.2176074
 Forsyth,Winston Salem - Salem,178000,0.67,2022-10-02,,0,
 Forsyth,Winston Salem - Salem,178000,0.73,2022-10-03,,0,
-Forsyth,Winston Salem - Salem,178000,2.64,2022-10-04,,0,
-Forsyth,Winston Salem - Salem,178000,2.42,2022-10-05,0,0,638822.606360041
+Forsyth,Winston Salem - Salem,178000,2.75,2022-10-04,,0,
+Forsyth,Winston Salem - Salem,178000,2.3,2022-10-05,0,0,638822.606360041
 Forsyth,Winston Salem - Salem,178000,2.58,2022-10-06,,0,
-Forsyth,Winston Salem - Salem,178000,1.46,2022-10-07,,0,
+Forsyth,Winston Salem - Salem,178000,1.52,2022-10-07,,0,
 Forsyth,Winston Salem - Salem,178000,2.19,2022-10-08,22131.9194663974,0,4546612.93471151
 Forsyth,Winston Salem - Salem,178000,1.01,2022-10-09,,0,
 Forsyth,Winston Salem - Salem,178000,0.84,2022-10-10,,0,
-Forsyth,Winston Salem - Salem,178000,3.03,2022-10-11,,0,
+Forsyth,Winston Salem - Salem,178000,3.09,2022-10-11,,0,
 Forsyth,Winston Salem - Salem,178000,1.69,2022-10-12,37495.7874269286,0,7910171.98292631
 Forsyth,Winston Salem - Salem,178000,2.36,2022-10-13,,0,
-Forsyth,Winston Salem - Salem,178000,1.24,2022-10-14,,0,
+Forsyth,Winston Salem - Salem,178000,1.35,2022-10-14,,0,
 Forsyth,Winston Salem - Salem,178000,1.52,2022-10-15,15020.8188857998,0,1986898.90213543
-Forsyth,Winston Salem - Salem,178000,0.28,2022-10-16,,0,
-Forsyth,Winston Salem - Salem,178000,1.12,2022-10-17,,0,
-Forsyth,Winston Salem - Salem,178000,0.96,2022-10-18,,0,
-Forsyth,Winston Salem - Salem,178000,,2022-10-19,20077.9730052613,0,2993158.11623008
+Forsyth,Winston Salem - Salem,178000,0.45,2022-10-16,,0,
+Forsyth,Winston Salem - Salem,178000,1.24,2022-10-17,,0,
+Forsyth,Winston Salem - Salem,178000,1.24,2022-10-18,,0,
+Forsyth,Winston Salem - Salem,178000,1.18,2022-10-19,20077.9730052613,0,2993158.11623008
+Forsyth,Winston Salem - Salem,178000,,2022-10-20,,0,
+Forsyth,Winston Salem - Salem,178000,,2022-10-21,,0,
+Forsyth,Winston Salem - Salem,178000,,2022-10-22,6344.28877022476,0,854040.424715841
+Forsyth,Winston Salem - Salem,178000,,2022-10-23,,0,
+Forsyth,Winston Salem - Salem,178000,,2022-10-24,,0,
+Forsyth,Winston Salem - Salem,178000,,2022-10-25,,0,
+Forsyth,Winston Salem - Salem,178000,,2022-10-26,13416.4078649988,0,2856025.6630617
 Guilford,Greensboro - North Buffalo,135821,0.15,2021-06-18,0,0,103259.536355067
 Guilford,Greensboro - North Buffalo,135821,0.15,2021-06-19,,0,
 Guilford,Greensboro - North Buffalo,135821,0.15,2021-06-20,,0,
@@ -4100,7 +4135,7 @@ Guilford,Greensboro - North Buffalo,135821,1.55,2022-04-10,,0,
 Guilford,Greensboro - North Buffalo,135821,1.4,2022-04-11,,0,
 Guilford,Greensboro - North Buffalo,135821,2.21,2022-04-12,,0,
 Guilford,Greensboro - North Buffalo,135821,2.5,2022-04-13,13124.4047484067,0,5120973.22420436
-Guilford,Greensboro - North Buffalo,135821,2.43,2022-04-14,,0,
+Guilford,Greensboro - North Buffalo,135821,2.36,2022-04-14,,0,
 Guilford,Greensboro - North Buffalo,135821,2.87,2022-04-15,,0,
 Guilford,Greensboro - North Buffalo,135821,2.28,2022-04-16,,0,
 Guilford,Greensboro - North Buffalo,135821,2.36,2022-04-17,,0,
@@ -4171,12 +4206,12 @@ Guilford,Greensboro - North Buffalo,135821,2.58,2022-06-20,,0,
 Guilford,Greensboro - North Buffalo,135821,3.31,2022-06-21,,0,
 Guilford,Greensboro - North Buffalo,135821,3.02,2022-06-22,15370.4261489394,0,4904968.80159206
 Guilford,Greensboro - North Buffalo,135821,3.53,2022-06-23,,0,
-Guilford,Greensboro - North Buffalo,135821,2.5,2022-06-24,,0,
-Guilford,Greensboro - North Buffalo,135821,3.17,2022-06-25,32726.1363439072,0,11036337.1632246
-Guilford,Greensboro - North Buffalo,135821,1.69,2022-06-26,,0,
+Guilford,Greensboro - North Buffalo,135821,2.43,2022-06-24,,0,
+Guilford,Greensboro - North Buffalo,135821,3.09,2022-06-25,32726.1363439072,0,11036337.1632246
+Guilford,Greensboro - North Buffalo,135821,1.62,2022-06-26,,0,
 Guilford,Greensboro - North Buffalo,135821,1.99,2022-06-27,,0,
 Guilford,Greensboro - North Buffalo,135821,3.53,2022-06-28,,0,
-Guilford,Greensboro - North Buffalo,135821,3.68,2022-06-29,47513.1560728184,0,16817539.4281826
+Guilford,Greensboro - North Buffalo,135821,3.61,2022-06-29,47513.1560728184,0,16817539.4281826
 Guilford,Greensboro - North Buffalo,135821,3.75,2022-06-30,,0,
 Guilford,Greensboro - North Buffalo,135821,4.05,2022-07-01,,0,
 Guilford,Greensboro - North Buffalo,135821,3.17,2022-07-02,46432.7470649757,0,15270429.0553681
@@ -4201,12 +4236,12 @@ Guilford,Greensboro - North Buffalo,135821,4.34,2022-07-20,34810.1996546989,0,91
 Guilford,Greensboro - North Buffalo,135821,3.39,2022-07-21,,0,
 Guilford,Greensboro - North Buffalo,135821,4.86,2022-07-22,,0,
 Guilford,Greensboro - North Buffalo,135821,4.05,2022-07-23,45654.9559193742,0,18831915.5213887
-Guilford,Greensboro - North Buffalo,135821,2.8,2022-07-24,,0,
+Guilford,Greensboro - North Buffalo,135821,2.87,2022-07-24,,0,
 Guilford,Greensboro - North Buffalo,135821,2.58,2022-07-25,,0,
 Guilford,Greensboro - North Buffalo,135821,5.52,2022-07-26,,0,
 Guilford,Greensboro - North Buffalo,135821,4.64,2022-07-27,22951.034835057,0,7995711.93561973
-Guilford,Greensboro - North Buffalo,135821,4.86,2022-07-28,,0,
-Guilford,Greensboro - North Buffalo,135821,4.27,2022-07-29,,0,
+Guilford,Greensboro - North Buffalo,135821,4.93,2022-07-28,,0,
+Guilford,Greensboro - North Buffalo,135821,4.2,2022-07-29,,0,
 Guilford,Greensboro - North Buffalo,135821,3.53,2022-07-30,38720.9568580117,0,13338574.0991181
 Guilford,Greensboro - North Buffalo,135821,4.12,2022-07-31,,0,
 Guilford,Greensboro - North Buffalo,135821,3.46,2022-08-01,,0,
@@ -4217,7 +4252,7 @@ Guilford,Greensboro - North Buffalo,135821,3.83,2022-08-05,,0,
 Guilford,Greensboro - North Buffalo,135821,2.43,2022-08-06,85923.294280422,0,28257763.1617753
 Guilford,Greensboro - North Buffalo,135821,3.02,2022-08-07,,0,
 Guilford,Greensboro - North Buffalo,135821,2.14,2022-08-08,,0,
-Guilford,Greensboro - North Buffalo,135821,3.75,2022-08-09,,0,
+Guilford,Greensboro - North Buffalo,135821,3.98,2022-08-09,,0,
 Guilford,Greensboro - North Buffalo,135821,3.98,2022-08-10,34175.5577862308,0,12096624.1364647
 Guilford,Greensboro - North Buffalo,135821,3.53,2022-08-11,,0,
 Guilford,Greensboro - North Buffalo,135821,4.64,2022-08-12,,0,
@@ -4254,7 +4289,7 @@ Guilford,Greensboro - North Buffalo,135821,1.55,2022-09-11,,0,
 Guilford,Greensboro - North Buffalo,135821,1.33,2022-09-12,,0,
 Guilford,Greensboro - North Buffalo,135821,3.17,2022-09-13,,0,
 Guilford,Greensboro - North Buffalo,135821,2.43,2022-09-14,26310.6442338457,0,9606111.69218806
-Guilford,Greensboro - North Buffalo,135821,2.43,2022-09-15,,0,
+Guilford,Greensboro - North Buffalo,135821,2.5,2022-09-15,,0,
 Guilford,Greensboro - North Buffalo,135821,2.14,2022-09-16,,0,
 Guilford,Greensboro - North Buffalo,135821,1.69,2022-09-17,12323.7575438662,0,4224673.11550189
 Guilford,Greensboro - North Buffalo,135821,1.25,2022-09-18,,0,
@@ -4266,29 +4301,36 @@ Guilford,Greensboro - North Buffalo,135821,1.69,2022-09-23,,0,
 Guilford,Greensboro - North Buffalo,135821,2.14,2022-09-24,27850.0448832673,0,9391957.6118829
 Guilford,Greensboro - North Buffalo,135821,1.03,2022-09-25,,0,
 Guilford,Greensboro - North Buffalo,135821,1.47,2022-09-26,,0,
-Guilford,Greensboro - North Buffalo,135821,2.43,2022-09-27,,0,
+Guilford,Greensboro - North Buffalo,135821,2.58,2022-09-27,,0,
 Guilford,Greensboro - North Buffalo,135821,1.77,2022-09-28,13711.3092008021,0,4662121.73488884
 Guilford,Greensboro - North Buffalo,135821,1.69,2022-09-29,,0,
 Guilford,Greensboro - North Buffalo,135821,1.25,2022-09-30,,0,
 Guilford,Greensboro - North Buffalo,135821,1.77,2022-10-01,17282.5779327044,0,5828257.72986619
-Guilford,Greensboro - North Buffalo,135821,1.03,2022-10-02,,0,
-Guilford,Greensboro - North Buffalo,135821,0.88,2022-10-03,,0,
+Guilford,Greensboro - North Buffalo,135821,1.1,2022-10-02,,0,
+Guilford,Greensboro - North Buffalo,135821,0.96,2022-10-03,,0,
 Guilford,Greensboro - North Buffalo,135821,1.47,2022-10-04,,0,
 Guilford,Greensboro - North Buffalo,135821,1.18,2022-10-05,26324.8931621764,0,9537945.21826028
 Guilford,Greensboro - North Buffalo,135821,1.47,2022-10-06,,0,
 Guilford,Greensboro - North Buffalo,135821,1.47,2022-10-07,,0,
-Guilford,Greensboro - North Buffalo,135821,1.55,2022-10-08,33014.2993281107,0,11317540.3120471
+Guilford,Greensboro - North Buffalo,135821,1.69,2022-10-08,33014.2993281107,0,11317540.3120471
 Guilford,Greensboro - North Buffalo,135821,0.59,2022-10-09,,0,
 Guilford,Greensboro - North Buffalo,135821,0.37,2022-10-10,,0,
-Guilford,Greensboro - North Buffalo,135821,1.84,2022-10-11,,0,
-Guilford,Greensboro - North Buffalo,135821,1.03,2022-10-12,22030.65634768,0,7306665.9339001
-Guilford,Greensboro - North Buffalo,135821,1.25,2022-10-13,,0,
-Guilford,Greensboro - North Buffalo,135821,1.69,2022-10-14,,0,
-Guilford,Greensboro - North Buffalo,135821,0.44,2022-10-15,11319.2314226718,0,3880314.30424452
+Guilford,Greensboro - North Buffalo,135821,1.91,2022-10-11,,0,
+Guilford,Greensboro - North Buffalo,135821,0.96,2022-10-12,22030.65634768,0,7306665.9339001
+Guilford,Greensboro - North Buffalo,135821,1.4,2022-10-13,,0,
+Guilford,Greensboro - North Buffalo,135821,1.55,2022-10-14,,0,
+Guilford,Greensboro - North Buffalo,135821,0.59,2022-10-15,11319.2314226718,0,3880314.30424452
 Guilford,Greensboro - North Buffalo,135821,0.37,2022-10-16,,0,
-Guilford,Greensboro - North Buffalo,135821,0.59,2022-10-17,,0,
-Guilford,Greensboro - North Buffalo,135821,0.15,2022-10-18,,0,
-Guilford,Greensboro - North Buffalo,135821,,2022-10-19,40024.992192379,0,15059476.61634
+Guilford,Greensboro - North Buffalo,135821,0.81,2022-10-17,,0,
+Guilford,Greensboro - North Buffalo,135821,0.44,2022-10-18,,0,
+Guilford,Greensboro - North Buffalo,135821,0.81,2022-10-19,40024.992192379,0,15059476.61634
+Guilford,Greensboro - North Buffalo,135821,,2022-10-20,,0,
+Guilford,Greensboro - North Buffalo,135821,,2022-10-21,,0,
+Guilford,Greensboro - North Buffalo,135821,,2022-10-22,33056.7693521312,0,11332099.3430938
+Guilford,Greensboro - North Buffalo,135821,,2022-10-23,,0,
+Guilford,Greensboro - North Buffalo,135821,,2022-10-24,,0,
+Guilford,Greensboro - North Buffalo,135821,,2022-10-25,,0,
+Guilford,Greensboro - North Buffalo,135821,,2022-10-26,8867.07392548411,0,3014984.01556339
 "Halifax,northampton",Roanoke Rapids,14320,1.4,2021-06-19,0,0,204202.460580992
 "Halifax,northampton",Roanoke Rapids,14320,,2021-06-20,,0,
 "Halifax,northampton",Roanoke Rapids,14320,1.4,2021-06-21,,0,
@@ -4776,7 +4818,14 @@ Guilford,Greensboro - North Buffalo,135821,,2022-10-19,40024.992192379,0,1505947
 "Halifax,northampton",Roanoke Rapids,14320,1.4,2022-10-16,,0,
 "Halifax,northampton",Roanoke Rapids,14320,,2022-10-17,,0,
 "Halifax,northampton",Roanoke Rapids,14320,1.4,2022-10-18,,0,
-"Halifax,northampton",Roanoke Rapids,14320,,2022-10-19,9617.69203083569,0,5847462.72703268
+"Halifax,northampton",Roanoke Rapids,14320,1.4,2022-10-19,9617.69203083569,0,5847462.72703268
+"Halifax,northampton",Roanoke Rapids,14320,,2022-10-20,,0,
+"Halifax,northampton",Roanoke Rapids,14320,,2022-10-21,23345.2350598575,0,14193674.680855
+"Halifax,northampton",Roanoke Rapids,14320,,2022-10-22,,0,
+"Halifax,northampton",Roanoke Rapids,14320,,2022-10-23,,0,
+"Halifax,northampton",Roanoke Rapids,14320,,2022-10-24,,0,
+"Halifax,northampton",Roanoke Rapids,14320,,2022-10-25,,0,
+"Halifax,northampton",Roanoke Rapids,14320,,2022-10-26,17392.5271309261,0,10114726.1761938
 Jackson,Tuckaseigee,13296,1.5,2021-03-30,,0,
 Jackson,Tuckaseigee,13296,1.5,2021-03-31,,0,
 Jackson,Tuckaseigee,13296,,2021-04-01,,0,
@@ -5344,8 +5393,15 @@ Jackson,Tuckaseigee,13296,,2022-10-14,,0,
 Jackson,Tuckaseigee,13296,1.5,2022-10-15,14282.8568570857,0,4025696.68196029
 Jackson,Tuckaseigee,13296,1.5,2022-10-16,,0,
 Jackson,Tuckaseigee,13296,,2022-10-17,,0,
-Jackson,Tuckaseigee,13296,,2022-10-18,11581.2348219005,0,1879405.50451628
-Jackson,Tuckaseigee,13296,,2022-10-19,,0,
+Jackson,Tuckaseigee,13296,1.5,2022-10-18,11581.2348219005,0,1879405.50451628
+Jackson,Tuckaseigee,13296,1.5,2022-10-19,,0,
+Jackson,Tuckaseigee,13296,,2022-10-20,,0,
+Jackson,Tuckaseigee,13296,,2022-10-21,,0,
+Jackson,Tuckaseigee,13296,,2022-10-22,13228.756555323,0,2485728.72612686
+Jackson,Tuckaseigee,13296,,2022-10-23,,0,
+Jackson,Tuckaseigee,13296,,2022-10-24,,0,
+Jackson,Tuckaseigee,13296,,2022-10-25,18201.9916492674,0,3109287.86954588
+Jackson,Tuckaseigee,13296,,2022-10-26,,0,
 Mcdowell,Marion,8459,2.36,2021-06-17,4242.64068711929,0,892332.813193051
 Mcdowell,Marion,8459,,2021-06-18,,0,
 Mcdowell,Marion,8459,2.36,2021-06-19,,0,
@@ -5749,7 +5805,7 @@ Mcdowell,Marion,8459,2.36,2022-07-21,10517.8419839813,0,4424327.30859357
 Mcdowell,Marion,8459,2.36,2022-07-22,,0,
 Mcdowell,Marion,8459,2.36,2022-07-23,,0,
 Mcdowell,Marion,8459,2.36,2022-07-24,,0,
-Mcdowell,Marion,8459,2.36,2022-07-25,,0,
+Mcdowell,Marion,8459,5.91,2022-07-25,,0,
 Mcdowell,Marion,8459,15.37,2022-07-26,19735.7543559906,0,9096696.56878372
 Mcdowell,Marion,8459,2.36,2022-07-27,,0,
 Mcdowell,Marion,8459,2.36,2022-07-28,29294.8374291444,0,12978336.7807353
@@ -5830,12 +5886,19 @@ Mcdowell,Marion,8459,,2022-10-10,,0,
 Mcdowell,Marion,8459,,2022-10-11,35892.2201951925,0,13813111.8194961
 Mcdowell,Marion,8459,2.36,2022-10-12,,0,
 Mcdowell,Marion,8459,,2022-10-13,0,0,1066121.9096697
-Mcdowell,Marion,8459,,2022-10-14,,0,
+Mcdowell,Marion,8459,2.36,2022-10-14,,0,
 Mcdowell,Marion,8459,2.36,2022-10-15,,0,
 Mcdowell,Marion,8459,2.36,2022-10-16,,0,
 Mcdowell,Marion,8459,,2022-10-17,,0,
 Mcdowell,Marion,8459,,2022-10-18,23785.4997845326,0,8195883.17543025
 Mcdowell,Marion,8459,,2022-10-19,,0,
+Mcdowell,Marion,8459,,2022-10-20,23418.742493994,0,8488703.07929772
+Mcdowell,Marion,8459,,2022-10-21,,0,
+Mcdowell,Marion,8459,,2022-10-22,,0,
+Mcdowell,Marion,8459,,2022-10-23,,0,
+Mcdowell,Marion,8459,,2022-10-24,,0,
+Mcdowell,Marion,8459,,2022-10-25,0,0,869187.512790765
+Mcdowell,Marion,8459,,2022-10-26,,0,
 Mecklenburg,Charlotte 1,68685,2.04,2021-03-30,,0,
 Mecklenburg,Charlotte 1,68685,4.51,2021-03-31,26998.8425677843,0,8808799.56968854
 Mecklenburg,Charlotte 1,68685,3.64,2021-04-01,,0,
@@ -6403,8 +6466,15 @@ Mecklenburg,Charlotte 1,68685,0.29,2022-10-14,,0,
 Mecklenburg,Charlotte 1,68685,1.31,2022-10-15,27783.7632440244,0,7273351.13305185
 Mecklenburg,Charlotte 1,68685,0.29,2022-10-16,,0,
 Mecklenburg,Charlotte 1,68685,0.29,2022-10-17,,0,
-Mecklenburg,Charlotte 1,68685,0.87,2022-10-18,36997.4661294527,0,10093157.6183712
-Mecklenburg,Charlotte 1,68685,,2022-10-19,,0,
+Mecklenburg,Charlotte 1,68685,1.31,2022-10-18,36997.4661294527,0,10093157.6183712
+Mecklenburg,Charlotte 1,68685,0.87,2022-10-19,,0,
+Mecklenburg,Charlotte 1,68685,,2022-10-20,,0,
+Mecklenburg,Charlotte 1,68685,,2022-10-21,,0,
+Mecklenburg,Charlotte 1,68685,,2022-10-22,38906.9402549212,0,10614075.0036083
+Mecklenburg,Charlotte 1,68685,,2022-10-23,,0,
+Mecklenburg,Charlotte 1,68685,,2022-10-24,,0,
+Mecklenburg,Charlotte 1,68685,,2022-10-25,72456.8837309473,0,20285851.3705997
+Mecklenburg,Charlotte 1,68685,,2022-10-26,,0,
 Mecklenburg,Charlotte 3,120000,0.42,2021-06-01,,0,
 Mecklenburg,Charlotte 3,120000,1.08,2021-06-02,,0,
 Mecklenburg,Charlotte 3,120000,1,2021-06-03,14400.5208239147,0,3924844.66993295
@@ -6508,7 +6578,7 @@ Mecklenburg,Charlotte 3,120000,5.58,2021-09-08,,0,
 Mecklenburg,Charlotte 3,120000,6.75,2021-09-09,,0,
 Mecklenburg,Charlotte 3,120000,7.17,2021-09-10,,0,
 Mecklenburg,Charlotte 3,120000,5.92,2021-09-11,219302.872758202,0,70147598.4885367
-Mecklenburg,Charlotte 3,120000,4.17,2021-09-12,,0,
+Mecklenburg,Charlotte 3,120000,4.08,2021-09-12,,0,
 Mecklenburg,Charlotte 3,120000,5.08,2021-09-13,99718.3533758958,0,27461222.9417281
 Mecklenburg,Charlotte 3,120000,7.67,2021-09-14,,0,
 Mecklenburg,Charlotte 3,120000,8,2021-09-15,,0,
@@ -6843,7 +6913,7 @@ Mecklenburg,Charlotte 3,120000,4.58,2022-08-09,112326.254722572,0,34901817.29645
 Mecklenburg,Charlotte 3,120000,5.58,2022-08-10,,0,
 Mecklenburg,Charlotte 3,120000,5.17,2022-08-11,,0,
 Mecklenburg,Charlotte 3,120000,4.08,2022-08-12,124899.959967968,0,42748666.2235065
-Mecklenburg,Charlotte 3,120000,4.08,2022-08-13,,0,
+Mecklenburg,Charlotte 3,120000,4,2022-08-13,,0,
 Mecklenburg,Charlotte 3,120000,2.08,2022-08-14,,0,
 Mecklenburg,Charlotte 3,120000,2.58,2022-08-15,,0,
 Mecklenburg,Charlotte 3,120000,5.25,2022-08-16,93374.2469849156,0,31546204.5524003
@@ -6851,12 +6921,12 @@ Mecklenburg,Charlotte 3,120000,3.83,2022-08-17,,0,
 Mecklenburg,Charlotte 3,120000,4.17,2022-08-18,,0,
 Mecklenburg,Charlotte 3,120000,3.75,2022-08-19,,0,
 Mecklenburg,Charlotte 3,120000,3.83,2022-08-20,160565.407233314,0,53942630.9630126
-Mecklenburg,Charlotte 3,120000,1.83,2022-08-21,,0,
+Mecklenburg,Charlotte 3,120000,1.92,2022-08-21,,0,
 Mecklenburg,Charlotte 3,120000,2,2022-08-22,,0,
 Mecklenburg,Charlotte 3,120000,5.08,2022-08-23,111970.978382793,0,37723089.7997501
 Mecklenburg,Charlotte 3,120000,4.08,2022-08-24,,0,
 Mecklenburg,Charlotte 3,120000,4.25,2022-08-25,,0,
-Mecklenburg,Charlotte 3,120000,3.75,2022-08-26,,0,
+Mecklenburg,Charlotte 3,120000,3.83,2022-08-26,,0,
 Mecklenburg,Charlotte 3,120000,3.92,2022-08-27,79960.9279585974,0,25829042.9179284
 Mecklenburg,Charlotte 3,120000,2.33,2022-08-28,,0,
 Mecklenburg,Charlotte 3,120000,1.83,2022-08-29,,0,
@@ -6878,13 +6948,13 @@ Mecklenburg,Charlotte 3,120000,2.83,2022-09-13,86204.6982478334,0,33502111.18072
 Mecklenburg,Charlotte 3,120000,2.67,2022-09-14,,0,
 Mecklenburg,Charlotte 3,120000,3.17,2022-09-15,,0,
 Mecklenburg,Charlotte 3,120000,2.25,2022-09-16,58094.7501931113,0,19645460.1527029
-Mecklenburg,Charlotte 3,120000,2.92,2022-09-17,,0,
+Mecklenburg,Charlotte 3,120000,3,2022-09-17,,0,
 Mecklenburg,Charlotte 3,120000,1.25,2022-09-18,,0,
 Mecklenburg,Charlotte 3,120000,1.33,2022-09-19,,0,
 Mecklenburg,Charlotte 3,120000,1.92,2022-09-20,24396.4649078509,0,8742502.47548626
 Mecklenburg,Charlotte 3,120000,2.92,2022-09-21,,0,
 Mecklenburg,Charlotte 3,120000,2,2022-09-22,,0,
-Mecklenburg,Charlotte 3,120000,2.67,2022-09-23,,0,
+Mecklenburg,Charlotte 3,120000,2.75,2022-09-23,,0,
 Mecklenburg,Charlotte 3,120000,1.92,2022-09-24,52163.8045008223,0,16471527.2019141
 Mecklenburg,Charlotte 3,120000,0.83,2022-09-25,,0,
 Mecklenburg,Charlotte 3,120000,1.17,2022-09-26,,0,
@@ -6901,16 +6971,23 @@ Mecklenburg,Charlotte 3,120000,1.33,2022-10-06,,0,
 Mecklenburg,Charlotte 3,120000,1,2022-10-07,,0,
 Mecklenburg,Charlotte 3,120000,1.08,2022-10-08,40682.5892880143,0,12461156.4299679
 Mecklenburg,Charlotte 3,120000,1.08,2022-10-09,23177.249469582,0,7896164.412794
-Mecklenburg,Charlotte 3,120000,1,2022-10-10,,0,
+Mecklenburg,Charlotte 3,120000,0.92,2022-10-10,,0,
 Mecklenburg,Charlotte 3,120000,1.5,2022-10-11,,0,
 Mecklenburg,Charlotte 3,120000,0.83,2022-10-12,,0,
 Mecklenburg,Charlotte 3,120000,0.67,2022-10-13,,0,
 Mecklenburg,Charlotte 3,120000,0.67,2022-10-14,,0,
 Mecklenburg,Charlotte 3,120000,0.5,2022-10-15,54244.8154204621,0,20328494.104969
-Mecklenburg,Charlotte 3,120000,0.58,2022-10-16,,0,
+Mecklenburg,Charlotte 3,120000,0.75,2022-10-16,,0,
 Mecklenburg,Charlotte 3,120000,0.17,2022-10-17,,0,
-Mecklenburg,Charlotte 3,120000,0.42,2022-10-18,56291.6512459885,0,17899258.9966314
-Mecklenburg,Charlotte 3,120000,,2022-10-19,,0,
+Mecklenburg,Charlotte 3,120000,0.92,2022-10-18,56291.6512459885,0,17899258.9966314
+Mecklenburg,Charlotte 3,120000,0.42,2022-10-19,,0,
+Mecklenburg,Charlotte 3,120000,,2022-10-20,,0,
+Mecklenburg,Charlotte 3,120000,,2022-10-21,,0,
+Mecklenburg,Charlotte 3,120000,,2022-10-22,30058.2767303783,0,9273281.95991666
+Mecklenburg,Charlotte 3,120000,,2022-10-23,,0,
+Mecklenburg,Charlotte 3,120000,,2022-10-24,,0,
+Mecklenburg,Charlotte 3,120000,,2022-10-25,14241.2253686261,0,4725999.05874483
+Mecklenburg,Charlotte 3,120000,,2022-10-26,,0,
 Mecklenburg,Charlotte 2,182501,1.92,2021-03-30,,0,
 Mecklenburg,Charlotte 2,182501,2.14,2021-03-31,16112.883044322,0,7045152.37502034
 Mecklenburg,Charlotte 2,182501,1.92,2021-04-01,,0,
@@ -7363,7 +7440,7 @@ Mecklenburg,Charlotte 2,182501,3.07,2022-06-21,50027.4924416566,0,14890427.46561
 Mecklenburg,Charlotte 2,182501,4.05,2022-06-22,,0,
 Mecklenburg,Charlotte 2,182501,3.34,2022-06-23,,0,
 Mecklenburg,Charlotte 2,182501,2.74,2022-06-24,,0,
-Mecklenburg,Charlotte 2,182501,2.74,2022-06-25,62299.6789718856,0,21605713.4148554
+Mecklenburg,Charlotte 2,182501,2.68,2022-06-25,62299.6789718856,0,21605713.4148554
 Mecklenburg,Charlotte 2,182501,2.14,2022-06-26,,0,
 Mecklenburg,Charlotte 2,182501,1.75,2022-06-27,,0,
 Mecklenburg,Charlotte 2,182501,3.12,2022-06-28,48528.3422342037,0,15319924.9399886
@@ -7396,7 +7473,7 @@ Mecklenburg,Charlotte 2,182501,3.51,2022-07-24,,0,
 Mecklenburg,Charlotte 2,182501,2.3,2022-07-25,,0,
 Mecklenburg,Charlotte 2,182501,5.15,2022-07-26,154252.228509024,0,47544116.979957
 Mecklenburg,Charlotte 2,182501,4.22,2022-07-27,,0,
-Mecklenburg,Charlotte 2,182501,4.49,2022-07-28,,0,
+Mecklenburg,Charlotte 2,182501,4.44,2022-07-28,,0,
 Mecklenburg,Charlotte 2,182501,4.22,2022-07-29,,0,
 Mecklenburg,Charlotte 2,182501,4.38,2022-07-30,119895.788082818,0,38446777.6099117
 Mecklenburg,Charlotte 2,182501,2.96,2022-07-31,,0,
@@ -7436,9 +7513,9 @@ Mecklenburg,Charlotte 2,182501,1.64,2022-09-02,,0,
 Mecklenburg,Charlotte 2,182501,2.14,2022-09-03,40835.0339781909,0,11942591.1115923
 Mecklenburg,Charlotte 2,182501,0.77,2022-09-04,,0,
 Mecklenburg,Charlotte 2,182501,1.26,2022-09-05,,0,
-Mecklenburg,Charlotte 2,182501,1.04,2022-09-06,,0,
+Mecklenburg,Charlotte 2,182501,0.99,2022-09-06,,0,
 Mecklenburg,Charlotte 2,182501,2.52,2022-09-07,,0,
-Mecklenburg,Charlotte 2,182501,2.63,2022-09-08,,0,
+Mecklenburg,Charlotte 2,182501,2.58,2022-09-08,,0,
 Mecklenburg,Charlotte 2,182501,1.75,2022-09-09,,0,
 Mecklenburg,Charlotte 2,182501,1.75,2022-09-10,91651.5138991167,0,26329095.8618581
 Mecklenburg,Charlotte 2,182501,1.48,2022-09-11,,0,
@@ -7466,20 +7543,27 @@ Mecklenburg,Charlotte 2,182501,0.44,2022-10-02,,0,
 Mecklenburg,Charlotte 2,182501,0.44,2022-10-03,,0,
 Mecklenburg,Charlotte 2,182501,1.15,2022-10-04,22975.5304617761,0,6871908.00491122
 Mecklenburg,Charlotte 2,182501,0.66,2022-10-05,,0,
-Mecklenburg,Charlotte 2,182501,1.53,2022-10-06,,0,
+Mecklenburg,Charlotte 2,182501,1.48,2022-10-06,,0,
 Mecklenburg,Charlotte 2,182501,0.93,2022-10-07,,0,
 Mecklenburg,Charlotte 2,182501,0.71,2022-10-08,22508.459100098,0,7035671.38063949
-Mecklenburg,Charlotte 2,182501,0.44,2022-10-09,,0,
+Mecklenburg,Charlotte 2,182501,0.38,2022-10-09,,0,
 Mecklenburg,Charlotte 2,182501,0.44,2022-10-10,,0,
 Mecklenburg,Charlotte 2,182501,0.82,2022-10-11,20303.3674865968,0,6009503.29663567
 Mecklenburg,Charlotte 2,182501,0.11,2022-10-12,,0,
-Mecklenburg,Charlotte 2,182501,0.55,2022-10-13,,0,
+Mecklenburg,Charlotte 2,182501,0.6,2022-10-13,,0,
 Mecklenburg,Charlotte 2,182501,0.33,2022-10-14,,0,
 Mecklenburg,Charlotte 2,182501,0.11,2022-10-15,26944.387170615,0,8338418.01019742
 Mecklenburg,Charlotte 2,182501,0.11,2022-10-16,,0,
 Mecklenburg,Charlotte 2,182501,0.11,2022-10-17,,0,
-Mecklenburg,Charlotte 2,182501,0.27,2022-10-18,18186.5334794732,0,5518750.77440499
-Mecklenburg,Charlotte 2,182501,,2022-10-19,,0,
+Mecklenburg,Charlotte 2,182501,0.6,2022-10-18,18186.5334794732,0,5518750.77440499
+Mecklenburg,Charlotte 2,182501,0.71,2022-10-19,,0,
+Mecklenburg,Charlotte 2,182501,,2022-10-20,,0,
+Mecklenburg,Charlotte 2,182501,,2022-10-21,,0,
+Mecklenburg,Charlotte 2,182501,,2022-10-22,27769.1375451237,0,8610931.08687901
+Mecklenburg,Charlotte 2,182501,,2022-10-23,,0,
+Mecklenburg,Charlotte 2,182501,,2022-10-24,,0,
+Mecklenburg,Charlotte 2,182501,,2022-10-25,29417.256840161,0,8926742.91946546
+Mecklenburg,Charlotte 2,182501,,2022-10-26,,0,
 New Hanover,Wilmington City,58361,3.43,2021-03-30,5511.35192126216,0,1172522.10767132
 New Hanover,Wilmington City,58361,4.46,2021-03-31,,0,
 New Hanover,Wilmington City,58361,1.88,2021-04-01,,0,
@@ -7629,7 +7713,7 @@ New Hanover,Wilmington City,58361,5.65,2021-08-22,,0,
 New Hanover,Wilmington City,58361,7.2,2021-08-23,,0,
 New Hanover,Wilmington City,58361,22.1,2021-08-24,,0,
 New Hanover,Wilmington City,58361,22.45,2021-08-25,28680.3504162694,0,8929245.08893922
-New Hanover,Wilmington City,58361,19.02,2021-08-26,,0,
+New Hanover,Wilmington City,58361,18.85,2021-08-26,,0,
 New Hanover,Wilmington City,58361,19.19,2021-08-27,,0,
 New Hanover,Wilmington City,58361,13.02,2021-08-28,153582.225534077,0,41938423.9306982
 New Hanover,Wilmington City,58361,5.48,2021-08-29,,0,
@@ -7641,7 +7725,7 @@ New Hanover,Wilmington City,58361,10.45,2021-09-03,,0,
 New Hanover,Wilmington City,58361,7.71,2021-09-04,162980.060130066,0,36999135.0158022
 New Hanover,Wilmington City,58361,4.97,2021-09-05,,0,
 New Hanover,Wilmington City,58361,3.26,2021-09-06,,0,
-New Hanover,Wilmington City,58361,3.08,2021-09-07,,0,
+New Hanover,Wilmington City,58361,3.26,2021-09-07,,0,
 New Hanover,Wilmington City,58361,10.11,2021-09-08,144568.32294801,0,31881673.7365218
 New Hanover,Wilmington City,58361,7.71,2021-09-09,,0,
 New Hanover,Wilmington City,58361,6.85,2021-09-10,,0,
@@ -8033,22 +8117,29 @@ New Hanover,Wilmington City,58361,0.86,2022-09-30,,0,
 New Hanover,Wilmington City,58361,0.34,2022-10-01,8536.68553948194,0,1688799.82857597
 New Hanover,Wilmington City,58361,0.34,2022-10-02,,0,
 New Hanover,Wilmington City,58361,0.34,2022-10-03,,0,
-New Hanover,Wilmington City,58361,0.86,2022-10-04,,0,
-New Hanover,Wilmington City,58361,1.71,2022-10-05,74624.0577829966,0,20619470.6994957
+New Hanover,Wilmington City,58361,1.03,2022-10-04,,0,
+New Hanover,Wilmington City,58361,1.88,2022-10-05,74624.0577829966,0,20619470.6994957
 New Hanover,Wilmington City,58361,0.86,2022-10-06,,0,
 New Hanover,Wilmington City,58361,0.34,2022-10-07,,0,
 New Hanover,Wilmington City,58361,0.34,2022-10-08,8198.61914237549,0,1850584.87855567
 New Hanover,Wilmington City,58361,0.34,2022-10-09,,0,
 New Hanover,Wilmington City,58361,0.34,2022-10-10,,0,
-New Hanover,Wilmington City,58361,0.34,2022-10-11,,0,
+New Hanover,Wilmington City,58361,0.86,2022-10-11,,0,
 New Hanover,Wilmington City,58361,,2022-10-12,37686.0383525066,0,7724255.33269593
 New Hanover,Wilmington City,58361,1.03,2022-10-13,,0,
 New Hanover,Wilmington City,58361,0.34,2022-10-14,,0,
-New Hanover,Wilmington City,58361,1.03,2022-10-15,8396.42781187334,0,1720959.67463625
+New Hanover,Wilmington City,58361,0.86,2022-10-15,8396.42781187334,0,1720959.67463625
 New Hanover,Wilmington City,58361,0.34,2022-10-16,,0,
 New Hanover,Wilmington City,58361,,2022-10-17,,0,
 New Hanover,Wilmington City,58361,0.34,2022-10-18,,0,
-New Hanover,Wilmington City,58361,,2022-10-19,30031.2337408906,0,6038428.39959182
+New Hanover,Wilmington City,58361,0.34,2022-10-19,30031.2337408906,0,6038428.39959182
+New Hanover,Wilmington City,58361,,2022-10-20,,0,
+New Hanover,Wilmington City,58361,,2022-10-21,,0,
+New Hanover,Wilmington City,58361,,2022-10-22,17361.9555350197,0,3310815.83005525
+New Hanover,Wilmington City,58361,,2022-10-23,,0,
+New Hanover,Wilmington City,58361,,2022-10-24,,0,
+New Hanover,Wilmington City,58361,,2022-10-25,,0,
+New Hanover,Wilmington City,58361,,2022-10-26,14585.9521458148,0,2790910.13854566
 New Hanover,New Hanover County (North),67743,2.21,2021-03-30,0,0,113891.242556233
 New Hanover,New Hanover County (North),67743,1.77,2021-03-31,,0,
 New Hanover,New Hanover County (North),67743,1.92,2021-04-01,,0,
@@ -8531,7 +8622,7 @@ New Hanover,New Hanover County (North),67743,3.99,2022-07-21,,0,
 New Hanover,New Hanover County (North),67743,3.69,2022-07-22,,0,
 New Hanover,New Hanover County (North),67743,1.92,2022-07-23,50977.9364038993,0,18971594.4656379
 New Hanover,New Hanover County (North),67743,2.66,2022-07-24,,0,
-New Hanover,New Hanover County (North),67743,1.92,2022-07-25,,0,
+New Hanover,New Hanover County (North),67743,2.07,2022-07-25,,0,
 New Hanover,New Hanover County (North),67743,4.13,2022-07-26,,0,
 New Hanover,New Hanover County (North),67743,2.8,2022-07-27,33203.915431768,0,11837427.4450961
 New Hanover,New Hanover County (North),67743,3.99,2022-07-28,,0,
@@ -8604,7 +8695,7 @@ New Hanover,New Hanover County (North),67743,0.3,2022-10-02,,0,
 New Hanover,New Hanover County (North),67743,0.3,2022-10-03,,0,
 New Hanover,New Hanover County (North),67743,0.3,2022-10-04,,0,
 New Hanover,New Hanover County (North),67743,0.3,2022-10-05,8351.64654424504,0,3733442.31328228
-New Hanover,New Hanover County (North),67743,1.18,2022-10-06,,0,
+New Hanover,New Hanover County (North),67743,1.33,2022-10-06,,0,
 New Hanover,New Hanover County (North),67743,0.74,2022-10-07,,0,
 New Hanover,New Hanover County (North),67743,0.3,2022-10-08,13093.4957247803,0,5428837.82644772
 New Hanover,New Hanover County (North),67743,0.3,2022-10-09,,0,
@@ -8616,8 +8707,15 @@ New Hanover,New Hanover County (North),67743,,2022-10-14,,0,
 New Hanover,New Hanover County (North),67743,0.3,2022-10-15,0,0,411988.198209371
 New Hanover,New Hanover County (North),67743,0.3,2022-10-16,,0,
 New Hanover,New Hanover County (North),67743,,2022-10-17,,0,
-New Hanover,New Hanover County (North),67743,0.89,2022-10-18,,0,
-New Hanover,New Hanover County (North),67743,,2022-10-19,21968.7277738153,0,7169107.73292591
+New Hanover,New Hanover County (North),67743,1.33,2022-10-18,,0,
+New Hanover,New Hanover County (North),67743,0.3,2022-10-19,21968.7277738153,0,7169107.73292591
+New Hanover,New Hanover County (North),67743,,2022-10-20,,0,
+New Hanover,New Hanover County (North),67743,,2022-10-21,,0,
+New Hanover,New Hanover County (North),67743,,2022-10-22,18381.3764446518,0,862721.488148564
+New Hanover,New Hanover County (North),67743,,2022-10-23,,0,
+New Hanover,New Hanover County (North),67743,,2022-10-24,,0,
+New Hanover,New Hanover County (North),67743,,2022-10-25,,0,
+New Hanover,New Hanover County (North),67743,,2022-10-26,17282.5779327044,0,4394073.0526311
 Onslow,Jacksonville,41819,0.48,2022-03-19,3316.6247903554,0,1086783.52812618
 Onslow,Jacksonville,41819,,2022-03-20,,0,
 Onslow,Jacksonville,41819,,2022-03-21,,0,
@@ -8816,7 +8914,7 @@ Onslow,Jacksonville,41819,0.48,2022-09-29,,0,
 Onslow,Jacksonville,41819,1.2,2022-09-30,,0,
 Onslow,Jacksonville,41819,0.48,2022-10-01,18447.5608143733,0,5710882.05688829
 Onslow,Jacksonville,41819,0.48,2022-10-02,,0,
-Onslow,Jacksonville,41819,0.48,2022-10-03,,0,
+Onslow,Jacksonville,41819,1.2,2022-10-03,,0,
 Onslow,Jacksonville,41819,0.48,2022-10-04,,0,
 Onslow,Jacksonville,41819,1.67,2022-10-05,27636.027210871,0,10131383.8323806
 Onslow,Jacksonville,41819,0.48,2022-10-06,,0,
@@ -8825,14 +8923,21 @@ Onslow,Jacksonville,41819,0.48,2022-10-08,17931.4210892605,0,6427587.97459275
 Onslow,Jacksonville,41819,0.48,2022-10-09,,0,
 Onslow,Jacksonville,41819,0.48,2022-10-10,,0,
 Onslow,Jacksonville,41819,0.48,2022-10-11,,0,
-Onslow,Jacksonville,41819,1.2,2022-10-12,22079.592453335,0,7734640.84473437
+Onslow,Jacksonville,41819,1.43,2022-10-12,22079.592453335,0,7734640.84473437
 Onslow,Jacksonville,41819,1.2,2022-10-13,,0,
 Onslow,Jacksonville,41819,1.2,2022-10-14,,0,
 Onslow,Jacksonville,41819,,2022-10-15,30103.9864469807,0,10055148.994326
 Onslow,Jacksonville,41819,0.48,2022-10-16,,0,
 Onslow,Jacksonville,41819,0.48,2022-10-17,,0,
 Onslow,Jacksonville,41819,0.48,2022-10-18,,0,
-Onslow,Jacksonville,41819,,2022-10-19,13247.6412994918,0,4424895.92946042
+Onslow,Jacksonville,41819,0.48,2022-10-19,13247.6412994918,0,4424895.92946042
+Onslow,Jacksonville,41819,,2022-10-20,,0,
+Onslow,Jacksonville,41819,,2022-10-21,,0,
+Onslow,Jacksonville,41819,,2022-10-22,172173.604248735,0,53300442.1054836
+Onslow,Jacksonville,41819,,2022-10-23,,0,
+Onslow,Jacksonville,41819,,2022-10-24,,0,
+Onslow,Jacksonville,41819,,2022-10-25,,0,
+Onslow,Jacksonville,41819,,2022-10-26,48708.3155118303,0,15872441.8837976
 Orange,Chapel Hill - Carrboro,78141,0.77,2021-03-30,0,0,776798.475451891
 Orange,Chapel Hill - Carrboro,78141,0.26,2021-03-31,,0,
 Orange,Chapel Hill - Carrboro,78141,0.26,2021-04-01,4107.91918128875,0,1697476.36072348
@@ -9360,7 +9465,7 @@ Orange,Chapel Hill - Carrboro,78141,0.64,2022-09-04,,0,
 Orange,Chapel Hill - Carrboro,78141,1.02,2022-09-05,,0,
 Orange,Chapel Hill - Carrboro,78141,1.15,2022-09-06,,0,
 Orange,Chapel Hill - Carrboro,78141,2.94,2022-09-07,15588.4572681199,0,5157706.83962225
-Orange,Chapel Hill - Carrboro,78141,2.18,2022-09-08,,0,
+Orange,Chapel Hill - Carrboro,78141,2.3,2022-09-08,,0,
 Orange,Chapel Hill - Carrboro,78141,3.07,2022-09-09,,0,
 Orange,Chapel Hill - Carrboro,78141,2.3,2022-09-10,16042.9112071345,0,5898719.82536267
 Orange,Chapel Hill - Carrboro,78141,0.9,2022-09-11,,0,
@@ -9393,15 +9498,22 @@ Orange,Chapel Hill - Carrboro,78141,0.9,2022-10-07,,0,
 Orange,Chapel Hill - Carrboro,78141,0.9,2022-10-08,24301.8863419715,0,8158419.50670162
 Orange,Chapel Hill - Carrboro,78141,0.26,2022-10-09,,0,
 Orange,Chapel Hill - Carrboro,78141,0.26,2022-10-10,,0,
-Orange,Chapel Hill - Carrboro,78141,1.41,2022-10-11,,0,
-Orange,Chapel Hill - Carrboro,78141,0.9,2022-10-12,2946.82818968952,0,973580.806330733
-Orange,Chapel Hill - Carrboro,78141,0.26,2022-10-13,,0,
-Orange,Chapel Hill - Carrboro,78141,2.56,2022-10-14,,0,
+Orange,Chapel Hill - Carrboro,78141,1.54,2022-10-11,,0,
+Orange,Chapel Hill - Carrboro,78141,1.02,2022-10-12,2946.82818968952,0,973580.806330733
+Orange,Chapel Hill - Carrboro,78141,0.64,2022-10-13,,0,
+Orange,Chapel Hill - Carrboro,78141,2.18,2022-10-14,,0,
 Orange,Chapel Hill - Carrboro,78141,0.26,2022-10-15,21260.2916254693,0,7487493.20550678
-Orange,Chapel Hill - Carrboro,78141,0.64,2022-10-16,,0,
+Orange,Chapel Hill - Carrboro,78141,0.77,2022-10-16,,0,
 Orange,Chapel Hill - Carrboro,78141,0.26,2022-10-17,,0,
-Orange,Chapel Hill - Carrboro,78141,0.26,2022-10-18,,0,
-Orange,Chapel Hill - Carrboro,78141,,2022-10-19,3889.08729652601,0,1490242.6488457
+Orange,Chapel Hill - Carrboro,78141,1.15,2022-10-18,,0,
+Orange,Chapel Hill - Carrboro,78141,0.26,2022-10-19,3889.08729652601,0,1490242.6488457
+Orange,Chapel Hill - Carrboro,78141,,2022-10-20,,0,
+Orange,Chapel Hill - Carrboro,78141,,2022-10-21,,0,
+Orange,Chapel Hill - Carrboro,78141,,2022-10-22,22583.1795812724,0,6749989.00038999
+Orange,Chapel Hill - Carrboro,78141,,2022-10-23,,0,
+Orange,Chapel Hill - Carrboro,78141,,2022-10-24,,0,
+Orange,Chapel Hill - Carrboro,78141,,2022-10-25,,0,
+Orange,Chapel Hill - Carrboro,78141,,2022-10-26,19480.7597387782,0,6322859.12685587
 Pitt,Greenville,89616,3.68,2021-03-30,0,0,739485.730835432
 Pitt,Greenville,89616,1.12,2021-03-31,,0,
 Pitt,Greenville,89616,1.9,2021-04-01,,0,
@@ -9889,7 +10001,7 @@ Pitt,Greenville,89616,10.82,2022-07-26,,0,
 Pitt,Greenville,89616,7.7,2022-07-27,37843.4274346286,0,16272881.5607527
 Pitt,Greenville,89616,9.26,2022-07-28,,0,
 Pitt,Greenville,89616,5.91,2022-07-29,,0,
-Pitt,Greenville,89616,6.03,2022-07-30,59947.894041409,0,25347447.4270725
+Pitt,Greenville,89616,6.14,2022-07-30,59947.894041409,0,25347447.4270725
 Pitt,Greenville,89616,4.02,2022-07-31,,0,
 Pitt,Greenville,89616,2.34,2022-08-01,,0,
 Pitt,Greenville,89616,8.03,2022-08-02,,0,
@@ -9899,7 +10011,7 @@ Pitt,Greenville,89616,5.02,2022-08-05,,0,
 Pitt,Greenville,89616,4.02,2022-08-06,54144.6269264089,0,22870812.2173749
 Pitt,Greenville,89616,2.57,2022-08-07,,0,
 Pitt,Greenville,89616,2.34,2022-08-08,,0,
-Pitt,Greenville,89616,5.47,2022-08-09,,0,
+Pitt,Greenville,89616,5.58,2022-08-09,,0,
 Pitt,Greenville,89616,5.8,2022-08-10,26851.3704259205,0,10888396.1017974
 Pitt,Greenville,89616,3.79,2022-08-11,,0,
 Pitt,Greenville,89616,4.58,2022-08-12,,0,
@@ -9964,13 +10076,20 @@ Pitt,Greenville,89616,0.56,2022-10-09,,0,
 Pitt,Greenville,89616,0.78,2022-10-10,,0,
 Pitt,Greenville,89616,2.12,2022-10-11,,0,
 Pitt,Greenville,89616,0.89,2022-10-12,16130.2502257264,0,6472781.28283357
-Pitt,Greenville,89616,1.45,2022-10-13,,0,
+Pitt,Greenville,89616,1.56,2022-10-13,,0,
 Pitt,Greenville,89616,0.89,2022-10-14,,0,
 Pitt,Greenville,89616,0.22,2022-10-15,9124.14379544733,0,4008221.21944939
 Pitt,Greenville,89616,0.22,2022-10-16,,0,
 Pitt,Greenville,89616,0.22,2022-10-17,,0,
 Pitt,Greenville,89616,1.12,2022-10-18,,0,
-Pitt,Greenville,89616,,2022-10-19,10920.1648339208,0,4797210.27950551
+Pitt,Greenville,89616,0.22,2022-10-19,10920.1648339208,0,4797210.27950551
+Pitt,Greenville,89616,,2022-10-20,,0,
+Pitt,Greenville,89616,,2022-10-21,,0,
+Pitt,Greenville,89616,,2022-10-22,5477.22557505167,0,2174776.86019153
+Pitt,Greenville,89616,,2022-10-23,,0,
+Pitt,Greenville,89616,,2022-10-24,,0,
+Pitt,Greenville,89616,,2022-10-25,,0,
+Pitt,Greenville,89616,,2022-10-26,19442.2220952236,0,8212438.35021192
 Scotland,Laurinburg,15527,1.29,2021-06-17,3354.10196624969,0,1970686.44136859
 Scotland,Laurinburg,15527,1.29,2021-06-18,,0,
 Scotland,Laurinburg,15527,1.29,2021-06-19,,0,
@@ -10458,9 +10577,16 @@ Scotland,Laurinburg,15527,1.29,2022-10-13,3856.81215513538,0,2924240.58972588
 Scotland,Laurinburg,15527,1.29,2022-10-14,,0,
 Scotland,Laurinburg,15527,1.29,2022-10-15,,0,
 Scotland,Laurinburg,15527,1.29,2022-10-16,,0,
-Scotland,Laurinburg,15527,,2022-10-17,,0,
-Scotland,Laurinburg,15527,,2022-10-18,8116.34154037397,0,5955949.88043177
-Scotland,Laurinburg,15527,,2022-10-19,,0,
+Scotland,Laurinburg,15527,1.29,2022-10-17,,0,
+Scotland,Laurinburg,15527,1.29,2022-10-18,8116.34154037397,0,5955949.88043177
+Scotland,Laurinburg,15527,1.29,2022-10-19,,0,
+Scotland,Laurinburg,15527,,2022-10-20,5111.26207506522,0,2965714.43758005
+Scotland,Laurinburg,15527,,2022-10-21,,0,
+Scotland,Laurinburg,15527,,2022-10-22,,0,
+Scotland,Laurinburg,15527,,2022-10-23,,0,
+Scotland,Laurinburg,15527,,2022-10-24,,0,
+Scotland,Laurinburg,15527,,2022-10-25,3000.00000000001,0,1543220.32588394
+Scotland,Laurinburg,15527,,2022-10-26,,0,
 Wake,Raleigh 3,7776,2.57,2021-10-21,24765.3952118677,0,6968328.68135705
 Wake,Raleigh 3,7776,,2021-10-22,,0,
 Wake,Raleigh 3,7776,,2021-10-23,,0,
@@ -10821,10 +10947,17 @@ Wake,Raleigh 3,7776,,2022-10-12,,0,
 Wake,Raleigh 3,7776,,2022-10-13,37399.1155510394,0,11943199.7783603
 Wake,Raleigh 3,7776,2.57,2022-10-14,,0,
 Wake,Raleigh 3,7776,2.57,2022-10-15,,0,
-Wake,Raleigh 3,7776,,2022-10-16,,0,
+Wake,Raleigh 3,7776,2.57,2022-10-16,,0,
 Wake,Raleigh 3,7776,2.57,2022-10-17,,0,
 Wake,Raleigh 3,7776,2.57,2022-10-18,14380.7839494236,0,4788441.53555933
 Wake,Raleigh 3,7776,,2022-10-19,,0,
+Wake,Raleigh 3,7776,,2022-10-20,30682.7180021588,0,9589244.28828302
+Wake,Raleigh 3,7776,,2022-10-21,,0,
+Wake,Raleigh 3,7776,,2022-10-22,,0,
+Wake,Raleigh 3,7776,,2022-10-23,,0,
+Wake,Raleigh 3,7776,,2022-10-24,,0,
+Wake,Raleigh 3,7776,,2022-10-25,29747.7724880368,0,9383934.8313512
+Wake,Raleigh 3,7776,,2022-10-26,,0,
 Wake,Raleigh 2,30655,5.87,2021-10-21,8609.78477779788,0,2584566.50377219
 Wake,Raleigh 2,30655,,2021-10-22,,0,
 Wake,Raleigh 2,30655,,2021-10-23,,0,
@@ -11182,13 +11315,20 @@ Wake,Raleigh 2,30655,1.63,2022-10-09,,0,
 Wake,Raleigh 2,30655,0.65,2022-10-10,,0,
 Wake,Raleigh 2,30655,0.65,2022-10-11,121676.684048342,0,36871633.7687437
 Wake,Raleigh 2,30655,0.65,2022-10-12,,0,
-Wake,Raleigh 2,30655,2.94,2022-10-13,15027.1434411202,0,4529545.93954988
+Wake,Raleigh 2,30655,2.61,2022-10-13,15027.1434411202,0,4529545.93954988
 Wake,Raleigh 2,30655,0.65,2022-10-14,,0,
 Wake,Raleigh 2,30655,,2022-10-15,,0,
 Wake,Raleigh 2,30655,0.65,2022-10-16,,0,
-Wake,Raleigh 2,30655,0.65,2022-10-17,,0,
-Wake,Raleigh 2,30655,2.28,2022-10-18,33822.7154439144,0,10215870.5667345
+Wake,Raleigh 2,30655,1.63,2022-10-17,,0,
+Wake,Raleigh 2,30655,0.65,2022-10-18,33822.7154439144,0,10215870.5667345
 Wake,Raleigh 2,30655,,2022-10-19,,0,
+Wake,Raleigh 2,30655,,2022-10-20,20549.0340405577,0,5770219.43570403
+Wake,Raleigh 2,30655,,2022-10-21,,0,
+Wake,Raleigh 2,30655,,2022-10-22,,0,
+Wake,Raleigh 2,30655,,2022-10-23,,0,
+Wake,Raleigh 2,30655,,2022-10-24,,0,
+Wake,Raleigh 2,30655,,2022-10-25,28592.401613016,0,8261843.23386823
+Wake,Raleigh 2,30655,,2022-10-26,,0,
 Wake,Cary 2,74331,1.48,2021-11-16,11555.6582088603,0,3068956.99593197
 Wake,Cary 2,74331,0.94,2021-11-17,,0,
 Wake,Cary 2,74331,2.29,2021-11-18,5328.21724469539,0,1218344.38761396
@@ -11480,7 +11620,7 @@ Wake,Cary 2,74331,1.61,2022-08-30,45931.4194751262,0,11456987.7882315
 Wake,Cary 2,74331,2.15,2022-08-31,,0,
 Wake,Cary 2,74331,0.94,2022-09-01,64939.0217511783,0,15880702.1356236
 Wake,Cary 2,74331,1.61,2022-09-02,,0,
-Wake,Cary 2,74331,2.02,2022-09-03,,0,
+Wake,Cary 2,74331,2.15,2022-09-03,,0,
 Wake,Cary 2,74331,1.08,2022-09-04,,0,
 Wake,Cary 2,74331,0.27,2022-09-05,,0,
 Wake,Cary 2,74331,0.27,2022-09-06,,0,
@@ -11518,15 +11658,22 @@ Wake,Cary 2,74331,0.67,2022-10-07,,0,
 Wake,Cary 2,74331,0.67,2022-10-08,,0,
 Wake,Cary 2,74331,0.81,2022-10-09,,0,
 Wake,Cary 2,74331,0.27,2022-10-10,,0,
-Wake,Cary 2,74331,0.27,2022-10-11,151555.41803578,0,44595476.2799074
+Wake,Cary 2,74331,0.67,2022-10-11,151555.41803578,0,44595476.2799074
 Wake,Cary 2,74331,1.08,2022-10-12,,0,
 Wake,Cary 2,74331,1.08,2022-10-13,24735.0738830512,0,6557815.25893572
-Wake,Cary 2,74331,1.08,2022-10-14,,0,
+Wake,Cary 2,74331,0.94,2022-10-14,,0,
 Wake,Cary 2,74331,0.27,2022-10-15,,0,
-Wake,Cary 2,74331,0.27,2022-10-16,,0,
-Wake,Cary 2,74331,0.27,2022-10-17,,0,
+Wake,Cary 2,74331,,2022-10-16,,0,
+Wake,Cary 2,74331,0.67,2022-10-17,,0,
 Wake,Cary 2,74331,0.27,2022-10-18,16399.4058428957,0,4377911.04143478
 Wake,Cary 2,74331,,2022-10-19,,0,
+Wake,Cary 2,74331,,2022-10-20,23645.4941162159,0,6305068.85884103
+Wake,Cary 2,74331,,2022-10-21,,0,
+Wake,Cary 2,74331,,2022-10-22,,0,
+Wake,Cary 2,74331,,2022-10-23,,0,
+Wake,Cary 2,74331,,2022-10-24,,0,
+Wake,Cary 2,74331,,2022-10-25,27677.9248138295,0,7283058.34338199
+Wake,Cary 2,74331,,2022-10-26,,0,
 Wake,Cary 3,75886,2.24,2021-11-16,13694.3810725421,0,2049338.88116388
 Wake,Cary 3,75886,0.92,2021-11-17,,0,
 Wake,Cary 3,75886,0.66,2021-11-18,4304.04126600001,0,1404120.21277164
@@ -11809,7 +11956,7 @@ Wake,Cary 3,75886,2.24,2022-08-21,,0,
 Wake,Cary 3,75886,3.69,2022-08-22,,0,
 Wake,Cary 3,75886,3.82,2022-08-23,116736.919764058,0,43906588.2772113
 Wake,Cary 3,75886,3.69,2022-08-24,,0,
-Wake,Cary 3,75886,2.9,2022-08-25,158947.414404891,0,50585292.1629176
+Wake,Cary 3,75886,2.77,2022-08-25,158947.414404891,0,50585292.1629176
 Wake,Cary 3,75886,2.37,2022-08-26,,0,
 Wake,Cary 3,75886,1.84,2022-08-27,,0,
 Wake,Cary 3,75886,1.71,2022-08-28,,0,
@@ -11823,7 +11970,7 @@ Wake,Cary 3,75886,1.32,2022-09-04,,0,
 Wake,Cary 3,75886,2.5,2022-09-05,,0,
 Wake,Cary 3,75886,1.45,2022-09-06,,0,
 Wake,Cary 3,75886,5.4,2022-09-07,143269.518712111,0,48454443.7311303
-Wake,Cary 3,75886,3.29,2022-09-08,,0,
+Wake,Cary 3,75886,3.43,2022-09-08,,0,
 Wake,Cary 3,75886,2.24,2022-09-09,,0,
 Wake,Cary 3,75886,1.98,2022-09-10,94296.0632264147,0,31421009.9687025
 Wake,Cary 3,75886,1.19,2022-09-11,,0,
@@ -11856,15 +12003,22 @@ Wake,Cary 3,75886,1.32,2022-10-07,,0,
 Wake,Cary 3,75886,1.05,2022-10-08,,0,
 Wake,Cary 3,75886,0.26,2022-10-09,,0,
 Wake,Cary 3,75886,0.26,2022-10-10,,0,
-Wake,Cary 3,75886,0.92,2022-10-11,42525.2832089335,0,14912575.5162407
+Wake,Cary 3,75886,1.05,2022-10-11,42525.2832089335,0,14912575.5162407
 Wake,Cary 3,75886,0.26,2022-10-12,,0,
-Wake,Cary 3,75886,1.32,2022-10-13,30082.5921755424,0,10174078.0799672
+Wake,Cary 3,75886,0.92,2022-10-13,30082.5921755424,0,10174078.0799672
 Wake,Cary 3,75886,1.32,2022-10-14,,0,
 Wake,Cary 3,75886,0.92,2022-10-15,,0,
 Wake,Cary 3,75886,0.26,2022-10-16,,0,
-Wake,Cary 3,75886,0.26,2022-10-17,,0,
+Wake,Cary 3,75886,1.05,2022-10-17,,0,
 Wake,Cary 3,75886,0.26,2022-10-18,43551.4914899594,0,15098644.2875937
-Wake,Cary 3,75886,,2022-10-19,,0,
+Wake,Cary 3,75886,0.26,2022-10-19,,0,
+Wake,Cary 3,75886,,2022-10-20,78314.5930845588,0,25744130.4030319
+Wake,Cary 3,75886,,2022-10-21,,0,
+Wake,Cary 3,75886,,2022-10-22,,0,
+Wake,Cary 3,75886,,2022-10-23,,0,
+Wake,Cary 3,75886,,2022-10-24,,0,
+Wake,Cary 3,75886,,2022-10-25,53033.368391985,0,18094868.4466618
+Wake,Cary 3,75886,,2022-10-26,,0,
 Wake,Cary 1,84189,0.95,2021-11-16,4062.27314689695,0,1216465.4480984
 Wake,Cary 1,84189,2.02,2021-11-17,,0,
 Wake,Cary 1,84189,2.14,2021-11-18,4641.94172668362,0,1078436.48574488
@@ -12158,7 +12312,7 @@ Wake,Cary 1,84189,2.85,2022-09-01,52367.1515169576,0,15493205.1576581
 Wake,Cary 1,84189,2.61,2022-09-02,,0,
 Wake,Cary 1,84189,2.85,2022-09-03,,0,
 Wake,Cary 1,84189,0.59,2022-09-04,,0,
-Wake,Cary 1,84189,0.71,2022-09-05,,0,
+Wake,Cary 1,84189,0.83,2022-09-05,,0,
 Wake,Cary 1,84189,1.54,2022-09-06,,0,
 Wake,Cary 1,84189,3.09,2022-09-07,34070.6115295866,0,10233231.9479477
 Wake,Cary 1,84189,2.26,2022-09-08,,0,
@@ -12189,20 +12343,27 @@ Wake,Cary 1,84189,0.71,2022-10-02,,0,
 Wake,Cary 1,84189,0.95,2022-10-03,,0,
 Wake,Cary 1,84189,1.54,2022-10-04,25276.4440339222,0,8296506.59938787
 Wake,Cary 1,84189,1.07,2022-10-05,,0,
-Wake,Cary 1,84189,0.71,2022-10-06,116995.855460781,0,33404165.7046512
+Wake,Cary 1,84189,0.59,2022-10-06,116995.855460781,0,33404165.7046512
 Wake,Cary 1,84189,0.24,2022-10-07,,0,
 Wake,Cary 1,84189,1.07,2022-10-08,,0,
 Wake,Cary 1,84189,0.24,2022-10-09,,0,
 Wake,Cary 1,84189,0.24,2022-10-10,,0,
 Wake,Cary 1,84189,0.24,2022-10-11,115918.716374881,0,34608124.903856
-Wake,Cary 1,84189,0.71,2022-10-12,,0,
+Wake,Cary 1,84189,0.83,2022-10-12,,0,
 Wake,Cary 1,84189,0.83,2022-10-13,24896.9043055558,0,7175626.19093215
-Wake,Cary 1,84189,1.07,2022-10-14,,0,
+Wake,Cary 1,84189,0.83,2022-10-14,,0,
 Wake,Cary 1,84189,0.71,2022-10-15,,0,
 Wake,Cary 1,84189,0.71,2022-10-16,,0,
-Wake,Cary 1,84189,0.59,2022-10-17,,0,
-Wake,Cary 1,84189,,2022-10-18,15544.327968748,0,4431162.07876297
-Wake,Cary 1,84189,,2022-10-19,,0,
+Wake,Cary 1,84189,0.71,2022-10-17,,0,
+Wake,Cary 1,84189,0.83,2022-10-18,15544.327968748,0,4431162.07876297
+Wake,Cary 1,84189,0.24,2022-10-19,,0,
+Wake,Cary 1,84189,,2022-10-20,20988.8388197156,0,5964333.4753794
+Wake,Cary 1,84189,,2022-10-21,,0,
+Wake,Cary 1,84189,,2022-10-22,,0,
+Wake,Cary 1,84189,,2022-10-23,,0,
+Wake,Cary 1,84189,,2022-10-24,,0,
+Wake,Cary 1,84189,,2022-10-25,27580.7825487241,0,8073168.17674767
+Wake,Cary 1,84189,,2022-10-26,,0,
 Wake,Raleigh,550000,2.33,2021-03-30,,0,
 Wake,Raleigh,550000,2.35,2021-03-31,0,0,627227.363471296
 Wake,Raleigh,550000,2.67,2021-04-01,,0,
@@ -12323,7 +12484,7 @@ Wake,Raleigh,550000,1.67,2021-07-24,,0,
 Wake,Raleigh,550000,1.53,2021-07-25,,0,
 Wake,Raleigh,550000,1.49,2021-07-26,,0,
 Wake,Raleigh,550000,3.29,2021-07-27,,0,
-Wake,Raleigh,550000,3,2021-07-28,18691.5756425188,0,7705872.57670491
+Wake,Raleigh,550000,2.98,2021-07-28,18691.5756425188,0,7705872.57670491
 Wake,Raleigh,550000,2.62,2021-07-29,,0,
 Wake,Raleigh,550000,3.62,2021-07-30,21752.873373419,0,7139915.01513185
 Wake,Raleigh,550000,3.24,2021-07-31,,0,
@@ -12347,7 +12508,7 @@ Wake,Raleigh,550000,7.49,2021-08-17,,0,
 Wake,Raleigh,550000,6.13,2021-08-18,37056.5446311444,0,13272456.0803492
 Wake,Raleigh,550000,6.87,2021-08-19,,0,
 Wake,Raleigh,550000,6.4,2021-08-20,12502.49975005,0,3579639.34952674
-Wake,Raleigh,550000,5.58,2021-08-21,,0,
+Wake,Raleigh,550000,5.56,2021-08-21,,0,
 Wake,Raleigh,550000,4.55,2021-08-22,,0,
 Wake,Raleigh,550000,2.38,2021-08-23,,0,
 Wake,Raleigh,550000,8.31,2021-08-24,,0,
@@ -12486,7 +12647,7 @@ Wake,Raleigh,550000,13.02,2022-01-03,,0,
 Wake,Raleigh,550000,43.44,2022-01-04,,0,
 Wake,Raleigh,550000,66.25,2022-01-05,108166.53826392,0,46312926.042675
 Wake,Raleigh,550000,64.71,2022-01-06,,0,
-Wake,Raleigh,550000,56.51,2022-01-07,357071.421427143,0,130348997.701586
+Wake,Raleigh,550000,56.49,2022-01-07,357071.421427143,0,130348997.701586
 Wake,Raleigh,550000,48.47,2022-01-08,,0,
 Wake,Raleigh,550000,30.09,2022-01-09,,0,
 Wake,Raleigh,550000,12.96,2022-01-10,,0,
@@ -12635,7 +12796,7 @@ Wake,Raleigh,550000,9.87,2022-06-01,,0,
 Wake,Raleigh,550000,7.33,2022-06-02,25741.5034525958,0,7118572.7753977
 Wake,Raleigh,550000,6.55,2022-06-03,,0,
 Wake,Raleigh,550000,5.07,2022-06-04,83179.0237980708,0,28103210.7026859
-Wake,Raleigh,550000,4.07,2022-06-05,,0,
+Wake,Raleigh,550000,4.05,2022-06-05,,0,
 Wake,Raleigh,550000,2.8,2022-06-06,,0,
 Wake,Raleigh,550000,5.75,2022-06-07,,0,
 Wake,Raleigh,550000,5.69,2022-06-08,107529.065838033,0,35375522.0624604
@@ -12685,7 +12846,7 @@ Wake,Raleigh,550000,5.8,2022-07-21,,0,
 Wake,Raleigh,550000,3.89,2022-07-22,50193.3760570058,0,14308878.3221431
 Wake,Raleigh,550000,4.4,2022-07-23,,0,
 Wake,Raleigh,550000,2.8,2022-07-24,,0,
-Wake,Raleigh,550000,2.69,2022-07-25,,0,
+Wake,Raleigh,550000,2.67,2022-07-25,,0,
 Wake,Raleigh,550000,7.02,2022-07-26,,0,
 Wake,Raleigh,550000,4.42,2022-07-27,36336.1046343716,0,12131618.1005961
 Wake,Raleigh,550000,5.55,2022-07-28,,0,
@@ -12694,13 +12855,13 @@ Wake,Raleigh,550000,4.33,2022-07-30,,0,
 Wake,Raleigh,550000,3.04,2022-07-31,,0,
 Wake,Raleigh,550000,2.6,2022-08-01,,0,
 Wake,Raleigh,550000,5.07,2022-08-02,,0,
-Wake,Raleigh,550000,4.73,2022-08-03,46636.8952654441,0,14550048.4005509
-Wake,Raleigh,550000,4.78,2022-08-04,,0,
-Wake,Raleigh,550000,5.07,2022-08-05,71151.2473537886,0,24666274.329805
-Wake,Raleigh,550000,4.84,2022-08-06,,0,
+Wake,Raleigh,550000,4.75,2022-08-03,46636.8952654441,0,14550048.4005509
+Wake,Raleigh,550000,4.8,2022-08-04,,0,
+Wake,Raleigh,550000,5.09,2022-08-05,71151.2473537886,0,24666274.329805
+Wake,Raleigh,550000,4.8,2022-08-06,,0,
 Wake,Raleigh,550000,3.24,2022-08-07,,0,
 Wake,Raleigh,550000,2.76,2022-08-08,,0,
-Wake,Raleigh,550000,4.82,2022-08-09,,0,
+Wake,Raleigh,550000,4.84,2022-08-09,,0,
 Wake,Raleigh,550000,4.18,2022-08-10,52863.3261344763,0,14629774.9914094
 Wake,Raleigh,550000,3.91,2022-08-11,,0,
 Wake,Raleigh,550000,3.04,2022-08-12,53244.7180478966,0,19788796.3776716
@@ -12713,7 +12874,7 @@ Wake,Raleigh,550000,3.11,2022-08-18,,0,
 Wake,Raleigh,550000,3.09,2022-08-19,31913.9467944659,0,9994038.11983196
 Wake,Raleigh,550000,2.76,2022-08-20,,0,
 Wake,Raleigh,550000,2.24,2022-08-21,,0,
-Wake,Raleigh,550000,1.76,2022-08-22,,0,
+Wake,Raleigh,550000,1.78,2022-08-22,,0,
 Wake,Raleigh,550000,3.64,2022-08-23,,0,
 Wake,Raleigh,550000,3.22,2022-08-24,25237.6207277945,0,8285445.72598686
 Wake,Raleigh,550000,3.05,2022-08-25,,0,
@@ -12726,23 +12887,23 @@ Wake,Raleigh,550000,2.33,2022-08-31,40859.5154156287,0,15720056.6903209
 Wake,Raleigh,550000,2.98,2022-09-01,,0,
 Wake,Raleigh,550000,2.55,2022-09-02,38175.5812005528,0,14006945.1655128
 Wake,Raleigh,550000,2.38,2022-09-03,,0,
-Wake,Raleigh,550000,1.71,2022-09-04,,0,
+Wake,Raleigh,550000,1.75,2022-09-04,,0,
 Wake,Raleigh,550000,1.76,2022-09-05,,0,
 Wake,Raleigh,550000,1.25,2022-09-06,,0,
-Wake,Raleigh,550000,3.35,2022-09-07,,0,
-Wake,Raleigh,550000,3.29,2022-09-08,39957.0081462564,0,12666772.8960232
+Wake,Raleigh,550000,3.42,2022-09-07,,0,
+Wake,Raleigh,550000,3.33,2022-09-08,39957.0081462564,0,12666772.8960232
 Wake,Raleigh,550000,3.16,2022-09-09,,0,
 Wake,Raleigh,550000,2.82,2022-09-10,25099.8007960223,0,8209104.70463389
 Wake,Raleigh,550000,1.71,2022-09-11,,0,
 Wake,Raleigh,550000,1.69,2022-09-12,,0,
-Wake,Raleigh,550000,2.69,2022-09-13,,0,
+Wake,Raleigh,550000,2.71,2022-09-13,,0,
 Wake,Raleigh,550000,2.87,2022-09-14,18401.7662195779,0,6338882.1721307
 Wake,Raleigh,550000,2.4,2022-09-15,,0,
-Wake,Raleigh,550000,1.78,2022-09-16,71545.4401062709,0,22690471.3849437
+Wake,Raleigh,550000,1.8,2022-09-16,71545.4401062709,0,22690471.3849437
 Wake,Raleigh,550000,1.87,2022-09-17,,0,
 Wake,Raleigh,550000,1.53,2022-09-18,,0,
 Wake,Raleigh,550000,1.24,2022-09-19,,0,
-Wake,Raleigh,550000,1.91,2022-09-20,,0,
+Wake,Raleigh,550000,1.93,2022-09-20,,0,
 Wake,Raleigh,550000,2.05,2022-09-21,7745.96669241484,0,2479006.50502221
 Wake,Raleigh,550000,2.35,2022-09-22,,0,
 Wake,Raleigh,550000,1.58,2022-09-23,10037.4299499424,0,3152260.38724093
@@ -12760,18 +12921,25 @@ Wake,Raleigh,550000,1.53,2022-10-04,,0,
 Wake,Raleigh,550000,1.13,2022-10-05,10313.8256723682,0,3421495.02681597
 Wake,Raleigh,550000,1.18,2022-10-06,,0,
 Wake,Raleigh,550000,0.93,2022-10-07,13581.2772184961,0,5234530.43607656
-Wake,Raleigh,550000,0.89,2022-10-08,,0,
+Wake,Raleigh,550000,0.93,2022-10-08,,0,
 Wake,Raleigh,550000,0.75,2022-10-09,,0,
 Wake,Raleigh,550000,0.51,2022-10-10,,0,
-Wake,Raleigh,550000,0.91,2022-10-11,,0,
-Wake,Raleigh,550000,0.93,2022-10-12,14041.067587873,0,4287840.74555517
-Wake,Raleigh,550000,1.15,2022-10-13,,0,
-Wake,Raleigh,550000,0.8,2022-10-14,23858.9605808803,0,7236751.47727785
-Wake,Raleigh,550000,0.42,2022-10-15,,0,
-Wake,Raleigh,550000,0.62,2022-10-16,,0,
-Wake,Raleigh,550000,0.4,2022-10-17,,0,
-Wake,Raleigh,550000,0.51,2022-10-18,,0,
-Wake,Raleigh,550000,,2022-10-19,51599.4186013758,0,15711187.6164402
+Wake,Raleigh,550000,0.95,2022-10-11,,0,
+Wake,Raleigh,550000,0.96,2022-10-12,14041.067587873,0,4287840.74555517
+Wake,Raleigh,550000,1.11,2022-10-13,,0,
+Wake,Raleigh,550000,0.78,2022-10-14,23858.9605808803,0,7236751.47727785
+Wake,Raleigh,550000,0.45,2022-10-15,,0,
+Wake,Raleigh,550000,0.6,2022-10-16,,0,
+Wake,Raleigh,550000,0.49,2022-10-17,,0,
+Wake,Raleigh,550000,0.87,2022-10-18,,0,
+Wake,Raleigh,550000,0.36,2022-10-19,51599.4186013758,0,15711187.6164402
+Wake,Raleigh,550000,,2022-10-20,,0,
+Wake,Raleigh,550000,,2022-10-21,30112.2898498271,0,8922078.21635254
+Wake,Raleigh,550000,,2022-10-22,,0,
+Wake,Raleigh,550000,,2022-10-23,,0,
+Wake,Raleigh,550000,,2022-10-24,,0,
+Wake,Raleigh,550000,,2022-10-25,,0,
+Wake,Raleigh,550000,,2022-10-26,19557.6072156079,0,6121886.36686945
 Wilson,City of Wilson,49384,0.4,2021-06-19,5338.53912601565,0,3903878.73223495
 Wilson,City of Wilson,49384,0.4,2021-06-20,,0,
 Wilson,City of Wilson,49384,0.4,2021-06-21,,0,
@@ -12834,7 +13002,7 @@ Wilson,City of Wilson,49384,3.44,2021-08-16,,0,
 Wilson,City of Wilson,49384,5.67,2021-08-17,,0,
 Wilson,City of Wilson,49384,3.44,2021-08-18,66238.206497459,0,56510512.0995484
 Wilson,City of Wilson,49384,4.86,2021-08-19,,0,
-Wilson,City of Wilson,49384,5.87,2021-08-20,,0,
+Wilson,City of Wilson,49384,5.67,2021-08-20,,0,
 Wilson,City of Wilson,49384,6.28,2021-08-21,6093.02880347697,0,5810040.0399838
 Wilson,City of Wilson,49384,3.64,2021-08-22,,0,
 Wilson,City of Wilson,49384,4.45,2021-08-23,,0,
@@ -13187,12 +13355,12 @@ Wilson,City of Wilson,49384,5.67,2022-08-04,,0,
 Wilson,City of Wilson,49384,3.64,2022-08-05,17743.836958223,0,8949503.57149085
 Wilson,City of Wilson,49384,2.43,2022-08-06,,0,
 Wilson,City of Wilson,49384,3.44,2022-08-07,,0,
-Wilson,City of Wilson,49384,4.45,2022-08-08,,0,
+Wilson,City of Wilson,49384,4.66,2022-08-08,,0,
 Wilson,City of Wilson,49384,8.91,2022-08-09,45654.9559193742,0,22082223.4846453
 Wilson,City of Wilson,49384,5.87,2022-08-10,,0,
 Wilson,City of Wilson,49384,5.67,2022-08-11,,0,
 Wilson,City of Wilson,49384,4.45,2022-08-12,24743.6860633173,0,13864598.1862148
-Wilson,City of Wilson,49384,5.67,2022-08-13,,0,
+Wilson,City of Wilson,49384,6.28,2022-08-13,,0,
 Wilson,City of Wilson,49384,3.24,2022-08-14,,0,
 Wilson,City of Wilson,49384,2.02,2022-08-15,,0,
 Wilson,City of Wilson,49384,8.3,2022-08-16,19863.5973579813,0,10049104.2745981
@@ -13200,20 +13368,20 @@ Wilson,City of Wilson,49384,6.48,2022-08-17,,0,
 Wilson,City of Wilson,49384,4.45,2022-08-18,,0,
 Wilson,City of Wilson,49384,2.23,2022-08-19,27372.431386342,0,12987618.9647543
 Wilson,City of Wilson,49384,2.83,2022-08-20,,0,
-Wilson,City of Wilson,49384,2.02,2022-08-21,,0,
+Wilson,City of Wilson,49384,2.23,2022-08-21,,0,
 Wilson,City of Wilson,49384,1.42,2022-08-22,,0,
 Wilson,City of Wilson,49384,4.45,2022-08-23,33847.0825921526,0,17201260.9129664
-Wilson,City of Wilson,49384,3.04,2022-08-24,,0,
+Wilson,City of Wilson,49384,3.24,2022-08-24,,0,
 Wilson,City of Wilson,49384,4.45,2022-08-25,,0,
 Wilson,City of Wilson,49384,2.63,2022-08-26,21270.5782714058,0,10777208.1361272
 Wilson,City of Wilson,49384,2.43,2022-08-27,,0,
 Wilson,City of Wilson,49384,1.62,2022-08-28,,0,
 Wilson,City of Wilson,49384,1.01,2022-08-29,,0,
 Wilson,City of Wilson,49384,2.02,2022-08-30,45538.445296255,0,20839056.1319845
-Wilson,City of Wilson,49384,2.02,2022-08-31,,0,
+Wilson,City of Wilson,49384,2.23,2022-08-31,,0,
 Wilson,City of Wilson,49384,1.82,2022-09-01,,0,
 Wilson,City of Wilson,49384,2.63,2022-09-02,14387.4945699382,0,7036089.66485867
-Wilson,City of Wilson,49384,2.63,2022-09-03,,0,
+Wilson,City of Wilson,49384,2.83,2022-09-03,,0,
 Wilson,City of Wilson,49384,1.62,2022-09-04,,0,
 Wilson,City of Wilson,49384,3.44,2022-09-05,,0,
 Wilson,City of Wilson,49384,2.23,2022-09-06,,0,
@@ -13245,21 +13413,28 @@ Wilson,City of Wilson,49384,1.21,2022-10-01,,0,
 Wilson,City of Wilson,49384,0.4,2022-10-02,,0,
 Wilson,City of Wilson,49384,0.4,2022-10-03,,0,
 Wilson,City of Wilson,49384,3.04,2022-10-04,12196.3109176505,0,6478690.53457356
-Wilson,City of Wilson,49384,1.82,2022-10-05,,0,
+Wilson,City of Wilson,49384,2.02,2022-10-05,,0,
 Wilson,City of Wilson,49384,0.4,2022-10-06,,0,
 Wilson,City of Wilson,49384,2.23,2022-10-07,12454.8167985413,0,5938178.41866217
 Wilson,City of Wilson,49384,2.02,2022-10-08,,0,
 Wilson,City of Wilson,49384,0.4,2022-10-09,,0,
 Wilson,City of Wilson,49384,0.4,2022-10-10,,0,
-Wilson,City of Wilson,49384,2.23,2022-10-11,44529.5055250144,0,20240818.9286272
+Wilson,City of Wilson,49384,2.43,2022-10-11,44529.5055250144,0,20240818.9286272
 Wilson,City of Wilson,49384,1.42,2022-10-12,,0,
 Wilson,City of Wilson,49384,0.4,2022-10-13,,0,
-Wilson,City of Wilson,49384,0.4,2022-10-14,0,0,1130194.36613289
-Wilson,City of Wilson,49384,1.62,2022-10-15,,0,
-Wilson,City of Wilson,49384,,2022-10-16,,0,
+Wilson,City of Wilson,49384,1.01,2022-10-14,0,0,1130194.36613289
+Wilson,City of Wilson,49384,1.21,2022-10-15,,0,
+Wilson,City of Wilson,49384,0.4,2022-10-16,,0,
 Wilson,City of Wilson,49384,0.4,2022-10-17,,0,
-Wilson,City of Wilson,49384,1.01,2022-10-18,0,0,1488690.28921203
-Wilson,City of Wilson,49384,,2022-10-19,,0,
+Wilson,City of Wilson,49384,1.62,2022-10-18,0,0,1488690.28921203
+Wilson,City of Wilson,49384,0.4,2022-10-19,,0,
+Wilson,City of Wilson,49384,,2022-10-20,,0,
+Wilson,City of Wilson,49384,,2022-10-21,30669.6103659633,0,2363521.10035864
+Wilson,City of Wilson,49384,,2022-10-22,,0,
+Wilson,City of Wilson,49384,,2022-10-23,,0,
+Wilson,City of Wilson,49384,,2022-10-24,,0,
+Wilson,City of Wilson,49384,,2022-10-25,64299.1057480584,0,3005139.41510177
+Wilson,City of Wilson,49384,,2022-10-26,,0,
 "Duplin,pender",Wallace (CDC Contract - new),10000,,2022-05-23,283379.441428778,1,78843783.5124606
 "Duplin,pender",Wallace (CDC Contract - new),10000,,2022-05-24,,1,
 "Duplin,pender",Wallace (CDC Contract - new),10000,,2022-05-25,356595.750404059,1,116222735.363197
@@ -13410,6 +13585,13 @@ Wilson,City of Wilson,49384,,2022-10-19,,0,
 "Duplin,pender",Wallace (CDC Contract - new),10000,,2022-10-17,185887.256187608,1,61077481.3788994
 "Duplin,pender",Wallace (CDC Contract - new),10000,,2022-10-18,,1,
 "Duplin,pender",Wallace (CDC Contract - new),10000,,2022-10-19,207873.235436796,1,6743590.27027039
+"Duplin,pender",Wallace (CDC Contract - new),10000,,2022-10-20,,1,
+"Duplin,pender",Wallace (CDC Contract - new),10000,,2022-10-21,,1,
+"Duplin,pender",Wallace (CDC Contract - new),10000,,2022-10-22,,1,
+"Duplin,pender",Wallace (CDC Contract - new),10000,,2022-10-23,,1,
+"Duplin,pender",Wallace (CDC Contract - new),10000,,2022-10-24,701376.44415465,1,212399231.336241
+"Duplin,pender",Wallace (CDC Contract - new),10000,,2022-10-25,,1,
+"Duplin,pender",Wallace (CDC Contract - new),10000,,2022-10-26,,1,
 Henderson,Hendersonville (CDC Contract - new),16000,,2022-05-25,661669.230025147,1,935029361.689561
 Henderson,Hendersonville (CDC Contract - new),16000,,2022-05-26,1992733.47527988,1,1008915478.51714
 Henderson,Hendersonville (CDC Contract - new),16000,,2022-05-27,,1,
@@ -13558,6 +13740,13 @@ Henderson,Hendersonville (CDC Contract - new),16000,,2022-10-16,,1,
 Henderson,Hendersonville (CDC Contract - new),16000,,2022-10-17,,1,
 Henderson,Hendersonville (CDC Contract - new),16000,,2022-10-18,1132204.59661493,1,423495284.357582
 Henderson,Hendersonville (CDC Contract - new),16000,,2022-10-19,,1,
+Henderson,Hendersonville (CDC Contract - new),16000,,2022-10-20,611149.538112685,1,223247487.041674
+Henderson,Hendersonville (CDC Contract - new),16000,,2022-10-21,,1,
+Henderson,Hendersonville (CDC Contract - new),16000,,2022-10-22,,1,
+Henderson,Hendersonville (CDC Contract - new),16000,,2022-10-23,,1,
+Henderson,Hendersonville (CDC Contract - new),16000,,2022-10-24,395506.94400826,1,137457266.700749
+Henderson,Hendersonville (CDC Contract - new),16000,,2022-10-25,,1,
+Henderson,Hendersonville (CDC Contract - new),16000,,2022-10-26,669361.506750827,1,259239519.688158
 "Lenoir,greene",Kinston (CDC Contract - new),20484,,2022-05-31,828280.942766688,1,648993782.775621
 "Lenoir,greene",Kinston (CDC Contract - new),20484,,2022-06-01,,1,
 "Lenoir,greene",Kinston (CDC Contract - new),20484,,2022-06-02,,1,
@@ -13700,6 +13889,13 @@ Henderson,Hendersonville (CDC Contract - new),16000,,2022-10-19,,1,
 "Lenoir,greene",Kinston (CDC Contract - new),20484,,2022-10-17,,1,
 "Lenoir,greene",Kinston (CDC Contract - new),20484,,2022-10-18,505730.847718371,1,326168399.37641
 "Lenoir,greene",Kinston (CDC Contract - new),20484,,2022-10-19,,1,
+"Lenoir,greene",Kinston (CDC Contract - new),20484,,2022-10-20,0,1,3043990.86115992
+"Lenoir,greene",Kinston (CDC Contract - new),20484,,2022-10-21,,1,
+"Lenoir,greene",Kinston (CDC Contract - new),20484,,2022-10-22,,1,
+"Lenoir,greene",Kinston (CDC Contract - new),20484,,2022-10-23,,1,
+"Lenoir,greene",Kinston (CDC Contract - new),20484,,2022-10-24,,1,
+"Lenoir,greene",Kinston (CDC Contract - new),20484,,2022-10-25,,1,
+"Lenoir,greene",Kinston (CDC Contract - new),20484,,2022-10-26,,1,
 Mitchell,Spruce Pine (CDC Contract - new),3500,,2022-05-23,936030.93294032,1,769391752.885641
 Mitchell,Spruce Pine (CDC Contract - new),3500,,2022-05-24,,1,
 Mitchell,Spruce Pine (CDC Contract - new),3500,,2022-05-25,885554.607576935,1,835171307.09913
@@ -13850,6 +14046,13 @@ Mitchell,Spruce Pine (CDC Contract - new),3500,,2022-10-16,,1,
 Mitchell,Spruce Pine (CDC Contract - new),3500,,2022-10-17,154450.813931204,1,76172599.6117608
 Mitchell,Spruce Pine (CDC Contract - new),3500,,2022-10-18,,1,
 Mitchell,Spruce Pine (CDC Contract - new),3500,,2022-10-19,111973.772104588,1,51590488.6314072
+Mitchell,Spruce Pine (CDC Contract - new),3500,,2022-10-20,,1,
+Mitchell,Spruce Pine (CDC Contract - new),3500,,2022-10-21,,1,
+Mitchell,Spruce Pine (CDC Contract - new),3500,,2022-10-22,,1,
+Mitchell,Spruce Pine (CDC Contract - new),3500,,2022-10-23,,1,
+Mitchell,Spruce Pine (CDC Contract - new),3500,,2022-10-24,123775.945638416,1,54216940.9059891
+Mitchell,Spruce Pine (CDC Contract - new),3500,,2022-10-25,,1,
+Mitchell,Spruce Pine (CDC Contract - new),3500,,2022-10-26,,1,
 Rowan,Salisbury 2 (CDC Contract - new),22940,,2022-06-14,1272426.94005753,1,351904835.117086
 Rowan,Salisbury 2 (CDC Contract - new),22940,,2022-06-15,,1,
 Rowan,Salisbury 2 (CDC Contract - new),22940,,2022-06-16,967344.740902636,1,264976724.432141
@@ -13978,6 +14181,13 @@ Rowan,Salisbury 2 (CDC Contract - new),22940,,2022-10-16,,1,
 Rowan,Salisbury 2 (CDC Contract - new),22940,,2022-10-17,,1,
 Rowan,Salisbury 2 (CDC Contract - new),22940,,2022-10-18,390993.670070531,1,104391853.347529
 Rowan,Salisbury 2 (CDC Contract - new),22940,,2022-10-19,,1,
+Rowan,Salisbury 2 (CDC Contract - new),22940,,2022-10-20,401593.870383637,1,107222013.120551
+Rowan,Salisbury 2 (CDC Contract - new),22940,,2022-10-21,,1,
+Rowan,Salisbury 2 (CDC Contract - new),22940,,2022-10-22,,1,
+Rowan,Salisbury 2 (CDC Contract - new),22940,,2022-10-23,,1,
+Rowan,Salisbury 2 (CDC Contract - new),22940,,2022-10-24,,1,
+Rowan,Salisbury 2 (CDC Contract - new),22940,,2022-10-25,657822.407483752,1,169879654.451493
+Rowan,Salisbury 2 (CDC Contract - new),22940,,2022-10-26,,1,
 Rowan,Salisbury 1 (CDC Contract - new),31536,,2022-06-14,714445.057531975,1,387454075.637082
 Rowan,Salisbury 1 (CDC Contract - new),31536,,2022-06-15,,1,
 Rowan,Salisbury 1 (CDC Contract - new),31536,,2022-06-16,2295651.66230288,1,1269765815.88768
@@ -14106,6 +14316,13 @@ Rowan,Salisbury 1 (CDC Contract - new),31536,,2022-10-16,,1,
 Rowan,Salisbury 1 (CDC Contract - new),31536,,2022-10-17,,1,
 Rowan,Salisbury 1 (CDC Contract - new),31536,,2022-10-18,0,1,16379344.234393
 Rowan,Salisbury 1 (CDC Contract - new),31536,,2022-10-19,,1,
+Rowan,Salisbury 1 (CDC Contract - new),31536,,2022-10-20,337269.456712277,1,182744257.47381
+Rowan,Salisbury 1 (CDC Contract - new),31536,,2022-10-21,,1,
+Rowan,Salisbury 1 (CDC Contract - new),31536,,2022-10-22,,1,
+Rowan,Salisbury 1 (CDC Contract - new),31536,,2022-10-23,,1,
+Rowan,Salisbury 1 (CDC Contract - new),31536,,2022-10-24,,1,
+Rowan,Salisbury 1 (CDC Contract - new),31536,,2022-10-25,202132.265874279,1,103869022.153366
+Rowan,Salisbury 1 (CDC Contract - new),31536,,2022-10-26,,1,
 Stanly,Albemarle (CDC Contract - new),20000,,2022-06-20,2358247.34827088,1,888227496.458387
 Stanly,Albemarle (CDC Contract - new),20000,,2022-06-21,,1,
 Stanly,Albemarle (CDC Contract - new),20000,,2022-06-22,4858572.03879634,1,1940317871.84209
@@ -14228,6 +14445,13 @@ Stanly,Albemarle (CDC Contract - new),20000,,2022-10-16,,1,
 Stanly,Albemarle (CDC Contract - new),20000,,2022-10-17,294417.544787326,1,105876376.533604
 Stanly,Albemarle (CDC Contract - new),20000,,2022-10-18,,1,
 Stanly,Albemarle (CDC Contract - new),20000,,2022-10-19,337560.789112097,1,134169274.166018
+Stanly,Albemarle (CDC Contract - new),20000,,2022-10-20,,1,
+Stanly,Albemarle (CDC Contract - new),20000,,2022-10-21,,1,
+Stanly,Albemarle (CDC Contract - new),20000,,2022-10-22,,1,
+Stanly,Albemarle (CDC Contract - new),20000,,2022-10-23,,1,
+Stanly,Albemarle (CDC Contract - new),20000,,2022-10-24,540539.674251446,1,207685126.615509
+Stanly,Albemarle (CDC Contract - new),20000,,2022-10-25,,1,
+Stanly,Albemarle (CDC Contract - new),20000,,2022-10-26,664379.606026665,1,276643681.671866
 Surry,Mount Airy (CDC Contract - new),10000,,2022-05-24,409752.198778645,1,355196397.87578
 Surry,Mount Airy (CDC Contract - new),10000,,2022-05-25,,1,
 Surry,Mount Airy (CDC Contract - new),10000,,2022-05-26,454903.832172514,1,270352895.710016
@@ -14377,6 +14601,13 @@ Surry,Mount Airy (CDC Contract - new),10000,,2022-10-16,,1,
 Surry,Mount Airy (CDC Contract - new),10000,,2022-10-17,,1,
 Surry,Mount Airy (CDC Contract - new),10000,,2022-10-18,397106.518428538,1,208945775.065454
 Surry,Mount Airy (CDC Contract - new),10000,,2022-10-19,,1,
+Surry,Mount Airy (CDC Contract - new),10000,,2022-10-20,1009533.22441312,1,535008189.47708
+Surry,Mount Airy (CDC Contract - new),10000,,2022-10-21,,1,
+Surry,Mount Airy (CDC Contract - new),10000,,2022-10-22,,1,
+Surry,Mount Airy (CDC Contract - new),10000,,2022-10-23,,1,
+Surry,Mount Airy (CDC Contract - new),10000,,2022-10-24,,1,
+Surry,Mount Airy (CDC Contract - new),10000,,2022-10-25,1387295.970394,1,719451412.78714
+Surry,Mount Airy (CDC Contract - new),10000,,2022-10-26,,1,
 "Swain,jackson",Cherokee (CDC Contract - new),12000,,2022-05-06,233223.498680946,1,107412714.882
 "Swain,jackson",Cherokee (CDC Contract - new),12000,,2022-05-07,,1,
 "Swain,jackson",Cherokee (CDC Contract - new),12000,,2022-05-08,,1,
@@ -14544,6 +14775,13 @@ Surry,Mount Airy (CDC Contract - new),10000,,2022-10-19,,1,
 "Swain,jackson",Cherokee (CDC Contract - new),12000,,2022-10-17,,1,
 "Swain,jackson",Cherokee (CDC Contract - new),12000,,2022-10-18,0,1,14772459.8998046
 "Swain,jackson",Cherokee (CDC Contract - new),12000,,2022-10-19,,1,
+"Swain,jackson",Cherokee (CDC Contract - new),12000,,2022-10-20,169157.054513112,1,70435982.5569327
+"Swain,jackson",Cherokee (CDC Contract - new),12000,,2022-10-21,,1,
+"Swain,jackson",Cherokee (CDC Contract - new),12000,,2022-10-22,,1,
+"Swain,jackson",Cherokee (CDC Contract - new),12000,,2022-10-23,,1,
+"Swain,jackson",Cherokee (CDC Contract - new),12000,,2022-10-24,,1,
+"Swain,jackson",Cherokee (CDC Contract - new),12000,,2022-10-25,,1,
+"Swain,jackson",Cherokee (CDC Contract - new),12000,,2022-10-26,2098847.76295641,1,1238092455.162
 Vance,City of Henderson (CDC Contract - new),15000,,2022-05-02,524125.600817593,1,299058709.103082
 Vance,City of Henderson (CDC Contract - new),15000,,2022-05-03,,1,
 Vance,City of Henderson (CDC Contract - new),15000,,2022-05-04,455160.629975226,1,256147470.574623
@@ -14712,9 +14950,16 @@ Vance,City of Henderson (CDC Contract - new),15000,,2022-10-13,,1,
 Vance,City of Henderson (CDC Contract - new),15000,,2022-10-14,,1,
 Vance,City of Henderson (CDC Contract - new),15000,,2022-10-15,,1,
 Vance,City of Henderson (CDC Contract - new),15000,,2022-10-16,,1,
-Vance,City of Henderson (CDC Contract - new),15000,,2022-10-17,,1,
+Vance,City of Henderson (CDC Contract - new),15000,,2022-10-17,425907.306355339,1,162082807.490405
 Vance,City of Henderson (CDC Contract - new),15000,,2022-10-18,,1,
 Vance,City of Henderson (CDC Contract - new),15000,,2022-10-19,514709.908962208,1,209905783.283136
+Vance,City of Henderson (CDC Contract - new),15000,,2022-10-20,,1,
+Vance,City of Henderson (CDC Contract - new),15000,,2022-10-21,,1,
+Vance,City of Henderson (CDC Contract - new),15000,,2022-10-22,,1,
+Vance,City of Henderson (CDC Contract - new),15000,,2022-10-23,,1,
+Vance,City of Henderson (CDC Contract - new),15000,,2022-10-24,,1,
+Vance,City of Henderson (CDC Contract - new),15000,,2022-10-25,,1,
+Vance,City of Henderson (CDC Contract - new),15000,,2022-10-26,,1,
 Watauga,Town of Boone (CDC Contract - new),26000,,2022-06-07,101068.718412825,1,27958173.1035317
 Watauga,Town of Boone (CDC Contract - new),26000,,2022-06-08,,1,
 Watauga,Town of Boone (CDC Contract - new),26000,,2022-06-09,1523261.85046675,1,354840332.846576
@@ -14850,3 +15095,10 @@ Watauga,Town of Boone (CDC Contract - new),26000,,2022-10-16,,1,
 Watauga,Town of Boone (CDC Contract - new),26000,,2022-10-17,,1,
 Watauga,Town of Boone (CDC Contract - new),26000,,2022-10-18,817941.652091267,1,190537620.297002
 Watauga,Town of Boone (CDC Contract - new),26000,,2022-10-19,,1,
+Watauga,Town of Boone (CDC Contract - new),26000,,2022-10-20,181249.5833687,1,47763266.6507623
+Watauga,Town of Boone (CDC Contract - new),26000,,2022-10-21,,1,
+Watauga,Town of Boone (CDC Contract - new),26000,,2022-10-22,,1,
+Watauga,Town of Boone (CDC Contract - new),26000,,2022-10-23,,1,
+Watauga,Town of Boone (CDC Contract - new),26000,,2022-10-24,,1,
+Watauga,Town of Boone (CDC Contract - new),26000,,2022-10-25,576807.964541804,1,142763964.510004
+Watauga,Town of Boone (CDC Contract - new),26000,,2022-10-26,,1,
