@@ -115,7 +115,10 @@ dat_new <- dat_new %>%
 
 dat_complete2 <- dat_complete %>% ungroup() %>%
   filter(date < min(dat_new$date)) %>%
-  bind_rows(dat_new) %>%
+  # Trying to bind an IDate column with a Date column is throwing an error
+  # as of some package updates on Jan 19, 2023
+  # Thus, we need to convert via as_date before binding
+  bind_rows(dat_new %>% mutate(date = lubridate::as_date(date))) %>%
   group_by(state, county) %>% arrange(date) %>%
   mutate(cases_confirmed_cum = cumsum(cases_daily),
          deaths_confirmed_cum = cumsum(deaths_daily))
