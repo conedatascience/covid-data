@@ -36,8 +36,6 @@ setnames(dat_raw, "People Vaccinated with Two Doses or One Dose JJ", 'People Ful
 
 setnames(dat_raw, "Percent of Population Vaccinated with Two Doses or One Dose JJ", 'Percent of Population Fully Vaccinated')
 
-setnames(dat_raw, )
-
 # long format
 dat_raw_long <- melt(dat_raw, id.vars = c('update_date','Week of',
                                           'Aggregation Level',
