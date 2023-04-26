@@ -50,21 +50,22 @@ current_time <- format(Sys.time(), "%Y%m%d%H%M")
 
 # outbreaks ---------------------------------------------------------------
 
-url <- "https://public.tableau.com/views/NCDHHS_COVID-19_Dashboard_OutbreaksandClusters/NCDHHS_COVID-19_Dashboard_OutbreaksandClusters.pdf?:language=en&:embed=y&:embed_code_version=3&:loadOrderID=0&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no"
-
-a <- rvest::html_session(url)
-writeBin(a$response$content,here::here("data", "daily-outbreaks",
-                                       paste0(current_time,"_ncdhss_outbreaks.pdf")))
-## Weekly Outbreaks
-url <- "https://files.nc.gov/ncdhhs/documents/files/covid-19/Weekly-COVID19-Ongoing-Outbreaks.pdf"
-a <- rvest::html_session(url)
-writeBin(a$response$content,here::here("data", "daily-outbreaks", "report",
-                                       paste0(current_time,"_ncdhss_outbreak_report.pdf")))
-## Weekly Childcare
-url <- "https://files.nc.gov/covid/documents/dashboard/Weekly-Ongoing-Clusters-in-Child-Care-and-School-Settings.pdf"
-a <- rvest::html_session(url)
-writeBin(a$response$content,here::here("data", "daily-outbreaks", "schools",
-                                       paste0(current_time,"_ncdhss_school_report.pdf")))
+## all outbreak pdfs are gone as of 2023/04/05
+# url <- "https://public.tableau.com/views/NCDHHS_COVID-19_Dashboard_OutbreaksandClusters/NCDHHS_COVID-19_Dashboard_OutbreaksandClusters.pdf?:language=en&:embed=y&:embed_code_version=3&:loadOrderID=0&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no"
+#
+# a <- rvest::html_session(url)
+# writeBin(a$response$content,here::here("data", "daily-outbreaks",
+#                                        paste0(current_time,"_ncdhss_outbreaks.pdf")))
+# ## Weekly Outbreaks
+# url <- "https://files.nc.gov/ncdhhs/documents/files/covid-19/Weekly-COVID19-Ongoing-Outbreaks.pdf"
+# a <- rvest::html_session(url)
+# writeBin(a$response$content,here::here("data", "daily-outbreaks", "report",
+#                                        paste0(current_time,"_ncdhss_outbreak_report.pdf")))
+# ## Weekly Childcare
+# url <- "https://files.nc.gov/covid/documents/dashboard/Weekly-Ongoing-Clusters-in-Child-Care-and-School-Settings.pdf"
+# a <- rvest::html_session(url)
+# writeBin(a$response$content,here::here("data", "daily-outbreaks", "schools",
+#                                        paste0(current_time,"_ncdhss_school_report.pdf")))
 # detailed patient data ---------------------------------------------------
 
 
